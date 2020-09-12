@@ -26,7 +26,7 @@ Expanding our dataset by scraping from the web.
 
 Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS](http://ipums.org) results to determine the nationality and gender of restuarant owners.
 
-**Related folders**: [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums), [api_ancestry](https://github.com/CinnyLin/NYCRestaurantData/tree/master/api_ancestry)
+**Related folders**: [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums), [api_ancestry](https://github.com/CinnyLin/NYCRestaurantData/tree/master/api_ancestry), [nationalityAPI_1913](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nationalityAPI_1913)
 
 ## Typical Resturant Owners -- Yinqui, Tracey
 
