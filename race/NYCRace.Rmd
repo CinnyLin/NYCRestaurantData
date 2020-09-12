@@ -82,8 +82,8 @@ harris %>%
   scale_fill_viridis_c(direction = -1) +
   scale_color_viridis_c(direction = -1) +
   labs(title = "Racial Geography of Manhattan, NY",
-       #caption = "Source: American Community Survey 2014-2018") +
-       caption = "Source: American Community Survey 2009-2013") +
+       caption = "Source: American Community Survey 2014-2018") +
+       #caption = "Source: American Community Survey 2009-2013") +
   theme_void()
 
 

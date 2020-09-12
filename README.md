@@ -36,7 +36,7 @@ Reading from various sources to support insights drawn by data.
 
 Using GIS and d3 to map resturant data based on nationality and gender, and visualize the final results with d3.
 
-**Related folders**: [mapping](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping)
+**Related folders**: [mapping](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping), [race](https://github.com/CinnyLin/NYCRestaurantData/tree/master/race)
 
 ## Notes
 
