@@ -2,6 +2,14 @@
 
 Summer 2020 Humantites Research Project: Restaurant Owner Data Augmentation and Animation group
 
+## Members:
+
+- Sarah Tahir
+- Yi-Chen (Cinny) Lin
+- Yinqi Wang
+- Yujie (Tracey) Lan
+- Huanci (Mary) Wang
+
 ## [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums)
 
 This folder documents the attempt to check the validity of "nationality" data from [API](https://v2.namsor.com) results with [Ancestry](https://www.ancestry.com) data
