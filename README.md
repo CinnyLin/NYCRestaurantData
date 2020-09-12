@@ -10,6 +10,28 @@ Summer 2020 Humantites Research Project: Restaurant Owner Data Augmentation and 
 - Yujie (Tracey) Lan
 - Huanci (Mary) Wang
 
+## Objectives
+
+The group hopes to use resturant data from the late 19th century to early 20th century in Manhattan to draw insights about immigrant patterns during that period.
+
+To achive this goal, we divided our work into smaller subgroups:
+
+## Data Augmentation -- Sarah
+
+Expanding our dataset by scraping from the web.
+
+## Cleaning Nationality and Gender data -- Cinny, Mary, Yinqui
+
+Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS](http://ipums.org) results to determine the nationality and gender of restuarant owners.
+
+## Typical Resturant Owners -- Yinqui, Tracey
+
+Reading from various sources to support insights drawn by data.
+
+## Mapping / Visualizing Data Results -- Cinny, Sarah
+
+Using GIS and d3 to map resturant data based on nationality and gender, and visualize the final results with d3.
+
 ## [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums)
 
 This folder documents the attempt to check the validity of "nationality" data from [API](https://v2.namsor.com) results with [Ancestry](https://www.ancestry.com) data
