@@ -1,2 +1,3 @@
 # NYCRestaurantData
-VIP Research Project on NYC Manhattan's Restaurant Data
+
+Summer 2020 Humantites Research Project: Restaurant Owner Data Augmentation and Animation group
