@@ -23,4 +23,4 @@ This [1913 notebook](https://github.com/CinnyLin/NYCRestaurantData/blob/master/a
 
 ### [cleaned](https://github.com/CinnyLin/NYCRestaurantData/tree/master/address_cleaning/cleaned).
 
-This folder contains two cleaned datasets: [1898_address_CLEANED.csv](https://github.com/CinnyLin/NYCRestaurantData/blob/master/adress_cleaning/cleaned/1898_address_CLEANED.csv) and [1913_address_CLEANED.csv](https://github.com/CinnyLin/NYCRestaurantData/blob/master/adress_cleaning/cleaned/1913_address_CLEANED.csv).
+This folder contains two cleaned datasets: [1898_address_CLEANED.csv](https://github.com/CinnyLin/NYCRestaurantData/blob/master/address_cleaning/cleaned/1898_address_CLEANED.csv) and [1913_address_CLEANED.csv](https://github.com/CinnyLin/NYCRestaurantData/blob/master/address_cleaning/cleaned/1913_address_CLEANED.csv).
