@@ -2,13 +2,15 @@
 
 Summer 2020 Humantites Research Project: Restaurant Owner Data Augmentation and Animation group
 
-## Members:
+## Members
 
-- Sarah Tahir
+You can reach out to each member through email.
+
+- [Sarah Tahir](mailto:sat454@nyu.edu)
 - [Yi-Chen (Cinny) Lin](mailto:ycl461@nyu.edu)
-- Yinqi Wang
-- Yujie (Tracey) Lan
-- Huanci (Mary) Wang
+- [Yinqi Wang](mailto:yw3580@nyu.edu)
+- [Yujie (Tracey) Lan](mailto:yl5535@nyu.edu)
+- [Huanci (Mary) Wang](mailto:hw1685@nyu.edu)
 
 ## Objectives
 
