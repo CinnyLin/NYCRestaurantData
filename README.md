@@ -18,21 +18,25 @@ The group hopes to use resturant data from the late 19th century to early 20th c
 
 To achive this goal, we divided our work into smaller subgroups:
 
-## Data Augmentation -- Sarah
+### Data Augmentation -- Sarah
 
 Expanding our dataset by scraping from the web.
 
-## Cleaning Nationality and Gender data -- Cinny, Mary, Yinqui
+### Cleaning Nationality and Gender data -- Cinny, Mary, Yinqui
 
 Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS](http://ipums.org) results to determine the nationality and gender of restuarant owners.
 
-## Typical Resturant Owners -- Yinqui, Tracey
+### Typical Resturant Owners -- Yinqui, Tracey
 
 Reading from various sources to support insights drawn by data.
 
-## Mapping / Visualizing Data Results -- Cinny, Sarah
+### Mapping / Visualizing Data Results -- Cinny, Sarah
 
 Using GIS and d3 to map resturant data based on nationality and gender, and visualize the final results with d3.
+
+### Notes
+
+A more detailed README.md can be found in each folders.
 
 ## [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums)
 
