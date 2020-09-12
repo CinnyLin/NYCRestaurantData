@@ -10,9 +10,21 @@ It is important to keep in mind that the reuslts had to be mapped separately bec
 
 It is also important to keep in mind that these results are not final since the nationality data was not cleaned when this was mapped and this was just a draft to understand how we can possibly visualize our dataset in an informative and insightful way.
 
-[datasets](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/datasets) is the data source referenced to extract nationality [clusters](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/clusters) that helped created the [maps](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/maps).
+### [datasets](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/datasets)
 
-The source code to extract nationality clusters can be found [here](https://github.com/CinnyLin/NYCRestaurantData/blob/master/mapping/DataExtracts.ipynb).
+This folder contains the data source referenced to extract nationality clusters.
+
+### [notebook](https://github.com/CinnyLin/NYCRestaurantData/blob/master/mapping/DataExtracts.ipynb).
+
+This is the source code to extract nationality clusters,
+
+### [clusters](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/clusters)
+
+This folder contains the extracted nationality clusters results.
+
+### [maps](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping/maps).
+
+This folder contains screenshots of mapping results.
 
 This is an example of the result of the map:
 ![Italian](https://github.com/CinnyLin/NYCRestaurantData/blob/master/mapping/maps/Italian.jpg)
