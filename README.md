@@ -22,6 +22,8 @@ To achive this goal, we divided our work into smaller subgroups:
 
 Expanding our dataset by scraping from the web.
 
+**Related folders**: [1880 Scraping Files](https://github.com/CinnyLin/NYCRestaurantData/tree/master/scraping_files_1880)
+
 ## Cleaning Nationality and Gender data -- Cinny, Mary, Yinqui
 
 Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS](http://ipums.org) results to determine the nationality and gender of restuarant owners.
@@ -36,7 +38,7 @@ Reading from various sources to support insights drawn by data.
 
 Using GIS and d3 to map resturant data based on nationality and gender, and visualize the final results with d3.
 
-**Related folders**: [mapping](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping), [race](https://github.com/CinnyLin/NYCRestaurantData/tree/master/race), [address_cleaning](https://github.com/CinnyLin/NYCRestaurantData/tree/master/address_cleaning), [geocode](https://github.com/CinnyLin/NYCRestaurantData/tree/master/geocode)
+**Related folders**: [mapping](https://github.com/CinnyLin/NYCRestaurantData/tree/master/mapping), [race](https://github.com/CinnyLin/NYCRestaurantData/tree/master/race), [address_cleaning](https://github.com/CinnyLin/NYCRestaurantData/tree/master/address_cleaning), [geocode](https://github.com/CinnyLin/NYCRestaurantData/tree/master/geocode), [NYC geojson](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nyc-geojson), [NYC D3.js Example](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nyc_d3_example)
 
 ## Notes
 
