@@ -30,7 +30,7 @@ Because the API only allowed 500 nationality results each time, we had to create
 
 This folder are text files that saved the API results once its ran so that we don't have to rerun the API everytime we need a certain result.
 
-### [1913 Final](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nationalityAPI_1913/1913 Final.csv)
+### [1913 Final](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nationalityAPI_1913/api_results)
 
 This csv is the final result for 1913 data. Starting from row 3345, almost all names are not complete names such as “Bridge” or “Carlos”, theatres, restaurant names that does not contain people’s names and even street names such as “Broadway”. Starting from row 3291, there is no data in nationality final column which means that no more ancestry data were filled. Therefore, only rows before 3291 are useable and below are the results of 3291 entries. 
 - Countries match (if any 2 results out of 3 sources match): 1300 (39.5%)
