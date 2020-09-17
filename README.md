@@ -24,7 +24,7 @@ Expanding our dataset by scraping from the web.
 
 **Related folders**: [1880 Scraping Files](https://github.com/CinnyLin/NYCRestaurantData/tree/master/scraping_files_1880)
 
-## Cleaning Nationality and Gender data -- Cinny, Mary, Yinqui
+## Cleaning Nationality and Gender data -- Mary, Cinny, Yinqui, Tracey
 
 Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS](http://ipums.org) results to determine the nationality and gender of restuarant owners.
 
