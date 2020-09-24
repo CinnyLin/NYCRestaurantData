@@ -14,9 +14,9 @@ You can reach out to each member through email.
 
 ## Objectives
 
-The group hopes to use resturant data from the late 19th century to early 20th century in Manhattan to draw insights about immigrant patterns during that period.
+The group hopes to use restaurant data from the late 19th century to early 20th century in Manhattan to draw insights about immigrant patterns during that period.
 
-To achive this goal, we divided our work into smaller subgroups:
+To achieve this goal, we divided our work into smaller subgroups:
 
 ## Data Augmentation -- Sarah
 
@@ -30,7 +30,7 @@ Using [API](https://v2.namsor.com), [Ancestry](https://www.ancestry.com), [IPUMS
 
 **Related folders**: [ipums](https://github.com/CinnyLin/NYCRestaurantData/tree/master/ipums), [api_ancestry](https://github.com/CinnyLin/NYCRestaurantData/tree/master/api_ancestry), [nationalityAPI_1913](https://github.com/CinnyLin/NYCRestaurantData/tree/master/nationalityAPI_1913)
 
-## Typical Resturant Owners -- Yinqui, Tracey
+## Typical Restaurant Owners -- Yinqui, Tracey
 
 Reading from various sources to support insights drawn by data.
 
