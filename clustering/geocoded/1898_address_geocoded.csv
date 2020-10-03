@@ -1,0 +1,1955 @@
+,name,gender,region,final,addresses,Lat,Lon
+0,Aueringer Erhard ,m,,American,E 4th Street 151,40.72514475808655,-73.98583629506199
+1,Brandstaedter Herman ,m,,American,Houston Street E 175,40.723025370903386,-73.98815768639221
+2,Deixler Max ,m,,American,Allen Street 96,40.719450690564905,-73.99062620591393
+3,Gerstenberger Richard G ,m,,American,7th Avenue 406,40.75035889636052,-73.99150572266308
+4,Greitner Herman ,m,,American,3rd Avenue 1321,40.77201833421063,-73.95915383552382
+5,Hekeler Elizabeth ,f,,American,Amsterdam Avenue 1813,,
+6,Hoefler George J ,m,,American,6th Avenue 344,40.742285983642624,-73.99347245084641
+7,Hoffer Cornelia ,f,,American,11th Avenue 508,40.75900980669325,-73.99964892314006
+8,Takakjian Henry ,m,New York/Irish,American,E 41st Street 242,40.750307038755295,-73.97502221639124
+9,Hollender F & Co ,undecided,,Armenian,W 125th Street 149,40.80843779699099,-73.94685653763179
+10,Huber Anna ,f,,Armenian,5th Avenue 206,40.743755790421254,-73.98845545683089
+11,Joy Hit Yen ,cannot use api,,Asian,Doyers Street 13,40.71492020614695,-73.9978784794738
+12,Horn Kong Low & Co ,cannot use api,,Asian,Mott Street 11,40.7141819348092,-73.99864782261537
+13,Wing Sing ,undecided,,Asian,Doyers Street 3,40.7152340523016,-73.99802617204311
+14,Mee Hong Low & Co ,cannot use api,,Asian,Mott Street 14,40.71428656968928,-73.99855603956112
+15,Mon Lay Won ,cannot use api,,Asian,Pell Street 24,40.71551640528322,-73.99863649787153
+16,Wavra Hung Low Chung Kee ,undecided,,Asian,Mott Street 20,40.714568565200025,-73.99863417706125
+17,Oberst Leopold ,m,,Austrian,Thomas Street 42,40.71723773443127,-74.00720172620699
+18,Schachinger Joseph ,m,,Austrian,Stanton Street 28,40.722817886669255,-73.9912502910853
+19,Lorber Adolph ,m,,Austrian,Grand Street 294,40.71798585547223,-73.99162186571857
+20,Mayer Morris ,m,Russian/Austrian/Hungarian/German,Austrian,Ludlow Street 56,40.71637063624394,-73.99046565695392
+21,Steiner Victor ,m,,Austrian,Delancey Street 105,40.71912618033004,-73.98860326315881
+22,Steiner Victor ,m,,Belgian,Delancey Street 105,40.71912618033004,-73.98860326315881
+23,Terwilliger G C ,undecided,Austrian/Russian,Austrian,Broadway 346,40.716747740252295,-74.00422760679733
+24,Plans Christian ,m,Russian/Austrian/Hungarian/German,Austrian,Park Row 123,,
+25,Hochall Thomas ,m,Russian/Austrian/Hungarian,Austrian,E 73rd Street 321,40.76933242036843,-73.95729724978301
+26,Spits Herman ,m,Austrian,Austrian,Chrystie Street 184,40.722655955146,-73.99171609486058
+27,Sommer Isaac ,m,Russian/Austrian/Hungarian/German,Austrian,Prince Street 131,40.72629246320321,-74.00067123315631
+28,Liebenow John ,m,Russian/Austrian/Hungarian/Romanian,Austrian,E 13th Street 139,40.73405410787814,-73.98974223401686
+29,Lustgarten Oscar ,m,Austrian/German,Austrian,Delancey Street 44,40.7201232744706,-73.99173726108491
+30,Schrader Elizabeth ,f,,Austrian,Chrystie Street 110,40.719249237587846,-73.99346746178874
+31,Schreiber Flora ,f,,Austrian,Grand Street 286,40.718396381431155,-73.99291906127742
+32,Schreier Martin ,m,,Austrian,Division Street 16,40.71458437397487,-73.99684321883322
+33,Wannemacher E ,undecided,,Austrian,W 22nd Street 137,40.74289939404588,-73.99432386456584
+34,Weinberger Edward ,m,,Austrian,Houston Street E 151,40.72336524854767,-73.98894704966328
+35,Weiner Wilheimina ,f,,Austrian,Forsyth Street 199,40.72288435941977,-73.99082806641154
+36,Jacobs Matilda ,f,Russian,FALSE,Forsyth Street 199,40.72288435941977,-73.99082806641154
+37,Wimpfheimer Leopold ,m,,Austrian,Bleecker Street 103,40.72762051043334,-73.99677336465776
+38,Zimmer Robert ,m,,Austrian,Vandewater Street 29,40.71122401349953,-74.00211122414068
+39,Steinherz Alexander ,m,,Austrian,8th Avenue 137,40.74148749037221,-74.0017360346755
+40,Rader David ,m,,Belgian,Maiden Lane 38,40.70956374615051,-74.0089241628532
+41,Rader David ,m,,German-Austrian,Maiden Lane 38,40.70956374615051,-74.0089241628532
+42,Amster Wolf ,m,,Belgian,Essex Street 9,40.71565526244546,-73.99008651332143
+43,Keck (refused) ,cannot use api,,British,3rd Avenue 583,40.74893737949986,-73.9760531379293
+44,Aird Henry F ,m,,British,8th Avenue 606,40.75579565989996,-73.99089865553893
+45,Anderson Henry C ,m,,British,Dey Street 87,40.71215834013379,-74.01302129782346
+46,Anderson James ,m,,British,10th Avenue 227,40.748259669024144,-74.00406518745204
+47,Anderson James F ,m,,British,W 69th Street 274,40.77721422374464,-73.9845657805591
+48,Anderson William C Jr ,m,,British,3rd Avenue 511,40.746463905057915,-73.97786116125926
+49,Barder Paul ,m,,British,E 10th Street 437,40.725597567870366,-73.97577438376315
+50,Burns Samuel F ,m,,British,6th Avenue 783,40.756645606685616,-73.98318688761046
+51,Burns Samuel F ,m,,British,W 45th Street 102,40.757756412383294,-73.98508958554375
+52,Congdon Stewart ,m,,British,7th Avenue 883,40.76544872694239,-73.98016111418083
+53,Cullis Emma A ,f,,British,Beaver Street 26,40.70550353228423,-74.01034886423608
+54,Evans Armida M ,f,,British,Broadway 1484,40.756288515937875,-73.98683700463788
+55,Forbes Robert ,m,,British,3rd Avenue 480,40.74498099036065,-73.97921872696611
+56,Hayes Angeline ,f,,British,W 30th Street 153,40.7477055563158,-73.98993108669718
+57,Dickerson Samuel ,m,,British,W 30th Street 153,40.7477055563158,-73.98993108669718
+58,Henderson C ,undecided,,British,Broadway W 247,,
+59,Holland David ,m,,British,4th Avenue 141,40.73479338401614,-73.98982111124093
+60,Macklin Lulu C ,f,,British,Jerome Avenue 2906,,
+61,Reid Charles ,m,,British,6th Avenue 216,40.73822074231086,-73.99647000068747
+62,Reid Charles ,m,,British,W 22nd Street 4,40.74239566173575,-73.99332311756486
+63,Simpson Harriet ,f,,British,W 22nd Street 56,40.741340139340444,-73.99080228129263
+64,Abrams William ,m,,British,7th Avenue 130,40.7409038882675,-73.9984983552627
+65,Abbott Charles W ,m,,British,W 39th Street 548,40.75908621137111,-74.00056397741203
+66,Andrews Charles ,m,,British,11th Avenue 31,40.743691324292925,-74.00873345893251
+67,Bailey Robert A ,m,,British,E 14th Street 538,40.730716284987714,-73.98035368584456
+68,Bailey W M & Co ,undecided,,British,Chambers Street 124,40.71642682154119,-74.01009584725847
+69,Bailey W M & Co ,undecided,,British,Maiden Lane 51,40.709722447374475,-74.00894215960544
+70,Bailey W M & Co ,undecided,,British,Broadway 1233,40.74753964294545,-73.98866047713504
+71,Baker Albert ,m,,British,Hudson Street 360,40.72797756308641,-74.00711082934855
+72,Baker Henry ,m,,British,1st Avenue 336,40.734971721333515,-73.9801954826592
+73,Becker Henry ,m,,Dutch,1st Avenue 336,40.734971721333515,-73.9801954826592
+74,Ball Leroy D ,m,,British,Columbus Avenue 488,,
+75,Bird Thomas ,m,,British,W 126th Street 209,40.81081338863801,-73.95043427436836
+76,Bishop Thomas ,m,,British,C Avenue 13,40.72219322185398,-73.98083122005683
+77,Holsten Henry ,m,German/Russian/Sweden/Hungarian,FALSE,C Avenue 13,40.72219322185398,-73.98083122005683
+78,Bloom Sarah ,f,,British,Chrystie Street 185,40.72264189098112,-73.99184882820464
+79,Bowron George ,m,,British,Columbus Avenue 706,,
+80,Bowron George ,m,,British,8th Avenue 2337,40.825551675959076,-73.94012360299587
+81,Bristol Henry D ,m,,British,6th Avenue 362,40.74292852267339,-73.99301539496365
+82,Brown Alexander T ,m,,British,Pearl Street 31,40.70318149053357,-74.01295183518295
+83,Brown Alexander T ,m,,British,Bridge Street 20,40.70356779878511,-74.01430685707028
+84,Brown Charles ,m,,British,W 54th Street 449,40.76612524562845,-73.98748287415964
+85,Brown George W ,m,,British,Minetta Lane 22,40.73095398917696,-74.00133476323869
+86,Browne George W ,m,,British,Water Street 123,40.70616479894352,-74.00655256821227
+87,Eustice Thomas ,m,,British,Water Street 123,40.70616479894352,-74.00655256821227
+88,Bull James F ,m,,British,1st Avenue 1744,40.779857556486725,-73.9471568244756
+89,Cass F G Co ,undecided,,British,Broadway 1164,40.74548793204703,-73.98879578644329
+90,Checketts George ,m,,British,Ann Street 22,40.71170977526096,-74.0084752695166
+91,Childs Ellsworth ,m,,British,Broadway 285,40.71483940268566,-74.0061383417215
+93,Childs Ellsworth ,m,,British,Broadway 625,40.726576618023074,-73.99629455638177
+94,Christie George ,m,,British,10th Avenue 509,40.75753927105698,-73.9972201815444
+95,Christin George ,m,,German,10th Avenue 509,40.75753927105698,-73.9972201815444
+96,Clark Nathan ,m,,British,W 23rd Street 22,40.74273455921578,-73.99215741553283
+97,Clark Nathan ,m,,British,W 22nd Street 11,40.742332457660886,-73.99292667350696
+98,Clifford David ,m,,British,Catherine Street 90,40.71092914341531,-73.99654736970325
+99,Close Stewart B ,m,,British,Duane Street 100,40.714460817791156,-74.0032953608812
+100,Cox Charles ,m,,British,Bowery Street 158,40.720656451507956,-73.99423248071189
+101,Dale George F ,m,,British,8th Avenue 95,40.74034698852725,-74.00258174558886
+102,Davis Robert ,m,,British,6th Avenue 671,40.75271090228598,-73.98606592384338
+103,Davis William ,m,,British,Maiden Lane 44,40.70961639131201,-74.00897990482915
+104,Davis William L ,m,,British,Liberty Street 135,40.71063165759127,-74.01257998161634
+105,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,British,Park Row 25,40.71226685450178,-74.00632592721884
+106,Devall Benjamin ,m,,British,W 14th Street 252,40.73915138087651,-74.00008829594569
+107,Devall Molly ,f,,British,9th Avenue 220,40.74687119783466,-74.00104630333904
+108,Dick Jacob ,m,,British,Suffolk Street 69,40.71843710054702,-73.98681745079487
+109,Earl A Coffey ,m,,British,New Street 46,40.7056579499202,-74.0124670817941
+110,Eastman & Rigby ,undecided,,British,6th Avenue 738,40.75555566031544,-73.98375928719781
+111,Edwards E ,undecided,,British,8th Avenue 53,40.739337637571765,-74.00348296296049
+112,Farmer Orvel B ,m,,British,Hudson Street 541,40.735405171921755,-74.00604251876702
+113,Fields Emma ,f,,British,Bleecker Street 356,40.73492040436349,-74.00461234332515
+114,Foster George ,m,,British,Park Row 118,,
+115,Foster George ,m,,British,Bowery Street 26,40.715234972201735,-73.99714590214627
+116,Frost A L ,undecided,,British,E 18th Street 10,40.738408714439224,-73.99091309484929
+117,Gibbs Catharine ,f,,British,4th Avenue 338,40.74145824009114,-73.98603286317383
+118,Grant James E ,m,,British,Church Street 26,40.712586053825945,-74.01000778289693
+119,Haley Peter T ,m,,British,8th Avenue 2920,40.8295292664168,-73.93694614007151
+120,Hall Catharine L ,f,,British,W 20th Street 29,40.7407581878844,-73.99288830693561
+121,Hall L N ,undecided,,British,W 21st Street 117,40.74250458091894,-73.99536674844455
+122,Hallett George H ,m,,British,Houston Street W 90,40.727812459194084,-74.0002389149176
+123,Handcock George ,m,,British,W 13th Street 26,40.73682140928826,-73.99630164671743
+124,Harlow & Co ,undecided,,British,Broad Street 76,40.704680071555636,-74.01153024040066
+125,Harris Harry ,m,,British,9th Avenue 502,40.75541765838636,-73.99485529199532
+126,Hawkins & Co ,undecided,,British,E 23rd Street 108,40.74020492400199,-73.98611396820412
+127,Hazard Otis L ,m,,British,Fulton Street 112,40.710328768838615,-74.00695703653149
+128,Hazard Otis L ,m,,British,Dutch Street 17,40.70965432451607,-74.0076590850388
+129,Hazeltine George ,m,,British,Broad Street 38,40.70750286028357,-74.0107145617602
+130,Herring Adam ,m,,British,Park Row 103,,
+131,McDonald Bernard ,m,,German,Park Row 103,,
+132,Herring Adam ,m,,British,6th Avenue 751,40.75520307643536,-73.98427439646174
+133,Herring Lewis ,m,,British,Park Row 83,,
+134,Herring Lewis ,m,,British,William Street N 29,40.71230875613566,-74.00403016271025
+135,Hildred Charles ,m,,British,Hudson Street 228,40.724850253766114,-74.00758985953584
+136,Hopper George W ,m,,British,8th Avenue 730,40.75953621455126,-73.98815530673134
+137,Hunt William E S ,m,,British,Hudson Street 48,40.71870228982607,-74.00868821793723
+138,Ingersoll Harris ,m,,British,Pelham Street 5,40.711536715150544,-73.99147426082965
+139,Jackson Charles ,m,,British,W 41st Street 236,40.75581093341905,-73.98843576525123
+140,Jarratt James H ,m,,British,W 30th Street 160,40.749864884399294,-73.99538932126558
+141,Jarvis Samuel ,m,,British,South Street 196,40.709830892392425,-73.99639112172099
+142,Johnson Edward ,m,,British,W 29th Street 214,40.74868148081801,-73.99454523714269
+143,Jones Abraham ,m,,British,E 125th Street 27,40.8062470417229,-73.94173159857789
+144,Jones E ,undecided,,British,Grand Street 3,40.72354850404879,-74.0053694539377
+145,Jones Jane & Co ,f,,British,W 26th Street 114,40.74568221555076,-73.9930772395946
+146,Jones Josephine ,f,,British,Depeyster Street 31,40.70570394762189,-74.00557533832294
+147,Kendall George ,m,,British,Rector Street 8,40.70850478769573,-74.01347894029372
+148,Kerr J M ,undecided,,British,Bleecker Street 344,40.73401117545743,-74.00425061118767
+149,Lake Charlotte ,f,,British,3rd Avenue 997,40.76207683847086,-73.96642230985371
+150,Lantelme Lucy M ,f,,British,Union Square E 40,40.7367856006155,-73.98922918001062
+151,Lewis James W ,m,,British,West Street 414,40.73476709118491,-74.00985693212547
+152,Lewis Samuel ,m,,British,2nd Avenue 1869,40.78452656413064,-73.94705630278432
+153,Libby Oliver ,m,,British,Fulton Street 143,40.71129862808701,-74.00882070844133
+154,Long David C ,m,,British,W 18th Street 56,40.73899683809626,-73.99232429981328
+155,Lowinger Sophie ,f,,British,5th Avenue 325,40.74768746155564,-73.98527681513832
+156,McIntosh Robert S ,m,,British,Hudson Street 443,40.73216603414115,-74.00657065527615
+157,McIntosh Robert S ,m,,British,Bedford Street 23,40.72901665078784,-74.0030053988204
+158,Mace Montgomery ,m,,British,Lexington Avenue 428,40.752570963031644,-73.97564371943473
+159,Marshall Anna ,f,,British,E 34th Street 417,,
+160,Marshall Lillie ,f,,British,W 27th Street 225,40.74741324088109,-73.99516069210958
+161,Matthews Julia A ,f,,British,W 37th Street 340,40.75444090440927,-73.99286863938768
+162,Mearshimer George ,m,,British,Centre Street 61,40.71535191755459,-74.0024431607053
+163,Medhurst Stephen ,m,,British,West Street 12,,
+164,Middleton Solomon S ,m,,British,William Street 84,40.708356734526745,-74.00788891386303
+165,Miller Charles ,m,,British,Albany Street 21,40.710296792106206,-74.01448695205828
+166,Miller James ,m,,British,W 14th Street 450,40.742584546995026,-74.00922314247852
+167,Moore Abijali L ,f,,British,Varick Street 80,40.72312860831965,-74.00611762172103
+168,Moore George S ,m,,British,2nd Avenue 1173,40.76220738265051,-73.96360688529204
+169,Moore Jesse E ,m,,British,W 14th Street 220,40.739497885929396,-74.00100886174677
+170,Morris D ,undecided,,British,Baxter Street 81,40.71692128923835,-73.99987989666081
+171,Mulford Lamonte ,m,,British,10th Avenue 590,40.759746201890074,-73.99533730861154
+172,Newby Benjamin T ,m,,British,3rd Avenue 240,40.736751747412356,-73.98522824961901
+173,Noakes George ,m,,British,Park Place 69,40.71513114807748,-74.01187965062901
+174,Page Philip ,m,,British,1st Avenue 78,40.725737046607605,-73.98699897754337
+175,Parker Charles A ,m,,British,Lexington Avenue 1551,40.788205526053254,-73.94913711568996
+176,Parker Robert S ,m,,British,Hudson Street 494,40.733240828862904,-74.00626543923948
+177,Payne Wiltshire ,m,,British,Fulton Street 19,40.707547858364705,-74.00369564623749
+178,Peterson Albert ,m,,British,Pelham Street 16,40.711870391962755,-73.99164673946359
+179,Phillips Henry W ,m,,British,Nassau Street 140,40.71201929646533,-74.00587443607512
+180,Pick Caroline ,f,,British,1st Avenue 802,40.75040319565215,-73.96890084003465
+181,Powers Alburton F ,m,,British,Columbus Avenue 384,,
+182,Prince Henry ,m,,British,E 14th Street 17,40.735543869590174,-73.99101778021165
+183,Pyle Stephen D ,m,,British,Coenties Slip 19,40.70312029890339,-74.01059217196878
+184,Reeves Thomas B ,m,,British,Whitehall Street 26,40.70316396330428,-74.01320313614553
+185,Reynolds M W ,undecided,,British,6th Avenue 174,40.737078746424935,-73.99729085364731
+186,Reynolds M W ,undecided,,British,6th Avenue 486,40.74741559383881,-73.98978044599315
+187,Abelmont Eugenia ,f,,Spanish,6th Avenue 486,40.74741559383881,-73.98978044599315
+188,Reynolds Peter ,m,,British,1st Avenue 1086,40.760348639810175,-73.96165230022878
+189,Rich Rebecca ,f,,British,Broadway 679,40.72791572887037,-73.9951473007319
+190,Richards J J ,undecided,,British,Nassau Street 83,40.710468003235796,-74.00786668741218
+191,Nassau Buffet ,undecided,FALSE,FALSE,Nassau Street 83,40.710468003235796,-74.00786668741218
+192,Roake Lanning G ,m,,British,E 14th Street 48,40.735720130404204,-73.99167021986386
+193,Robbins W F ,undecided,,British,Carmine Street 53,40.730818600612906,-74.00249684347342
+194,Robons Nicholas ,m,,British,Madison Street 11,40.712381686770414,-74.00038975640076
+195,Russell Louis H ,m,,British,4th Avenue 242,40.738440946395855,-73.98820775943251
+196,Sargent Herbert ,m,,British,Cherry Street 108,40.710566051286904,-73.99717710267299
+197,Scott Lewis H ,m,,British,University Place 120,,
+198,Seward James H ,m,,British,3rd Avenue 594,40.74869798883521,-73.9765237038139
+199,Silver Henry ,m,,British,Division Street 71,40.71472316488354,-73.99394656534884
+200,Smith Charles ,m,,British,3rd Avenue 52,40.731746218182735,-73.9889037504124
+201,Smith Elizabeth ,f,,British,Bayard Street 33,40.715150755361385,-73.99599233574527
+202,Smith Frederick,m,,British,9th Avenue 112,40.74333316626482,-74.00373321096879
+203,Smith Frederick ,m,,British,Columbus Avenue 989,,
+204,Smith Henry G ,m,,British,Fulton Street 76,40.70938342736702,-74.00523763160223
+205,Smith Jacob ,m,,British,9th Avenue 273,40.74918698203689,-73.99958893351514
+206,Smith John T ,m,,British,Broadway 1389,40.75230435186179,-73.98752357775892
+207,Smith Lucy A ,f,,British,W 41st Street 319,40.75723929529253,-73.99158248715527
+208,Smith Margaret A ,f,,British,Tremont Avenue 766,,
+209,Smith Mary ,f,,British,E 64th Street 301,40.76344433726213,-73.96097354635448
+210,Smith Sarah ,f,,British,Greenwich Street 195,40.712033782118255,-74.01209814290506
+211,Smith Thomas ,m,,British,Park Row 33,40.71220777757826,-74.00658685031009
+212,Dolan P & Nephew ,m,,Irish,Park Row 33,40.71220777757826,-74.00658685031009
+213,Smith William,m,,British,E 83rd Street 354,40.775902996901884,-73.95330052858824
+214,Smith William H,m,,British,Rector Street 16,40.708714199185934,-74.01408253150036
+215,Smith William H ,m,,British,W 37th Street 204,40.753659293199235,-73.9909697665673
+216,Spence D ,undecided,,British,3rd Avenue 949,40.75978380119275,-73.96806396463391
+217,Stanley George ,m,,British,E 92nd Street 348,40.78155420412326,-73.948817808199
+218,Stocks William E ,m,,British,Whitehall Street 42,40.7020025438463,-74.0130671581959
+219,Street Albert E ,m,,British,3rd Avenue 189,40.735909680946286,-73.98556599387548
+220,Swallow Jane ,f,,British,1st Avenue 527,40.74180966985347,-73.97556244454147
+221,Taylor Edgar ,m,,British,W 29th Street 169,40.74726743397565,-73.99096542668524
+222,Taylor George W ,m,,British,Houston Street E 505,40.71970409527133,-73.97678828803404
+223,Thomas Rose ,f,,British,W 32nd Street 166,40.74878103983023,-73.9890885617801
+224,Thorpe John B ,m,,British,Broadway 1281,40.749051389363586,-73.98854136007284
+225,Tuck William H ,m,,British,1st Avenue 207,40.73081481277819,-73.98353881620741
+226,Tupper Warren F H ,m,,British,Broadway 732,40.7303741026146,-73.99290145877333
+227,Tyler Adrian J ,m,,British,Chambers Street 199,40.717261786334035,-74.01165807357849
+228,Tyler Rodney ,m,,British,6th Avenue 904,40.76120398480538,-73.97957668121947
+229,Washington George H ,m,,British,Spring Street 66,40.72307344630941,-73.99779637511168
+230,Webster Marie A ,f,,British,University Place 21,40.733249143467106,-73.99381900804934
+231,Wendling George ,m,,British,Av A 1665,,
+232,Wetmore James ,m,,British,3rd Avenue 3462,,
+233,White Francesco ,m,,British,Varick Place 18,,
+234,White G ,undecided,,British,W 31st Street 118,40.74863204702599,-73.99063688767203
+235,White George W ,m,,British,Canal Street 349,40.72111870920257,-74.0033119213371
+236,White Jerald N ,m,,British,Maiden Lane 116,40.706763633929846,-74.00626153570505
+237,White Marion ,f,,British,E 129th Street 146,40.80640435084028,-73.93433465372469
+238,White Park J ,m,,British,Broadway 1162,40.74557045836301,-73.98877894419333
+239,Whittaker Charles ,m,,British,W 23rd Street 240,40.744684068377985,-73.99688474984903
+240,Williams George ,m,,British,W 41st Street 340,40.75688474964212,-73.99097877112042
+241,Williams Nathaniel P ,m,,British,South Street 152,40.70812645708245,-74.0008842178868
+242,Wilson John ,m,,British,Cedar Street 120,40.710055651232324,-74.01272300539105
+243,Wilson John J ,m,,British,E 96th Street 238,40.78516188105043,-73.94932098549907
+244,Wilson Louis ,m,,British,Mac Dougal Street 97,40.73019925948368,-74.0007546783616
+245,Wilson Thomas P ,m,,British,Grand Street 600,40.71378256871986,-73.97748926262251
+246,Woodbridge Eunie C ,f,,British,Water Street 119,40.706224132277214,-74.00646434595545
+247,Wright Warren ,m,,British,8th Avenue 2388,40.826315097218455,-73.93933567816374
+248,Yates Robert ,m,,British,Fulton Street 20,40.70748414161292,-74.00378435371425
+249,Young George ,m,,British,E 12th Street 53,40.73445210995011,-73.99243968279248
+250,Young James W ,m,,British,6th Avenue 600,40.75095317402379,-73.98711107134808
+251,Young Morris ,m,,British,E 14th Street 20,40.73548973040263,-73.99113261976514
+252,Young Samuel W ,m,,British,Broadway 621,40.726712876086474,-73.99618307271577
+253,Peck Jules ,m,,British,Nassau Street 111,40.71071381101081,-74.00761654222947
+254,Peck Jules ,m,,English,Nassau Street 111,40.71071381101081,-74.00761654222947
+255,Peck Jules ,m,,British,Fulton Street 140,40.71033226614138,-74.00696399847263
+256,Peck Jules ,m,,English,Fulton Street 140,40.71033226614138,-74.00696399847263
+257,Rayner Albert ,m,,British,E 42nd Street 141,40.7511658144759,-73.97487072135497
+258,Rayner Albert ,m,,English,E 42nd Street 141,40.7511658144759,-73.97487072135497
+259,Rose Charles ,m,,British,Eldridge Street 239,,
+260,Soppett Ernest A W ,m,Ireland,British,Duane Street 28,,
+261,Soppett Ernest A W ,m,,Englsih,Duane Street 28,,
+262,Wilt Isaac ,m,Ireland,British,8th Avenue 484,40.75279614372073,-73.99312032351867
+263,Godchaud Abram ,m,,British,Water Street 120,40.70627703437619,-74.00656437629763
+264,Hitchcock??Û?s Oliver Son ,m,,British,Park Row 34,40.712286991649975,-74.00665191893991
+265,Robert Charles ,m,New York/Ireland/Switzerland/ Russian,British,Canal Street 215,40.71776967499919,-73.99875466542326
+266,Wolf Frederick ,m,Russian/ British/New York,British,1st Avenue 1330,40.76881375830085,-73.95546000318343
+267,Christian Herald ,m,,British,Bowery Street 55,40.71578925582961,-73.99665668517454
+268,Allabough Frank T ,m,,British,Vesey Street 53,40.71353461309989,-74.01226400752624
+269,Anderson John R ,m,,British,Pine Street 36,40.70651555215186,-74.00737169420469
+270,Archibald Joseph ,m,,British,Cherry Street 39,40.70942039110033,-74.00088948218293
+271,Bacon William ,m,,British,8th Avenue 288,40.74644159007647,-73.99779512880183
+272,Beresford William ,m,,British,Lexington Avenue 2141,40.80677716344847,-73.9355721655987
+273,Blackhall Matilda R ,f,,British,W 59th Street 407,40.76957144143459,-73.98581941160889
+274,Blake Francis ,m,,British,1st Avenue 1786,40.781085832731435,-73.94628686846622
+275,Bloom Joseph ,m,,British,Old Slip 23,40.704391680421494,-74.00881785533318
+276,Bolger Michael ,m,,British,Amsterdam Avenue 360,,
+277,Bowyer Henry M ,m,,British,Broadway 57,40.706688977084475,-74.01312667100825
+278,Bowyer Rose A ,f,,British,W 21st Street 57,40.7408007814067,-73.99117902730288
+279,Boyle Peter Jr ,m,,British,Boulevard Street 4440,,
+280,Bradley Henry ,m,,British,Grand Street 436,40.71621785174828,-73.98569717703496
+281,Bradley John ,m,,British,West Street 273,40.72474209079188,-74.01117406721254
+282,Bradley Joseph ,m,,British,W 53rd Street 143,40.762216272977724,-73.97991054796235
+283,Bradley Mary ,f,,British,Canal Street 394,40.721935884759425,-74.00461414043859
+284,Briggs Thomas D ,m,,British,E 19th Street 35,40.73843549526205,-73.98907260193378
+285,Britting Charles H ,m,,British,Greenwich Avenue 126,40.738862604067094,-74.00189206728581
+286,Brower William H ,m,,British,2nd Avenue 1092,40.759837141434865,-73.96508460054551
+287,Brown Eliza ,f,,British,Greenwich Avenue 25,40.73571178970126,-74.00038513992874
+288,Brown Eliza A ,f,,British,W 27th Street 111,40.746297710654325,-73.99251021285211
+289,Browning James W ,m,,British,Columbus Avenue 733,,
+290,Buckley Henry ,m,,British,Greenwich Street 284,40.71647888428335,-74.01094796678215
+291,Buckley Thomas M ,m,,British,Liberty Street 69,40.7094064839402,-74.0098578661257
+292,Burke Henry ,m,,British,6th Avenue 527,40.748512887772165,-73.98917257619902
+293,Slattery John F ,m,,German,6th Avenue 527,40.748512887772165,-73.98917257619902
+294,Burke Joseph L ,m,,British,Water Street 122,40.7062473677097,-74.00660848739145
+295,Burrell Thomas ,m,,British,Desbrosses Street 32,40.72402878977895,-74.00943395411915
+296,Cahill John ,m,,British,Av A 317,,
+297,Campbell Catharine ,f,,British,2nd Avenue 2454,40.80335601018279,-73.93307106225753
+298,Carroll James J ,m,,British,Gansevoort Street 86,40.73990352786028,-74.00663734362988
+299,Carroll Michael J ,m,,British,Broadway 1606,40.76032885948903,-73.98475346863802
+300,Cavil Andrew ,m,,British,Mulberry Street 7,40.714420249549335,-73.99959312290328
+301,Chandler William H G ,m,,British,E 23rd Street 338,40.738021230584394,-73.9808581740746
+302,Chapman Patrick ,m,,British,Greenwich Street 559,40.728447858609236,-74.00861085579353
+303,Clearwater Mary J ,f,,British,Canal Street 474,40.72332360032966,-74.00653277734962
+304,Colorbrace Nicholas ,m,,British,W 40th Street 201,40.75562182214562,-73.98962242417345
+305,Conaty James ,m,,British,Cedar Street 53,40.70787772988851,-74.00860147647337
+306,Conaty James ,m,,British,Liberty Street 26,40.708458466111885,-74.00859548382078
+307,Cooper John J ,m,,British,E 10th Street 389,40.7272337357583,-73.97974569313243
+308,Cornell Charles Y ,m,,British,3rd Avenue 2333,40.804795677168954,-73.9349728578561
+309,Cotton Frank ,m,,British,E 4th Street 48,40.72668890819466,-73.98955496625311
+310,Cowan Hannah ,m,,British,1st Avenue 522,40.741941187196694,-73.97519984096765
+311,Cowan Joseph J ,m,,British,Nassau Street 150,40.71168862979719,-74.00625843631637
+312,Crawford William J ,m,,British,Madison Avenue 1171,40.78025122215614,-73.9592488045899
+313,Creighton James ,m,,British,1st Avenue 1847,40.78300775774772,-73.94508049739575
+314,Crickellon Anthony ,m,,British,Park Row 135,,
+315,Cullum Francis J ,m,,British,E 125th Street 150,40.80399399490774,-73.9365568237329
+316,Currier Edwin A ,m,,British,Fulton Street 144,40.71118937190359,-74.00881529150621
+317,Devoe N ,undecided,,British,E 10th Street 54,40.73295261794138,-73.99304735760747
+318,Dew John ,m,,British,Stanton Street 151,40.72115807329371,-73.98632557449562
+319,Dobbins George H ,m,,British,Bowery Street 317,40.72547197148351,-73.9922571772877
+320,Cunneen Richard P ,m,,Irish,Bowery Street 317,40.72547197148351,-73.9922571772877
+321,Dobbins George H ,m,,British,3rd Avenue 466,40.74425888356848,-73.97977342181629
+322,Dobbins George H ,m,,British,3rd Avenue 685,40.752122243242994,-73.97366399742182
+323,Dobbins George H ,m,,British,3rd Avenue 1485,40.77703173971737,-73.9552892703362
+324,Dobbins George H ,m,,British,6th Avenue 528,40.748374112142876,-73.98900542400591
+325,Dobbins George H ,m,,British,8th Avenue 348,40.748379435578975,-73.99637648428967
+326,Dobbins George H ,m,,British,8th Avenue 632,40.756204871649096,-73.99060424599347
+327,Dobbins George H ,m,,British,8th Avenue 837,40.76278283125575,-73.98605177422472
+328,Drew Henry H ,m,,British,W 37th Street 351,40.754377406695696,-73.99246433841685
+329,Dunklin William B ,m,,British,7th Avenue 564,40.75540280598145,-73.98774713211698
+330,Dunning William ,m,,British,Chambers Street 2,40.713315880517435,-74.00356405960918
+331,Ennis John W ,m,,British,E 14th Street 142,40.7341714964329,-73.9884949874407
+332,Ennis William ,m,,British,Cornelia Street 3,40.732182003429095,-74.00099555904704
+333,Farrington J M ,undecided,,British,Broadway 1424,40.75396995839959,-73.9869780184634
+334,Fay Thomas ,m,,British,Broadway 1537,40.758511456228845,-73.98544653108316
+335,Fields William T ,m,,British,W 10th Street 154,40.73512588163175,-74.00012774169714
+336,Finley Sarah ,f,,British,3rd Avenue 132,40.734147060746935,-73.9871302134753
+337,Fitter John F ,m,,British,8th Avenue 686,40.75835289949239,-73.98902770109812
+338,Flagg Jared ,m,,British,W 33rd Street 111,40.750036176427216,-73.98989602432522
+339,Flight Margaret ,f,,British,Leonard Street 117,40.71673308683502,-74.00264644482591
+340,Forney John A ,m,,British,Park Row 192,,
+341,Fox Hubert F ,m,,British,10th Avenue 296,40.75093138541845,-74.00183314261842
+342,Fox William ,m,,British,W 13th Street 36,40.736647232071896,-73.99589860866648
+343,Foy Brothers ,m,,British,3rd Avenue 1482,40.777226786508734,-73.95541809838039
+344,Foy & Crook ,undecided,,British,Beekman Street 22,40.71222039985389,-74.00681808377144
+345,Frederick Catharine ,f,,British,Pearl Street 412,40.71218306348797,-74.00078353490306
+346,Freedman Frederick ,m,,British,2nd Avenue 86,40.72662327089818,-73.98924972624546
+347,Friend Charles N ,m,,British,Broadway W 374,,
+348,Getgood Brothers ,m,,British,W 125th Street 249,40.8096612856291,-73.94976094176987
+349,Gibbons Joseph L ,m,,British,8th Avenue 577,40.755312141601344,-73.99152497960326
+350,Gillespie Mary ,f,,British,8th Avenue 266,40.74584040151843,-73.99825920547859
+351,Gilling Charles ,m,,British,6th Avenue 425,40.74463661753454,-73.99205484543681
+352,Gilman John ,m,,British,E 23rd Street 219,40.73884104577891,-73.98259741472557
+353,Glogan Joseph ,m,,British,Canal Street 356,40.721752186692996,-74.00435181215965
+354,Goodman Joseph ,m,,British,Bowery Street 7,40.71478877202187,-73.99733049328152
+355,Grant John ,m,,British,W 17th Street 102,40.74028155669065,-73.99742509121533
+356,Gray John A ,m,,British,Broadway 1326,40.75008952963265,-73.98770629025147
+357,Green Roderick jr ,m,,British,Catherine Street 49,40.71206665795797,-73.99676393254698
+358,Griffin Maurice ,m,,British,E 13th Street 85,40.73320245074073,-73.98816234873894
+359,Hackett Margaret ,f,,British,Washington Place 366,,
+360,Hall Mary ,f,,British,Bleecker Street 102,40.72757948955624,-73.99691463532099
+361,Harkness Henry ,m,,British,6th Avenue 1027,40.76383716168816,-73.97788751850942
+362,Hart Michael ,m,,British,West Street 275,40.72464609079199,-74.01119692427113
+363,Hasey Samuel ,m,,British,E 41st Street 41,40.753094582942694,-73.98147348144421
+364,Herrick Elizabeth ,f,,British,W 23rd Street 365,40.74562079271447,-73.9988441264882
+365,Herrick Brothers ,m,,British,Division Street 143,40.714851270866376,-73.99212122279273
+366,Herman John G ,m,,British,Mercer Street 27,40.72042439852453,-74.00251373702609
+367,Herrmann Mary ,f,,British,1st Avenue 262,40.732818280655,-73.98174454931574
+368,Hill William J ,m,,British,6th Avenue 752,40.75508408136457,-73.98408939319789
+369,Hore W J Jr ,undecided,,British,3rd Avenue 873,40.757329955599054,-73.96984649086913
+370,Hough Mary ,f,,British,Church Street 36,,
+371,Hughes Augustus S ,m,,British,3rd Avenue 2351,40.80543916257588,-73.9344878612898
+372,Hughes Bernard ,m,,British,Fulton Street 86,40.709885374457556,-74.00616260699464
+373,Hughes John ,m,,British,South Street 189,40.70964937485798,-73.99764282741462
+374,Johnson Mary ,f,,British,E 4th Street 52,40.726784908195306,-73.98977576629531
+375,Voigt & Walsch ,cannot use api,,Jewish,E 4th Street 52,40.726784908195306,-73.98977576629531
+376,Jansen Albert ,m,FALSE,FALSE,E 4th Street 52,40.726784908195306,-73.98977576629531
+377,Jones Cornelius A ,m,,British,E 9th Street 742,40.725559693721905,-73.97767584040577
+378,Jordan John ,m,,British,E 27th Street 154,40.7417675971558,-73.98173359658072
+379,Judson Thaddeus A ,m,,British,3rd Avenue 1118,40.765869667765585,-73.96392067989383
+380,Ketcham Henry ,m,,British,E 145th Street 637,,
+381,Keyes James ,m,,British,E 23rd Street 416,40.73693397158014,-73.97830705816177
+382,Lake William W ,m,,British,Bowery Street 375,40.72783530026779,-73.99140036807776
+383,Lane Frederick A & Co ,m,,British,Houston Street W 15,40.726080917885284,-73.99694680693047
+384,Laughlin J Edward ,m,,British,Park Place 14,40.71313918299184,-74.00802012854417
+385,Lawlor Dennis ,m,,British,Broadway W 176,,
+386,Whalen & Hart ,cannot use api,,German Jew,Broadway W 176,,
+387,Loekley Henry ,m,,British,8th Avenue 211,40.74376912427057,-74.00003632466999
+388,Lynch Thomas F ,m,,British,8th Avenue 334,40.74757513803421,-73.9969708140523
+389,Mark Charles ,m,,British,1st Avenue 59,40.72524148271433,-73.98766215861343
+390,Marsh John F ,m,,British,Spring Street 71,40.72303642035159,-73.99743882490316
+391,Martin John ,m,,British,Fulton Street 240,40.713084980650265,-74.01340909965091
+392,Mellen John L ,m,,British,West Street 126,40.71293533590481,-74.01368924519554
+393,Degnan John ,m,,Irish,West Street 126,40.71293533590481,-74.01368924519554
+394,Messet John ,m,,British,Park Avenue 1984,,
+395,Molloy Edward ,m,,British,7th Avenue 783,40.762391749954766,-73.98239005693881
+396,Montgomey Richard ,m,,British,Amsterdam Avenue 1348,,
+397,Moore John H ,m,,British,Broadway E 169,,
+398,Morgan Joseph ,m,,British,Spring Street 217,40.72582703805854,-74.00334373905743
+399,Morris Patrick ,m,,British,8th Avenue 530,40.753842157263485,-73.99232296515142
+400,Morrison Henry P ,m,,British,West Street 210,40.71991353740985,-74.01200676771735
+401,Morse Edwin R ,m,,British,Park Avenue 124,40.754690294225476,-73.97611534192137
+402,Murley Lawrence & Co ,m,,British,Washington Place 436,,
+403,Murphy Jeremiah ,m,,British,Roosevelt Street 73,40.710459843452,-73.9993980429341
+404,Murphy Matthew ,m,,British,Greenwich Street 354,40.71987366516247,-74.01023589850966
+405,Murray Matthew ,m,,British,3rd Avenue 2356,40.80535915311421,-73.93481234910743
+406,Naething William H ,m,,British,Cortlandt Street 33,40.71084118601153,-74.01138327056198
+407,Nevins Daniel ,m,,British,Grand Street 607,40.71321172602373,-73.9759113679855
+408,Norman Henry ,m,,British,W 42nd Street 212,40.75615421428289,-73.98718142672361
+409,Ockendon William T ,m,,British,W 3rd Street 53,40.729663398957996,-73.99731799228385
+410,Nemirowsky Abraham ,m,,Russian Jew,W 3rd Street 53,40.729663398957996,-73.99731799228385
+411,Orcutt Edwin B ,m,,British,Broadway 198,40.71115325250107,-74.00901335614014
+412,Osborne Anna ,f,,British,8th Avenue 283,40.74670114667645,-73.99786129264135
+413,Paine Mary J ,f,,British,Bowery Street 41,40.71631673970249,-73.99629539443778
+414,Parker Patrick ,m,,British,Greenwich Street 274,40.71550409379247,-74.01123166833592
+415,Peterson John O ,m,,British,Reade Street 195,40.71763645502288,-74.0114843675469
+416,Pick Henry ,m,,British,Nassau Street 80,40.71048623674964,-74.00769939257651
+417,Pick Joseph ,m,,British,E 12th Street 40,40.73403131861175,-73.99171631702912
+418,Pierce W T ,undecided,,British,7th Avenue 526,40.754110582346186,-73.98870614252506
+419,Plunkett James ,m,,British,West Street 129,40.71265891406633,-74.01387187956408
+420,Portland William ,m,,British,Park Avenue 1860,,
+421,Powers Charles R ,m,,British,3rd Avenue 287,40.73890233458389,-73.98343383902017
+422,Proctor William B ,m,,British,Pine Street 5,40.70826656107126,-74.01047209248355
+423,Putney George T ,m,,British,Broadway 481,40.72159222919981,-74.00045882154262
+424,Putney George T ,m,,British,Mercer Street 54,40.72256260828319,-74.00058230600882
+425,Rathbun Wilbert E ,m,,British,6th Avenue 931,40.76158838026527,-73.97955523272528
+426,Reynolds Patrick ,m,,British,1st Avenue 1154,40.76352771401734,-73.95935007877013
+427,Roe Frederick N ,m,,British,4th Avenue 402,40.743100392596524,-73.98487396921685
+428,Rogers John J ,m,,British,Park Place 6,40.7134662941053,-74.0087312397712
+429,Rowley James B ,m,,British,Broadway W 495,,
+430,Salmon John W ,m,,British,W 3rd Street 40,40.729257398111095,-73.99667879784543
+431,Savage Jeremiah ,m,,British,W 32nd Street 262,40.749909036057176,-73.99170786438906
+432,Sidden Dederick ,m,,British,Cortlandt Street 82,40.71170999542955,-74.01346822957666
+433,Simmons Henry ,m,,British,Murray Street 71,40.71555374291606,-74.01183726940512
+434,Slater John Y ,m,,British,6th Avenue 402,40.74412945742081,-73.99215729501618
+435,Sullivan M J ,undecided,,British,West Street 355,40.73089097189966,-74.01039105901722
+436,Sullivan Peter A ,m,,British,E 85th Street 65,40.77986529981644,-73.95848005427654
+437,Surridge John H ,m,,British,3rd Avenue 2663,,
+438,Terpenning John L ,m,,British,Fulton Street 214,40.712684106198175,-74.01234263983808
+439,Thornton Frank J ,m,,British,3rd Avenue 2310,40.80436361950293,-73.93559682882376
+440,Throme John A ,m,,British,Hudson Street 648,40.7394277818815,-74.00536974643633
+441,Tully Anne T ,f,,British,Tompkins Street 74,40.7173257725704,-73.97545971885579
+442,Tunstall Julius T ,m,,British,Canal Street 421,40.72302812621758,-74.00592127705961
+443,Tyson Josephine M ,f,,British,9th Avenue 738,40.76290288273409,-73.98935543374137
+444,Wallace John F ,m,,British,5th Avenue 121,40.738727701513035,-73.99192257067185
+445,Walmester Charles ,m,,British,West Street 338,40.729072463580856,-74.01042209680931
+446,Weilmunster John C ,m,,Jewish,West Street 338,40.729072463580856,-74.01042209680931
+447,Walsh John H ,m,,British,8th Avenue 783,40.76075607147707,-73.98755127651538
+448,Walsh Brothers ,m,,British,3rd Avenue 487,40.74594112079343,-73.97821162433273
+449,Walsh Brothers ,m,,British,3rd Avenue 654,40.75056907275481,-73.97512142015822
+450,Walton Thomas ,m,,British,8th Avenue 245,40.74524917454368,-73.99895022778496
+451,Warner Moses ,m,,British,C Avenue 83,40.723571785365095,-73.97989495282981
+452,Whitney Elias J ,m,,British,4th Avenue 85,40.732417466840516,-73.99012244083522
+453,Wilck John ,m,,British,W 29th Street 361,40.74933584888821,-73.99582843904359
+454,Wilmot Kate ,f,,British,New Street 26,40.707586188033915,-74.01139803966646
+455,Winneg William ,m,,British,11th Avenue 598,40.76239495757076,-73.9971651383024
+456,Winnish William ,m,,British,W 42nd Street 501,40.76053107425454,-73.99751696525247
+457,WINTER JOHN H A ,m,,British,University Place 82,40.73517681690426,-73.99228938899567
+458,Wirsing John ,m,,British,Greenwich Avenue 9,40.735050491130885,-74.00002579125591
+459,Woolson John A ,m,,British,8th Avenue 878,40.763894947834665,-73.98497445089863
+460,Workman Frank ,m,,British,Bowery Street 253,40.724319866418845,-73.99264278101015
+461,Jorgensen Edward ,m,New York/ Scottish,British,3rd Avenue 2605,,
+462,Westermeir Joseph ,m,German/Russian/Scottland,British,3rd Avenue 526,40.74731605964951,-73.97750267153363
+463,Hamblen Arthur M ,m,,British,Beaver Street 49,40.705620720695855,-74.01006375810992
+464,Hindes Morris ,m,,British,Rivington Street 85,40.72051935795489,-73.98857954016343
+465,Kingsland Anna ,f,,British,Vesey Street 59,40.71345606764481,-74.01209237112471
+466,Michaels James ,m,,British,Bowery Street 233,40.723170813601755,-73.99309847892835
+467,Palmer John ,m,,British,Broadway W 288,,
+468,Sharrot Ellsworth ,m,,British,Broad Street 50,40.705878980775715,-74.01139061783084
+469,Spalding Thomas ,m,,British,West Street 232,40.72103600513425,-74.01179438108583
+470,Stevens Mary ,f,,British,Broome Street 409,40.72146915355884,-73.99802174395543
+471,Stevens Mary ,m,,German,Broome Street 409,40.72146915355884,-73.99802174395543
+472,Wagger Henry ,m,,British,Clinton Place 106,40.73409784526658,-73.99934681328808
+473,Wilson Joseph ,m,,British,W 47th Street 246,40.759555041520194,-73.98554498176925
+474,Taylor Washington H ,m,,British,Park Row 128,,
+475,Naething Brothers ,m,Ireland/New York,British,Fulton Street 118,40.71018476883762,-74.00671017932606
+476,Albert Samuel ,m,,British Empire,Broome Street 214,40.718098071551374,-73.98863819427723
+477,Adams Joseph T ,m,,British Empire,West Street 373,40.732152889935044,-74.01027944870418
+478,Layman Newton ,m,,British Empire,6th Avenue 80,40.734062862551205,-73.99945350045274
+479,Snyder John I ,m,,British Empire,9th Avenue 828,40.76626169290258,-73.9869354464184
+480,Abrahams Anna ,f,,British Empire,Cherry Street 292,40.71210831934402,-73.98709203803568
+481,Hyman Abraham ,m,,British Jew,W 19th Street 121,40.74133115482124,-73.99610965351829
+482,Kaplan Jacob L ,m,,British Jew,Beach Street 10,40.720851292669586,-74.00658302141366
+483,Childs S S (firm of) ,cannot use api,,Chilese,Beaver Street 54,40.70552511263691,-74.01013329743901
+484,Masira Joseph ,m,China,Chinese,West Street 86,40.709841517139715,-74.01463197507911
+485,Childs S S (firm of) ,cannot use api,,Chinese,Broadway 130,40.709041632299055,-74.01084518321217
+486,Childs S S (firm of) ,cannot use api,,Chinese,Broadway 815,40.73344653877285,-73.99129507767469
+487,Childs S S (firm of) ,cannot use api,,Chinese,Broadway 1305,40.749576882084305,-73.98836922150466
+488,Childs S S (firm of) ,cannot use api,,Czech,Fulton Street 90,40.70983107142691,-74.00605206151434
+489,Childs S S (firm of) ,cannot use api,,Czech,E 23rd Street 12,40.7413369748701,-73.98882987184967
+490,Christensen Thorvald T C ,m,,Danish,West Street 279,40.72445409079219,-74.01124263838834
+491,Jansen Peter ,m,,Danish,1st Avenue 437,40.73884142064476,-73.9777252342123
+492,Jensen Henry ,m,,Danish,Allen Street 83,40.71809889252358,-73.99143323233272
+493,Jensen Martin ,m,,Danish,10th Avenue 335,40.75206410197736,-74.00124367859782
+494,Petersen Peter ,m,,Danish,10th Avenue 87,40.74328018858155,-74.00775638610983
+495,Roos E J ,cannot use api,,Dutch,Amsterdam Avenue 944,,
+496,Vancleft & Merritt ,cannot use api,,Dutch,8th Avenue 188,40.74325340489507,-74.00011968475229
+497,Yost & Hoogkamp ,cannot use api,,Dutch,4th Avenue 399,40.74312172495542,-73.98457073663195
+498,Karden Herman ,m,,Dutch,3rd Avenue 830,40.75632056071155,-73.97093004275382
+499,Wienkens Henry ,m,,Dutch,Bowery Street 249,40.72444955062968,-73.99259057037399
+501,Haan R M & Co ,cannot use api,,Dutch,Columbus Avenue 323,,
+502,Haas John ,m,,Dutch,Centre Street 100,40.71637276161704,-74.00144815077839
+503,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,English,Ann Street 23,40.71181155806349,-74.00845139710245
+504,DENNETT SURPASSING COFFEE CO main office ,cannot use api,German ,FALSE,Nassau Street 109,40.71077490191961,-74.00755545136342
+505,Boedeker Henrietta S ,f,,Germanic Language Speaking,Greenwich Street 324,40.717364753388935,-74.01069884541589
+506,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,Dutch,Broad Street 40,40.70753954321035,-74.01069036667016
+507,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,Dutch,Ann Street 21,40.71176089139716,-74.00837406379283
+508,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,Dutch,Nassau Street 143,40.71197110351442,-74.00608716388972
+509,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,Dutch,Nassau Street 145,40.711904970181386,-74.00616396384149
+510,Drake & McGrane ,cannot use api,,Dutch,E 59th Street 61,40.76331462928988,-73.97058042884721
+511,Bartell Samuel ,m,,Dutch,Mercer Street 200,40.72672896645664,-73.99711714624314
+512,Feaster George ,m,,Dutch,2nd Avenue 1489,40.772535207796416,-73.95612111562768
+513,Campus Jacob J ,m,,Dutch,Delancey Street 64,40.719908486233884,-73.99101273627745
+514,Blatt Charles H ,m,,Dutch,Goerck Street 2,40.714524784006,-73.97890884418993
+515,Block Samuel ,m,,Dutch,E 80th Street 248,40.77475799287862,-73.95634926810554
+516,Breiser George ,m,,Dutch,E 16th Street 202,40.73471116136443,-73.98602549877916
+517,Elsengart George J Jr ,m,,Dutch,8th Avenue 492,40.75248743783616,-73.99333114753411
+518,Breiser George ,m,,Dutch,3rd Avenue 163,40.734336782531656,-73.98669919668768
+519,Friedman Jacob ,m,,Dutch,C Avenue 117,40.72487603337748,-73.97893861774519
+520,Engelson Harry ,m,,Dutch,Pelham Street 3,40.711474072293456,-73.99146426088468
+521,Davidson & Silverman ,cannot use api,,Dutch,Hester Street 103,40.71676204740785,-73.99228193129117
+522,Forshay & Gilbert ,m,,Dutch,University Place 102,,
+523,Bear Henry ,m,,Dutch,W 125th Street 311,40.81080662289557,-73.95246199952976
+524,Gross David ,m,,Dutch,Eldridge Street 147,40.72069699713827,-73.9909537348011
+525,Garbades Emily C C ,f,,Dutch,Houston Street W 82,40.72719464861677,-73.99899754286167
+526,Doscher & Mindermann ,cannot use api,,Dutch,W 4th Street 16,40.728890829014794,-73.99424139989694
+527,Raffos Nicholas ,m,Russian/Austrian/Hungarian/Romanian/German,Eastern European,James Street 76,40.710644219765015,-73.99840896982593
+528,Iris & Hart ,cannot use api,Romanian,Eastern European ,3rd Avenue 501,40.74545775236898,-73.97862425667802
+529,Robins S M Co ,cannot use api,,English,John Street 52,40.709432501987344,-74.00764885164058
+530,Robins S M Co ,cannot use api,,English,Broad Street 24,40.707246079796136,-74.01088392739041
+531,Robins S M Co ,cannot use api,,English,New Street 22,40.707498773399536,-74.01145735681185
+532,Silsbe & Son ,m,,English,6th Avenue 203,40.737497572239654,-73.99727554340123
+533,Smith U P & Co ,cannot use api,,English,Thames Street 15,40.709512170219085,-74.01197327294821
+534,Smith & Co ,cannot use api,,English,Fulton Street 83,40.71000214068474,-74.00618212022273
+535,Smith & McNeil ,cannot use api,,English,Washington Street 199,40.71348125198212,-74.01242503736076
+536,Teeter & McLoughlin ,cannot use api,,English,3rd Avenue 170,40.73540275195587,-73.98624179913817
+537,Tucker & Magdolf ,cannot use api,,English,Bowery Street 40,40.71639603446698,-73.99637454110835
+538,Walsh & Hart ,cannot use api,,English,Boulevard Street 826,,
+539,Weber & Co ,cannot use api,,English,3rd Avenue 141,40.73371176268201,-73.98720578721692
+540,Williams & Kugler ,cannot use api,,English,E 12th Street 61,40.733396863332786,-73.99015796493879
+541,Williams & Thurston ,cannot use api,,English,Bowery Street 349,40.727560736534784,-73.99152986309734
+542,Ball Thomas ,m,,English,W 32nd Street 137,40.74916464437056,-73.98973838542058
+543,Bloom & Fledderman ,cannot use api,,English,Greenwich Avenue 15,40.7348224911295,-73.99992379088452
+544,Child Julius P ,m,,English,Broadway 139,40.70951798726371,-74.01070381986736
+545,Childs S S (firm of) ,cannot use api,,English,W 23rd Street 122,40.7437335736454,-73.99460255880756
+546,Childs S S (firm of) ,cannot use api,,English,6th Avenue 221,40.73816325760171,-73.99679399922563
+547,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,English,Beekman Street 4,40.711987256997894,-74.00659865536018
+548,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,English,Beekman Street 6,40.71201316175966,-74.00662303629476
+549,DENNETT SURPASSING COFFEE CO main office ,cannot use api,,English,E 14th Street 140,40.73413008466794,-73.98840181094974
+550,Lake Mabel E ,f,,English,Columbus Avenue 909,,
+551,Walling Elbert J ,m,,English,Fulton Street 24,40.70789920654154,-74.00414848036532
+552,Walling Elbert J ,m,Romanian/Russian,FALSE,Fulton Street 24,40.70789920654154,-74.00414848036532
+553,Walling Elbert J ,m,,English,Fulton Street 14,40.707586998756184,-74.00385978236358
+554,Walling Elbert J ,m,Russian,FALSE,Fulton Street 14,40.707586998756184,-74.00385978236358
+555,Beshawte K ,undecided,,Ethiopian,6th Avenue 434,40.7454654583563,-73.991175070051
+556,Abramowitz Louis ,m,,French Jewish,Allen Street 155,40.72183226684181,-73.98949118403391
+557,Weinberg & Rosenblum ,cannot use api,,Jewish,Allen Street 155,40.72183226684181,-73.98949118403391
+558,Goldstein Louis ,m,,French Jewish,Clinton Place 31,40.732180076208316,-73.99464916896528
+559,Kaplan Louis & Brother ,m,,French Jewish,Broome Street 329,40.719751050853894,-73.99418460474216
+560,Barion E ,undecided,,French  ,West Street 16,,
+561,Barry Joseph ,m,,German,West Street 16,,
+562,Baudino Emilie ,f,,French  ,1st Avenue 749,40.74966004481428,-73.96976404685086
+563,Bernard Gustave ,m,,French  ,Lexington Avenue 161,40.74474323150039,-73.9812426069122
+564,Blanc Andre ,m,,French  ,Amsterdam Avenue 1877,,
+565,Bousquet Alexis ,m,,French  ,W 29th Street 105,40.74707705900031,-73.99051117763769
+566,Cabassud Alfred ,m,,French  ,Broadway 31,40.70598535329577,-74.01365185153183
+567,Casteran Blaise & Brother ,m,,French  ,University Place 88,,
+568,Cormier Joseph E ,m,,French  ,West Street 324,40.72834112617055,-74.01048996006806
+569,Delaurier Napoleon B ,m,,French  ,Duane Street 29,,
+570,Durain August ,m,,French  ,Washington Street 348,40.71958619261327,-74.01116729365597
+571,Facompre Frederick ,m,,French  ,Grand Street 584,40.71412145035536,-73.97858816890773
+572,Flouret Leon ,m,,French  ,5th Avenue 128,40.73836029839271,-73.9924578731901
+573,Gallat Armand ,m,,French  ,3rd Avenue 3291,,
+574,Guerin Michael ,m,,French  ,Vesey Street 102,40.713823156217295,-74.01270299956683
+575,Guttin Jean B ,m,,French  ,W 25th Street 109,40.74515291073024,-73.99359801311854
+576,Jacquin Charles ,m,,French  ,W 26th Street 57,40.744251945414995,-73.98946392456455
+577,Lagrange George C ,m,,French  ,W 34th Street 117,40.75067348644991,-73.98943555085557
+578,Lang Louis ,m,,French  ,11th Avenue 723,40.76704378204641,-73.99406697398706
+579,Lantelme Theodore ,m,,French  ,Barclay Street 5,40.71306360271809,-74.009254641178
+580,Lorties Emile ,m,,French  ,W 28th Street 105,40.74704418245053,-73.9922242345238
+581,Marchand Auguste ,m,,French  ,Duane Street 147,40.71644936903895,-74.00676442678666
+582,Metivier Ernestine ,f,,French  ,6th Avenue 628,40.751362799112535,-73.98680790132316
+583,Mouquin Restaurant & Wine Co (Ltd) ,undecided,,French  ,Fulton Street 149,40.71109702808834,-74.00840310853812
+584,Mouquin Restaurant & Wine Co (Ltd) ,undecided,,French  ,Ann Street 20,40.71165910859394,-74.00839793615958
+585,Mouquin Restaurant & Wine Co (Ltd) ,undecided,,French  ,6th Avenue 438,40.74534101391091,-73.99126395913382
+586,Mouquin Restaurant & Wine Co (Ltd) ,undecided,,French  ,6th Avenue 456,40.74591664943022,-73.99085769445394
+587,Nantel Henry ,m,,French  ,W 35th Street 301,40.753862533686814,-73.9951047897874
+588,Petit Vefour ,undecided,,French  ,W 28th Street 55,40.745698152527176,-73.98904176518742
+589,Rabineau Mary ,f,,French  ,Amsterdam Avenue 103,,
+590,Reuille Simon ,m,,French  ,8th Avenue 376,40.748793056386496,-73.99608217938162
+591,Talli Louise ,f,,French  ,Mulberry Street 83,40.71686687374822,-73.99902027210487
+592,Theil Leon ,m,,French  ,Houston Street E 292,40.722110861881525,-73.98480263680119
+593,Thuillard Henri ,m,,French  ,W 21st Street 112,40.74248013194601,-73.99556156837714
+594,Vallet Emil ,m,,French  ,W 18th Street 20,40.73972148326259,-73.9941823646225
+595,Valentin Emile ,m,,French  ,Hudson Street 257,40.72523072370042,-74.00764855062512
+596,Valette Louis ,m,,French  ,Wooster Street 154,40.72629060338676,-73.99962464390386
+597,Veux August ,m,,French  ,Walker Street 28,40.7204000694264,-74.00510718499858
+598,Veux August ,m,,French  ,Walker Street 35,40.720429879283515,-74.00541096886151
+599,Klein Samuel ,m,,German Jew,Walker Street 35,40.720429879283515,-74.00541096886151
+600,Demetre George ,m,,French  ,Oliver Street 82,40.71039122659389,-73.99730134322881
+601,Damaszek Louis ,m,Austrian,Eastern European,Walker Street 55,40.71948103348188,-74.00332564947503
+602,Domergue Louis ,m,Hungairan,FALSE,Greenwich Street 159,40.710833750912435,-74.01246889502562
+603,Gilbert Augusta ,f,American/German/ England,English,E 4th Street 67,40.72722309179451,-73.99054503351208
+604,Braun Charles ,m,,FALSE,5th Avenue 441,40.75112421460881,-73.98277652804214
+605,Appel Charles E ,m,,FALSE,Cedar Street 137,40.710283231129495,-74.0129869634296
+606,Francfort Francois ,m,,FALSE,W 57th Street 58,40.76311328743,-73.97442439147083
+607,Graff Charles D ,m,German/New York/Sweden,German,Pike Street 87,40.710695246127884,-73.9921576010724
+608,Bancel & Pastorini ,cannot use api,Russian/German/Austrian/England,FALSE,3rd Avenue 1140,40.76642632712994,-73.96351554013685
+609,Bozzo Louis ,m,German/New York/ Russian/ Norway,FALSE,Church Street 127,40.716520815325346,-74.00684127276278
+610,Aymer Louis ,m,Italy/German/ Austrian,FALSE,3rd Avenue 156,40.734621617378366,-73.98677760374221
+611,Ahnert Louis H ,m,German/Austrian/New York,German,E 125th Street 111,40.80487765022115,-73.93839336840777
+612,Alt Charles ,m,German/Austrian/Russian,German,E 127th Street 205,40.80455057740161,-73.93350154421739
+613,Balzarini Joseph ,m,Italy,Italian,3rd Avenue 323,40.74027927429123,-73.98246872250724
+614,Delanca Gerade ,m,Italian,Italian,Madison Street 64,40.71249116485323,-73.99749256571432
+615,Bernard Rose ,f,FALSE,FALSE,W 57th Street 561,40.7705609464449,-73.9923181222298
+616,Biebergal Joseph ,m,German/New York/Romanian ,German,Broome Street 119,40.71654045091314,-73.98356938665643
+617,Fortwengler Jules ,m,Russian/German/Austrian/England/Italy/Hungarian,German,William Street 3,40.70509978605797,-74.009644136421
+618,Campus Leon ,m,Russian,Eastern European,Delancey Street 47,40.72009325885915,-73.99195767223918
+619,Bancell Louis ,m,Russian/German/Austrian/England,English,Maiden Lane 164,40.70605996349502,-74.0053624645223
+620,Balzarini Joseph ,m,Russian/Hungarian,FALSE,3rd Avenue 7,40.72968245673493,-73.99016813024961
+621,Cararo & Barrone ,cannot use api,,Italian,3rd Avenue 7,40.72968245673493,-73.99016813024961
+622,Braibanti Thomas ,m,Russian/Romanian/German/Hungarian,FALSE,Spring Street 53,40.72273408644985,-73.99669095396474
+623,Escolle Henry ,m,German,German,W 10th Street 57,40.73434012255566,-73.99604476780239
+624,Beste & Dede ,m,FALSE,FALSE,Lincoln Avenue 127,,
+625,Bantle Conrad ,m,,FALSE,Houston Street E 124,40.723968097855746,-73.99057282142074
+626,Bott Caspar ,m,FALSE,FALSE,Greenwich Street 51,40.70706805164356,-74.0140261816161
+627,Christian Herald ,m,FALSE,FALSE,Bowery Street 262,40.72405444934353,-73.99287342929138
+628,Afternoon Tea Room ,cannot use api,FALSE,FALSE,5th Avenue 291,40.74645443243204,-73.98620461266768
+629,Dobbins George H ,m,FALSE,FALSE,6th Avenue 534,40.74814011214085,-73.98918542435146
+630,Delmonico??Û?s ,cannot use api,,Dutch,5th Avenue 212,40.74329979042472,-73.98877945612432
+631,Beethoven Maennerchor Restaurant ,m,,Germanic language Speaking,5th Avenue 212,40.74329979042472,-73.98877945612432
+632,Davidson??Û?s John S Sons ,m,,Dutch,Broad Street 98,40.70466655761299,-74.0115387310703
+633,Delmonico??Û?s ,cannot use api,,Dutch,5th Avenue 531,40.75546866062413,-73.9795886151258
+634,Gazzello & Babzarini ,cannot use api,,Dutch,3rd Avenue 2184,40.80056132842263,-73.93840371283915
+635,Fleischmann??Û?s Vienna Model Bakery ,cannot use api,,Dutch,Broadway 788,40.73291982729544,-73.99117954500704
+636,Klappert August ,m,,English,Church Street 128,40.716535184652386,-74.00696872724815
+637,Klappert Henry J & Co ,m,,English,Spring Street 85,40.723303296174024,-73.99811111030412
+638,Klappert Henry J & Co ,m,,English,Houston Street W 22,40.72602041543815,-73.99660519310106
+639,Klaus Riedl ,m,,English,W 27th Street 110,40.746230289338015,-73.99259378711828
+640,Kraus & Riedl ,cannot use api,,German,W 27th Street 110,40.746230289338015,-73.99259378711828
+641,Klee Adam ,m,,English,E 34th Street 415,,
+642,Klein Bernhard ,m,,English,Houston Street E 273,40.721820047203344,-73.98410063582993
+643,Klein Max ,m,,English,Attorney Street 150,40.721397037793736,-73.98319792969046
+644,Klingel Peter ,m,,English,8th Avenue 2303,40.825911675956334,-73.93989960355738
+645,Klopstock R ,undecided,,English,Spring Street 162,40.724601953777956,-74.00107164921383
+646,Koch Jacob ,m,,English,W 3rd Street 23,40.72902962586842,-73.9959834920784
+647,Kohring R & H W ,undecided,,English,E 59th Street 13,40.76398352368816,-73.97209150178938
+648,Korn Henrietta ,f,,English,Jefferson Street 8,40.71498105994446,-73.98895072370304
+649,Kraeutner Otto ,m,,English,2nd Avenue 13,40.7243068216581,-73.99114812527208
+650,Krahm Bernard ,m,,English,E 15th Street 10,40.736621212588766,-73.99190912989027
+651,Kramer Theodore ,m,,English,3rd Avenue 2625,,
+652,Kramer Theodore W ,m,,English,Elm Street 37,40.714544695580585,-74.00328834961756
+653,Kraus Charles ,m,,English,Fulton Street 49,40.708773933043055,-74.00461958116
+654,Kraus Frederick ,m,,English,Amsterdam Avenue 473,,
+655,Krause August ,m,,English,Harrison Street 60,40.71948058825461,-74.01132457395991
+656,Kreiss Adolph ,m,,English,Canal Street 376,40.72228649345712,-74.00512753195038
+657,Kreitzmeyer Henry ,m,,English,1st Avenue 17,40.72426345097085,-73.9883992005902
+658,Krug Henry ,m,,English,Grand Street 374,40.71677774572459,-73.98762582887318
+659,Krumm William ,m,,English,E 26th Street 323,40.73992073803462,-73.9792314663002
+660,Kruse Frederick ,m,,English,E 79th Street 250,40.77248287145416,-73.95311813654914
+661,Kuenstler Max ,m,,English,2nd Avenue 10,40.724335178248516,-73.99085887468372
+662,Kuntz Felix R ,m,,English,E 4th Street 39,40.727654118267,-73.99153649953689
+663,Kuntz Joseph ,m,,English,3rd Avenue 1641,40.78217455310437,-73.95151886155591
+664,Kurtz Michael ,m,,English,2nd Avenue 31,40.72496579519591,-73.99065279005914
+665,Lademann William ,m,,English,9th Avenue 767,40.7644500033079,-73.98846128917441
+666,Lampe Edward ,m,,English,Water Street 113,40.70631313227773,-74.00633201257021
+667,Langsdorf Anton ,m,,English,Av A 1590,,
+668,Lehman August ,m,,English,3rd Avenue 1100,40.765204773312796,-73.96443507211647
+669,Lenz George ,m,,English,St Mark??Û?s Place 115,,
+670,Leopold Jacob ,m,,English,Forsyth Street 150,40.72084315999223,-73.99176622694907
+671,Lesser Emil ,m,,English,Church Street 105,40.71612335994461,-74.00716363740179
+672,Lies Frank ,m,,English,Broadway W 158,,
+673,Loeffke Otto E ,m,,English,John Street 37,40.70999890090935,-74.00826096479814
+674,Loewenstein Max M ,m,,English,10th Avenue 570,40.75912545419235,-73.99579515905158
+675,Lowenstein Herman ,m,,English,Rivington Street 32,40.72173315160352,-73.99209661082182
+676,Luniewski Stephen ,m,,English,E 4th Street 76,40.72736090819922,-73.99110056654851
+677,Baro Christian ,m,Russian/German/Austrian,FALSE,E 4th Street 76,40.72736090819922,-73.99110056654851
+678,Lurtig Max ,m,,English,2nd Avenue 57,40.726547739028796,-73.98956988919501
+679,Marx Felix ,m,,English,Mercer Street 193,40.72703263351984,-73.99701725398802
+680,Mayer Joseph ,m,,English,Bowery Street 265,40.72393081378638,-73.9927994129186
+681,Medersohn Ernst A ,m,,English,W 116th Street 250,40.803826245590855,-73.95401265584364
+682,Mehrtens Bernhard ,m,,English,Spring Street 339,40.726711251956175,-74.01049663476272
+683,Merkel William ,m,,English,Chrystie Street 224,40.72292840722439,-73.99158821144464
+684,Metzger Benjamin ,m,,English,Walker Street 105,40.718259979696334,-74.00068838736422
+685,Meyer Anton H ,m,,English,Broadway 229,40.713026880357475,-74.00764964350199
+686,Meyer Anton H ,m,,English,Barclay Street 1,40.713206840812354,-74.00953806968528
+687,Meyer Emil ,m,,English,Hudson Street 563,40.736008634676075,-74.00594155207529
+688,Meyer George ,m,,English,Franklin Street 44,40.71736311104106,-74.00215068199698
+689,Meyer Gustav ,m,,English,W 3rd Street 3,40.72873239127764,-73.99537303506767
+690,Meyer Henrietta ,f,,English,Harrison Street 53,40.719450911744936,-74.01205082603643
+691,Meyer Jacob ,m,,English,Eldridge Street 85,40.717016783837,-73.99282692155722
+692,Meyer Peter J ,m,,English,Brook Avenue 871,,
+693,Mischier Wendel ,m,,English,Spring Street 156,40.72472826956826,-74.00131922822102
+694,Moritz Max ,m,,English,Bowery Street 297,40.725738638150666,-73.9922038437249
+695,Muller Frank ,m,,English,Houston Street E 135,40.72354504497927,-73.9894946069568
+696,Muth Theodore P ,m,,English,West Street 389,40.73354833486304,-74.01011988115432
+697,Neidhardt Theodore ,m,,English,3rd Avenue 271,40.7381225518226,-73.98403049799731
+698,Neumann Brothers ,m,,English,Canal Street 387,40.722139245660834,-74.00473472900632
+699,Neumann Brothers ,m,,English,Broadway W 141,,
+700,Niegsch August ,m,,English,Canal Street 214,40.71773808969104,-73.99887921690959
+701,Nienburg Bernard ,m,,English,West Street 397,40.733697801143144,-74.01010714319901
+702,Ortmann Frederick ,m,,English,Canal Street 253,40.71858906658432,-73.99985503766439
+703,Osswald Herman ,m,,English,Hester Street 217,40.71901720496394,-73.99878238819161
+704,Otto Frank ,m,,English,Forsyth Street 170,40.72249753527585,-73.99089783687998
+705,Otto Gustav ,m,,English,Chrystie Street 209,40.72318659274752,-73.99160378877313
+706,Otto Gustav ,m,,English,Chrystie Street 217,40.72306354512877,-73.99165559819315
+707,Pols Eberhard H ,m,,English,Albany Street 6,40.709859318474024,-74.01360759652842
+708,Popp Christopher ,m,,English,Lexington Avenue 521,40.75586555293946,-73.97301529409714
+709,Raab Charles W ,m,,English,10th Avenue 796,40.766904647926836,-73.99011147795909
+710,Weber Elizabeth ,f,,English,11th Avenue 800,40.76941564640071,-73.99207697134354
+711,Weber Henry ,m,,English,8th Avenue 2503,40.82786212729814,-73.93847282820386
+712,Wolf Nathan ,m,,English,Spring Street 84,40.72326470381876,-73.9982628896792
+713,Smith & McNeil ,cannot use api,,Englsih,Greenwich Street 198,40.71336757816388,-74.01177851635308
+714,Sweet A M A Son ,m,,Englsih,Fulton Street 4,40.70714870427409,-74.00355109530544
+715,Mergenthaler John N ,m,Russian/German,erman,Centre Street 198,40.71930704645827,-73.99922254393246
+716,Halm Louis ,m,FALSE,Fasle,Bowery Street 358,40.72722026343879,-73.99180413661658
+717,Calayerakas Giuseppe ,m,Russian,Fasle,3rd Avenue 333,40.739959274288964,-73.98270451248696
+718,Bragugila & Carreno ,cannot use api,Russian,Fasle,Broadway 13,40.70529646735461,-74.01410300569357
+719,Roulet H & Co ,cannot use api,,French,Nassau Street 81,40.71052304323549,-74.00781036744627
+720,Corpeul Max ,m,,FALSE,Bleecker Street 117,40.72806390371839,-73.9977420612605
+721,Cherones George ,m,,FALSE,Madison Street 34,40.71237182640524,-73.99885317972063
+722,Schwager Frank ,m,,French,2nd Avenue 1768,40.781086487512766,-73.94933411674032
+723,Schwagerl Louis ,m,,French,8th Avenue 394,40.7494725265753,-73.99557264512043
+724,Schwartz Edward ,m,,French,Delancey Street 45,40.720056992192205,-73.99183820556134
+725,Schwartz Ignatz ,m,,French,Lewis Street 74,40.71858082519683,-73.97807044138234
+726,Schwartz John ,m,,French,Allen Street 72,40.71860510745109,-73.9910627672465
+727,Schwartz John E ,m,,French,6th Avenue 445,40.745209208218824,-73.99162759621633
+728,Cashau Augusta ,f,,Portuguese,6th Avenue 445,40.745209208218824,-73.99162759621633
+730,Schwartz Leopold ,m,,French,Greene Street 157,40.72765147261984,-73.99780352815297
+731,Schwartz Martin ,m,,French,Houston Street E 293,40.72203822902311,-73.98488609044752
+732,Schwarz Herman ,m,,French,E 11th Street 59,40.73363007308253,-73.99263250232752
+733,Konig & Lentin ,cannot use api,,German,Broome Street 294,40.71928351971238,-73.99245200261166
+734,Konig & Lentin ,cannot use api,,German,Rivington Street 30,40.72170877065132,-73.99202651559183
+735,Kraus M & Co ,cannot use api,,German,2nd Avenue 106,40.72823320911524,-73.98825739873435
+736,Loefgen & Kraus ,m,German,German,W 3rd Street 34,40.7293529695403,-73.99688236931848
+737,Meyer & Winkelmann ,m,Russian/Austrian,German,Bowery Street 273,40.72367144536474,-73.99290383419088
+738,Neumuller & Schaefer ,cannot use api,,German,Union Square E 4,40.73555276110595,-73.98981800745551
+739,Polymero & Ringa ,cannot use api,,German,E 42nd Street 46,40.752601126835664,-73.97858987471908
+740,Stuetzle Brothers ,m,,German,Hanover Street 2,40.70613906795525,-74.00900694127287
+741,Suesskind A & Co ,cannot use api,,German,Broadway 529,40.72476821717963,-73.99779063445256
+742,Zurcher & Kendeler ,cannot use api,,German,E 4th Street 73,40.72736709179354,-73.99087623344879
+743,Kummer Richard ,m,,German Austrian,3rd Avenue 673,40.75118014001105,-73.97436218259934
+744,Koemer Richard ,m,,German-Austrian,3rd Avenue 673,40.75118014001105,-73.97436218259934
+745,Lederer Philip ,m,,German Austrian,Lexington Avenue 738,40.76190171723144,-73.96887460480312
+746,Mauer George ,m,,German Austrian,2nd Avenue 2323,40.799520268005054,-73.93614199002229
+747,Muhlhofer George ,m,,German Austrian,Chrystie Street 203,40.721833275598705,-73.99223651983951
+748,Oberst Leopold ,m,,German Austrian,Church Street 206,40.72048357691292,-74.00385499984404
+749,Popper Leopold ,m,,German Austrian,C Avenue 103,40.72406614498718,-73.9794966214818
+750,Berger & Theodore ,m,,German Austrian,Houston Street E 57,40.72482290148498,-73.99343217242561
+751,Brandt Frederick F A ,m,,Germanic language Speaking,6th Avenue 124,40.73555649806653,-73.99833314865703
+752,Christgau Henry ,m,Russian/German/New York,German,Spring Street 10,40.72146205883804,-73.99405713735747
+753,Nikolaus John ,m,Russian/German/New York,German,2nd Avenue 121,40.72891739184053,-73.98809168547324
+754,Strackerjan Uffo ,m,Russian/New York/Romanian/German,German,Maiden Lane 76,40.707946357382184,-74.0076625391103
+755,Spits Frederick ,m,German,German,Lexington Avenue 985,40.77027780420788,-73.96246125709463
+756,Maas Louis ,m,German/Austrian/New York,German,Division Street 97,40.71476095138288,-73.99340838110928
+757,Mink John H ,m,Ireland/German/New York,German,6th Avenue 426,40.74450471570649,-73.99188115476635
+758,Gross Samuel ,m,Russian/German/Romanian,German,Ridge Street 88,40.719710074353294,-73.98307679069708
+759,Muller Adam ,m,German,German,Canal Street 388,40.722052754325325,-74.00478527094253
+760,Feldmaus Abraham ,m,,German,Columbia Street 83,40.718883755821466,-73.9798166934909
+761,Halm Louis ,m,German/New York/Austrian,German,Frankfort Street 14,40.71224799819658,-74.0052301230275
+762,Halm Louis ,m,German,German,Frankfort Street 15,40.71221858073954,-74.0053739295882
+763,Halm Louis ,m,German,German,Bowery Street 170,40.72025258943973,-73.9943582734673
+764,Loewenthal Louis ,m,German,German,Bond Street 25,40.72715931441202,-73.99411579440742
+765,Reichman Louis ,m,German/Russian/New York/Scottland,German,Suffolk Street 114,40.719692636813626,-73.98599592464934
+766,Reinken Louis ,m,Russian/Austrian/German/Hungarian,German,Bowery Street 156,40.720723761852675,-73.99421151525264
+767,Rosenthal Julie ,f,German/Russian,German,Houston Street E 304,40.72176238458736,-73.98355603067117
+768,Spamer Louis ,m,New York/Ireland/German,German,Catherine Slip 21,40.71009190106895,-73.9962497742026
+769,Bernhard Valerian ,m,,German,Grand Street 77,40.72222373774426,-74.00241803615683
+770,Stern Joseph ,m,,German,Pitt Street 135,40.720243816931564,-73.98197540701662
+771,Ahrens Herman F ,m,,German,Franklin Street 40,40.71745511104044,-74.00236268195661
+772,Appelt Gustav ,m,,German,Bowery Street 393,40.72856228987013,-73.9909891486357
+773,Apprisdorf Joseph ,m,,German,2nd Avenue 7,40.72453482165639,-73.9909861256274
+774,Autenrieth Herman ,m,,German,Bond Street 34,40.727035979697774,-73.99364514682819
+775,Baab Carl ,m,,German,2nd Avenue 113,40.72803193365051,-73.98867288666735
+776,Balz George T ,m,,German,2nd Avenue 1006,40.75746165131469,-73.966806467235
+777,Baresel Paul ,m,,German,Gansevoort Street 96,40.73990666511518,-74.00632048088482
+778,Bart Wenzel ,m,,German,1st Avenue 631,40.745641877953396,-73.97274615857148
+779,Bartel Brothers ,m,,German,Wooster Street 170,40.728065314282205,-73.99817179768927
+780,Bartels Ludwig ,m,,German,6th Avenue 90,40.73380355220451,-73.99963005258499
+781,Weirich Joseph ,m,,German,6th Avenue 90,40.73380355220451,-73.99963005258499
+782,Basch Isidor ,m,,German,3rd Avenue 96,40.732678606119414,-73.98825941367252
+783,Bauer Henry ,m,,German,E 17th Street 416,40.73335818629022,-73.98075798527317
+784,Beckmann Henry ,m,,German,Willis Avenue 228,,
+785,Begiebing Emil F ,m,,German,Canal Street 285,40.7204104220411,-74.00239059976599
+786,Beitz Joseph ,m,,German,Orchard Street 195,40.722117391578024,-73.98854539940154
+787,Bergmann Carl ,m,,German,Liberty Street 45,40.709125447197884,-74.00932317783518
+788,Blumberg Gustav ,m,,German,E 13th Street 135,40.73399102216426,-73.98962520547775
+789,Boeckel George W ,m,,German,White Street 68,40.71850452366487,-74.00291623461602
+790,Boesch John ,m,,German,Prince Street 64,40.72423062345676,-73.99666204402878
+791,Boettcher William ,m,,German,Water Street 121,40.706194465610366,-74.00650845708384
+792,Bonn Robert L ,m,,German,1st Avenue 22,40.72399928578239,-73.98833764191143
+793,Bormann George ,m,,German,9th Avenue 342,40.75064725379515,-73.99827279681698
+794,Braunstein Max ,m,,German,Ridge Street 87,40.71978192562015,-73.98316720936229
+795,Breuer Sisters ,m,,German,Av A 298,,
+796,Bruckel Christian ,m,,German,1st Avenue 14,40.724268759468835,-73.98811532571762
+797,Busse Reinhard ,m,,German,W 67th Street 101,40.77534813127585,-73.98406460619536
+798,Cohn Alexander ,m,,German,E 59th Street 246,40.75980044144773,-73.9621882791482
+799,Dannhauser Paul ,m,,German,3rd Avenue 2781,,
+800,Deichsler Emil C ,m,,German,Bloomfield Street 25,40.741101428566445,-74.00941254030667
+801,Dietrich Ferdinand ,m,,German,E 19th Street 47,40.73872039848592,-73.98972911793766
+802,Dietrich Gustav ,m,,German,B Avenue 261,40.73090259318216,-73.97736520915173
+803,Dintenfass Max ,m,,German,Clinton Street 101,40.71867928225868,-73.98570331008364
+804,Dochtermann Paul ,m,,German,Spring Street 104,40.723532289484524,-73.99887338399155
+805,Doehle Gerhard ,m,,German,Nassau Street 48,40.709223781790584,-74.00891849121007
+806,Dreyer August ,m,,German,Pearl Street 125,40.70571890304012,-74.00833362852397
+807,Dreyer August ,m,,German,Beaver Street 78,40.70553967268767,-74.00997362120829
+808,Dreyer William ,m,,German,W 146th Street 356,40.8241094686648,-73.94297420491765
+809,Droege August ,m,,German,Clinton Place 37,40.7320249992863,-73.9942799382605
+810,Drottleff Martin ,m,,German,1st Avenue 388,40.73666661192641,-73.97899629974232
+811,Ebeling Ernst D ,m,,German,E 91st Street 170,40.78259257139417,-73.95316408937201
+812,Ebenhack Brothers ,m,,German,Washington Street 206,40.713097390846826,-74.01265903373617
+813,Eberhardt Oscar ,m,,German,Washington Street 802,40.73986581064751,-74.0079667409018
+814,Eisele Theodore ,m,,German,3rd Avenue 1093,40.76534427922929,-73.96405334872193
+815,Eisner Max ,m,,German,Broadway E 153,,
+816,Elbert Herman ,m,,German,Av A 1637,,
+817,Elbow Max ,m,,German,West Street 361,40.73033897189997,-74.01042705852917
+818,Emde Henry ,m,,German,Grand Street 229,40.71906390793564,-73.99535264692425
+819,Emmerich Otto ,m,,German,Chambers Street 73,40.71534900591946,-74.00754977146649
+820,Engel Adam ,m,,German,W 35th Street 71,40.74948814592427,-73.98439532284586
+821,Epstein Moritz ,m,,German,Prince Street 92,40.724839605504535,-73.99796696401906
+822,Erckmann Gustave ,m,,German,2nd Avenue 631,40.74546945931504,-73.97588221537954
+823,Erdmann Frank Garrett ,m,,German,Pearl Street 430,40.71272225656317,-74.00079022937238
+824,Eschenbach Henry E ,m,,German,8th Avenue 850,40.762353168645745,-73.98612879788071
+825,Ewald Emeline ,f,,German,2nd Avenue 2029,40.78982419379096,-73.94322390564412
+826,Feaster Frank ,m,,German,2nd Avenue 2391,40.801206370513455,-73.9349315401395
+827,Fischer Carl H ,m,,German,Pearl Street 308,40.70873623992559,-74.00313005966113
+828,Fischer Jacob ,m,,German,Canal Street 345,40.721182709202246,-74.00339832129562
+829,Fischer Joseph ,m,,German,2nd Avenue 1012,40.75730965131345,-73.96692646746628
+830,Fleischer Joseph ,m,,German,Chatham Street 4,40.71272883722395,-74.00497764030591
+831,Flisser Adolph ,m,,German,Houston Street W 38,40.726518731235686,-73.9976058196212
+832,Flisser Adolph ,m,,German,Grand Street 217,40.71942789229295,-73.9963701435695
+833,Frankl Jacob ,m,,German,2nd Avenue 248,,
+834,Freind Adolph ,m,,German,Greene Street 122,40.72661017762482,-73.99823744286294
+835,Fricke Justina ,f,,German,Canal Street 477,40.72332978147483,-74.00636642264668
+836,Friedheim Leopold ,m,,German,Broadway 724,40.73060610261661,-73.99271745843112
+837,Frisch Adolph ,m,,German,2nd Avenue 20,40.72522957314197,-73.99014805165315
+838,Fritzel William & Son ,m,,German,C Avenue 146,40.726203089216334,-73.97765398800863
+839,Froehlich Anton ,m,,German,Houston Street E 284,40.72202358915489,-73.98448845501186
+840,Garfunkel Herman ,m,,German,Ridge Street 54,40.718756013292186,-73.98357999611025
+841,Garfinkel Hirsch ,m,,German,Ridge Street 54,40.718756013292186,-73.98357999611025
+842,Garten Moritz ,m,,German,Rivington Street 177,40.71946075879587,-73.98513774704276
+843,Gebhardt Henry ,m,,German,11th Avenue 544,40.7604529140501,-73.99858055295277
+844,Georgi Max ,m,,German,Hudson Street 640,40.73983147418928,-74.00538943838627
+845,Gerich Emil ,m,,German,7th Avenue 375,40.7487734616676,-73.99240642653794
+846,Geyer George ,m,,German,Nassau Street 73,40.70952937014089,-74.00877144964343
+847,Glaser Max ,m,,German,Broadway E 105,,
+848,Goerz John & Nephew ,m,,German,Hudson Street 605,40.737376611484,-74.00570948845021
+849,Goerz John & Nephew ,m,,German,Bowery Street 326,40.72615986548299,-73.99218009182903
+850,Goetz Julius ,m,,German,Howard Street 17,40.71940165109597,-73.99923100930262
+851,Gohler Berthold ,m,,German,11th Avenue 681,40.764683991913024,-73.99584097168025
+852,Goslar August ,m,,German,Centre Street 120,40.71697647364567,-74.00100695352359
+853,Gottlieb Henry ,m,,German,E 20th Street 29,40.73900675814066,-73.9886497267258
+854,Gottlieb Joseph ,m,,German,Stanton Street 264,40.71939280167046,-73.98002940752178
+855,Greiner Carl ,m,,German,E 13th Street 524,40.729881570764526,-73.98040759026145
+856,Griebel Julius ,m,,German,Pearl Street 534,40.71510180574265,-74.00282242279505
+857,Grossman Bernhard ,m,,German,Eldridge Street 86,40.71694450645893,-73.99273643334132
+858,Grote Herman G ,m,,German,Hudson Street 349,40.72842243688322,-74.00714517104339
+859,Grube Silber ,m,,German,Pearl Street 551,40.715839655102414,-74.0042758322652
+860,Guckenberger August ,m,,German,1st Avenue 3,40.7237081152833,-73.98883572391212
+861,Gunther Joseph ,m,,German,3rd Avenue 107,40.73359127619354,-73.9873016645594
+862,Hammerschmidt Peter ,m,,German,C Avenue 204,40.72792590260378,-73.97642652408817
+863,Hartmann Julius C ,m,,German,Broadway 1,40.705595761469546,-74.01392582965643
+864,Hartmann Julius C ,m,,German,Broad Street 15,40.70706455432066,-74.01087646301143
+865,Hasemann L ,undecided,,German,Greenwich Street 184,40.71251521785171,-74.01205185751455
+866,Held Peter ,m,,German,1st Avenue 756,40.7494130979535,-73.96968681066423
+867,Held Reinhard ,m,,German,2nd Avenue 895,40.75341857654331,-73.97000716625377
+868,Heimsoth William ,m,,German,W 18th Street 108,40.74077275161472,-73.9968868620776
+869,Heinz Henry ,m,,German,Av A 97,,
+870,Heise & Hatesaul ,undecided,,German,Thomas Street 58,40.71753165254802,-74.00786704340791
+871,Heller Herman ,m,,German,9th Avenue 60,40.74128397374661,-74.00524703131627
+872,Hennemann William ,m,,German,3rd Avenue 521,40.74604978740732,-73.97813410305176
+873,Hermann George ,m,,German,B Avenue 159,40.72780918381829,-73.97946688357433
+874,Herzog Adolph ,m,,German,3rd Avenue 2139,40.7981144972258,-73.93993294558017
+875,Hesse Freres ,m,,German,Broadway W 551,,
+876,Hesse Freres ,m,,German,W 28th Street 32,40.746050530395,-73.99010516179523
+877,Heumann Henry ,m,,German,Houston Street E 146,40.72382866929982,-73.99013853579955
+878,Heupel August ,m,,German,Thames Street 9,40.70917996536883,-74.0111099624214
+879,Heupel Augustus ,m,,German,Trinity Place 95,,
+880,Heyl & Noethen ,undecided,,German,W 3rd Street 16,40.7282820087109,-73.9946877647182
+881,Hirt Max ,m,,German,E 15th Street 21,40.73703909509419,-73.99268594685823
+882,Hoehle William ,m,,German,Church Street 6,40.71235045119331,-74.010181153175
+883,Hoffmann Joseph ,m,,German,3rd Avenue 880,40.7584617936488,-73.96935486953953
+884,Hollander Adolph ,m,,German,Stuyvesant Street 4,40.73053864310423,-73.98817936915137
+885,Holtz & Freystedt Co ,undecided,,German,Broadway 365,40.7184410729715,-74.00313954781663
+886,Holz Philip ,m,,German,Amsterdam Avenue 151,,
+887,Holzkamp L & Unger ,undecided,,German,Bleecker Street 221,40.730096771653415,-74.00166454779857
+888,Jerkey Emil ,m,,German,W 59th Street 333,40.76816214813648,-73.98210578315219
+889,Jung Robert C ,m,,German,Warren Street 61,40.71555460657403,-74.00992888940148
+890,Junker Gustav ,m,,German,Mercer Street 115,40.72474513058343,-73.99894179769242
+891,Kahlo William ,m,,German,Clinton Place 32,40.73207469301532,-73.99464313868323
+892,Kalkbrenner Henry ,m,,German,Greene Street 225,40.729256234387655,-73.99656188202167
+893,Kammerer Theodore ,m,,German,E 14th Street 300,40.732184428023785,-73.98398823542418
+894,Kandel Moritz ,m,,German,Houston Street E 258,40.72225152540379,-73.98526585757261
+895,Kessler Otto ,m,,German,B Avenue 239,40.73031575941229,-73.97773211660069
+896,Kief John ,m,,German,1st Avenue 950,40.75583637560264,-73.96495484893127
+897,Kiehl Lena ,f,,German,Canal Street 411,40.72315444200638,-74.0061139085576
+898,Kitzing Alfred ,m,,German,Church Street 130,40.71755798344869,-74.0061796435031
+899,Pusch George F ,m,,German,3rd Avenue 731,40.753180347648076,-73.97294073430156
+900,Rackebrandt Henry ,m,,German,Duane Street 105,40.71452755333158,-74.0032171339284
+901,Rackebrandt Henry ,m,,German,Thomas Street 14,40.71642023168602,-74.00541288252023
+902,Ragge Anton ,m,,German,Moore Street N 107,40.72076988513782,-74.01099737432986
+903,Ramge Peter ,m,,German,8th Avenue 2524,40.82760439315219,-73.93839577494343
+904,Rau Arnold ,m,,German,6th Avenue 199,40.73762557223873,-73.99718796465514
+905,Rehfus Robert ,m,,German,1st Avenue 371,40.7361283585866,-73.97962154903924
+906,Reimer Theodore ,m,,German,W 19th Street 53,40.7398224282999,-73.99236917328723
+907,Reinhardt Henry ,m,,German,3rd Avenue 2127,40.79849849722884,-73.93962574499093
+908,Reismann Otto ,m,,German,1st Avenue 9,40.72349691528457,-73.98895092356655
+909,Reiss Jonas ,m,,German,Delancey Street 119,40.71884054505955,-73.98751892192233
+910,Rheinwald Philip ,m,,German,3rd Avenue 3054,,
+911,Riemann Henry F C ,m,,German,University Place 122,,
+912,Roeber William ,m,,German,8th Avenue 327,40.74789686187324,-73.99699718643988
+913,Roeth Adam ,m,,German,Amsterdam Avenue 1349,,
+914,Rosenberg Joseph ,m,,German,Columbia Street 94,40.71839624415057,-73.97992730691402
+915,Rosenfeld Max ,m,,German,Ridge Street 92,40.71955236006714,-73.98315679082738
+916,Rosenfeld Ignatz H CAFE BOULEVARD ,m,,German,2nd Avenue 156,40.72967041158445,-73.98727367964702
+917,Rosenthal Berthold ,m,,German,1st Avenue 37,40.72489085820429,-73.98792459763398
+918,Rosenthal Max ,m,,German,Delancey Street 111,40.71915818033027,-73.98884859650263
+919,Roth Joseph ,m,,German,Av A 151,,
+920,Rupprich August ,m,,German,3rd Avenue 1320,40.77214503412301,-73.95932869098203
+921,Sachs Isidor ,m,,German,Canal Street 86,40.71563036473341,-73.99281523784668
+922,Sackler Isidor ,m,,German,Ludlow Street 65,40.71772362124036,-73.98992505449888
+923,Schaefer John ,m,,German,3rd Avenue 334,40.74000872561439,-73.98293927706493
+924,Schaffner Henry ,m,,German,Houston Street E 162,40.72353353405623,-73.98915729810956
+925,Scheidlinger Max ,m,,German,E 106th Street 169,40.79200866347819,-73.9455215474449
+926,Scherf Frederick ,m,,German,3rd Avenue 177,40.735077247954635,-73.9862062013508
+927,Schiffer Joseph ,m,,German,Maiden Lane 86,40.70831207167016,-74.00794444407259
+928,Schlieper Louisa ,f,,German,Houston Street E 149,40.72334994419973,-73.98890113661497
+929,Freund Edward ,m,,German,Houston Street E 149,40.72334994419973,-73.98890113661497
+930,Schmidt Charles ,m,,German,St Mark??Û?s Place 32,,
+931,Schmidt Frederick ,m,,German,W 24th Street 500,40.74982612676751,-74.00742250022174
+932,Schmidt William ,m,,German,1st Avenue 617,40.74527807847442,-73.97301707385135
+933,Schnabel Max R ,m,,German,Spring Street 329,40.72658330795105,-74.00926695317852
+934,Schnitzler Ignatz ,m,,German,Houston Street W 19,40.72600472740862,-73.99679137831934
+935,Schroeder John H ,m,,German,Broadway W 432,,
+936,Schubnell Julius ,m,,German,3rd Avenue 725,40.753367295017966,-73.97279926032988
+937,Schuette Emil ,m,,German,Amsterdam Avenue 1972,,
+938,Schultze Henry ,m,,German,W 24th Street 43,40.74302419759859,-73.99041963706223
+939,Schulze Henry ,m,,German,Pike Street 81,40.711181131637524,-73.99233003401025
+940,Schumann Gustav ,m,,German,Bowery Street 383,40.72878228987096,-73.99082998179827
+941,Schumann Gustav ,m,,German,4th Avenue 127,40.73367429334188,-73.98991217750509
+942,Schwend Theresa ,f,,German,B Avenue 13,40.72191931552784,-73.98380184772863
+943,Seegert Otto ,m,,German,Bowery Street 241,40.722937401836596,-73.99318130265789
+944,Seelig Adolph ,m,,German,E 13th Street 66,40.73425227977828,-73.99035875495376
+945,Sees Alexander ,m,,German,West Street 110,40.71145600699131,-74.0140425689398
+946,Siegel Herman ,m,,German,Broome Street 298,40.719210986379565,-73.9922088026351
+947,Siemann Ernest ,m,,German,Front Street 301,40.711356757677635,-73.98459565421
+948,Siering William ,m,,German,1st Avenue 1085,40.760470728517475,-73.96183401575004
+949,SIEVERS AUGUST H ,m,,German,E 14th Street 64,40.73545088417689,-73.99104150893936
+950,Spengemann Theodore ,m,,German,West Street 184,40.71772518476341,-74.01250711760811
+951,Sperber Carl,m,,German,Chambers Street 12,40.713247619647426,-74.00345340740347
+952,Spielberger Jacob ,m,,German,Houston Street E 310,40.72183438458681,-73.98381043064964
+953,Stampfer William ,m,,German,2nd Avenue 145,40.73022128062857,-73.9871263211968
+954,Stade Max ,m,,German,West Street 174,40.71586566395811,-74.01300020594272
+955,Steffens Herman ,m,,German,3rd Avenue 101,40.7324279200988,-73.98816248145957
+956,Steuer August ,m,,German,Park Row 147,,
+957,Stollberg Frank A ,m,,German,Broad Street 117,40.70348198126078,-74.01184073110609
+958,Stroh J August ,m,,German,6th Avenue 397,40.74439765359484,-73.99223203873507
+959,Tettelbaum Joseph ,m,,German,Canal Street 315,40.72068026065522,-74.00272671744453
+960,Thamm August ,m,,German,Rivington Street 13,40.722087050946826,-73.99354460582177
+961,Timm William F ,m,,German,Franklin Street 155,40.719527524558714,-74.00637710498101
+962,Treuleben Albert ,m,,German,Pearl Street 532,40.715114605742585,-74.00283979421687
+963,Uhlenhaut Frederick ,m,,German,Maiden Lane 106,40.70750185855202,-74.00726541857868
+964,Uhler Edward ,m,,German,4th Avenue 83,40.73249652566427,-73.99010738187366
+965,Urbach Jacob ,m,,German,Broome Street 272,40.71866524114055,-73.99034196733155
+966,Uthe George G ,m,,German,1st Avenue 194,40.72980937976508,-73.98396809863605
+967,Vogel John ,m,,German,Greenwich Street 421,40.7222723360467,-74.00966828965419
+968,Wagner Emil ,m,,German,Park Row 215,,
+969,Waldheim Adolph ,m,,German,E 34th Street 408,,
+970,Weiss Adolph ,m,,German,Clinton Place 13,40.73121726256014,-73.99240339141888
+971,Weiss Herman ,m,,German,Houston Street E 328,40.721575533559495,-73.9828869227687
+972,Wettner Conrad ,m,,German,Greenwich Street 112,40.7095164942115,-74.01314538387287
+973,Wiehl Ernest ,m,,German,E 14th Street 102,40.73474143153453,-73.98967509103514
+974,Wiese Frederick ,m,,German,Broadway W 67,,
+975,Wietander Arthur ,m,,German,New Chambers Street 60,40.71167383976578,-74.0000344121959
+976,Witthopf Conrad ,m,,German,3rd Avenue 405,40.742510622166265,-73.98080916328958
+977,Wizemann Gotthelf ,m,,German,W 116th Street 244,40.80389606377317,-73.95418914072079
+978,Woerfeld Gustav ,m,,German,5th Avenue 1389,40.78458443806929,-73.95822195545638
+979,Wolfer Frank ,m,,German,E 120th Street 175,40.80095198879266,-73.9389678659424
+980,Wollenhaupt August ,m,,German,Mercer Street 53,40.722695573512524,-74.00061042136421
+981,Wolz Philip ,m,,German,Desbrosses Street 24,40.724063698869585,-74.0100157722978
+982,Zeeck Gottfried ,m,,German,Bowery Street 155,40.72073665191175,-73.99408586404658
+983,Ziegler August ,m,,German,Pearl Street 95,40.70453791744533,-74.00989179288997
+984,Ziegler Frank ,m,,German,Manhattan Street 81,,
+985,Ziegler John ,m,,German,Varick Street 19,40.72058812864913,-74.00671314030615
+986,Zennegg August ,m,,German,8th Avenue 2597,40.82827451607124,-73.93815625518283
+987,Zobel Christian F ,m,,German,Bleecker Street 120,40.72793502960476,-73.99770340534198
+988,Mosenbesser Moritz ,m,,German,Clinton Street 64,40.720446924949556,-73.98470374821238
+990,Reich Caroline ,f,,German,Canal Street 370,40.72145027364775,-74.00393302937266
+992,Reich Louis ,m,,German,2nd Avenue 231,40.73332471326176,-73.98498409528727
+994,Reiss Berman ,m,,German,Broome Street 318,40.719437204617876,-73.99291973844173
+996,Rosenthal Hannah ,f,,German,3rd Avenue 1197,40.76830616348282,-73.96183404941821
+998,Runge August F ,m,,German,8th Avenue 123,40.74079950470228,-74.00225418512335
+999,Runge August F ,m,,Italian,8th Avenue 123,40.74079950470228,-74.00225418512335
+1000,Scheuplein John G ,m,,German,3rd Avenue 324,40.74032872561211,-73.98270348809726
+1001,Scheuplein John G ,m,,Italian,3rd Avenue 324,40.74032872561211,-73.98270348809726
+1002,Schlesinger Morris ,m,,German,Walker Street 61,40.71966617634028,-74.00371650670003
+1003,Schlesinger Morris ,m,,Italian,Walker Street 61,40.71966617634028,-74.00371650670003
+1004,Schneider George,m,,German,Av A 270,,
+1005,Schneider George,m,,Italian,Av A 270,,
+1006,Schrader W A & J ,m,,German,11th Avenue 569,40.76094616992643,-73.99848999211183
+1007,Schrader W A & J ,undecided,,Italian,11th Avenue 569,40.76094616992643,-73.99848999211183
+1008,Schwarz John ,m,,German,Bowery Street 301,40.72568530481725,-73.99221451043745
+1009,Schwarz John ,m,,Italian,Bowery Street 301,40.72568530481725,-73.99221451043745
+1010,Seipp Charles ,m,,German,2nd Avenue 1654,40.7772997092904,-73.95208292853125
+1011,Seipp Charles ,m,,Italian,2nd Avenue 1654,40.7772997092904,-73.95208292853125
+1012,Silberman Bernhard ,m,,German,Canal Street 42,40.71530235047615,-73.99170568102141
+1014,Steiner William ,f,,German,E 15th Street 412,40.73210115376623,-73.98144814599661
+1015,Steiner William ,m,,German-Austrian,E 15th Street 412,40.73210115376623,-73.98144814599661
+1016,Storch Victor ,m,,German,3rd Avenue 563,40.74839643775618,-73.97648534817912
+1017,Storch Victor ,m,,German-Austrian,3rd Avenue 563,40.74839643775618,-73.97648534817912
+1018,Volk Charles F ,m,,German,Church Street 76,,
+1019,Volk Charles F ,m,,Jewish,Church Street 76,,
+1020,Volk Charles F ,m,German,German,Church Street 84,,
+1021,Volk Charles F ,m,,Jewish,Church Street 84,,
+1022,Werner Sophia ,m,,German,W 4th Street 12,40.728993229015444,-73.99445473328146
+1023,Werner Sophia ,f,,German Jew,W 4th Street 12,40.728993229015444,-73.99445473328146
+1024,Zeitien Philip ,m,,German,Canal Street 126,40.71666906153827,-73.9959569881998
+1026,Albietz Minnie ,f,,German,W 20th Street 112,40.741858401772845,-73.99588063776234
+1027,Applesdorf Morris ,m,,German,Houston Street E 132,40.72413266928313,-73.99106653564796
+1028,Arendt William ,m,,German,E 4th Street 87,40.72572509196515,-73.98721850498778
+1029,Arfmann & Flink ,cannot use api,,German,Franklin Street 178,40.719890938339255,-74.00895451937646
+1030,Besthoff Rosa ,f,,German,1st Avenue 797,40.750701804257126,-73.96896816041789
+1031,Beneakowsky Meyer ,m,,German,Ludlow Street 5,40.715153074265366,-73.99119077397069
+1032,Block & Botzet ,cannot use api,,German,W 125th Street 263,40.8094893260343,-73.94936271962324
+1033,Blottner Morris ,m,,German,Broadway 178,40.71086178325341,-74.00928397442033
+1034,Bock Christian ,m,,German,Laight Street 74,40.72275230273771,-74.01016315430373
+1035,Burger Joseph ,m,,German,C Avenue 20,40.721863578059676,-73.98083598042872
+1036,Dabritz & Zimmermann ,undecided,,German,Broadway 699,40.72955499574265,-73.99387725579072
+1037,Deutermann & Keil ,undecided,,German,Grand Street 147,40.72091306879345,-73.99977685244832
+1038,Drisbach Oscar ,m,,German,W 27th Street 526,40.75161035499357,-74.00558285490935
+1039,Ehrenrlch Morris ,m,,German,W 21st Street 111,40.74257111557193,-73.99553498604112
+1040,Eisengart George J ,m,,German,Bowery Street 373,40.7279291669347,-73.99135556799959
+1041,Eiten Joseph ,m,,German,Pike Street 13,40.71387480058812,-73.99271232008351
+1042,Engels William I ,m,,German,B Avenue 282,40.731527497844816,-73.97727174461062
+1043,Erdmann Lina ,f,,German,Pearl Street 318,40.709320791888935,-74.0022901363103
+1044,Fischler Moses ,m,,German,Orchard Street 119,40.72065361394222,-73.9892227074017
+1045,Forst Morris ,m,,German,Suffolk Street 116,40.71952508125763,-73.98609881367746
+1046,Frank & Arnold ,m,,German,6th Avenue 512,40.74773372921353,-73.9895329978655
+1047,Gritz M ,undecided,,German,Bond Street 6,40.727655273811365,-73.99491008770774
+1048,Donner Adolph ,m,German,German,Canal Street 43,40.71536964951928,-73.99160951895597
+1049,Bott Caspar ,m,,German,Trinity Place 8,,
+1050,Dresel & Blau ,cannot use api,,German,2nd Avenue 85,40.72673032899606,-73.98944894059792
+1051,Bossert William A ,m,,German,Hudson Street 419,40.730094615136714,-74.0068956274817
+1052,Cuno Emil ,m,,German,William Street 226,40.7120486564721,-74.00294565358162
+1053,Wind Ferdinand ,m,German,German,W 30th Street 626,,
+1054,Pepper Julius ,m,Russian/German/Austrian/Hungarian,German,E 14th Street 34,40.735604930403404,-73.9914014198145
+1055,Urban Julius ,m,German/Austrian/Russian/Hungarian,German,10th Avenue 476,40.75620494664158,-73.99790651072924
+1056,Weber Henry ,m,Russian/Austrian/German,German,W 34th Street 504,40.756185371157265,-74.00310210695798
+1057,Wilser Frank ,m,Russian/Austrian/Hungarian/German,German,Broadway 2988,,
+1058,Winter Julius ,m,German,German,2nd Avenue 233,40.733140713262934,-73.9850920949895
+1059,Naething Arthur R ,m,,German,Broome Street 436,40.72217998345766,-73.9995487886928
+1060,Grossman Adolph ,m,,German,Allen Street 73,40.71858731357491,-73.99119744326502
+1061,Gruner Philip ,m,,German,Bond Street 47,40.72667272617353,-73.99312191182119
+1062,Harfst Carl B ,m,,German,Hudson Street 205,40.72403262093925,-74.0078500870692
+1063,Hauck & Colo ,undecided,,German,Cortlandt Street 61,40.71125570745153,-74.0125069250657
+1064,Heumann Michael ,m,,German,E 58th Street 145,40.76139611918584,-73.96785274860598
+1065,Horst William ,m,,German,W 52nd Street 301,40.76442226274297,-73.98731246771027
+1066,Klein Anne ,f,,German,Columbia Street 118,40.71973067502351,-73.97923664247804
+1067,Klein Rose ,f,,German,Attorney Street 122,40.72006124266942,-73.98391607273318
+1068,Kleinschmldt Henry ,m,,German,Bowery Street 322,40.72589774761815,-73.99227363370359
+1069,Meier Martin ,m,New York/Ireland/ ,German,Maiden Lane 74,40.7078732145246,-74.00760615811784
+1070,Miller Julius ,m,,German,Tremont Avenue 1331,,
+1071,Spies Peter ,m,,German,Fulton Street 110,40.70955955627359,-74.00549933411284
+1072,Spies Peter ,m,,German-Austrian,Fulton Street 110,40.70955955627359,-74.00549933411284
+1073,Gehben Ernest J ,m,German,German,Ann Street 26,40.71095586758614,-74.00729930506577
+1074,Fuchs Dezso ,m,German,German,2nd Avenue 1,40.72476282165469,-73.99082412598273
+1075,Herman Kalmen ,m,Russian/German/Austrian,German,Rivington Street 136,40.71991420037874,-73.98626203488887
+1076,Carbade John ,m,German,German,Broadway W 487,,
+1077,Harth Henry R ,m,German/Austrian/Hungarian,German,2nd Avenue 2076,40.79106836286776,-73.94205884878444
+1078,Heinson John S ,m,German,German,John Street 113,40.70803360532011,-74.00558971237116
+1079,Hollander Rose ,f,German/Austrian/New York,German,E 4th Street 105,40.726130910144256,-73.98810214116563
+1080,Hundertpfund William F ,m,German/Austrian/Hungarian,German,W 55th Street 542,40.76965446108516,-73.9944060044208
+1081,Michaels Henry W ,m,German/Austrian/Russian,German,Houston Street E 41,40.725078615865776,-73.99418331538303
+1082,Moewes Charles ,m,German,German,7th Avenue 158,40.742294650115085,-73.99741790449153
+1083,Muschenheim William C ,m,Russian/German,German,W 31st Street 39,40.74797982760366,-73.98886064419997
+1084,Nehrs John ,m,German/Austrian,German,1st Avenue 815,40.75137501550111,-73.96847420037773
+1085,Nickles John ,m,Russian/German/Austrian/New York,German,10th Avenue 400,40.753633146881874,-73.99983099162738
+1086,Rein George C ,m,German,German,6th Avenue 1049,40.76569288004878,-73.97653468004978
+1087,Roettinger John D ,m,German/New York/Switzerland/Austrian,German,Walker Street 94,40.71874877080489,-74.00147348419257
+1088,Sitzmann Matilda ,f,Russian/New York/German,German,B Avenue 21,40.72293922208274,-73.98304945536576
+1089,Stein Henry ,m,Russian/Austrian/German,German,Broadway E 139,,
+1090,Ahrens Henry ,m,,German,2nd Avenue 730,40.74866787945693,-73.97318917683187
+1091,Becker Henry ,m,,German,Ann Street 38,40.71103492641017,-74.00742918746046
+1092,Bohling Charles ,m,,German,E 57th Street 301,40.75904983645413,-73.96407535864917
+1093,Braunberg Delia ,f,,German,Stanton Street 20,40.72273788666985,-73.99098895777796
+1094,Cramer Ernest A ,m,,German,Broadway W 311,,
+1095,Feaster John ,m,,German,3rd Avenue 1598,40.78104768952567,-73.95263457234759
+1096,Feinler John ,m,,German,Harrison Street 32,40.71928529214823,-74.00932324867318
+1097,Friedman Clara ,f,,German,Stanton Street 33,40.722784113326725,-73.99145704223707
+1098,Gerken John H ,m,,German,West Street 166,40.71657880681633,-74.0128173481801
+1099,Grening Mary A ,f,,German,W 23rd Street 54,40.74218317459661,-73.990818338377
+1100,Komerich Charles ,m,Russian/Romanian/German/Hungarian,German,W 44th Street 107,40.75707424479361,-73.98518776938647
+1101,Yannacopulo Ellas ,f,German/Austrian/Hungarian/Russian,German,Madison Street 50,40.71240729252937,-73.99849298029378
+1102,Dukoff Harris ,m,,German,Essex Street 5,40.715811762445014,-73.99000684678397
+1103,Muller Theodore ,m,German,German,Grand Street 538,40.71483125991101,-73.98101284678182
+1104,Spangenberg Frederick ,m,Russian/German/Austrian,German,E 59th Street 243,40.761729662442484,-73.96670036170188
+1105,Bader Valentine ,f,Russian/German/Austrian,German,Trinity Place 52,,
+1106,Becker Daniel ,m,,German,Abingdon Square 3,40.73702541763385,-74.00526554713053
+1107,Berger Samuel ,m,,German,Chrystie Street 189,40.72246219867394,-73.99193498190128
+1108,Buschner Bernard ,m,,German,Jefferson Street 84,,
+1109,Echardt Andre ,m,,German,W 26th Street 134,40.74545760016459,-73.99253877796033
+1110,Gross Martha ,f,,German,Greenwich Street 183,40.712541782118954,-74.0119205424623
+1111,Kearney Martin ,m,,German,10th Avenue 632,40.760945482519155,-73.99447806053536
+1112,Kelly Bridget ,f,,German,Catherine Slip 6,40.7104135891421,-73.99642358728957
+1113,Kelly Darby ,f,,German,Catherine Slip 18,40.71001324175818,-73.99635365429964
+1114,Kennedy Brothers ,m,,German,W 27th Street 454,40.7493256006571,-73.99976038621944
+1115,Keuling Henry ,m,,German,Wooster Street 64,40.724345759836034,-74.0012139410543
+1116,Kiefler Henry ,m,,German,W 63rd Street 201,40.773981575812655,-73.98881140018239
+1117,Kiernan Thomas ,m,,German,Sheriff Street 34,40.716579408963504,-73.98193150510394
+1118,Kligallon Mary A ,f,,German,Christopher Street 181,40.73307492859135,-74.00982523351595
+1119,Kiniry Frances ,f,,German,Grand Street 500,40.715544547394494,-73.98334316199666
+1120,Lang Edward F ,m,,German,8th Avenue 139,40.7414134903727,-74.0017820345569
+1121,Lang John W ,m,,German,E 42nd Street 157,40.751545400680214,-73.97575347980994
+1122,London Bernard ,m,,German,Fulton Street 63,40.70958057260836,-74.00535336824255
+1123,Loster John ,m,,German,Ann Street 60,40.711179867587546,-74.00766730518407
+1124,Lowry M B ,undecided,,German,Broad Street 57,40.70625736702757,-74.01118259926116
+1125,Lundie James ,m,,German,Thomas Street 81,40.71788579982802,-74.00839442197774
+1126,Lynch Bernard ,m,,German,Clinton Place 46,40.732723375008526,-73.99613726845702
+1127,Lyons Michael F ,m,,German,Bowery Street 259,40.72412534010261,-73.99272109696437
+1128,McCafferty James ,m,,German,Hudson Street 290,40.7259183147219,-74.00742016647169
+1129,McCarthy William J ,m,,German,3rd Avenue 420,40.74335019732365,-73.98045023306298
+1130,McCormack Ann ,f,,German,E 34th Street 309,40.74474907469396,-73.97505750537194
+1131,McDermott Mary ,f,,German,9th Avenue 47,40.74173933050926,-74.00515992589523
+1132,McDermott Terence ,m,,German,10th Avenue 254,40.74852546373106,-74.00360101419494
+1133,McDonald Edward H ,m,,German,Bowery Street 304,40.72566669515418,-73.99233748954653
+1134,McDonald James ,m,,German,South Street 92,40.70634967101433,-74.003865715498
+1135,McDonald Patrick J ,m,,German,Broadway 1446,40.75469353116112,-73.98678865565778
+1136,McGinley James ,m,,German,3rd Avenue 2012,40.79460778431272,-73.94271348365152
+1137,McGough Joseph ,m,,German,E 125th Street 62,40.80539273389163,-73.93989701991062
+1138,McGuinness Michael ,m,,German,3rd Avenue 293,40.73869433458229,-73.98358850600782
+1139,McKibbin F E ,undecided,,German,W 14th Street 404,40.74201563975012,-74.0077782677308
+1140,McLoughlin James ,m,,German,10th Avenue 835,40.76830002601324,-73.98934019165704
+1141,McMahon John ,m,,German,6th Avenue 472,40.7466067737151,-73.99034610478192
+1142,McMahon Owen ,m,,German,West Avenue 12,,
+1143,McMahon Peter ,m,,German,3rd Avenue 124,40.733054618459164,-73.98800528199524
+1144,McMahon Terence ,m,,German,3rd Avenue 499,40.74552680500104,-73.97856530920012
+1145,McManus Charles ,m,,German,Boulevard Street 358,,
+1146,McManus Michael ,m,,German,3rd Avenue 1503,40.7776888858951,-73.95481752428235
+1147,McManus Owen B ,m,,German,Liberty Street 144,40.71106637095352,-74.01370715974818
+1148,McNulty John ,m,,German,3rd Avenue 2370,40.80617517608185,-73.93421665999648
+1149,McSherry Ellen ,f,,German,11th Avenue 520,40.75991542049082,-73.9989791118728
+1150,McVey George H ,m,,German,Hudson Street 482,40.73233737183201,-74.00641745547674
+1151,Mackee Horace E ,m,,German,W 23rd Street 149,40.7434820859243,-73.99373327108485
+1152,Mackee Horace E ,m,,German,W 18th Street 36,40.73939941874423,-73.99335655804062
+1153,Madison James H ,m,,German,W 53rd Street 152,40.7620228574491,-73.97968997369495
+1154,Mallach Charles ,m,,German,West Street 125,40.71304991406577,-74.01378337990413
+1155,Mollfein Frederick ,m,,German,Chrystie Street 222,40.72295916912921,-73.99157525903773
+1156,Molloy John J ,m,,German,1st Avenue 518,40.74211490148368,-73.97507641212523
+1157,Molloy John J ,m,,German,E 105th Street 47,40.79232477642945,-73.94845270985441
+1158,Brophy & Kernell ,cannot use api,,German,E 105th Street 47,40.79232477642945,-73.94845270985441
+1159,Monaghan John ,m,,German,West Street 21,,
+1160,Moran Alice ,f,,German,Wooster Street 243,40.72972945019866,-73.99678224664652
+1161,Moran Hannah ,f,,German,Moore Street N 5,40.72033717193544,-74.00645131804096
+1162,O'Brien Michael ,m,,German,8th Avenue 2344,40.82539067688778,-73.93996204431407
+1163,O????Connell James,m,,German,3rd Avenue 862,40.757812632535,-73.96980056872434
+1164,O????Connell John J,m,,German,W 31st Street 459,40.751637144044615,-73.99773046045189
+1165,O????Connell Michael,m,,German,Watts Street 61,40.7243539994439,-74.00730706850125
+1166,O????Connor Michael,m,,German,E 23rd Street 300,40.73764707673569,-73.97999878929446
+1167,O????Donnell Catharine,f,,German,Pell Street 7,40.7150783367361,-73.99717443693339
+1168,O????Hare Thomas,m,,German,Prince Street 152,40.72648934835174,-74.00132315616301
+1169,O????Keefe William,m,,German,1st Avenue 672,40.74700695009433,-73.9714691302597
+1170,Ryba William ,m,,Polish,1st Avenue 672,40.74700695009433,-73.9714691302597
+1171,O????Leary Jane,f,,German,3rd Avenue 36,40.731233054633435,-73.98924961338292
+1172,Oliver Thomas W ,m,,German,8th Avenue 226,40.7444397218066,-73.99929691282405
+1173,O????Neil John,m,,German,8th Avenue 2287,40.82608108771976,-73.93979419205691
+1174,O????Neill Andrew F,m,,German,Clinton Place 53,40.732601842376354,-73.99562064464
+1175,O????Neill Andrew F,m,,German,3rd Avenue 385,40.74190118905068,-73.98125203533061
+1176,O'Neill Daniel J,m,,German,3rd Avenue 455,40.74456558692908,-73.97924493064818
+1177,O????Neill Sarah,f,,German,6th Avenue 358,40.74308852267471,-73.99290739472258
+1178,O????Neill Sarah,f,,German,6th Avenue 366,40.74276852267208,-73.99312339520473
+1179,O????Reilly Henry ,m,,German,W 13th Street 306,40.74009380805113,-74.00439472811155
+1180,Reardon William J ,m,,German,Grand Street 164,40.72016467945347,-73.99804567835625
+1181,Reilly Edward ,m,,German,2nd Avenue 619,40.74449140122071,-73.97655765605128
+1182,Reilly James ,m,,German,E 10th Street 417,40.726276228761456,-73.97746186006538
+1183,Roon James ,m,,German,10th Avenue 18,40.739999511057235,-74.00934159920173
+1184,Ryan Hannah ,f,,German,John Street 29,40.70975204376781,-74.00791353638563
+1185,Ryan James ,m,,German,Centre Market Place 80,,
+1186,Ryan James J ,m,,German,2nd Avenue 512,40.741532925698635,-73.97854581002302
+1187,Sears Margaret ,f,,German,Hudson Street 21,40.71720528806579,-74.00906341338606
+1188,Sharkey Patrick ,m,,German,Houston Street E 493,40.719619787578395,-73.97645505724125
+1189,Sharpe Edward ,m,,German,Boulevard Street 419,,
+1190,Sheridan Catharine A ,f,,German,3rd Avenue 1101,40.76508154238513,-73.96425545438854
+1191,Shinkman Samuel ,m,,German,Broadway E 192,,
+1192,Sillery Margaret ,f,,German,7th Avenue 778,40.7613339518438,-73.98339375575785
+1193,Skelly Harry ,m,,German,3rd Avenue 2643,,
+1194,Squier William E ,m,,German,W 20th Street 125,40.74178184064514,-73.99545172590673
+1195,Stafford James S ,m,,German,2nd Avenue 1873,40.78440770698869,-73.94713554069565
+1196,Sweeney James J ,m,,German,Beaver Street 37,40.705513938304236,-74.0111463710577
+1197,Tighe James C ,m,,German,W 69th Street 201,40.77789341454305,-73.98602275109519
+1198,Bette Brothers ,m,,German,Spring Street 20,40.72191616798138,-73.99509510130711
+1199,Degrushe Jessie ,f,,German,Old Slip 25,40.70446279153297,-74.00889963315831
+1200,Excelsior Lunch Co ,cannot use api,,German,Fulton Street 142,40.71125657190403,-74.00895449153849
+1201,Achorn John E ,m,,German,Fulton Street 142,40.71125657190403,-74.00895449153849
+1202,Fortunate Frederick ,m,,German,Mott Street 211,40.72335409612234,-73.99495795441133
+1203,Gesing Charles ,m,,German,West Street 56,,
+1204,Goyett & Striem ,cannot use api,,German,3rd Avenue 148,40.73483921737658,-73.98663680407064
+1205,Casey & Doody ,cannot use api,,German,Broad Street 136,40.70280258207496,-74.01184552634787
+1206,Conklin Alvin S ,m,,German,Stone Street 67,,
+1207,Culhane & Thompson ,cannot use api,,German,6th Avenue 490,40.74723212717065,-73.98989991293782
+1208,Dunne & Kirkland ,cannot use api,,German,Fulton Street 141,40.71136582808657,-74.00895990840907
+1209,Costink Brothers ,m,,German,Houston Street E 209,40.72260190782471,-73.9866864084026
+1210,Genteman Catharine ,f,,German,1st Avenue 2333,40.79814023584895,-73.9339684611393
+1211,Frank Charles ,m,,German,Forsyth Street 206,40.72275292626778,-73.99076764798278
+1212,Grosjean Mary ,f,,German,2nd Avenue 613,40.74469254407644,-73.9764250849416
+1213,Andrea William ,m,,German,E 59th Street 245,40.76175194092334,-73.96675666549024
+1214,Freda Mary ,f,,German,Baxter Street 62,40.71666654095575,-74.00018317457967
+1215,Domosky Joseph ,m,,German,Eldridge Street 138,40.72098343526869,-73.99067999469226
+1216,Barron Samuel H ,m,,German,Broadway 298,40.71530495078393,-74.00544920847759
+1218,Graham Arthur J ,m,,German,1st Avenue 230,40.73128970613692,-73.98293343762457
+1220,Courser Daniel C ,m,,German,5th Avenue 119,40.73885570151393,-73.99183012602445
+1221,Demorest William H ,m,,German,West Street 391,40.73324753486319,-74.01014548088824
+1222,Bauman George ,m,,German,Delancey Street 42,40.7200870078042,-73.99161779442942
+1223,Bihlman Matthew ,m,,German,8th Avenue 976,40.76718062101418,-73.98260813312562
+1224,Breiner Mary A ,f,,German,Greenwich Street 503,40.72564254299925,-74.00908791950614
+1225,Breitenbach John ,m,,German,E 4th Street 201,40.72412527238208,-73.9833461400166
+1226,Doscher John ,m,,German,Barclay Street 27,40.71363893643071,-74.01049090023233
+1227,Droppman Charles ,m,,German,James Slip 4,40.71001403439044,-73.99832032346828
+1228,Dull Daniel ,m,,German,6th Avenue 176,40.737009693792814,-73.99733632743785
+1229,Egstein Charles ,m,,German,1st Avenue 46,40.72445596522948,-73.98797187362743
+1230,Eller Rose ,f,,German,Amsterdam Avenue 442,,
+1231,Emmerich John ,m,,German,Houston Street W 56,40.72692753455997,-73.99841402557293
+1232,Feaster Henry ,m,,German,2nd Avenue 2237,40.79568857468561,-73.93900581473056
+1233,Gardella John ,m,,German,Baxter Street 36,40.71555448395366,-74.00055416123479
+1234,Dondero John ,m,,German,Bowery Street 149,40.71898137995167,-73.99473962435073
+1235,Carlson Alfred ,m,,German,Canal Street 511,40.7245714633657,-74.00814339556271
+1236,Ahrens Henry ,m,,German,Amsterdam Avenue 951,,
+1237,Custer Edward ,m,,German,Broadway 212,40.71168821445857,-74.00853643941493
+1238,Greenberg Sarah ,f,,German,Chrystie Street 178,40.72041581885244,-73.9928247748057
+1239,Gathmann John ,m,,German,E 4th Street 24,40.728876293691606,-73.99421106698684
+1240,Abromowitch Joseph ,m,,German,8th Avenue 2924,40.829493680209616,-73.93697268418795
+1241,Delora John M ,m,,German,7th Avenue 430,40.75086996775937,-73.9911492892769
+1242,Friedman Bernard ,m,,German,Stanton Street 235,40.719857265128866,-73.98195180896325
+1243,Booras John ,m,,German,Battery Place 5,40.70526818354847,-74.0148456187762
+1244,Finn James ,m,,German,Broad Street 52,40.705998632949196,-74.01136140053418
+1245,Fossa James ,m,,German,Pearl Street 505,40.71373323507296,-74.00085877156539
+1246,Allweier John ,m,,German,E 4th Street 63,40.72712709179515,-73.99032423355429
+1247,Alten Henry ,m,,German,Broadway W 227,,
+1248,Baussmann John ,m,,German,1st Avenue 2016,40.78773866831793,-73.9414161660644
+1249,Diercksen William ,m,,German,West Street 319,40.72888815951325,-74.0105580404154
+1250,Delljo John ,m,,German,7th Avenue 604,40.75671553476186,-73.9868299657223
+1251,Cafe Savarin Co ,cannot use api,,German,Broadway 120,40.70913306087125,-74.0107689925998
+1252,Cafe Savarin Co ,cannot use api,,Russian,Broadway 120,40.70913306087125,-74.0107689925998
+1253,Courser Daniel C ,m,,German,E 19th Street 1,40.7388392941127,-73.99000309898874
+1254,Reichenbach Charles ,m,,German-Austrian,E 19th Street 1,40.7388392941127,-73.99000309898874
+1255,Allen Brothers ,m,,German,3rd Avenue 1278,40.77090425445037,-73.96020167547364
+1256,Archer James E ,m,,German,W 42nd Street 106,40.7560429074221,-73.98690641507245
+1257,Barron Samuel H ,m,,German,Broadway 36,40.70571169009277,-74.01357671409785
+1258,Barron Samuel H ,m,,German,Broadway 156,40.71000527647475,-74.01000125419459
+1259,Barson John J ,m,,German,3rd Avenue 119,40.73314664461098,-73.98765534944417
+1260,Beattie James ,m,,German,Canal Street 533,40.725249174392765,-74.0091759852959
+1261,Bender Edward ,m,,German,1st Avenue 1356,40.76968280847483,-73.95474344511275
+1262,Berry Jane A ,f,,German,W 43rd Street 513,40.76101996410827,-73.99664229902936
+1263,Carr Michael ,m,,German,West Street 424,40.73544484332305,-74.00978420698866
+1264,Carradine & Doty ,cannot use api,,German,W 20th Street 45,40.74044618788658,-73.99207630706032
+1265,Corbett & McGillen ,cannot use api,,German,Pearl Street 114,40.70507530197176,-74.00909040989796
+1266,Daniel John F ,m,,German,10th Avenue 318,40.751385449997976,-74.00151523967969
+1267,Danker Charles H ,m,,German,W 23rd Street 503,40.747903968562525,-74.00443375961167
+1268,Dewey & Diaz ,cannot use api,,German,3rd Avenue 93,40.732697393784925,-73.98798058629787
+1269,Dillon & Butler ,cannot use api,,German,3rd Avenue 925,40.75938575349526,-73.96838286262654
+1270,Dunston & Kennelly ,cannot use api,,German,6th Avenue 761,40.75615684444235,-73.98354893941057
+1271,Dunston & Kennelly ,cannot use api,,German,Columbus Avenue 306,,
+1272,Dun worth Thomas ,m,,German,Broadway W 172,,
+1273,Fay & Kane ,cannot use api,,German,W 125th Street 69,40.80686819525027,-73.94317963085159
+1274,Fries Henry ,m,,German,Canal Street 241,40.71893192372525,-74.00033503745424
+1275,Gibson James Jr ,m,,German,Maiden Lane 63,40.70922824940351,-74.00850192580899
+1276,Gibson James Jr ,m,,German,William Street 87,40.70837526545411,-74.00802508615001
+1277,Acierno Giacchino ,m,,German,Mulberry Street 209,40.72115968888348,-73.99675231319684
+1278,Alessandro Michael ,m,,German,Mulberry Street 20,40.71437875042252,-73.99945583167765
+1279,Argiro Domenica ,f,,German,Park Street 95,40.714381966467045,-73.99963868592558
+1280,Bachareli Luigi ,m,,German,Spring Street 54,40.72262819925667,-73.99668504598922
+1281,Balestrieri Michael ,m,,German,Mott Street 248,40.724916301359556,-73.99418263245627
+1282,Bernardoni Julia ,f,,German,Mulberry Street 29,40.71431024954911,-73.99955412280926
+1283,Bianchi Santo ,m,,German,Stone Street 12,40.70452755277562,-74.01234983772801
+1284,Bianchi Santo ,m,,German,Bridge Street 29,40.70361646793049,-74.01239758646807
+1285,Braibanti Antonio ,m,,German,1st Avenue 2207,40.7943334298521,-73.93686268602548
+1286,Brindisi Francesco ,m,,German,Thompson Street 58,40.72509847116082,-74.00270724946024
+1287,Bruccellaria Luigi ,m,,German,Bleecker Street 157,40.72929680188036,-74.00018413522399
+1288,Bugue Giacomo ,m,,German,Mac Dougal Street 119,40.730760687351875,-74.00030720100185
+1289,Cambria Giuseppe ,m,,German,Mulberry Street 118,40.71782571184934,-73.99832007151396
+1290,Cariboni Salvador ,m,,German,E 115th Street 338,40.79630727832344,-73.93822563463236
+1291,Cassinelli & Boggio ,undecided,,German,6th Avenue 415,40.7450632841979,-73.99173484609408
+1292,Cavezzi Nicola ,f,,German,Oak Street 33,40.71091524051667,-73.99914267470365
+1293,Chellini Anna ,f,,German,Mulberry Street 9,40.714410249549296,-73.99958957744018
+1294,Dalmato Vincenzo ,m,,German,Mott Street 122,40.719421587292345,-73.9964841078486
+1295,Degregori Marco ,m,,German,Sullivan Street 134,40.728140402963156,-74.00134512816676
+1296,Delvilani & Robart ,undecided,,German,W 24th Street 51,40.742867294373866,-73.9900232500297
+1297,DeMaria Enrico ,m,,German,Mulberry Street 148,40.71870572125574,-73.99777354430569
+1298,De Pasquale Magdalena ,f,,German,Mulberry Street 112,40.718001711849965,-73.99820807137368
+1299,Di Gristofolo Angelo ,m,,German,State Street 3,40.70174176550929,-74.01350581665521
+1300,Occhipinti & Gristofolo ,cannot use api,,Italian,State Street 3,40.70174176550929,-74.01350581665521
+1301,Ditorino Contine ,f,,German,Mulberry Street 240,40.72292576537352,-73.99588189532288
+1302,Esposito Antonio ,m,,German,1st Avenue 2217,40.79531138723269,-73.93610051397448
+1303,Flauti Alfonso ,m,,German,Thompson Street 174,,
+1304,Forlenza Giusseppe ,m,,German,Mulberry Street 40,40.715901797534464,-73.99923931710991
+1305,Garbarino Antonio ,m,,German,Bowery Street 336,40.7266846187746,-73.99200677653734
+1306,Gazzo Virgil R ,m,,German,Broadway 1425,40.75393488358421,-73.98722408673751
+1307,Gianchetta Giuseppe ,m,,German,Bayard Street 98,40.71665953397125,-73.99976716241304
+1308,Giardini Deidue ,f,,German,Baxter Street 32,40.715844366306705,-74.00057298502055
+1309,Rossi Emilio ,m,,Italian,Baxter Street 32,40.715844366306705,-74.00057298502055
+1310,Giglio Silvestro ,m,,German,Cortlandt Street 2,40.71080946643229,-74.01103868525186
+1311,Grosseria Pasquale ,m,,German,Elizabeth Street 149,40.72098946067255,-73.99504136172011
+1312,Italzi Vincenzo ,m,,German,Hester Street 185,40.71848561965368,-73.99740222678575
+1313,Liguori Salvatore ,m,,German,E 112th Street 356,40.79405746680706,-73.93865558544617
+1314,Lodotei Giuseppe ,m,,German,Elizabeth Street 234,40.72389909922845,-73.99375928056537
+1315,Lollo Frank ,m,,German,Broome Street 357,40.72060249887083,-73.99594413727623
+1316,Lombardi Nicola ,f,,German,Mott Street 159,40.72036248146332,-73.99621177849923
+1317,Manfredonio Serafino ,m,,German,Mulberry Street 174,40.72017206185512,-73.99704720760218
+1318,Manzoni Baidassarre ,m,,German,Chambers Street 110,40.716739063967545,-74.01078142315806
+1319,Mieheletti Terese S ,m,,German,W 38th Street 109,40.752652668898165,-73.98626351490356
+1320,Miserocchi Felix ,m,,German,E 21st Street 44,40.73987942347395,-73.98919148413685
+1321,Morello Angelo ,m,,German,W 29th Street 4,40.74616477268609,-73.98855189748018
+1322,Nardiello Salvadore ,m,,German,Prince Street 29,40.72329794625995,-73.99426329340254
+1323,Pellettieri Luigi ,m,,German,Elizabeth Street 167,40.72302464555162,-73.99424930051394
+1324,Pennachio Frank ,m,,German,Mulberry Street 75,40.71729963565159,-73.99877036769377
+1325,Peragallo Ferdinand ,m,,German,South Street 51,40.70471551084177,-74.00646932707188
+1326,Schoenherr Margaret ,f,,German,E 23rd Street 343,40.738148615561364,-73.98091244125393
+1327,MORETTI S ,undecided,,German ,E 21st Street 22,40.73946342347112,-73.98823148395431
+1328,Jochim Frederick ,m,,German Empire,Allen Street 205,40.722451988878575,-73.98923381230375
+1329,Messere Samuel ,m,,German Empire,Mulberry Street 115,40.717952954792366,-73.99837059525412
+1330,Berkowitz William ,m,,German Jew,3rd Avenue 1760,40.785949165374504,-73.9490390875105
+1331,Finkenstein Julius ,m,,German Jew,W 23rd Street 152,40.743365914068406,-73.99369872886659
+1332,Goldberg Davis ,m,,German Jew,Allen Street 165,40.721450331359,-73.98968215145968
+1333,Kramer Charles ,m,,Germanic Language Speaking,Allen Street 165,40.721450331359,-73.98968215145968
+1334,Goldmann M ,undecided,,German Jew,Wooster Street 168,40.72814472168994,-73.99810764948118
+1335,Naftilowitz Morris ,m,,Russian Jew,Wooster Street 168,40.72814472168994,-73.99810764948118
+1336,Goldstein Leopold ,m,,German Jew,Forsyth Street 140,40.721250901928926,-73.99154429113156
+1337,Greenbaum Ludwig ,m,,German Jew,Houston Street W 55,40.7268742432077,-73.9985273077333
+1338,Greenbaum Moritz ,m,,German Jew,Houston Street E 354,40.721367984505754,-73.98214639946443
+1339,Herskowitz Jos H ,m,,German Jew,Houston Street E 364,40.721019074191496,-73.98101671262212
+1340,Jacobs Max ,m,,German Jew,3rd Avenue 1919,40.79103810088694,-73.94503885802695
+1341,Katz Berthold ,m,,German Jew,Houston Street E 286,40.722045407336545,-73.98456700045921
+1342,Kolb Richard ,m,,German Jew,Pearl Street 164,40.706682654077966,-74.00713249052718
+1343,Kolb Valentine ,f,,German Jew,E 18th Street 28,40.73756123576493,-73.98899211191643
+1344,Kolbe John ,m,,German Jew,Broadway W 273,,
+1345,Markowitz Ansel ,m,,German Jew,Eldridge Street 67,40.71774142899627,-73.99246459957632
+1346,Steinberg Bernhard ,m,,German Jew,Ann Street 9,40.71145689139918,-74.00791006393503
+1347,Steinberg Bernhard ,m,,German Jew,Ann Street 15,40.711608891398164,-74.00814206386391
+1348,Tallowitz Frank ,m,,German Jew,1st Avenue 117,40.72809666255964,-73.98556631021317
+1349,Feldmann & Bile ,cannot use api,,German Jew,2nd Avenue 1529,40.77385479187604,-73.95517089805382
+1350,Goldberg Louis ,m,,German Jew,Spring Street 118,40.724026842767515,-73.99988942265384
+1351,Glattstein Joseph H ,m,,German Jew,Mercer Street 171,40.72544323155197,-73.99834556652681
+1352,Jacoby Martin ,m,,German Jew,2nd Avenue 1395,40.77025345096765,-73.9577744741414
+1353,Steinberg Prances ,undecided,,German Jew,John Street 40,40.70915014904454,-74.00729873382296
+1354,Lerner Henry ,m,New York/Austrian/German,German Jew,W 13th Street 34,40.73668206751516,-73.99597921627665
+1355,Lyman Ernest ,m,German,German Jew,4th Avenue 395,40.74326101907407,-73.98444650111871
+1356,Berse Aaron ,m,,German Jew,Rutgers Place 25,40.712660944254125,-73.98806001063164
+1357,Citrenbaum Morris ,m,,German Jew,Delancey Street 137,40.71867251518853,-73.98693813673623
+1358,Eckstein Victor ,m,,German Jew,E 4th Street 62,40.72702490819695,-73.9903277664008
+1359,Eichhorn Gaza ,m,,German Jew,Clinton Place 36,40.73197130839923,-73.99439698479412
+1360,Eppenstein Ida ,f,,German Jew,New Street 55,40.70631909353183,-74.01225917959533
+1361,Guttman Adolph ,m,,German Jew,Houston Street E 376,40.72112078847644,-73.98137728401939
+1362,Hermann Israel ,m,,German Jew,Allen Street 93,40.71958188083716,-73.99068465133679
+1363,Rosenberg Gerson ,m,,German Jew,Orchard Street 68,40.71853528337161,-73.99021890013334
+1364,Schneir Solomon ,m,,German Jew,Wooster Street 232,40.72824625650899,-73.99801898543544
+1365,Shanzer Samuel ,m,,German Jew,Greene Street 221,40.729329715868836,-73.99645758578023
+1366,Tuch Fanny ,f,,German Jew,St Mark??Û?s Place 22,,
+1367,Ungar Samuel ,m,,German Jew,Attorney Street 164,40.72087677972767,-73.98347973656809
+1368,Wachsman Emanuel ,m,,German Jew,Canal Street 301,40.72005424813008,-74.00186746954816
+1369,Westphal Amalia ,f,,German Jew,Pearl Street 366,40.710738582775704,-74.0007965312905
+1370,Zimmerman Solomon ,m,,German Jew,Sheriff Street 96,40.71851487069757,-73.9810462624536
+1371,Setzer Pincus ,m,,German Jew,Orchard Street 57,40.716876069259186,-73.9911763093298
+1372,Stern Ludmilla ,f,,German Jew,E 10th Street 64,40.73186440334983,-73.99053560402466
+1373,Stern Ludmilla ,f,FALSE,FALSE,E 10th Street 64,40.73186440334983,-73.99053560402466
+1374,Steinberg Amelia ,f,Russian/Austrian/German,German Jew,Broadway W 182,,
+1375,Weisz & Bohm ,cannot use api,,German Jew,Houston Street E 245,40.722046936129914,-73.98491445005754
+1376,Wembacher & Weiss ,cannot use api,,German Jew,William Street 177,40.7103325393828,-74.00609376528871
+1377,Wertheim & Platzman ,cannot use api,,German Jew,Broadway 697,40.72836403145129,-73.99475925611453
+1378,Wiehl & Widmann ,cannot use api,,German Jew,Chambers Street 101,40.71548645590355,-74.00784605213128
+1379,Wiehl & Widmann ,cannot use api,,German Jew,Beaver Street 18,40.705418463949904,-74.01228745738631
+1380,Wieland Charles ,m,,German Jew,Houston Street E 248,40.722159217712175,-73.98496431913912
+1381,Wieners Henry ,m,,German Jew,D Avenue 123,40.72443696840409,-73.97618273978802
+1382,Wingen Louisa J ,f,,German Jew,3rd Avenue 959,40.76079479069611,-73.96733779666602
+1383,Krim Abraham ,m,,German Muslim,Vesey Street 67,40.71335134037142,-74.01186352258932
+1384,Gee George W ,m,FALSE,German Speaking,W 13th Street 443,40.74189367993899,-74.00949091332296
+1385,Baldauf Andrew ,m,Austrian,German-Austria,2nd Avenue 67,40.726171268443345,-73.98983341801804
+1386,Kammerer Georgia ,f,,German-Austrian,2nd Avenue 1432,40.77041294075652,-73.95737775438232
+1387,Huber Anton ,m,,German-Austrian,Av A 246,,
+1388,Kirschner Anna ,f,,German-Austrian,Pitt Street 35,40.71708041957648,-73.98362516464796
+1389,Puhr Leopold ,m,,German-Austrian,3rd Avenue 129,40.73418611562646,-73.9868217864626
+1390,Scheubner Michael ,m,,German-Austrian,Grand Street 61,40.72262285621752,-74.0032254646505
+1391,Schlosser Leopold V ,m,,German-Austrian,Pine Street 7,40.708369945687316,-74.0106345540764
+1392,Schneider Thomas,m,,German-Austrian,2nd Avenue 436,40.7388917516595,-73.98053880239871
+1393,Dannbacher Stimis & Co ,cannot use api,,German-Austrian,William Street 191,40.71157034666958,-74.00467829997481
+1394,Freyder Michael ,m,,German-Austrian,Clinton Place 5,40.7314240317895,-73.99291539133031
+1395,Adler & Lesser ,cannot use api,,German-Austrian,Wooster Street 204,40.72914153856428,-73.99720124119429
+1396,Hauser George ,m,,German-Austrian,Delancey Street 66,40.71993159734483,-73.99109451404765
+1397,Hummer & Grasser ,cannot use api,,German-Austrian,Pearl Street 119,40.704995555153644,-74.00936444719053
+1398,Hutter Joseph ,m,,German-Austrian,Broadway W 52,,
+1399,Loide Thomas ,m,,German-Austrian,B Avenue 106,40.72517997881889,-73.98167390951511
+1400,Neumann Michael J ,m,,German-Austrian,Delancey Street 14,40.720249154576194,-73.99215199449387
+1401,Pulvermacher Ludwig ,m,,German-Austrian,Broadway 203,40.71112774741529,-74.00933064382222
+1402,Liebstein Joseph ,m,,German-Austrian,9th Avenue 70,40.74223406484565,-74.00453007043374
+1403,Neumayer Ignatz ,m,,German-Austrian,2nd Avenue 89,40.72779123678405,-73.98884113447434
+1404,Sooker Adolph P ,m,,German-Austrian,W 13th Street 66,40.73612470042277,-73.99468949451364
+1405,Stark Max ,m,,German-Austrian,Houston Street E 276,40.72193631642825,-73.98417427322254
+1406,Schriefer Frederick ,m,,German-Austrian,Centre Street 89,40.71567552941294,-74.00213345166107
+1407,Schroeder Frederick ,m,,German-Austrian,Bleecker Street 63,40.726993875172596,-73.99558657604422
+1408,Stenzig Frederick ,m,,German-Austrian,Broadway 1599,40.760523711820596,-73.9848602459905
+1409,Sulzer Gustave ,m,,German-Austrian,Av A 297,,
+1410,Muller Kunigunda ,f,,"German, Austrian, Czech?",Prince Street 101,40.72548447935925,-73.99904681932736
+1411,Martens Frederick ,m,,Germanic language Speaking,5th Avenue 237,40.74479447652411,-73.98740799810963
+1412,Meisels Louis ,m,,Germanic language Speaking,W 4th Street 40,40.72984174810835,-73.99621954575771
+1413,Michaelis Herman ,m,,Germanic language Speaking,Chrystie Street 219,40.72303278322408,-73.99166855054816
+1414,Michaelis Herman ,m,,Germanic language Speaking,Prince Street 118,40.72575745288709,-73.99982146808864
+1415,Buckborg & Salzman ,cannot use api,,Germanic language Speaking,Stanton Street 203,40.71990765697304,-73.9821371205714
+1416,DeBoer Christian A ,m,,Germanic language Speaking,W 12th Street 21,40.73635921110496,-73.99693749405253
+1417,Kleeman William ,m,Ireland/New York,Germanic language Speaking,Manhattan Street 67,,
+1418,Kloppenburg Henry G ,m,Russian/Italian/Austrian/New York,Germanic language Speaking,Dey Street 88,40.71222596755072,-74.01292735599272
+1419,Nuis Henry ,m,Ireland,Germanic language Speaking,2nd Avenue 1555,40.774356090067364,-73.95482903970942
+1420,Zimmerman Frederick ,m,FALSE,Germanic language Speaking,Pearl Street 399,40.71131879166501,-74.0008846634346
+1421,Hesel & Trupin ,cannot use api,Russian,Germanic Language Speaking,Clinton Street 79,40.719230825927355,-73.98543187756299
+1422,Marquart Henry ,m,Luxembourg,Germanic language Speaking,2nd Avenue 2196,40.79457806020603,-73.93951240567678
+1423,Meyer John ,m,Romanian/German,Germanic language Speaking,2nd Avenue 413,40.73836957768659,-73.9811873216908
+1424,Muller Henry ,m,Russian/Austrian,Germanic language Speaking,1st Avenue 869,40.75324111012229,-73.96710047621839
+1425,Muller John ,m,Russian/Austrian,Germanic language Speaking,Av A 201,,
+1426,Berger Anna ,f,,Germanic Language Speaking,E 111th Street 241,40.794659316817075,-73.94188352241189
+1427,Bohrer Frederick ,m,,Germanic Language Speaking,W 24th Street 111,40.74449107977295,-73.99402156229772
+1428,Cantner Frieda ,f,,Germanic Language Speaking,Columbus Avenue 591,,
+1429,Egger Catharine ,f,,Germanic Language Speaking,Park Place 107,40.715259531475404,-74.01209338600663
+1430,Ehrler Dominick ,m,,Germanic Language Speaking,Chatham Street 6,40.712705564496865,-74.00505473121012
+1431,Elmiger Elizabeth ,f,,Germanic Language Speaking,Rose Street 53,40.71212835043369,-74.00120574054989
+1432,Engel Samuel ,m,,Germanic Language Speaking,Houston Street W 52,40.72700931233722,-73.99859535886468
+1433,Fischer Frederick ,m,,Germanic Language Speaking,8th Avenue 302,40.74699932790518,-73.99737809952623
+1434,Froehlich Charles ,m,,Germanic Language Speaking,Houston Street E 96,40.72426187887135,-73.99148125928672
+1435,Frucht David ,m,,Germanic Language Speaking,Elizabeth Street 63,40.717114891362954,-73.99699498102531
+1436,Gaebler Helen ,f,,Germanic Language Speaking,3rd Avenue 1959,40.79240088151104,-73.9440427462903
+1437,Grobholz Frederick ,m,,Germanic Language Speaking,3rd Avenue 747,40.753848248133295,-73.97244176169227
+1438,Heim Charles ,m,,Germanic Language Speaking,University Place 126,,
+1439,Heyermann Adeline ,f,,Germanic Language Speaking,1st Avenue 160,40.7286383625414,-73.9848494784638
+1440,Huber Louis ,m,,Germanic Language Speaking,Spring Street 148,40.72489669062202,-74.00164933356396
+1441,Jaeger Frederick W ,m,,Germanic Language Speaking,Hudson Street 653,40.74040233056512,-74.005501155817
+1442,Kasner Samuel ,m,,Germanic Language Speaking,Houston Street E 137,40.72358161640811,-73.9896203212555
+1443,Keller Charles ,m,,Germanic Language Speaking,2nd Avenue 393,40.73781068912575,-73.98158814007338
+1444,Kollesch Charles ,m,,Germanic Language Speaking,11th Avenue 518,40.75999364271363,-73.99892044508474
+1445,Kramer Charles ,m,,Germanic Language Speaking,Allen Street 123,40.720725986615804,-73.99005800170954
+1446,Loeser Rosa ,f,,Germanic Language Speaking,3rd Avenue 265,40.73830083753832,-73.98388878344113
+1447,Messer Pennock ,m,,Germanic Language Speaking,6th Avenue 183,40.73685725348554,-73.99770114601165
+1448,Meyer Anna ,f,,Germanic Language Speaking,Desbrosses Street 36,40.72412688595191,-74.01087534678766
+1449,Meyer Anne ,f,,Germanic Language Speaking,W 27th Street 134,40.745970829876796,-73.99199530051787
+1450,Meyer Frederick ,m,,Germanic Language Speaking,Greene Street 219,40.72936645660941,-73.99640543765953
+1451,Muller Frederick ,m,,Germanic Language Speaking,Stanton Street 32,40.72285788666897,-73.99138095773897
+1452,Surber George ,m,,Germanic Language Speaking,11th Avenue 850,40.77140518045883,-73.99059283231311
+1453,Suesskind Sibillla ,f,,Germanic Language Speaking,1st Avenue 828,40.75214993594728,-73.96763488974662
+1454,Triesselmann Ernest ,m,,Germanic Language Speaking,W 24th Street 629,,
+1455,Voembruch Frederick ,m,,Germanic Language Speaking,W 42nd Street 412,40.75908088247305,-73.99434494892553
+1456,Wahler Theodore ,m,,Germanic Language Speaking,E 4th Street 106,40.72607636257479,-73.98821240426396
+1457,Wegner Charles ,m,,Germanic Language Speaking,Wooster Street 40,40.72296175515279,-74.00236189342174
+1458,Weiberg Charles ,m,,Germanic Language Speaking,Houston Street E 475,40.719493326038986,-73.97595521105208
+1459,Weiser Samuel ,m,,Germanic Language Speaking,Rivington Street 92,40.72072437537428,-73.98882632644656
+1460,Windisch Charles ,m,,Germanic Language Speaking,W 23rd Street 269,40.744421343381475,-73.99603054438298
+1461,Muller Gustave ,m,,Germanic Language Speaking,C Avenue 229,40.72850924823998,-73.97627144171254
+1462,Muller Gustave ,m,,Germanic language Speaking,C Avenue 229,40.72850924823998,-73.97627144171254
+1463,Baedecker & Wellenkamp ,cannot use api,,Germanic Language Speaking,13th Avenue 2,40.7378547237245,-74.0105921411381
+1464,Berwind Michael P ,m,,Germanic Language Speaking,West Street 74,40.710094148719286,-74.01452081697262
+1465,Beckhardt Samuel ,m,,Germanic Language Speaking,2nd Avenue 1048,40.75869969164245,-73.96595268265072
+1466,Bach B & Son ,m,,Germanic Language Speaking,Greenwich Street 173,40.71162237414591,-74.01222420982636
+1467,Besler W F ,undecided,,Germanic Language Speaking,West Avenue 3,,
+1468,Bahruth Anne ,f,,Germanic Language Speaking,Pearl Street 466,40.71374096248912,-74.00076384707098
+1469,Doscher & Mindermann ,cannot use api,,Germanic Language Speaking,Washington Street 255,40.71635153320816,-74.01176332717718
+1470,Wasser David ,m,German,Germanic language Speaking,Bowery Street 108,40.71854095630863,-73.99508571090051
+1471,Jann Andrew ,m,,Germanic language Speaking,Amsterdam Avenue 969,,
+1472,Kruger Frederick ,m,,Germanic language Speaking,10th Avenue 319,40.751432432260266,-74.00175064274681
+1473,Meisel Anne ,f,,Germanic language Speaking,Broadway E 207,,
+1474,Meyer Charles H ,m,,Germanic language Speaking,3rd Avenue 2553,,
+1475,Rohr Brothers ,m,,Germanic language Speaking,Christopher Street 154,40.733315748275,-74.00747707539294
+1476,Sicher Simon ,m,,Germanic language Speaking,8th Avenue 141,40.74133949037321,-74.00182803443828
+1477,Gutzki Charles ,m,German,Germanic language Speaking,Nassau Street 154,40.712433588979664,-74.0056454095626
+1478,Gutzki Charles ,m,,Scandinavian,Nassau Street 154,40.712433588979664,-74.0056454095626
+1479,Kramer Charles ,m,,Germanic Language Speaking,Exchange Place 45,40.707164901708566,-74.01198979251437
+1480,Laesser Martha ,f,,Germanic Language Speaking,W 22nd Street 275,40.74371536917921,-73.99636311392334
+1481,Carhulas Costas ,m,,Greek,E 106th Street 176,40.79202674076949,-73.94580645256333
+1482,Laskaropoulos Lazarus ,m,,Greek,Madison Street 35,40.7124540624818,-73.99892904251821
+1483,Metropolis Nicholas ,m,,Greek,E 31st Street 202,40.743563478978565,-73.97844512626185
+1484,Popios Thomas ,m,,Greek,James Slip 8,40.710228891533106,-73.99835118042208
+1485,Pasterio Alfred ,m,German,FALSE,James Slip 8,40.710228891533106,-73.99835118042208
+1486,Putits George ,m,,Greek,4th Avenue 116,40.73407697926393,-73.99007691411764
+1487,Demos Emanuel ,m,,Greek,3rd Avenue 1226,40.768693531579615,-73.96180712378964
+1488,Calama Sarando G ,m,,Greek,Chatham Street 14,40.71261247358848,-74.00536309482698
+1489,Zeltner Theodore ,m,,Greek,Pearl Street 549,40.7161756551043,-74.00487316580548
+1490,Zimmermann Samuel ,m,,Greek,Pearl Street 32,40.70310879516755,-74.01289159343055
+1491,Bolliger Louise ,f,,Hungarian,Stuyvesant Street 12,40.73059840781058,-73.98895819268645
+1492,Kneib Catherine ,f,,Hungarian,Moore Street N 21,40.72049886354774,-74.00810819238826
+1493,Leiser Ernest ,m,,Hungarian,5th Avenue 2215,40.812844147936914,-73.93752162429747
+1494,Romano John ,m,Italian,Ialian,Prince Street 163,40.72639065164119,-74.00087524388182
+1495,Toedter & Raabe ,cannot use api,Ireland/Austrian/New York/German,Ireland,11th Avenue 163,40.74894333784121,-74.00723246745534
+1496,Tomsuden & Jantzen ,cannot use api,Ireland/Austrian/New York/German,Ireland,Grand Street 616,40.713442273971296,-73.97633163194426
+1497,Toebing William ,m,Ireland/Austrian/New York/German,Ireland,Manhattan Street 121,,
+1498,Tolken Charles ,m,Ireland/Austrian/New York/German,Ireland,Greenwich Street 480,40.7246149425616,-74.00937047475503
+1499,Rosedale & Scripture ,cannot use api,,Irish,Beekman Street 3,40.711917504888405,-74.00667829697286
+1500,Rover & Rau ,cannot use api,,Irish,Beaver Street 64,40.70564508445319,-74.00916985648603
+1501,Niven De Witt C ,cannot use api,,Irish,E 23rd Street 123,40.74042313232818,-73.9864034401562
+1502,Reilly Brothers ,m,,Irish,East Avenue 3,,
+1503,Shanley Brothers ,m,,Irish,Broadway 1476,40.75652013498729,-73.98666024237765
+1504,Barrow Prank ,m,,Irish,Beaver Street 21,40.705513091604764,-74.01250009818008
+1505,Barry Catharine ,f,,Irish,1st Avenue 579,40.7441428390098,-73.97385881042712
+1506,Bergin Michael J ,m,,Irish,Bowery Street 380,40.72763136637265,-73.99162363175242
+1507,Bittner John ,m,,Irish,8th Avenue 2273,40.82492836900109,-73.94055517687178
+1508,Brady Edward ,m,,Irish,E 89th Street 356,40.778010416803056,-73.94611591730278
+1509,Breen James ,m,,Irish,2nd Avenue 2268,40.79738201601508,-73.93745199477021
+1510,Brennan Francis J ,m,,Irish,Broadway 1460,40.755681029730184,-73.98679341793536
+1511,Breslin Patrick ,m,,Irish,W 17th Street 202,40.74089213625358,-73.99897969061426
+1512,Byrne Thomas J ,m,,Irish,Houston Street E 87,40.72480345303074,-73.99338111183664
+1513,Byrnes Cornelius ,m,,Irish,Front Street 287,40.708819839158785,-74.00026569331516
+1514,Callahan John J ,m,,Irish,W 39th Street 359,40.7554636223933,-73.9912678776301
+1515,Callahan Michael J ,m,,Irish,Elm Street 82,40.716703480145796,-74.0024997308547
+1516,Cassidy Jane ,f,,Irish,Lincoln Avenue 167,,
+1517,Cavanagh John J ,m,,Irish,W 23rd Street 258,40.74447230367065,-73.9963906321098
+1518,Collins Brothers ,m,,Irish,8th Avenue 145,40.742425620472574,-74.00105324542471
+1519,Conkllng William ,m,,Irish,7th Avenue 756,40.76073919744079,-73.98382993522881
+1520,Conlon John A ,m,,Irish,Centre Street 242,40.72086788394966,-73.9979535873878
+1521,Connolly Thomas ,m,,Irish,W 17th Street 200,40.740913358475936,-73.99903535728936
+1522,Cooney James ,m,,Irish,10th Avenue 76,40.74228135688963,-74.00818971853587
+1523,Corr Mary ,f,,Irish,E 52nd Street 445,,
+1524,Coy James J ,m,,Irish,10th Avenue 804,40.76672032792534,-73.99025995823816
+1525,Cranides Charles ,m,,Irish,7th Avenue 133,40.74070571164192,-73.9983784450387
+1526,Cullen Thomas P ,m,,Irish,Amsterdam Avenue 1365,,
+1527,Curren Joseph A ,m,,Irish,1st Avenue 2005,40.78822650805428,-73.94128406999646
+1528,Cusick J & T ,m,,Irish,Desbrosses Street 37,40.724027114047466,-74.01075665320538
+1529,Danahar Hugh ,m,,Irish,W 14th Street 460,40.742571346994936,-74.00917854247298
+1530,Degnan John ,m,,Irish,3rd Avenue 483,40.74478900953961,-73.97907727334076
+1531,Devenport James ,m,,Irish,Broad Street 107,40.70336998126054,-74.01183273120135
+1532,Donnelly John ,m,,Irish,W 13th Street 400,40.74200986059783,-74.00993684347495
+1533,Dooling William ,m,,Irish,Front Street 38,40.7028040200311,-74.01034911074865
+1534,Doran Charles ,m,,Irish,1st Avenue 635,40.745528100176564,-73.9728386028441
+1535,Dowd John J ,m,,Irish,Broadway 321,40.71673124392771,-74.00453114582267
+1536,Dowd John J ,m,,Irish,Broadway 437,40.72009229980298,-74.00168900147729
+1537,Drenan Joseph ,m,,Irish,Lexington Avenue 1553,40.78813211428794,-73.9491879393301
+1538,Dublin Julius ,m,,Irish,Canal Street 34,40.71484323328403,-73.99045720591592
+1539,Duffy James ,m,,Irish,Delancey Street 334,40.715741889197126,-73.97690108596889
+1540,Dunn Patrick ,m,,Irish,South Street 86,40.70577142869607,-74.00468548681201
+1541,Dupuy John ,m,,Irish,6th Avenue 91,40.73386044769965,-73.99985794750455
+1542,Dushin Frederick ,m,,Irish,Hudson Street 607,40.737275558852495,-74.00572127783468
+1543,Dwyer Brothers ,m,,Irish,E 24th Street 131,40.74121813747262,-73.98603357205647
+1544,Egan Alexander ,m,,Irish,1st Avenue 397,40.73774836993698,-73.97848385951744
+1545,Faughnan Patrick C ,m,,Irish,1st Avenue 959,40.755635624301284,-73.96534915074928
+1546,Ferris John ,m,,Irish,2nd Avenue 1852,40.78356049253926,-73.94751606308053
+1547,Ferris Joseph A ,m,,Irish,W 34th Street 104,40.75075701354394,-73.98988244918003
+1548,Ferris William ,m,,Irish,10th Avenue 560,40.75945434308388,-73.99553738077242
+1549,Fitzgerald John ,m,,Irish,W 26th Street 465,40.74860056536958,-74.00003534799154
+1550,Fitzpatrick Patrick ,m,,Irish,10th Avenue 841,40.7681032260149,-73.98950339136145
+1551,Flynn Thomas ,m,,Irish,Tompkins Street 77,40.71723889406747,-73.9756056447054
+1552,Furey George ,m,,Irish,Bleecker Street 199,40.72983393056167,-74.00122119935986
+1553,Greene William ,m,,Irish,Centre Street 36,40.71430602129192,-74.0032824946447
+1554,Greene William J ,m,,Irish,Grand Street 474,40.715701553446635,-73.98388471851152
+1555,Greene & Brown ,undecided,,Irish,8th Avenue 626,40.756407538317305,-73.99045491234641
+1556,Haggerty Cornelius ,m,,Irish,Tompkins Street 81,40.717097560734366,-73.97564600821947
+1557,Haggerty Frederick F ,m,,Irish,West Street 118,40.712146853869264,-74.01387092971704
+1558,Halloran John H ,m,,Irish,6th Avenue 213,40.73840578391554,-73.9965986311712
+1559,Harrigan Thomas ,m,,Irish,1st Avenue 130,40.727435070664704,-73.98565075754594
+1560,Healy John ,m,,Irish,3rd Avenue 306,40.739672260812945,-73.98317245437674
+1561,Hickey Charles A ,m,,Irish,John Street 64,40.70873216706115,-74.00668984483218
+1562,Holland Charles H ,m,,Irish,Park Place 16,40.71305740521348,-74.00784235073742
+1563,Horgan Daniel ,m,,Irish,Fulton Street 210,40.712717231198404,-74.01243076485103
+1564,Hurley John ,m,,Irish,W 36th Street 165,40.75159423980693,-73.98765427171372
+1565,Hagen John ,m,Ireland,Irish,9th Avenue 802,40.765827547790266,-73.98723253363642
+1566,Harbonier William ,m,FALSE,Irish,Greenwich Street 210,40.712755578165016,-74.01197291582645
+1567,Henken Henry ,m,,Irish,Spring Street 216,40.72576407304435,-74.00343581646939
+1568,Kelling Henry ,m,Ireland/Austrian/New York,Irish,2nd Avenue 828,40.75181604723707,-73.9709136684396
+1569,Reisenweber John Custom h & ,m,Denmark/Sweden/Ireland,Irish,8th Avenue 987,40.76685137889174,-73.98312253301967
+1570,Riechers Henry J ,m,New York/Ireland/England,Irish,Church Street 182,40.719075744445874,-74.00497912732415
+1571,Postiglione Joseph ,m,New York/Ireland/Russian,Irish,1st Avenue 2163,40.79313251584435,-73.93772722005504
+1572,Feratti Michael A ,m,,Irish,Mulberry Street 80,40.71699293575064,-73.99881820398343
+1573,Jonson Peter ,m,New York/ Scottish,Irish,W 125th Street 131,40.80864470961093,-73.94735983851096
+1574,Hevert William F ,m,,Irish,Hudson Street 74,40.71889006655839,-74.00864667400646
+1575,Hillmeyer Frederick ,m,,Irish,1st Avenue 2267,40.796354696957664,-73.93533170092743
+1576,Hinst Elizabeth ,f,,Irish,W 12th Street 378,40.73804442654982,-74.00929264907728
+1577,Hirsch Isaac ,m,,Irish,1st Avenue 807,40.751644489183064,-73.9682518849932
+1578,Hirsch & Lefkowits ,undecided,,Irish,6th Avenue 419,40.74489261753255,-73.99186284583116
+1579,Hoetzer Frederick S ,m,,Irish,Washington Place 23,40.730634806018585,-73.99588259965746
+1580,Hoffman House (lnc) ,cannot use api,,Irish,Broadway 60,40.70646462282,-74.01303092934167
+1581,Hoffman House (lnc) ,cannot use api,,Irish,Beaver Street 7,40.705488202716076,-74.01157920928833
+1582,Hoffman House (lnc) ,cannot use api,,Irish,New Street 21,40.707509226574075,-74.01158264319679
+1583,Hoffman Simon ,m,,Irish,2nd Avenue 105,40.7283610765052,-73.98843517289279
+1584,Gombossy Lena ,f,German/Eastern Europe,FALSE,2nd Avenue 105,40.7283610765052,-73.98843517289279
+1585,Holder George ,m,,Irish,Cornelia Street 33,40.7318720034314,-74.00220555895936
+1586,Astrof Frances ,f,,Irish Jew,Clinton Street 176,40.71580368329338,-73.9869890145554
+1587,Berrums Henry S ,m,,Irish Jew,E 9th Street 51,40.73208745231962,-73.99264101519621
+1588,Gold Joseph ,m,,Irish Jew,Delancey Street 204,40.717785819784346,-73.98364771803061
+1589,Goldstein John ,m,,Irish Jew,Peck Slip 36,40.70817937975537,-74.00125937101042
+1590,Goldstone Frances ,f,,Irish Jew,Walker Street 63,40.71972789062641,-74.00384679244169
+1591,Greenberg Henry ,m,,Irish Jew,Bleecker Street 132,40.728330445129565,-73.99850744388188
+1592,Greenberg Henry ,m,,Irish Jew,Eldridge Street 111,40.71986539665261,-73.99137937833684
+1593,Greenstein Henry ,m,,Irish Jew,Mercer Street 249,40.728963076636305,-73.99539906698222
+1594,Helper Joseph ,m,,Irish Jew,Clinton Street 69,40.720628022391814,-73.98474088351674
+1595,Jaffee Frank S ,m,,Irish Jew,5th Avenue 202,40.74273779009669,-73.98918745549666
+1596,Kimpel John ,m,,Irish Jew,3rd Avenue 805,40.755768213870894,-73.97107609812724
+1597,Levy William ,m,,Irish Jew,Chrystie Street 182,40.72274580130009,-73.99167301786274
+1598,Silverstein Isaac ,m,,Irish Jew,Park Row 97,,
+1599,Peragallo G & Co ,cannot use api,,Italian,3rd Avenue 364,40.74143108493753,-73.98186533530314
+1600,Peragallo G & Co ,cannot use api,,Italian,3rd Avenue 1937,40.791787180219465,-73.94446662714303
+1601,Peragallo G & Co ,cannot use api,,Italian,8th Avenue 432,40.750655663135284,-73.99465430232003
+1602,Prago Brothers ,m,,Italian,Canal Street 140,40.71637917918324,-73.99504781163002
+1603,Summa Brothers ,m,,Italian,Thompson Street 157,40.726738476211175,-74.00147770221264
+1604,Maichel Charles ,m,FALSE,Italian,3rd Avenue 674,40.75123185989622,-73.9745954174808
+1605,Balzarini Joseph ,m,,Italian,South Street 159,40.70812837217718,-74.00109861138239
+1606,Charlon Pasquale J ,m,,Italian,Broad Street 111,40.70341478126064,-74.01183593116323
+1607,Franchini Joseph ,m,,Italian,W 38th Street 103,40.75272525426351,-73.98645785633737
+1608,Lokietz Henry ,m,Italian,Italian,Essex Street 87,40.71861306206031,-73.98866078376449
+1609,Lokietz Henry ,m,,Swiss,Essex Street 87,40.71861306206031,-73.98866078376449
+1610,Fransioli John B ,m,,Italian,W 61st Street 201,40.77276171330058,-73.98966464382515
+1611,Pigniuolo Frank ,m,,Italian,Mulberry Street 193,40.722065535035156,-73.99636831396026
+1612,Pirro Salvatore ,m,,Italian,Mulberry Street 56,40.715087848815756,-73.9993705998765
+1613,Poggi Gaetano ,m,,Italian,Baxter Street 6,40.71382972276482,-74.00018906200518
+1614,Putico Nicholas ,m,,Italian,Greenwich Avenue 3,40.73436569428549,-73.99970145529866
+1615,Rega Gaetano ,m,,Italian,Bayard Street 94,40.71674060063734,-73.9999975623829
+1616,Riccadonna Abele ,undecided,,Italian,E 17th Street 17,40.738059983468325,-73.99160359689462
+1617,Ruocco Frank ,m,,Italian,Franklin Street 14,40.71666551494976,-74.0003998883989
+1618,Sallinoto Nicola ,f,,Italian,Thompson Street 45,40.72344597197568,-74.00428528670177
+1619,Santoro Rosino M ,m,,Italian,Baxter Street 123,40.71826494000873,-73.9990475093734
+1620,Scotti Luigi ,m,,Italian,Mulberry Street 119,40.717835621459436,-73.99844526182727
+1621,Spinelli Domenick ,m,,Italian,Mott Street 284,40.72377559547452,-73.99465698636082
+1622,Spirio Nicholas ,m,,Italian,Roosevelt Street 23,40.71316776815854,-73.9996169192306
+1623,Susi Alesandro ,m,,Italian,Mulberry Street 50,40.71539307958526,-73.99932136883903
+1624,Tomaselli Anna ,f,,Italian,Fulton Street 16,40.707552713041764,-74.00383463948047
+1625,Traverso Cicornio ,m,,Italian,Baxter Street 22,40.71416196817842,-74.000295306503
+1626,Valentino Angelo ,m,,Italian,Baxter Street 128,40.718158232381015,-73.9992476629555
+1627,Santocci Anton ,m,,Italian,Fulton Street 225,40.712673800046275,-74.01204801641596
+1629,Dallera & Gillio Tos ,m,,Italian,W 24th Street 59,40.74271039114916,-73.98962686299714
+1630,Campiglia Richard ,m,,Italian,Bleecker Street 163,40.72913908759568,-73.99987556387335
+1631,Capone Pasquale ,m,,Italian,Hester Street 190,40.71831331367334,-73.99719617314983
+1632,Cupi Eduardo ,m,,Italian,E 22nd Street 17,40.74022775070822,-73.98795782477045
+1633,Zangheri Edward J ,m,New York/German,FALSE,E 22nd Street 17,40.74022775070822,-73.98795782477045
+1634,Gazzello & Babzarini ,undecided,,Italian,3rd Avenue 2110,40.797803653623916,-73.94043182579567
+1635,Risoali Joseph ,m,Italian,Italian,Broadway W 239,,
+1636,Fopiano Stephen ,m,,Italian,Church Street 156,40.71765321458754,-74.00610448829768
+1637,Franchini John ,m,,Italian,6th Avenue 878,40.7596418589926,-73.98072828831667
+1638,Baracca Victor ,m,,Italian,William Street S 39,40.70498797452529,-74.01060015073473
+1639,Baracca Victor ,m,,Italian,Stone Street 29,40.70463234675333,-74.01101893950413
+1640,Farfaro Lawrence ,m,,Italian,3rd Avenue 604,40.749607952708175,-73.9757975176224
+1641,Kruger Theodore ,m,,Italian,Broadway 589,40.72540110271199,-73.99726453150002
+1642,Kruger Theodore ,m,,Italian,Mercer Street 160,40.72575979545545,-73.99792816296907
+1643,Clarisi Elizabeth ,f,,Italian,W 3rd Street 1,40.72878999127726,-73.99548823504027
+1644,Roth Margaret ,f,,Italian,7th Avenue 272,40.745970525309275,-73.99472409325931
+1645,Safran David ,m,,Italian,Bowery Street 12,40.71456722795413,-73.99763083987443
+1646,Safran & Meyer ,cannot use api,,Italian,Grand Street 91,40.72180514139871,-74.00160703426654
+1647,Scheben John ,m,,Italian,11th Avenue 434,40.75650065239182,-74.00143220147872
+1648,Schechter & Bleiberg ,cannot use api,,Italian,Prince Street 110,40.7251875206304,-73.99869718053228
+1649,Scheppara Charles ,m,,Italian,Chrystie Street 173,40.72070738112038,-73.99280402543528
+1650,Schlefrin Nathan ,m,,Italian,Gouverneur Street 5,40.71520843065085,-73.98421535340051
+1651,Schmaelzlein & Walte ,cannot use api,,Italian,3rd Avenue 90,40.732880711381135,-73.98812299293853
+1652,Schmidt Bridget ,f,,Italian,Water Street 394,40.710118774298294,-73.99720595778103
+1653,Schoen Henry ,m,,Italian,3rd Avenue 409,40.74238599058638,-73.98090011085154
+1654,Schoettle Edward ,m,,Italian,Maiden Lane 102,40.70742040400611,-74.00714614580184
+1655,Scholl John ,m,,Italian,Bowery Street 353,40.72739673653438,-73.99160186323513
+1656,Schorowltz David ,m,,Italian,Market Street 84,40.710696587856184,-73.99405831790338
+1657,Schott Elizabeth ,f,,Italian,Church Street 251,,
+1658,Schreiber Ezekiel ,m,,Italian,Grand Street 264,40.718606719926946,-73.99356112679894
+1659,Schreiner Francis ,m,,Italian,3rd Avenue 1126,40.76562714145184,-73.96410931110907
+1660,Schulhof Frances ,f,,Italian,E 54th Street 320,40.75736191061232,-73.96643510284927
+1661,Schulz & Ohmann ,cannot use api,,Italian,2nd Avenue 45,40.725715901575924,-73.9901085530827
+1662,Schumann Brothers ,m,,Italian,3rd Avenue 1647,40.78324310718842,-73.95071044014995
+1663,Schwartz & Kurinsky ,cannot use api,,Italian,7th Avenue 75,40.73909770127725,-73.9995889250371
+1664,Schwartzbarth Brothers ,m,,Italian,Broadway E 185,,
+1665,Lefkovits Frances ,f,Italian,Italian Jew,Houston Street E 356,40.721390245375176,-73.9822145733697
+1666,Guini W & Greenberg ,cannot use api,,Italian Jew,Wooster Street 3,40.722415730592935,-74.00295499039764
+1667,Gurney Wolf ,m,Russian,FALSE,Wooster Street 3,40.722415730592935,-74.00295499039764
+1668,Jacobs & Gluck ,cannot use api,Italian,Italian Jew,Crosby Street 138,40.725333822799726,-73.99619398438628
+1669,Abramson Dora ,f,,Jewish,Bleecker Street 18,40.72612085647066,-73.99377324672444
+1670,Abeles Aaron ,m,,Jewish,Eldridge Street 113,40.71977853950999,-73.99142356874128
+1671,Cohen Aaron ,m,,Jewish,Houston Street E 49,40.7252066158667,-73.99457584876104
+1672,Cohen Abraham ,m,,Jewish,Bayard Street 49,40.71560527971931,-73.99708267879629
+1673,Cohen Abraham ,m,,Jewish,Broome Street 235,40.7181750437521,-73.989170474169
+1674,Cohen Benjamin ,m,,Jewish,Chrystie Street 176,40.72051949885273,-73.99277229472001
+1675,Goldberg Samuel ,m,,Jewish,Chrystie Street 230,40.723843121339016,-73.99120306788886
+1676,Goldman Samuel ,m,,Jewish,Lispenard Street 36,40.72096246597949,-74.00493945943768
+1677,Goldmann Abraham ,m,,Jewish,Mercer Street 237,40.72916671299909,-73.99521288531564
+1678,Parness Lena ,f,,Jewish,Allen Street 164,40.72145650732425,-73.98955242918039
+1679,Rubin Ida ,f,,Jewish,Orchard Street 96,40.71923211629005,-73.98986047128548
+1680,Rubinson Reuben ,m,,Jewish,Cliff Street 76,40.71005299673322,-74.00218575624275
+1681,Silverberg Isidor ,m,,Jewish,Orchard Street 153,40.721491355925956,-73.98884556987989
+1682,Alperstein S ,undecided,,Jewish,Rivington Street 215,40.719015335652955,-73.98349740732392
+1683,Altman Benjamin ,m,,Jewish,Canal Street 322,40.72036773932845,-74.00250528236239
+1684,Bernstein & Segal ,cannot use api,,Jewish,Forsyth Street 103,40.718714173217435,-73.99299955710063
+1685,Edelstein Samuel ,m,,Jewish,E 9th Street 50,40.73196854767278,-73.99260636936839
+1686,Treier Benjamin ,m,,Jewish,Liberty Street 143,40.711165629036934,-74.01370084020358
+1687,Turkel Bernard ,m,,Jewish,Prince Street 88,40.72493960550517,-73.99818296406842
+1688,Turkel Bernard ,m,,Jewish,Maiden Lane 93,40.707302505071326,-74.00679639972448
+1689,Uhr Louis ,m,,Jewish,Lewis Street 102,40.71984561048268,-73.9775838304121
+1690,Vath Charles L ,m,,Jewish,Dey Street 20,40.71196770481431,-74.01205968845845
+1691,Viergutz Charles ,m,,Jewish,C Avenue 285,40.730441021580845,-73.97489659375672
+1692,Vlandakes Emanuel ,m,,Jewish,Chatham Street 18,40.712565928134275,-74.00551727663542
+1693,Stefanos Michael ,m,Italian,Italian,Chatham Street 18,40.712565928134275,-74.00551727663542
+1694,Vollmers Frank ,m,,Jewish,Broadway W 217,,
+1695,Vollmers Frank ,m,Russian,FALSE,Broadway W 217,,
+1696,Von Dohlen Adolph ,m,,Jewish,4th Avenue 102,40.73326602387671,-73.99022244535693
+1697,Wagner & Bassatt ,cannot use api,,Jewish,Columbus Avenue 51,,
+1698,Waldeck George F ,m,,Jewish,Christopher Street 176,40.732960707770886,-74.0098925846829
+1699,Waubun Co ,cannot use api,,Jewish,Cortlandt Street 21,40.71116800954322,-74.01226915304106
+1700,Weill Esther ,f,,Jewish,Broadway 726,40.730548102616105,-73.99276345851668
+1701,Weilmunster John C ,m,,Jewish,Houston Street W 347,40.729472283881634,-74.00945634264009
+1702,Weisblat Isaac ,m,,Jewish,Madison Street 283,40.713555365390036,-73.98644826031385
+1703,Weiss Edward D ,m,,Jewish,E 13th Street 58,40.73507753889684,-73.99218876974813
+1704,Weiss Edward D ,f,FALSE,FALSE,E 13th Street 58,40.73507753889684,-73.99218876974813
+1705,Kim Sun Low ,undecided,FALSE,Korean,Pell Street 16,40.715367400201586,-73.99803755680325
+1706,Assy Habib ,f,,Middle Eastern,Rector Street 30,40.708973038293415,-74.01496321993498
+1707,Atah Lattfalla ,m,,Middle Eastern,Washington Street 71,40.707721410963124,-74.01465810301347
+1708,Lehmann Julius ,m,,Musilm,9th Avenue 204,40.74624871684318,-74.00152061790403
+1709,Steinau Isaac ,m,,Musilm,Broadway 194,40.711253252501926,-74.00891735599258
+1710,Habib Said ,m,,Muslim,Washington Street 119,40.709811036300025,-74.01381164670539
+1711,Habib Said ,m,,Spanish,Washington Street 119,40.709811036300025,-74.01381164670539
+1712,Langsam Michael ,m,Italian/New York,New York,Willett Street 52,40.71827446691041,-73.98203926700873
+1713,Pettersen Oscar ,m,,Norwegian,3rd Avenue 1153,40.76721715619469,-73.96267415887225
+1715,Pettersen Oscar ,m,,Norwigian,3rd Avenue 1153,40.76721715619469,-73.96267415887225
+1716,Stroehiein Nicholas ,m,,Norwegian,10th Avenue 437,40.755145862095375,-73.99900770265087
+1717,Stroub John L ,m,,Norwegian,3rd Avenue 2394,40.80662088487251,-73.93391965907045
+1718,Brindze Bernard ,m,,Polish,Wooster Street 8,40.722146829384364,-74.00303732980369
+1719,Burkaw Morris ,m,Eastern Europe,Polish,Broome Street 327,40.71980438418762,-73.99435527142847
+1720,Zaloumes John ,m,,Polish,Washington Street 125,40.70965945735233,-74.01387733104514
+1721,Ligeti Aaron ,m,,Polish,2nd Avenue 63,40.72632185667753,-73.98972800648883
+1722,Ligeti & Co ,cannot use api,,Polish,Clinton Place 16,40.73178916369127,-73.99396908909885
+1723,Mocsar Michael ,m,,Polish,Houston Street E 76,40.72466108029781,-73.99274155488641
+1724,Holland & Rice ,cannot use api,,Polish,6th Avenue 618,40.75168279911505,-73.98656369030586
+1725,Kehoe & Power ,cannot use api,,Polish,6th Avenue 423,40.74472195086721,-73.99199084556825
+1726,Kennedy & Davis ,cannot use api,,Polish,W 39th Street 113,40.754237438432156,-73.98830096381468
+1727,McCusker Robert ,m,,Polish,Hudson Street 346,40.72853166835002,-74.00700472359722
+1728,Karp Hyman ,m,,Polish Jew,Essex Street 46,40.71622785990051,-73.98967260392989
+1729,Karp Hyman ,m,,Scandinavian,Essex Street 46,40.71622785990051,-73.98967260392989
+1730,Romanowskl Leon ,m,,Polish Jew,E 4th Street 77,40.72746309179286,-73.99109703340659
+1731,Romanowskl Leon ,m,,Scandinavian,E 4th Street 77,40.72746309179286,-73.99109703340659
+1732,Cashau William ,m,,Portuguese,3rd Avenue 2360,40.805234521536086,-73.93489992785366
+1734,Reilly & Duggan ,cannot use api,,Portuguese,3rd Avenue 645,40.75074772715933,-73.97469697957249
+1735,Shanley Brothers ,m,,Portuguese,Broadway 1212,40.7467458287854,-73.98856055814383
+1736,Shanley Brothers ,m,,Romanian,6th Avenue 383,40.74355312273487,-73.99284479059745
+1737,Slevin & Inslee ,cannot use api,,Romanian,Duane Street 10,40.71209316778336,-74.00144126933691
+1738,Maggiolo James ,m,,Romanian,Greenwich Street 319,40.717579246581245,-74.01052248772858
+1739,Maggiolo James ,m,,Romanian,Murray Street 90,40.71561502659369,-74.01284069749087
+1740,Mizzano Ricardo ,m,,Romanian,Mulberry Street 58,40.71498610522591,-73.99938701022232
+1741,Mori & Lorenzi ,cannot use api,,Romanian,Bleecker Street 144,40.72880231507034,-73.99944257825749
+1742,Morlotti Fernand ,m,,Russia,Walker Street 26,40.720369710452246,-74.00503826193588
+1743,Sugerman William ,m,Russian/Austrian/hungarian,Russian,Canal Street 47,40.715305649519735,-73.99140471897749
+1744,Sugerman William ,m,,Swiss,Canal Street 47,40.715305649519735,-73.99140471897749
+1745,Cohen Bernhard ,m,,Russian,W 3rd Street 2,40.72868520871356,-73.99549416490989
+1747,Levenstein & Co ,cannot use api,,Russian,Delancey Street 13,40.720806460696004,-73.99413483229274
+1748,Peltchiger & Cohen,cannot use api,,Russian,Allen Street 158,40.72168566861521,-73.98943784834553
+1749,Rubin Jacob ,m,,Russian,Ann Street 10,40.711405775258925,-74.0080112693744
+1750,Rubin Jacob ,m,New York/ Scottish,Russian,Bowery Street 206,40.72166636278251,-73.99383081486748
+1751,Rubin & Liebman ,cannot use api,,Russian,Ann Street 14,40.71150710859294,-74.00816593608847
+1752,Satz Anna ,f,,Russian,Pitt Street 66,40.71807585561534,-73.982977540753
+1753,Segal & Sissman ,cannot use api,,Russian,Canal Street 178,40.71707379002764,-73.9972342355741
+1754,Shapiro Louis ,m,,Russian,Orchard Street 26,40.71585058999258,-73.99159622344973
+1755,Shindler Samuel ,m,,Russian,Clinton Street 95,40.71857455498624,-73.98575130999694
+1756,Sukovsky Frank ,m,,Russian,Lewis Street 187,40.722455927120116,-73.97615982190186
+1757,Tivnan & Somers ,cannot use api,,Russian,E 42nd Street 42,40.75359403536016,-73.98096098735725
+1758,Tivnan & Somers ,cannot use api,,Russian,W 42nd Street 147,40.755993981460165,-73.98652980717092
+1759,Tivnan & Somers ,cannot use api,,Russian,Broadway 1325,40.75016835260384,-73.98791065106177
+1760,Tivnan & Somers ,cannot use api,,Russian,Columbus Avenue 6,,
+1761,Kohn & Weiss ,cannot use api,Russian,Russian Jew,2nd Avenue 126,40.72857594139038,-73.98803631507718
+1762,Lefkowits Joseph ,m,German/Russian,Russian Jew,Norfolk Street 54,40.71720578055947,-73.98819084629118
+1763,Lefkowits Joseph ,m,,Spanish,Norfolk Street 54,40.71720578055947,-73.98819084629118
+1764,Cohen Isidor ,m,,Russian Jew,Bleecker Street 122,40.727898762937855,-73.9976332719906
+1765,Cohen Israel ,m,,Russian Jew,Wooster Street 196,40.729397333437205,-73.99696759998254
+1766,Laskow Abram ,m,,Russian Jew,Eldridge Street 50,40.71609154332379,-73.99318781881048
+1767,Litzky Abraham ,m,,Russian Jew,W 3rd Street 9,40.728559591278774,-73.99502743514984
+1768,Lozinsky Abraham ,m,,Russian Jew,Norfolk Street 56,40.71709966291216,-73.98823472873373
+1769,Nemirowsky Abraham ,m,,Russian Jew,Wooster Street 215,40.728841205006475,-73.99761970730515
+1770,Sussman Haiman ,m,,Russian Jew,Allen Street 167,40.72137394426242,-73.98972034494483
+1771,Isaacs L ,cannot use api,Russian,Russian Jew,Madison Avenue 1526,40.7920721545066,-73.95082663262058
+1772,Kaase Brothers ,m,,Scandinavian,Franklin Street 79,40.71803113163171,-74.0037844443872
+1773,Kaase Brothers ,m,,Swiss,Franklin Street 79,40.71803113163171,-74.0037844443872
+1774,Carlson & Laubenheimer ,cannot use api,,Scandinavian,1st Avenue 811,40.75150975234208,-73.96836304268544
+1775,Wennerholm John P ,m,Finland,Scandinavian,10th Avenue 150,40.74470361326825,-74.0064043488497
+1776,Nord Anna ,f,,Scandinavian,E 4th Street 50,40.726736908194994,-73.98966536627421
+1777,Nord Anna ,f,,Swiss,E 4th Street 50,40.726736908194994,-73.98966536627421
+1778,Pastemak Harry ,m,,Scandinavian,Attorney Street 104,40.71837392723291,-73.98484205890172
+1779,Pastemak Harry ,m,German/Austrian,FALSE,Attorney Street 104,40.71837392723291,-73.98484205890172
+1780,Ross & Kane ,cannot use api,,Scotish,Grand Street 614,40.71340982952709,-73.9762291875097
+1781,Ross & Kane ,cannot use api,,Turkey,Grand Street 614,40.71340982952709,-73.9762291875097
+1782,Keith & Co ,cannot use api,,Scottish,Broadway 163,40.70991005677304,-74.0103600789962
+1783,Keith & Co ,cannot use api,,SyroLebanese,Broadway 163,40.70991005677304,-74.0103600789962
+1784,Vorelas Saronos ,m,,Scottish,Roosevelt Street 7,40.71255328167171,-73.9995602700393
+1785,Vorelas Saronos ,m,Russian/AustrianFalse,Swiss,Roosevelt Street 7,40.71255328167171,-73.9995602700393
+1786,Virillo S ,undecided,FALSE,FALSE,Roosevelt Street 7,40.71255328167171,-73.9995602700393
+1787,Liebman Joseph ,m,,Scottish,Bleecker Street 124,40.72851444513081,-73.99890844396609
+1788,Liebman Joseph ,m,FALSE,FALSE,Bleecker Street 124,40.72851444513081,-73.99890844396609
+1789,Naftolowitz Joseph ,m,,Scottish,Walker Street 8,40.72009647968483,-74.00441795437146
+1790,Naftolowitz Joseph ,m,FALSE,FALSE,Walker Street 8,40.72009647968483,-74.00441795437146
+1791,Nusenblatt George ,m,,Scottish,Eldridge Street 137,40.72105159173186,-73.99077211347208
+1792,Nusenblatt George ,m,FALSE,FALSE,Eldridge Street 137,40.72105159173186,-73.99077211347208
+1793,Levithan Morris ,m,,Scottish,Frankfort Street 9,40.71196689652746,-74.00494413997862
+1794,Levithan Morris ,m,,Swiss,Frankfort Street 9,40.71196689652746,-74.00494413997862
+1795,Levitsky Louis ,m,,Scottish,Broadway E 167,,
+1796,Levitsky Louis ,m,,Swiss,Broadway E 167,,
+1797,Lifshitz & Karansky ,cannot use api,,scottish,Hester Street 10,40.71529677433959,-73.98761094336798
+1798,Lifshitz & Karansky ,cannot use api,,Swiss,Hester Street 10,40.71529677433959,-73.98761094336798
+1799,Light Max ,m,,South Africa,3rd Avenue 1949,40.7927545657243,-73.94380695627038
+1800,Light Max ,m,,Swiss,3rd Avenue 1949,40.7927545657243,-73.94380695627038
+1801,Vidal & Thompson ,cannot use api,,Spanish,Duane Street 161,40.717282592938645,-74.00847677309969
+1803,Williman Koby ,m,,Spanish,Bond Street 26,40.72721292087311,-73.99400655850806
+1804,Avellanet Joseph ,m,,Spanish,W 28th Street 44,40.74582574990567,-73.98958067389249
+1805,Starinsky Sarah ,f,Austrian/Russian,Spanish,Eldridge Street 36,40.71660591369567,-73.99291404061057
+1806,Starinsky Sarah ,f,,Swiss,Eldridge Street 36,40.71660591369567,-73.99291404061057
+1807,Racky John ,m,,Spanish,Frankfort Street 21,40.7110394053916,-74.00346482108245
+1808,Racky John ,m,,FALSE,Frankfort Street 21,40.7110394053916,-74.00346482108245
+1809,Wettach John ,m,New York/Aumeriacan/Puerto Rico,Spanish,Morris Street 5,40.706528465122005,-74.0138672591234
+1810,Wettach John ,m,FALSE,Swiss,Morris Street 5,40.706528465122005,-74.0138672591234
+1811,Trohartos Antonio ,m,,Spanish,E 34th Street 403,,
+1812,Trohartos Antonio ,m,,Spanish/Portugal,E 34th Street 403,,
+1813,Felix Julius ,m,,Spanish,2nd Avenue 88,40.727747963118226,-73.98860526559444
+1814,Borras Ventura ,f,,Spanish,Pearl Street 173,40.706625171996365,-74.00733568335232
+1815,Chacon Eduard ,m,,Spanish,W 3rd Street 69,40.73006747830642,-73.9981251208645
+1816,Dubuis Oscar ,m,,Spanish,W 103rd Street 203,40.798979788722775,-73.96820615694692
+1817,Escudero Juan ,m,,Spanish,3rd Avenue 137,40.73386988033015,-73.98707778696549
+1818,Lopez Joseph ,m,,Spanish,3rd Avenue 137,40.73386988033015,-73.98707778696549
+1819,Lago Frank ,m,,Spanish,James Slip 6,40.71012146296179,-73.99833575194518
+1820,Landes Victoria ,f,,Spanish,W 27th Street 155,40.745822034981884,-73.99141298783577
+1821,Montez Roman ,m,,Spanish,W 30th Street 129,40.74796789294765,-73.99059643312475
+1822,Palma Ernestina ,f,,Spanish,Mulberry Street 173,40.72023405576435,-73.9971452630383
+1823,Calera & Alvarez ,cannot use api,,Spanish,W 24th Street 102,40.74451583284168,-73.99432375810127
+1825,Carreno & Palos ,cannot use api,,Spanish,Pearl Street 192,40.70689059774954,-74.00691313528635
+1827,Childs S S (firm of) ,cannot use api,,Spanish,Cortlandt Street 45,40.71143289263797,-74.01298751772673
+1828,Shishim Tanous ,m,,Spanish,Washington Street 91,40.707075796926496,-74.01493319127633
+1829,Lefkovits Joseph ,m,,Spanish,Houston Street E 282,40.72200177097323,-73.98440990956453
+1830,Lefkovits Joseph ,m,New York,FALSE,Houston Street E 282,40.72200177097323,-73.98440990956453
+1831,Wennerholm John Jr ,m,Sweden,Swedish,10th Avenue 274,40.749095842001694,-74.0032093330984
+1832,Ericsson Alfred E ,m,,Swedish,E 43rd Street 42,40.753960561420485,-73.97984458857347
+1833,Sandstrom Simon ,m,,Swedish,Bridge Street 7,40.70361620121485,-74.01354114293113
+1834,Tschantre E & Co ,undecided,,Swiss-French,Canal Street 340,40.72120129078181,-74.00359287871639
+1835,Tschantre E & Co ,undecided,,FALSE,Canal Street 340,40.72120129078181,-74.00359287871639
+1836,Tschantre E & Co ,undecided,,Swiss-French,4th Avenue 20,40.72972491293756,-73.99102915074586
+1838,Bossert Frederick ,m,Austrian/Hungrian,Swiss-French,Spring Street 293,40.72650885341536,-74.00828283318816
+1839,Buechler Louis ,m,,Swiss-French,E 4th Street 80,40.727456908199876,-73.9913213665907
+1840,Moncrieff C R ,undecided,,SyroLebanese,3rd Avenue 1215,40.76898141570158,-73.96134403366551
+1841,Moncrieff C R ,undecided,German,FALSE,3rd Avenue 1215,40.76898141570158,-73.96134403366551
+1842,Schmukler Peter ,m,,FALSE,Grand Street 276,40.718245270321134,-73.9924301724389
+1843,Dannbacher Stimis & Co ,cannot use api,,FALSE,William Street 192,40.711472653322616,-74.00466470006792
+1844,Boyer Peter F ,m,,FALSE,8th Avenue 466,40.75207684856116,-73.99363447756606
+1845,Winter Ernest ,m,German/Austrian,FALSE,E 127th Street 237,40.804988374500056,-73.93455522519001
+1846,Vermatten Jules ,m,,FALSE,Broad Street 100,40.703581556031395,-74.0119630766892
+1847,Capen & Conklin ,cannot use api,,FALSE,E 23rd Street 6,40.74120577486921,-73.98853227179413
+1848,Ewers Louis J ,m,,FALSE,Water Street 94,40.70516973811086,-74.00816718031605
+1849,DeBauwers Edward ,m,,FALSE,Broadway 38,40.70564003791826,-74.01362723594491
+1850,Devereux & O'Hara ,cannot use api,,FALSE,Columbus Avenue 634,,
+1851,De Vall William M ,m,,FALSE,3rd Avenue 1005,40.76180062794216,-73.96659746815808
+1852,Ewers Louis J ,m,,FALSE,Pearl Street 128,40.70551600603076,-74.00846200798256
+1853,Verhaeren George ,m,FALSE,FALSE,Prince Street 127,40.72558426138994,-73.99923910342818
+1854,Geneva Herman ,m,,FALSE,Church Street 49,,
+1855,Bolsarini Joseph ,m,,FALSE,Bowery Street 84,40.71713548678367,-73.99588267889321
+1856,Bolsarini Joseph ,m,,FALSE,Bowery Street 300,40.725720028487416,-73.99232682292575
+1857,Lang Jacob ,m,Russian/Scottland/Hungarian/New York,FALSE,Barclay Street 75,40.71415124869811,-74.01159541998831
+1858,Paulsen Charles J ,m,New York,FALSE,E 42nd Street 6,40.7530442171745,-73.97969116895462
+1859,Root William C ,m,German,FALSE,Park Row 125,,
+1860,Saunders Marco P ,m,FALSE,FALSE,Broad Street 82,40.704878928698754,-74.01151652628815
+1861,Rombout Cornelius ,m,Russian/German/Austrian/Hungarian New York,FALSE,3rd Avenue 1343,40.77258582521778,-73.9587044871111
+1862,Shawy George ,m,German/Austrian/Russian,FALSE,Washington Street 57,40.70817334078878,-74.01446554122947
+1863,Roses Jacob ,m,Russian/Austrian/New York/German,FALSE,Allen Street 187,40.72308558887738,-73.98903632713551
+1864,Hulse Charles ,m,New York/Ireland,FALSE,Willis Avenue 421,,
+1865,Priester Adam ,m,Russian/Italy/Austrian,FALSE,Spring Street 129,40.724608626682944,-74.00086349580076
+1866,Wolk Jane ,f,FALSE,FALSE,E 120th Street 182,40.800936374837015,-73.939164134051
+1867,Jackson & Murray ,undecided,Italian,FALSE,Columbus Avenue 887,,
+1868,Harcombe James ,m,Italian,FALSE,Liberty Street 64,40.70944151604616,-74.01017413389539
+1869,St Clair Mary ,f,Russian/Austrian/Italian,FALSE,Oliver Street 70,40.71102930294837,-73.99744061691584
+1870,Guldenkirch George P ,m,,FALSE,Broadway W 124,,
+1871,Kull David ,m,Russian/Scottland/Hungarian/New York,FALSE,E 9th Street 78,40.73131186592591,-73.99106863149282
+1872,Mack Jacob ,m,Italian,FALSE,Greenwich Street 294,40.71733298849324,-74.010708266817
+1873,Otte Emma ,f,FALSE,FALSE,E 4th Street 56,40.72688090819596,-73.9899965663375
+1874,Rolfe George B ,m,FALSE,FALSE,John Street 42,40.70919720786834,-74.00735708679257
+1875,Stark William ,m,FALSE,FALSE,9th Avenue 578,40.75790005258093,-73.99301809600507
+1876,Delmonico??Û?s ,cannot use api,,FALSE,William Street S 2,40.70520745834294,-74.01030422969686
+1877,Sinsheimer Solomon ,m,FALSE,FALSE,Clinton Place 18,40.73173254830625,-73.99384601214982
+1878,Patek Louis ,m,New York/ Ireland,FALSE,Clinton Place 17,40.731837913223615,-73.99384629549418
+1879,Travers Louis ,m,Italain,FALSE,W 36th Street 246,40.75275374046739,-73.9906531831804
+1880,Halm Louis ,m,FALSE,FALSE,Beekman Street 39,40.71180828576866,-74.00658516506921
+1881,Halm Louis ,m,FALSE,FALSE,Park Row 173,,
+1882,Lange Charles ,m,FALSE,FALSE,Columbus Avenue 833,,
+1883,Laux Charles ,m,FALSE,FALSE,W 36th Street 529,40.75732493282501,-74.00153326318778
+1884,Milbert Leonard ,m,Ireland/Russian,FALSE,Stanton Street 300,40.71896224127818,-73.97860701358279
+1885,Puel Josephine ,f,New York,FALSE,1st Avenue 601,40.743702839013075,-73.9741716986297
+1886,Rittel Louis ,m,FALSE,FALSE,3rd Avenue 1779,40.78648466838366,-73.94837614341924
+1887,Pagano Louis ,m,Russian,FALSE,E 125th Street 106,40.80472092754852,-73.93826654263503
+1888,Peragallo Frederick ,m,FALSE,FALSE,3rd Avenue 957,40.760865901807755,-73.96728268544504
+1889,Pione Victor ,m,German/Russian/Hungarian/Austrian,FALSE,W 13th Street 100,40.73816276282946,-73.99948834101907
+1890,Rinaldi Louis A ,m,Ireland/New York,FALSE,Peck Slip 40,40.708233274492535,-74.00131326577682
+1891,Witte Leopold ,m,New York/Russian/Ireland/ Italy,FALSE,W 22nd Street 600,40.74832956132322,-74.0077035819594
+1892,Haag Conrad ,m,Austrian/Russian/Hungarian/Romanian,FALSE,Greene Street 218,40.729336358183836,-73.99627959939997
+1893,Wettlaufer William L ,m,New York,FALSE,9th Avenue 597,40.75864698839453,-73.99275024586579
+1894,Miller August ,m,FALSE,FALSE,Chrystie Street 201,40.72192312175231,-73.99219344299118
+1895,Truppner Paul ,m,New York,FALSE,Cedar Street 98,40.70935833273483,-74.01111417500523
+1896,Eberson Isaac ,m,FALSE,FALSE,Clinton Street 13,40.72114182151889,-73.98445648368764
+1897,Chotis John ,m,Russian,FALSE,3rd Avenue 284,40.73909499865629,-73.98356260572157
+1898,Asbyll Barnett ,m,German,FALSE,Monroe Street 74,40.71215049469778,-73.9929986881625
+1899,Shahbazian Neshan ,undecided,FALSE,FALSE,E 27th Street 239,40.74165278408589,-73.98131131028892
+1900,Janesok John ,m,FALSE,FALSE,2nd Avenue 404,40.73863936339846,-73.98072514847718
+1901,Vanness William ,m,Russian/Austrian/Hungarian/German,FALSE,7th Avenue 588,40.75594569641749,-73.98748725211652
+1902,Pontin William S ,m,FALSE,FALSE,Franklin Street 46,40.71731711104137,-74.00204468201716
+1903,Queren Frederick ,m,Russian/Austrian/Romanian/Hungarian,FALSE,Broad Street 48,40.70575932860221,-74.01141983512751
+1904,Halporn & Freund ,cannot use api,FALSE,FALSE,Houston Street E 189,40.72278694277583,-73.98744144399016
+1905,Handwerker Henry J ,m,Italian,FALSE,7th Avenue 214,40.7440015076177,-73.99616907145807
+1906,Kayser Margaret ,f,FALSE,FALSE,W 36th Street 68,40.75003981077893,-73.98413475106933
+1907,Keese Charles ,m,Greece,FALSE,10th Avenue 823,40.76742631171804,-73.99000324537654
+1908,Kettler John ,m,FALSE,FALSE,B Avenue 204,40.728957467863616,-73.97897018363919
+1909,Kolter John ,m,FALSE,FALSE,3rd Avenue 1535,40.77919294525683,-73.95367373751249
+1910,Krull John W ,m,Russian/Scottland/Hungarian/New York,FALSE,Oliver Street 4,40.71257696135568,-73.99779915279133
+1911,Labort John ,m,Russian/Scottland/Hungarian/New York,FALSE,Mulberry Street 170,40.72030947362015,-73.9969888545452
+1912,Miller Frederick ,m,FALSE,FALSE,Grand Street 620,40.713507162859706,-73.97653652081337
+1913,Miller Michael ,m,Turkey,FALSE,C Avenue 194,40.7269506383996,-73.97714943072823
+1914,Muller Joseph ,m,American,FALSE,Stanton Street 37,40.72282411332701,-73.99158770891674
+1915,Oswald John ,m,New York,FALSE,2nd Avenue 1226,40.76430920412031,-73.96183909957362
+1916,Ott Joseph ,m,Russian/Middle Eastern/New York,FALSE,Bible h 15,,
+1917,Pechar John ,m,New York,FALSE,6th Avenue 466,40.7467836158216,-73.99020463081665
+1918,Pressler Henry ,m,FALSE,FALSE,Houston Street W 32,40.72663393123491,-73.99782181956914
+1919,Ramhorst William F ,m,France,FALSE,Greenwich Street 156,40.710979311558475,-74.0125436676001
+1920,Ranft John ,m,Russian,FALSE,Bleecker Street 83,40.72728970034654,-73.99613014445201
+1921,Ranft John ,m,FALSE,FALSE,Spring Street 102,40.72357607895849,-73.99896433138159
+1922,Ritter John ,m,FALSE,FALSE,W 88th Street 219,40.790970282796714,-73.97876342342896
+1923,Suhre John A ,m,Russian/Romanian/Austrian,FALSE,1st Avenue 583,40.74406283901039,-73.97391569919122
+1924,Barto Christina H ,f,Russian,FALSE,Grand Street 551,40.71454733959432,-73.98035125578275
+1925,Dibs & Tahhan ,cannot use api,Italian,FALSE,Washington Street 81,40.70739860394482,-74.0147956471449
+1926,Fopiano Stephen ,m,FALSE,FALSE,Church Street 148,40.718027368432146,-74.0058091039641
+1927,Natoli Joseph ,m,Ireland/Poland,FALSE,Broadway W 154,,
+1928,Solari Joseph F ,m,FALSE,FALSE,University Place 80,40.73530161690372,-73.99217738908796
+1929,Ubaldi John ,m,Russian/German/Austrian/Hungarian,FALSE,Prince Street 175,40.72687537111228,-74.00192681718134
+1930,Bonwoll Abraham ,m,German/Russian,FALSE,Allen Street 132,40.72029001335714,-73.99016999864652
+1931,Peyson Solomon ,m,Austrian/Hungarian/Russian,FALSE,Pike Street 1,40.71433235443168,-73.99279109771106
+1932,Dorlon A & P ,undecided,FALSE,FALSE,Fulton Street 187,40.71249575313496,-74.01157317749548
+1933,Elters Abraham ,m,Russian,FALSE,Mercer Street 214,40.72847349076996,-73.99568581108171
+1934,Theodore Abraham ,m,Austrian,FALSE,Wooster Street 163,40.72603072992609,-73.9999806892349
+1935,Kahn Charles ,m,New York/ Scottish,FALSE,8th Avenue 2679,40.82877514411162,-73.93777747283417
+1936,Korn Morris ,m,New York,FALSE,Houston Street E 254,40.722214602327156,-73.98514524219922
+1937,Kutner Abraham ,m,Russian/Scottland/Hungarian/New York,FALSE,Allen Street 175,40.7210683958762,-73.98987311888544
+1938,Zahn Henry ,m,FALSE,FALSE,Broadway E 7,,
+1939,Chelsea (The) ,cannot use api,Austrian,FALSE,W 23rd Street 224,40.744872303673375,-73.99732396561724
+1940,Gombossy Lena ,f,,FALSE,3rd Avenue 112,40.733499250034505,-73.98765159845894
+1941,Plavano Lena ,f,Russian/Austrian,FALSE,W 29th Street 38,40.74659978516805,-73.98960098490376
+1942,Jacobs John W ,m,,FALSE,11th Avenue 665,40.765222939277464,-73.99546370936694
+1943,Jacobs Minnie ,f,German/Russian/New York,FALSE,Houston Street E 2,40.725721354551375,-73.99584139390598
+1944,Swart Alfred ,m,Ireland/New York,FALSE,3rd Avenue 772,40.754290501791104,-73.97238531216503
+1945,Sitswitz Theodore ,m,FALSE,FALSE,Amsterdam Avenue 1821,,
+1946,Bergamo Joseph ,m,Russian,FALSE,Mulberry Street 206,40.72130184955096,-73.99656768668335
+1947,Camera Brothers ,m,FALSE,FALSE,Mott Street 219,40.72302656671136,-73.99509724825296
+1948,Ferro Abraham ,m,Austrian/German,FALSE,Delancey Street 280,40.716780455679654,-73.98046490044682
+1949,Caramella Sander ,m,Russian,FALSE,Greenwich Street 250,40.71513014840513,-74.01132093979896
+1950,Hugo Joseph ,m,FALSE,FALSE,Broadway W 475,,
+1951,Martin Samuel W ,m,FALSE,FALSE,Broadway 1437,40.75495446872707,-73.98690734478872
+1952,Polegre Guillermo ,m,Russian/Austrian/German,FALSE,Pearl Street 214,40.70721386499105,-74.00654480128819
+1953,Lind Isidor ,m,Russian,FALSE,Wooster Street 97,40.72578717920465,-74.00018016090763
+1954,Goldberg Anne ,f,Irish/Italy/New York,FALSE,Allen Street 166,40.72138012022725,-73.98959062279201
+1955,Brand Anton ,m,FALSE,FALSE,2nd Avenue 656,40.74582790485123,-73.97534792995528
+1956,Lichtenstadt Oscar ,m,FALSE,FALSE,8th Avenue 642,40.75715319931793,-73.98987322691463
+1957,Naething Brothers ,m,Russian/Austrian/Hungarian,FALSE,Dutch Street 15,40.7097467689601,-74.00757375177241
+1958,Naething Brothers ,m,German,FALSE,Canal Street 360,40.72166592582292,-74.0042321599348
+1959,Naething Brothers ,m,German/Austrian,FALSE,Lispenard Street 19,40.7207948023069,-74.00432922356394
+1960,Tielenius Carl ,m,Russian/Austrian/Hungarian/German,FALSE,Centre Street 2,40.71291657969699,-74.00459619174741
+1961,Westerhold Anna ,f,German,FALSE,W 30th Street 52,40.747219657598635,-73.9890428978439
+1962,Westerman Carl ,m,Russian/Austrian/Hungarian,FALSE,Grand Street 46,40.72315476130661,-74.00405486103598
+1963,Lindinger Frederick ,m,FALSE,FALSE,Liberty Street 56,40.70896009124783,-74.00925774513847
+1964,Friob & Suesena ,cannot use api,FALSE,FALSE,Rivington Street 7,40.72188705094541,-73.99289660574811
+1965,Alder Emil ,m,German/ New York/ Scandinavian ,FALSE,Broadway W 317,,
+1966,Allen Adolph ,m,Russian/German,FALSE,Lewis Street 88,40.718006325195525,-73.97829944186918
+1967,Baruch Nicholas ,m,Russian/Austrian,FALSE,Greene Street 158,40.72758647021056,-73.99770915761525
+1968,Pfyl Joseph ,m,FALSE,FALSE,3rd Avenue 1131,40.76665662014807,-73.9630890910854
+1969,Herrmann Elizabeth ,f,Russian/German/Austrian,FALSE,Grand Street 219,40.71946189229318,-73.99647014358179
+1970,Ruff Dora ,f,FALSE,FALSE,E 4th Street 118,40.72634690803115,-73.98880149529691
+1971,Weber Samuel ,m,Russian/Austrian,FALSE,Pike Street 11,40.71379280058821,-73.99269832015551
+1972,Kummerle Frederick ,m,Russian/Scottland/Hungarian/New York,FALSE,3rd Avenue 1385,40.773809346581785,-73.95779419299035
+1973,Vogel Isaac ,m,Russian/German/Austrian/Hungrian,FALSE,Chrystie Street 128,40.72028806027764,-73.99289902905267
