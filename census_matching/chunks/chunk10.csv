@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+5841,943,1933,Philips,674.0,Restaurant,Wenig S. & L.,150 W. 45 St.   ,Manhattan,New York,New York,150,W. 45 St. ,,,,,,,,Wenig
+5842,944,1933,Philips,674.0,Restaurant,Wennig's ,131 W. 45 St.   ,Manhattan,New York,New York,131,W. 45 St. ,,,,,,,,Wennig's
+5843,945,1933,Philips,674.0,Restaurant,Werner Louis,102 Fulton St.   ,Manhattan,New York,New York,102,Fulton St. ,,,,,,,,Werner
+5844,946,1933,Philips,674.0,Restaurant,Wetzel Charles,2 E. 44 St.  ,Manhattan,New York,New York,2,E. 44 St.,,,,,,,,Wetzel
+5845,947,1933,Philips,674.0,Restaurant,White Star Buffet Lunch,400 W. 15 St.  ,Manhattan,New York,New York,400,W. 15 St.,,,,,,,,White
+5846,948,1933,Philips,674.0,Restaurant,White Swan,150 E. 47 St.  ,Manhattan,New York,New York,150,E. 47 St.,,,,,,,,White
+5847,949,1933,Philips,674.0,Restaurant,White's Lunch Room,101 Walker St.   ,Manhattan,New York,New York,101,Walker St. ,,,,,,,,White's
+5848,950,1933,Philips,674.0,Restaurant,Whitehead Alice,102 Nassau St.  ,Manhattan,New York,New York,102,Nassau St.,,,,,,,,Whitehead
+5849,951,1933,Philips,674.0,Restaurant,Whitehouse Restaurant,1596 Broadway  ,Manhattan,New York,New York,1596,Broadway,,,,,,,,Whitehouse
+5850,952,1933,Philips,674.0,Restaurant,Whyte's Inc.,143 Fulton St.   ,Manhattan,New York,New York,143,Fulton St. ,,,,,,,,Whyte's
+5851,953,1933,Philips,675.0,Restaurant,Wiederhorn & Rosenberg,95 Greenwich St.   ,Manhattan,New York,New York,95,Greenwich St. ,,,,,,,,Wiederhorn
+5852,954,1933,Philips,675.0,Restaurant,Wiese & Loeb ,11 Frankfort St.  ,Manhattan,New York,New York,11,Frankfort St.,,,,,,,,Wiese
+5853,955,1933,Philips,675.0,Restaurant,Wilfred's,67 Wall St.  ,Manhattan,New York,New York,67,Wall St.,,,,,,,,Wilfred's
+5854,956,1933,Philips,675.0,Restaurant,Wilkins L.,2220 5 Ave.  ,Manhattan,New York,New York,2220,5 Ave.,,,,,,,,Wilkins
+5855,957,1933,Philips,675.0,Restaurant,Willard ,557 5 Ave.  ,Manhattan,New York,New York,557,5 Ave.,,,,,,,,Willard
+5856,958,1933,Philips,675.0,Restaurant,Willow Tea Room,171 Broadway  ,Manhattan,New York,New York,171,Broadway,,,,,,,,Willow
+5857,959,1933,Philips,675.0,Restaurant,Willy's,166 William St.  ,Manhattan,New York,New York,166,William St.,,,,,,,,Willy's
+5858,960,1933,Philips,675.0,Restaurant,Wilmette The,49 W. 39 St.  ,Manhattan,New York,New York,49,W. 39 St.,,,,,,,,Wilmette
+5859,961,1933,Philips,675.0,Restaurant,Winograd C. S. ,82 Orchard St.  ,Manhattan,New York,New York,82,Orchard St.,,,,,,,,Winograd
+5860,962,1933,Philips,675.0,Restaurant,Winthrop Lunch,22 John St.   ,Manhattan,New York,New York,22,John St. ,,,,,,,,Winthrop
+5861,963,1933,Philips,675.0,Restaurant,Wishkowsky L.,247 E. 14 St.   ,Manhattan,New York,New York,247,E. 14 St. ,,,,,,,,Wishkowsky
+5862,964,1933,Philips,675.0,Restaurant,Wittman J.,285 Bowery St.   ,Manhattan,New York,New York,285,Bowery St. ,,,,,,,,Wittman
+5863,965,1933,Philips,675.0,Restaurant,Wolff A.,11 W. 26 St.  ,Manhattan,New York,New York,11,W. 26 St.,,,,,,,,Wolff
+5864,966,1933,Philips,675.0,Restaurant,Woltman J. B. ,86 Gansevoort St.   ,Manhattan,New York,New York,86,Gansevoort St. ,,,,,,,,Woltman
+5865,967,1933,Philips,675.0,Restaurant,Workman J. ,211 7 Ave.  ,Manhattan,New York,New York,211,7 Ave.,,,,,,,,Workman
+5866,968,1933,Philips,675.0,Restaurant,World Cafeteria,14 W. 19  ,Manhattan,New York,New York,14,W. 19,,,,,,,,World
+5867,969,1933,Philips,675.0,Restaurant,World Restaurant,63 Park Row  ,Manhattan,New York,New York,63,Park Row,,,,,,,,World
+5868,970,1933,Philips,675.0,Restaurant,Woroner S.,27 E. 4 St.  ,Manhattan,New York,New York,27,E. 4 St.,,,,,,,,Woroner
+5869,971,1933,Philips,675.0,Restaurant,Wright Stephen,3785 Broadway  ,Manhattan,New York,New York,3785,Broadway,,,,,,,,Wright
+5870,972,1933,Philips,675.0,Restaurant,X. L. Lunch,501 W. 23 St.  ,Manhattan,New York,New York,501,W. 23 St.,,,,,,,,X.
+5871,973,1933,Philips,675.0,Restaurant,Ye Appetite,53 Broadway  ,Manhattan,New York,New York,53,Broadway,,,,,,,,Ye
+5872,974,1933,Philips,675.0,Restaurant,Ye Olde Chop House,118 Cedar St.   ,Manhattan,New York,New York,118,Cedar St. ,,,,,,,,Ye
+5873,975,1933,Philips,675.0,Restaurant,Ye Olde Dutch Tavern,15 John St.   ,Manhattan,New York,New York,15,John St. ,,,,,,,,Ye
+5874,976,1933,Philips,675.0,Restaurant,Ye Olde English Coffee House,14 E. 44 St.  ,Manhattan,New York,New York,14,E. 44 St.,,,,,,,,Ye
+5875,977,1933,Philips,675.0,Restaurant,Yellow Aster,146 W. 57 St.  ,Manhattan,New York,New York,146,W. 57 St.,,,,,,,,Yellow
+5876,978,1933,Philips,675.0,Restaurant,Yoengs,Broadway & 49 St. ,Manhattan,New York,New York,Broadway,&,49 St.,,,,,,,Yoengs
+5878,1,1930.0,Philips,,,,,Manhattan,New York,New York,,,,,,,,,,
+5879,,1930.0,Philips,878.0,,Abbazia,1528 2 Ave.,,,,1528,2,Ave.,,,,,,,Abbazia
+5880,,1930.0,Philips,878.0,,Abend Nathan,207 Canal St.,,,,207,Canal,St.,,,,,,,Abend
+5881,,1930.0,Philips,878.0,,Aberbach S.,165 Canal St.,,,,165,Canal,St.,,,,,,,Aberbach
+5882,,1930.0,Philips,878.0,,Academy Cafeteria,146 E 14 St.,,,,146,E,14,St.,,,,,,Academy
+5883,,1930.0,Philips,878.0,,Ace Cafeteria Inc,1 E 27 St.,,,,1,E,27,St.,,,,,,Ace
+5884,,1930.0,Philips,878.0,,Achner & Lambert,246 Greenwich St.,,,,246,Greenwich,St.,,,,,,,Achner
+5885,,1930.0,Philips,878.0,,Adams Hugh,369 7 Ave.,,,,369,7,Ave.,,,,,,,Adams
+5886,,1930.0,Philips,878.0,,Adams Rose R.,288 8 Ave.,,,,288,8,Ave.,,,,,,,Adams
+5887,,1930.0,Philips,878.0,,Addieg F.,26 W 18 St.,,,,26,W,18,St.,,,,,,Addieg
+5888,,1930.0,Philips,878.0,,Adler & Haskell,95 Spring St.,,,,95,Spring,St.,,,,,,,Adler
+5889,,1930.0,Philips,878.0,,Aero Lunch,202 W 19 St.,,,,202,W,19,St.,,,,,,Aero
+5890,,1930.0,Philips,878.0,,Ahrend Fred,269 Pearl St.,,,,269,Pearl,St.,,,,,,,Ahrend
+5891,,1930.0,Philips,878.0,,Alamo Restaurant,253 W 125 St.,,,,253,W,125,St.,,,,,,Alamo
+5892,,1930.0,Philips,878.0,,Alba,210 E 116 St.,,,,210,E,116,St.,,,,,,Alba
+5893,,1930.0,Philips,878.0,,Allen Blvd. Inn,157 Allen Blvd,,,,157,Allen,Blvd,,,,,,,Allen
+5894,,1930.0,Philips,878.0,,Allerton Shop Tea Room,130 E 57 St.,,,,130,E,57,St.,,,,,,Allerton
+5895,,1930.0,Philips,878.0,,Alpert Hyman ,33 Canal St.,,,,33,Canal,St.,,,,,,,Alpert
+5896,,1930.0,Philips,878.0,,Alpine Restaurant Co. Inc.,43 W 34 St.,,,,43,W,34,St.,,,,,,Alpine
+5897,,1930.0,Philips,878.0,,Alps Rotisserie,128 W 58 St.,,,,128,W,58,St.,,,,,,Alps
+5898,,1930.0,Philips,878.0,,"Alps, The",1022 6 Ave.,,,,1022,6,Ave.,,,,,,,"Alps,"
+5899,,1930.0,Philips,878.0,,Ambassador Lunch,92 Fulton St.,,,,92,Fulton,St.,,,,,,,Ambassador
+5900,,1930.0,Philips,878.0,,Ambrosim A.,1983 Madison Ave.,,,,1983,Madison,Ave.,,,,,,,Ambrosim
+5901,,1930.0,Philips,878.0,,Amene Farris,25 Washington St.,,,,25,Washington,St.,,,,,,,Amene
+5902,,1930.0,Philips,878.0,,American Girl Lunch,313 Broadway,,,,313,Broadway,,,,,,,,American
+5903,,1930.0,Philips,878.0,,Am-Hungarian ,20 W 31 St.,,,,20,W,31,St.,,,,,,Am-Hungarian
+5904,,1930.0,Philips,878.0,,Am Restaurant,4 Greenwich St.,,,,4,Greenwich,St.,,,,,,,Am
+5905,,1930.0,Philips,878.0,,Amiotis Bros.,30 Greenwich St.,,,,30,Greenwich,St.,,,,,,,Amiotis
+5906,,1930.0,Philips,878.0,,Anatoli Restaurant,278 W 39 St.,,,,278,W,39,St.,,,,,,Anatoli
+5907,,1930.0,Philips,878.0,,Anchor Lunch,156 13 Ave.,,,,156,13,Ave.,,,,,,,Anchor
+5908,,1930.0,Philips,878.0,,Andres Boris,102 Maiden La,,,,102,Maiden,La,,,,,,,Andres
+5909,,1930.0,Philips,878.0,,Angelo Restaurant,160 Pearl St.,,,,160,Pearl,St.,,,,,,,Angelo
+5910,,1930.0,Philips,878.0,,Annex Café & Restaurant,105 Broad St.,,,,105,Broad,St.,,,,,,,Annex
+5911,,1930.0,Philips,878.0,,Appels Cafeteria,82 W 28 St.,,,,82,W,28,St.,,,,,,Appels
+5912,,1930.0,Philips,878.0,,Apthorp Lunch Co.,2552 Broadway,,,,2552,Broadway,,,,,,,,Apthorp
+5913,,1930.0,Philips,878.0,,Aquarium Restaurant,8 Greenwich St.,,,,8,Greenwich,St.,,,,,,,Aquarium
+5914,,1930.0,Philips,878.0,,Arcadia ,Grand Central Concourse,,,,Grand Central Concourse,,,,,,,,,Arcadia
+5915,,1930.0,Philips,878.0,,Archambault's,2678 Broadway,,,,2678,Broadway,,,,,,,,Archambault's
+5916,,1930.0,Philips,878.0,,Arena Grill,246 W 39 St.,,,,246,W,39,St.,,,,,,Arena
+5917,,1930.0,Philips,878.0,,Arm Chair,150 E 34 St.,,,,150,E,34,St.,,,,,,Arm
+5918,,1930.0,Philips,878.0,,Asendorf Fred & Co.,108 W 18 St.,,,,108,W,18,St.,,,,,,Asendorf
+5919,,1930.0,Philips,878.0,,Assante & Giaquinto,608 W 181 St.,,,,608,W,181,St.,,,,,,Assante
+5920,,1930.0,Philips,878.0,,Assimack Wm.,245 Bowery St.,,,,245,Bowery,St.,,,,,,,Assimack
+5921,,1930.0,Philips,878.0,,Assimakis Louis,19 E 15 St.,,,,19,E,15,St.,,,,,,Assimakis
+5922,,1930.0,Philips,878.0,,Astor Cafeteria,149 E 125 St.,,,,149,E,125,St.,,,,,,Astor
+5923,,1930.0,Philips,878.0,,Atlas Cafeteria,87 Cooper Square,,,,87,Cooper,Square,,,,,,,Atlas
+5924,,1930.0,Philips,878.0,,Auerbach H.,1971 1 Ave.,,,,1971,1,Ave.,,,,,,,Auerbach
+5925,,1930.0,Philips,878.0,,Au Petit Trianon,892 7 Ave.,,,,892,7,Ave.,,,,,,,Au
+5926,,1930.0,Philips,879.0,,Aunt Polly's Tea Room,62 W 49 St,,,,62,W,49,St,,,,,,Aunt
+5927,,1930.0,Philips,879.0,,Autodine,203 W 40 St.,,,,203,W,40,St.,,,,,,Autodine
+5928,,1930.0,Philips,879.0,,Automatic Dining Room,1247 Broadway,,,,1247,Broadway,,,,,,,,Automatic
+5929,,1930.0,Philips,879.0,,Avon Tea Room Inc.,18 Warren St.,,,,18,Warren,St.,,,,,,,Avon
+5930,,1930.0,Philips,879.0,,"Bachman, Chas T.",146 Pearl St.,,,,146,Pearl,St.,,,,,,,"Bachman,"
+5931,,1930.0,Philips,879.0,,Badenberger C. H.,406 W 37 St.,,,,406,W,37,St.,,,,,,Badenberger
+5932,,1930.0,Philips,879.0,,Balietto Ignazio & Nicoloisi,94 Catharine St.,,,,94,Catharine,St.,,,,,,,Balietto
+5933,,1930.0,Philips,879.0,,Banks Thos. H.,25 W 133 St.,,,,25,W,133,St.,,,,,,Banks
+5934,,1930.0,Philips,879.0,,Barbieri's Restaurant,51 Maiden La.,,,,51,Maiden,La.,,,,,,,Barbieri's
+5935,,1930.0,Philips,879.0,,Bardi Restaurant,495 Lexington Ave.,,,,495,Lexington,Ave.,,,,,,,Bardi
+5936,,1930.0,Philips,879.0,,Barons ,232 W 46 St.,,,,232,W,46,St.,,,,,,Barons
+5937,,1930.0,Philips,879.0,,Barrs,104 E 7 St.,,,,104,E,7,St.,,,,,,Barrs
+5938,,1930.0,Philips,879.0,,Barral & Caminos,753 Washington St.,,,,753,Washington,St.,,,,,,,Barral
+5939,,1930.0,Philips,879.0,,Barron Chester G.,63 Maiden La.,,,,63,Maiden,La.,,,,,,,Barron
+5940,,1930.0,Philips,879.0,,Batzing Frank J.,383 Broome St.,,,,383,Broome,St.,,,,,,,Batzing
+5941,,1930.0,Philips,879.0,,Bay State Lunch Co.,1 Frankfort St.,,,,1,Frankfort,St.,,,,,,,Bay
+5942,,1930.0,Philips,879.0,,Bazakis Inc.,128 W 32 St.,,,,128,W,32,St.,,,,,,Bazakis
+5943,,1930.0,Philips,879.0,,Becker M.,561 11 Ave.,,,,561,11,Ave.,,,,,,,Becker
+5944,,1930.0,Philips,879.0,,Becker Max,91 Broad St.,,,,91,Broad,St.,,,,,,,Becker
+5945,,1930.0,Philips,879.0,,Beefsteak Charlie's,216 W 50 St.,,,,216,W,50,St.,,,,,,Beefsteak
+5946,,1930.0,Philips,879.0,,Beldner Benj.,72 West St.,,,,72,West,St.,,,,,,,Beldner
+5947,,1930.0,Philips,879.0,,Bellefaire Lunch Co.,863 Hudson St.,,,,863,Hudson,St.,,,,,,,Bellefaire
+5948,,1930.0,Philips,879.0,,Belmore Lunch Co.,543 Broadway,,,,543,Broadway,,,,,,,,Belmore
+5949,,1930.0,Philips,879.0,,Belz John,1809 Park Ave.,,,,1809,Park,Ave.,,,,,,,Belz
+5950,,1930.0,Philips,879.0,,Bender Joseph,273 Greenwich St.,,,,273,Greenwich,St.,,,,,,,Bender
+5951,,1930.0,Philips,879.0,,Benenson P.,169 E Broadway,,,,169,E,Broadway,,,,,,,Benenson
+5952,,1930.0,Philips,879.0,,Benjamin's,1655 Madison Ave.,,,,1655,Madison,Ave.,,,,,,,Benjamin's
+5953,,1930.0,Philips,879.0,,Benjamin's,1585 Broadway,,,,1585,Broadway,,,,,,,,Benjamin's
+5954,,1930.0,Philips,879.0,,Benny's Restaurant,441 W 18 St.,,,,441,W,18,St.,,,,,,Benny's
+5955,,1930.0,Philips,879.0,,Borger's French Restaurant,113 W 49 St.,,,,113,W,49,St.,,,,,,Borger's
+5956,,1930.0,Philips,879.0,,Berkowitz J.,50 Hudson St.,,,,50,Hudson,St.,,,,,,,Berkowitz
+5957,,1930.0,Philips,879.0,,Berkshire Cafeteria,14 W 17 St.,,,,14,W,17,St.,,,,,,Berkshire
+5958,,1930.0,Philips,879.0,,Bernardini Restaurant,134 W 46 St.,,,,134,W,46,St.,,,,,,Bernardini
+5959,,1930.0,Philips,879.0,,Bernstein Max,3197 Broadway,,,,3197,Broadway,,,,,,,,Bernstein
+5960,,1930.0,Philips,879.0,,Bertolotti A.,85 W 3 St.,,,,85,W,3,St.,,,,,,Bertolotti
+5961,,1930.0,Philips,879.0,,Beyrooty A.,15 Rector St.,,,,15,Rector,St.,,,,,,,Beyrooty
+5962,,1930.0,Philips,879.0,,Bezner H.,8 Barclay St.,,,,8,Barclay,St.,,,,,,,Bezner
+5963,,1930.0,Philips,879.0,,Bickord's Inc.,1259 Broadway,,,,1259,Broadway,,,,,,,,Bickord's
+5964,,1930.0,Philips,879.0,,Bieber Sam'l,60 W 22 St.,,,,60,W,22,St.,,,,,,Bieber
+5965,,1930.0,Philips,879.0,,Bieber's Lunch Room,16 W 4 St.,,,,16,W,4,St.,,,,,,Bieber's
+5966,,1930.0,Philips,879.0,,Bieringer F.,937 8 Ave.,,,,937,8,Ave.,,,,,,,Bieringer
+5967,,1930.0,Philips,879.0,,Bigliani Enrichetta,167 W 22 St.,,,,167,W,22,St.,,,,,,Bigliani
+5968,,1930.0,Philips,879.0,,Bijou Restaurant,61 W 8 St.,,,,61,W,8,St.,,,,,,Bijou
+5969,,1930.0,Philips,879.0,,Billy- The Oysterman,7 E 20 St.,,,,7,E,20,St.,,,,,,Billy-
+5970,,1930.0,Philips,879.0,,Billy's Business Men's Lunch,126 Pearl St.,,,,126,Pearl,St.,,,,,,,Billy's
+5971,,1930.0,Philips,879.0,,Birken's Restaurant,5 W 16 St.,,,,5,W,16,St.,,,,,,Birken's
+5972,,1930.0,Philips,879.0,,Birnbaum & Katz,137 E Houston St.,,,,137,E,Houston,St.,,,,,,Birnbaum
+5973,,1930.0,Philips,879.0,,Black Cat Restaurant,557 W Broadway,,,,557,W,Broadway,,,,,,,Black
+5974,,1930.0,Philips,879.0,,Black & Oglive ,45 maiden La,,,,45,maiden,La,,,,,,,Black
+5975,,1930.0,Philips,879.0,,Blackstone Cafeteria Inc.,4 Murray St.,,,,4,Murray,St.,,,,,,,Blackstone
+5976,,1930.0,Philips,879.0,,Blakceberg Lena,1659 Madison Ave.,,,,1659,Madison,Ave.,,,,,,,Blakceberg
+5977,,1930.0,Philips,879.0,,Blauel John,324 Broome St.,,,,324,Broome,St.,,,,,,,Blauel
+5978,,1930.0,Philips,879.0,,Blinderman M.,14 W 22 St.,,,,14,W,22,St.,,,,,,Blinderman
+5979,,1930.0,Philips,879.0,,Block H.,1169 madison Ave.,,,,1169,madison,Ave.,,,,,,,Block
+5980,,1930.0,Philips,879.0,,Blosson Heath Inn,9 W 82 St.,,,,9,W,82,St.,,,,,,Blosson
+5981,,1930.0,Philips,879.0,,Blue Bird Cafeteria,475 4 Ave.,,,,475,4,Ave.,,,,,,,Blue
+5982,,1930.0,Philips,879.0,,Blue Bird Restaurant,281 Bowery St.,,,,281,Bowery,St.,,,,,,,Blue
+5983,,1930.0,Philips,879.0,,Blue Dining & Tea Room,411 W 21 St.,,,,411,W,21,St.,,,,,,Blue
+5984,,1930.0,Philips,879.0,,Blue Horse,21 E 8 St.,,,,21,E,8,St.,,,,,,Blue
+5985,,1930.0,Philips,879.0,,"Blue Hour, The",165 W 49 St.,,,,165,W,49,St.,,,,,,Blue
+5986,,1930.0,Philips,879.0,,Boat House Restaurant,c Boston Rd &,,,,c,Boston,Rd,&,,,,,,Boat
+5987,,1930.0,Philips,879.0,,Boertlein A.,251 Hudson St.,,,,251,Hudson,St.,,,,,,,Boertlein
+5988,,1930.0,Philips,879.0,,Bees Emil,221 William St.,,,,221,William,St.,,,,,,,Bees
+5989,,1930.0,Philips,879.0,,Bonnie Briar Coffee Shoppe,63 Nassau St.,,,,63,Nassau,St.,,,,,,,Bonnie
+5990,,1930.0,Philips,879.0,,Boonshoft & Palsoric,53 Fulton St.,,,,53,Fulton,St.,,,,,,,Boonshoft
+5991,,1930.0,Philips,879.0,,Booras Bros. Inc.,12 Greenwich St.,,,,12,Greenwich,St.,,,,,,,Booras
+5992,,1930.0,Philips,879.0,,Bossert W. A.,432 Hudson St.,,,,432,Hudson,St.,,,,,,,Bossert
+5993,,1930.0,Philips,879.0,,Botsacos N. J.,1865 St. Nicholas Ave.,,,,1865,St. Nicholas,Ave.,,,,,,,Botsacos
+5994,,1930.0,Philips,879.0,,Boulevard Lunch,1284 South Boulevard,,,,1284,South,Boulevard,,,,,,,Boulevard
+5995,,1930.0,Philips,879.0,,Bouquet Joseph,546 W Broadway,,,,546,W,Broadway,,,,,,,Bouquet
+5996,,1930.0,Philips,879.0,,Bowling Green Restaurant Inc.,12 Greenwich St.,,,,12,Greenwich,St.,,,,,,,Bowling
+5997,,1930.0,Philips,879.0,,Bradford Erna,204 Wooster St.,,,,204,Wooster,St.,,,,,,,Bradford
+5998,,1930.0,Philips,879.0,,Bradford Restaurant,168 Pearl St.,,,,168,Pearl,St.,,,,,,,Bradford
+5999,,1930.0,Philips,879.0,,Braun Mrs.,1 Carlisle St.,,,,1,Carlisle,St.,,,,,,,Braun
+6000,,1930.0,Philips,879.0,,Brecher Harry,19 E 15 St.,,,,19,E,15,St.,,,,,,Brecher
+6001,,1930.0,Philips,879.0,,Breen Catherine,8 Cortlandt St.,,,,8,Cortlandt,St.,,,,,,,Breen
+6002,,1930.0,Philips,879.0,,Breltfeller F. & J.,94 Warren St.,,,,94,Warren,St.,,,,,,,Breltfeller
+6003,,1930.0,Philips,879.0,,Bremer H.,60 Fulton St.,,,,60,Fulton,St.,,,,,,,Bremer
+6004,,1930.0,Philips,879.0,,Bridge Plaza Restaurant Inc.,151 Canal St.,,,,151,Canal,St.,,,,,,,Bridge
+6005,,1930.0,Philips,879.0,,Bridge Restaurant,20 N William St.,,,,20,N,William,St.,,,,,,Bridge
+6006,,1930.0,Philips,879.0,,Brighton Lunch Co.,423 Lexington Ave.,,,,423,Lexington,Ave.,,,,,,,Brighton
+6007,,1930.0,Philips,879.0,,Brill & Fuchs,1361 5 Ave.,,,,1361,5,Ave.,,,,,,,Brill
+6008,,1930.0,Philips,879.0,,Brinkmann Chas. H.,130 Church St.,,,,130,Church,St.,,,,,,,Brinkmann
+6009,,1930.0,Philips,879.0,,Bristol J. E.,120 E 14 St.,,,,120,E,14,St.,,,,,,Bristol
+6010,,1930.0,Philips,879.0,,Broad Samuel S.,53 W 3 St.,,,,53,W,3,St.,,,,,,Broad
+6011,,1930.0,Philips,879.0,,Broad Street Tavern,81 Broad St.,,,,81,Broad,St.,,,,,,,Broad
+6012,,1930.0,Philips,879.0,,Broadway Garden,308 Broadway,,,,308,Broadway,,,,,,,,Broadway
+6013,,1930.0,Philips,879.0,,Broadway Restaurant,392 Broadway,,,,392,Broadway,,,,,,,,Broadway
+6014,,1930.0,Philips,879.0,,Bromberg's Restaurant,143 W 21 St.,,,,143,W,21,St.,,,,,,Bromberg's
+6015,,1930.0,Philips,879.0,,Bronx Hofbrau Haus,534 Willis Ave.,,,,534,Willis,Ave.,,,,,,,Bronx
+6016,,1930.0,Philips,879.0,,Bronx Restaurant ,379 E 148 St.,,,,379,E,148,St.,,,,,,Bronx
+6017,,1930.0,Philips,879.0,,Bronze Bowl Cafeteria,57 W 37 St.,,,,57,W,37,St.,,,,,,Bronze
+6018,,1930.0,Philips,879.0,,Brower Wm. H. jr.,1086 2 Ave.,,,,1086,2,Ave.,,,,,,,Brower
+6019,,1930.0,Philips,879.0,,Brown Betty Tea Room,27 Barclay  St.,,,,27,Barclay ,St.,,,,,,,Brown
+6020,,1930.0,Philips,879.0,,Brown's,1204 Broadway,,,,1204,Broadway,,,,,,,,Brown's
+6021,,1930.0,Philips,879.0,,Brunhuber E.,275 Greenwich St.,,,,275,Greenwich,St.,,,,,,,Brunhuber
+6022,,1930.0,Philips,879.0,,Bruns Wm.,87 Duane St.,,,,87,Duane,St.,,,,,,,Bruns
+6023,,1930.0,Philips,879.0,,Buck Geo.,87 W 43 St.,,,,87,W,43,St.,,,,,,Buck
+6024,,1930.0,Philips,879.0,,Bunn Bros.,393 7 Ave.,,,,393,7,Ave.,,,,,,,Bunn
+6025,,1930.0,Philips,879.0,,Burke P.,83 Barclay St.,,,,83,Barclay,St.,,,,,,,Burke
+6026,,1930.0,Philips,879.0,,Burke's ,62 John St.,,,,62,John,St.,,,,,,,Burke's
+6027,,1930.0,Philips,879.0,,Burns George ,324 Greenwich St.,,,,324,Greenwich,St.,,,,,,,Burns
+6028,,1930.0,Philips,879.0,,Bustos ,45 Beaver St.,,,,45,Beaver,St.,,,,,,,Bustos
+6029,,1930.0,Philips,879.0,,Buyers' Restaurant Inc,324 7 Ave.,,,,324,7,Ave.,,,,,,,Buyers'
+6030,,1930.0,Philips,879.0,,C. & L. Lunch Co. Inc.,1906 Broadway,,,,1906,Broadway,,,,,,,,C.
+6031,,1930.0,Philips,879.0,,C. & P. Luncheon Co Inc.,342 Madison Ave.,,,,342,Madison,Ave.,,,,,,,C.
+6032,,1930.0,Philips,879.0,,Cadillac ,1500 Broadway,,,,1500,Broadway,,,,,,,,Cadillac
+6033,,1930.0,Philips,879.0,,Cadillac Cafeteria,2 E 23 St.,,,,2,E,23,St.,,,,,,Cadillac
+6034,,1930.0,Philips,879.0,,Cadillac Restaurant,952 Broadway,,,,952,Broadway,,,,,,,,Cadillac
+6035,,1930.0,Philips,879.0,,Café Boulevard ,c Broadway & 41,,,,c,Broadway,&,41,,,,,,Café
+6036,,1930.0,Philips,879.0,,Café de la Bourse,35 Nassau St.,,,,35,Nassau,St.,,,,,,,Café
+6037,,1930.0,Philips,879.0,,Café Des Beaux Arts,80 W 40 St.,,,,80,W,40,St.,,,,,,Café
+6038,,1930.0,Philips,879.0,,Café Gross Inc.,147 Fulton St.,,,,147,Fulton,St.,,,,,,,Café
+6039,,1930.0,Philips,879.0,,Café Savarin,120 Broadway,,,,120,Broadway,,,,,,,,Café
+6040,,1930.0,Philips,879.0,,Cafeteria As You Like It,24 Dey St.,,,,24,Dey,St.,,,,,,,Cafeteria
+6041,,1930.0,Philips,879.0,,Calamas Paul,691 Columbus Ave.,,,,691,Columbus,Ave.,,,,,,,Calamas
+6042,,1930.0,Philips,879.0,,California Luncheon,71 Broad St.,,,,71,Broad,St.,,,,,,,California
+6043,,1930.0,Philips,879.0,,Cambridge Court,4 E 49 St.,,,,4,E,49,St.,,,,,,Cambridge
+6044,,1930.0,Philips,879.0,,Cameo Teo Room Inc.,60 W 49 St.,,,,60,W,49,St.,,,,,,Cameo
+6045,,1930.0,Philips,879.0,,Cameo Teo Room Inc.,30 W 59 St.,,,,30,W,59,St.,,,,,,Cameo
+6046,,1930.0,Philips,879.0,,Campus Restaurant,106 W 32 St.,,,,106,W,32,St.,,,,,,Campus
+6047,,1930.0,Philips,879.0,,Cankos & Karayanis,480 7 Ave.,,,,480,7,Ave.,,,,,,,Cankos
+6048,,1930.0,Philips,879.0,,Cantor Joseph,178 E 125 St.,,,,178,E,125,St.,,,,,,Cantor
+6049,,1930.0,Philips,879.0,,Canzano Tea Room,106 Broad St.,,,,106,Broad,St.,,,,,,,Canzano
+6050,,1930.0,Philips,879.0,,Capital Lunch Inc,41 W 17 St.,,,,41,W,17,St.,,,,,,Capital
+6051,,1930.0,Philips,879.0,,Capitol Lunch System,353 Broadway,,,,353,Broadway,,,,,,,,Capitol
+6052,,1930.0,Philips,879.0,,Caracosta S.,2642 Broadway,,,,2642,Broadway,,,,,,,,Caracosta
+6053,,1930.0,Philips,879.0,,Caras Lunch,689 Hudson St.,,,,689,Hudson,St.,,,,,,,Caras
+6054,,1930.0,Philips,879.0,,Carasso Leon,67 Gold St.,,,,67,Gold,St.,,,,,,,Carasso
+6055,,1930.0,Philips,879.0,,Carbone Louis,37 W 24 St.,,,,37,W,24,St.,,,,,,Carbone
+6056,,1930.0,Philips,879.0,,Carducci A.,153 W 48 St.,,,,153,W,48,St.,,,,,,Carducci
+6057,,1930.0,Philips,879.0,,Carlton Lunch,92 5 Ave.,,,,92,5,Ave.,,,,,,,Carlton
+6058,,1930.0,Philips,879.0,,Carlton Terrace Inc,2637 Broadway,,,,2637,Broadway,,,,,,,,Carlton
+6059,,1930.0,Philips,879.0,,Cascas Michael,157 W 23 St.,,,,157,W,23,St.,,,,,,Cascas
+6060,,1930.0,Philips,879.0,,Casino,146 W 45 St.,,,,146,W,45,St.,,,,,,Casino
+6061,,1930.0,Philips,879.0,,Castle Cave,273 7 Ave.,,,,273,7,Ave.,,,,,,,Castle
+6062,,1930.0,Philips,879.0,,Cavanagh's,258 W 23 St.,,,,258,W,23,St.,,,,,,Cavanagh's
+6063,,1930.0,Philips,879.0,,Cedars Tea Room,6 Cedar St.,,,,6,Cedar,St.,,,,,,,Cedars
+6064,,1930.0,Philips,879.0,,Celestial Restaurant,164 W 125 St.,,,,164,W,125,St.,,,,,,Celestial
+6065,,1930.0,Philips,879.0,,Celtic Restaurant,164 W 125 St.,,,,164,W,125,St.,,,,,,Celtic
+6066,,1930.0,Philips,879.0,,Central Cafeteria Co.,2 Warren St.,,,,2,Warren,St.,,,,,,,Central
+6067,,1930.0,Philips,879.0,,Central Lunch Room,86 West St.,,,,86,West,St.,,,,,,,Central
+6068,,1930.0,Philips,879.0,,Central Rotisserie,141 E 42 St.,,,,141,E,42,St.,,,,,,Central
+6069,,1930.0,Philips,879.0,,Cesar Restaurant,142 W 49 St.,,,,142,W,49,St.,,,,,,Cesar
+6070,,1930.0,Philips,879.0,,Cevasco & Roboni,2210 3 Ave.,,,,2210,3,Ave.,,,,,,,Cevasco
+6071,,1930.0,Philips,879.0,,"Ceylon-India Inn, The",148 W 49 St.,,,,148,W,49,St.,,,,,,Ceylon-India
+6072,,1930.0,Philips,879.0,,Chaine 5th Ave Restaurant & French Pastry Corp,286 5 Ave.,,,,286,5,Ave.,,,,,,,Chaine
+6073,,1930.0,Philips,879.0,,Chamberlain ,120 Chambers St.,,,,120,Chambers,St.,,,,,,,Chamberlain
+6074,,1930.0,Philips,879.0,,Charles Restaurant,111 Nassau St.,,,,111,Nassau,St.,,,,,,,Charles
+6075,,1930.0,Philips,879.0,,Chatham Restaurant Corpn. ,401 W 14 St.,,,,401,W,14,St.,,,,,,Chatham
+6076,,1930.0,Philips,879.0,,Chevalier Jacques,133 W 45 St.,,,,133,W,45,St.,,,,,,Chevalier
+6077,,1930.0,Philips,879.0,,Chiarello F.,214 Manhattan Ave.,,,,214,Manhattan,Ave.,,,,,,,Chiarello
+6078,,1930.0,Philips,879.0,Chinese Restaurant,Chin-Lee,1626 Broadway,,,,1626,Broadway,,,,,,,,Chin-Lee
+6079,,1930.0,Philips,879.0,Chinese Restaurant,Chin's,1506 Broadway,,,,1506,Broadway,,,,,,,,Chin's
+6080,,1930.0,Philips,879.0,Chinese Restaurant,China View,1650 Broadway,,,,1650,Broadway,,,,,,,,China
+6081,,1930.0,Philips,879.0,Chinese Restaurant,Chinese Republic Restaurant,2124 Broadway,,,,2124,Broadway,,,,,,,,Chinese
+6082,,1930.0,Philips,879.0,,Christie's Chop House,163 W 49 St.,,,,163,W,49,St.,,,,,,Christie's
+6083,,1930.0,Philips,879.0,,Citrin M.,65 Canal St.,,,,65,Canal,St.,,,,,,,Citrin
+6084,,1930.0,Philips,879.0,,City Hall Tea Garden,170 Nassau St.,,,,170,Nassau,St.,,,,,,,City
+6085,,1930.0,Philips,880.0,,Claredon,540 W 135 St.,,,,540,W,135,St.,,,,,,Claredon
+6086,,1930.0,Philips,880.0,,Claremont,c Riverside Park & 126,,,,c,Riverside Park,&,126,,,,,,Claremont
+6087,,1930.0,Philips,880.0,,Cledis N.,2011 Lexington Ave.,,,,2011,Lexington,Ave.,,,,,,,Cledis
+6088,,1930.0,Philips,880.0,,Clinton Lunch,470 8 Ave.,,,,470,8,Ave.,,,,,,,Clinton
+6089,,1930.0,Philips,880.0,,Codington Co.,1487 Broadway,,,,1487,Broadway,,,,,,,,Codington
+6090,,1930.0,Philips,880.0,,Coffedor Restaurant,203 W 33 St.,,,,203,W,33,St.,,,,,,Coffedor
+6091,,1930.0,Philips,880.0,,Cohen H.,322 Canal St.,,,,322,Canal,St.,,,,,,,Cohen
+6092,,1930.0,Philips,880.0,,Cohen I.,139 Hester St.,,,,139,Hester,St.,,,,,,,Cohen
+6093,,1930.0,Philips,880.0,,Cohn Sam,348 4 Ave.,,,,348,4,Ave.,,,,,,,Cohn
+6094,,1930.0,Philips,880.0,,Colombo ,317 W 57 St.,,,,317,W,57,St.,,,,,,Colombo
+6095,,1930.0,Philips,880.0,,Colonia Tea Rooms,379 5 Ave.,,,,379,5,Ave.,,,,,,,Colonia
+6096,,1930.0,Philips,880.0,,Colonial Restaurant,269 Columbus Ave.,,,,269,Columbus,Ave.,,,,,,,Colonial
+6097,,1930.0,Philips,880.0,,Colonial Studio Restaurant,39 W 67 St.,,,,39,W,67,St.,,,,,,Colonial
+6098,,1930.0,Philips,880.0,,"Colony, The",667 Madison Ave.,,,,667,Madison,Ave.,,,,,,,"Colony,"
+6099,,1930.0,Philips,880.0,,Columbia,1125 Amsterdam Ave.,,,,1125,Amsterdam,Ave.,,,,,,,Columbia
+6100,,1930.0,Philips,880.0,,Columbia Dining Room,213 W 34 St.,,,,213,W,34,St.,,,,,,Columbia
+6101,,1930.0,Philips,880.0,,Columbia Urn,130 Liberty St.,,,,130,Liberty,St.,,,,,,,Columbia
+6102,,1930.0,Philips,880.0,,Comerford Bros.,71 W 66 St.,,,,71,W,66,St.,,,,,,Comerford
+6103,,1930.0,Philips,880.0,,Commerical Cafeteria,28 W 33 St.,,,,28,W,33,St.,,,,,,Commerical
+6104,,1930.0,Philips,880.0,,Conklin Viola Percy,147 Washington St.,,,,147,Washington,St.,,,,,,,Conklin
+6105,,1930.0,Philips,880.0,,Consolidated Cafeteria,38 W 38 St.,,,,38,W,38,St.,,,,,,Consolidated
+6106,,1930.0,Philips,880.0,,Consolidated Lunch,648 Broadway,,,,648,Broadway,,,,,,,,Consolidated
+6107,,1930.0,Philips,880.0,,Consumers Co-Operative Services Inc.,154 Nassau St.,,,,154,Nassau,St.,,,,,,,Consumers
+6108,,1930.0,Philips,880.0,,Conte's Restaurant,432 Lafayette St.,,,,432,Lafayette,St.,,,,,,,Conte's
+6109,,1930.0,Philips,880.0,,Cooper Wm. F.,11 W 18 St.,,,,11,W,18,St.,,,,,,Cooper
+6110,,1930.0,Philips,880.0,,Cortlandt Tea Room,173 Greenwich St.,,,,173,Greenwich,St.,,,,,,,Cortlandt
+6111,,1930.0,Philips,880.0,,Cosmopolitan,129 Chambers St.,,,,129,Chambers,St.,,,,,,,Cosmopolitan
+6112,,1930.0,Philips,880.0,,"Cosmpolitan, The",223 W 14 St.,,,,223,W,14,St.,,,,,,"Cosmpolitan,"
+6113,,1930.0,Philips,880.0,,Cosmos Cafeteria & Rest,174 E 116 St.,,,,174,E,116,St.,,,,,,Cosmos
+6114,,1930.0,Philips,880.0,,"Cottage, Inc, The",724 Lexington Ave.,,,,724,Lexington,Ave.,,,,,,,"Cottage,"
+6115,,1930.0,Philips,880.0,,Crawford Lunch,88 Greenwich Ave.,,,,88,Greenwich,Ave.,,,,,,,Crawford
+6116,,1930.0,Philips,880.0,,Creamer Wm. M.,135 E 43 St.,,,,135,E,43,St.,,,,,,Creamer
+6117,,1930.0,Philips,880.0,,Crisfield Cafeteria,99 William St.,,,,99,William,St.,,,,,,,Crisfield
+6118,,1930.0,Philips,880.0,,Crispino Geo.,216 E 14 St.,,,,216,E,14,St.,,,,,,Crispino
+6119,,1930.0,Philips,880.0,,Criterion Coffee House,155 W 44 St.,,,,155,W,44,St.,,,,,,Criterion
+6120,,1930.0,Philips,880.0,,Criterion Restaurant,389 E 149 St.,,,,389,E,149,St.,,,,,,Criterion
+6121,,1930.0,Philips,880.0,,Crystal Palace,26 Cortlandt St.,,,,26,Cortlandt,St.,,,,,,,Crystal
+6122,,1930.0,Philips,880.0,,Cullen Mark,132 Pearl St.,,,,132,Pearl,St.,,,,,,,Cullen
+6123,,1930.0,Philips,880.0,,Cunard Restaurant,40 Greenwich St.,,,,40,Greenwich,St.,,,,,,,Cunard
+6124,,1930.0,Philips,880.0,,Curb ,78 Trinity Pl,,,,78,Trinity,Pl,,,,,,,Curb
+6125,,1930.0,Philips,880.0,,Curley Fern,126 E 41 St.,,,,126,E,41,St.,,,,,,Curley
+6126,,1930.0,Philips,880.0,,D. T. C. Dairy Restaurant,120 W 25 St.,,,,120,W,25,St.,,,,,,D.
+6127,,1930.0,Philips,880.0,,D. & B. Restaurant,261 W 45 St.,,,,261,W,45,St.,,,,,,D.
+6128,,1930.0,Philips,880.0,,Dacey's,38 W 33 St.,,,,38,W,33,St.,,,,,,Dacey's
+6129,,1930.0,Philips,880.0,,Dainty Maid,50 John St.,,,,50,John,St.,,,,,,,Dainty
+6130,,1930.0,Philips,880.0,,Daisy Tea Room,41 W 37 St.,,,,41,W,37,St.,,,,,,Daisy
+6131,,1930.0,Philips,880.0,,Daly's Grill Inc.,17 E 59 St.,,,,17,E,59,St.,,,,,,Daly's
+6132,,1930.0,Philips,880.0,,D'Angelo Giovanni,2230 1 Ave.,,,,2230,1,Ave.,,,,,,,D'Angelo
+6133,,1930.0,Philips,880.0,,Dashchlager Wm.,45 Lafayette St.,,,,45,Lafayette,St.,,,,,,,Dashchlager
+6134,,1930.0,Philips,880.0,,Dattory Carl,316 Greenwich St.,,,,316,Greenwich,St.,,,,,,,Dattory
+6135,,1930.0,Philips,880.0,,Davidson's Inc.,98 Broad St.,,,,98,Broad,St.,,,,,,,Davidson's
+6136,,1930.0,Philips,880.0,,Davis P. & Co. Inc.,1345 5 Ave.,,,,1345,5,Ave.,,,,,,,Davis
+6137,,1930.0,Philips,880.0,,Davis & Kathmeyer,325 Greenwich St.,,,,325,Greenwich,St.,,,,,,,Davis
+6138,,1930.0,Philips,880.0,,Dean E.,57 Beach St.,,,,57,Beach,St.,,,,,,,Dean
+6139,,1930.0,Philips,880.0,,Degen's Restaurant,35 W 20 St.,,,,35,W,20,St.,,,,,,Degen's
+6140,,1930.0,Philips,880.0,,Degenhardt Bros.,95 Hudson St.,,,,95,Hudson,St.,,,,,,,Degenhardt
+6141,,1930.0,Philips,880.0,,Deixler's,153 Park Row,,,,153,Park Row,,,,,,,,Deixler's
+6142,,1930.0,Philips,880.0,,Del Pezzo Restaurant,211 W 34 St.,,,,211,W,34,St.,,,,,,Del
+6143,,1930.0,Philips,880.0,,De Luxe Restaurant,238 E 6 St.,,,,238,E,6,St.,,,,,,De
+6144,,1930.0,Philips,880.0,,Denver Lunch,882 Columbus Ave.,,,,882,Columbus,Ave.,,,,,,,Denver
+6145,,1930.0,Philips,880.0,,De Pascale Charles,29 Broadway,,,,29,Broadway,,,,,,,,De
+6146,,1930.0,Philips,880.0,,Derby Lunch Co.,2305 3 Ave.,,,,2305,3,Ave.,,,,,,,Derby
+6147,,1930.0,Philips,880.0,,Desire Restaurant,202 W 14 St.,,,,202,W,14,St.,,,,,,Desire
+6148,,1930.0,Philips,880.0,,Devaney Bros.,322 W 34 St.,,,,322,W,34,St.,,,,,,Devaney
+6149,,1930.0,Philips,880.0,,Devaney & Armstrong,61 W 14 St.,,,,61,W,14,St.,,,,,,Devaney
+6150,,1930.0,Philips,880.0,,De Vanos Restaurant Co. Inc,1414 Broadway,,,,1414,Broadway,,,,,,,,De
+6151,,1930.0,Philips,880.0,,Dewey H. T. & Sons Co.,138 Fulton St.,,,,138,Fulton,St.,,,,,,,Dewey
+6152,,1930.0,Philips,880.0,,Diamond Club Restaurant,132 Nassau St.,,,,132,Nassau,St.,,,,,,,Diamond
+6153,,1930.0,Philips,880.0,,"Dick, the Oysterman",65 E 8 St.,,,,65,E,8,St.,,,,,,"Dick,"
+6154,,1930.0,Philips,880.0,,Dingley Deil Inc,187 Broadway,,,,187,Broadway,,,,,,,,Dingley
+6155,,1930.0,Philips,880.0,,Dinner Bell,82 Broadway,,,,82,Broadway,,,,,,,,Dinner
+6156,,1930.0,Philips,880.0,,"Dinner Place, The",120 W 72 St.,,,,120,W,72,St.,,,,,,Dinner
+6157,,1930.0,Philips,880.0,,D'Ippolito F.,74 West St.,,,,74,West,St.,,,,,,,D'Ippolito
+6158,,1930.0,Philips,880.0,,Dixie Kitchen Inc,9 E 44 St.,,,,9,E,44,St.,,,,,,Dixie
+6159,,1930.0,Philips,880.0,,Dodes Morres,106 W 46 St.,,,,106,W,46,St.,,,,,,Dodes
+6160,,1930.0,Philips,880.0,,Dolly Madison,601 Madison Ave.,,,,601,Madison,Ave.,,,,,,,Dolly
+6161,,1930.0,Philips,880.0,,Donaldson John,110 Greenwich St.,,,,110,Greenwich,St.,,,,,,,Donaldson
+6162,,1930.0,Philips,880.0,,Double R. Coffee House,112 W 44 St.,,,,112,W,44,St.,,,,,,Double
+6163,,1930.0,Philips,880.0,,Douros & Mavromatis,5 Cathedral Pkway,,,,5,Cathedral,Pkway,,,,,,,Douros
+6164,,1930.0,Philips,880.0,,Dowd John J.,437 Broadway,,,,437,Broadway,,,,,,,,Dowd
+6165,,1930.0,Philips,880.0,,Dowd John J.,645 Broadway,,,,645,Broadway,,,,,,,,Dowd
+6166,,1930.0,Philips,880.0,,Downtown Restaurant Corp'n,11 Dutch St.,,,,11,Dutch,St.,,,,,,,Downtown
+6167,,1930.0,Philips,880.0,,Dragoni Jos.,4 E 41 St.,,,,4,E,41,St.,,,,,,Dragoni
+6168,,1930.0,Philips,880.0,,Drake's,119 W 42 St.,,,,119,W,42,St.,,,,,,Drake's
+6169,,1930.0,Philips,880.0,,Drews Restaurant,21 W 58 St.,,,,21,W,58,St.,,,,,,Drews
+6170,,1930.0,Philips,880.0,,Dubrowin J.,2058 Lexington Ave.,,,,2058,Lexington,Ave.,,,,,,,Dubrowin
+6171,,1930.0,Philips,880.0,,Duke's House Restaurant,15 Water St.,,,,15,Water,St.,,,,,,,Duke's
+6172,,1930.0,Philips,880.0,,E. D Restaurant,30 W 19 St.,,,,30,W,19,St.,,,,,,E.
+6173,,1930.0,Philips,880.0,,Eagle Cafeteria Inc.,84 3 Ave.,,,,84,3,Ave.,,,,,,,Eagle
+6174,,1930.0,Philips,880.0,,Eagle Lunch,568 W 23 St.,,,,568,W,23,St.,,,,,,Eagle
+6175,,1930.0,Philips,880.0,,Eagle Lunch Room,c 11 Ave. & 22,,,,c,11,Ave.,& 22,,,,,,Eagle
+6176,,1930.0,Philips,880.0,,Eagle Restaurant,28 E 14 St.,,,,28,E,14,St.,,,,,,Eagle
+6177,,1930.0,Philips,880.0,,Earlington,49 W 27 St.,,,,49,W,27,St.,,,,,,Earlington
+6178,,1930.0,Philips,880.0,,Eatmor,82 Nassau St.,,,,82,Nassau,St.,,,,,,,Eatmor
+6179,,1930.0,Philips,880.0,,Eatmor Dairy Lunch Inc.,4 Bond St.,,,,4,Bond,St.,,,,,,,Eatmor
+6180,,1930.0,Philips,880.0,,Eberlin Fred Co.,9 New St.,,,,9,New,St.,,,,,,,Eberlin
+6181,,1930.0,Philips,880.0,,Eclipse Restaurant Co.,87 Bowery St.,,,,87,Bowery,St.,,,,,,,Eclipse
+6182,,1930.0,Philips,880.0,,Edelmayer Max,1708 2 Ave.,,,,1708,2,Ave.,,,,,,,Edelmayer
+6183,,1930.0,Philips,880.0,,Edwards Inc.,21 E 49 St.,,,,21,E,49,St.,,,,,,Edwards
+6184,,1930.0,Philips,880.0,,Ehrlich & Braverman,447 7 Ave.,,,,447,7,Ave.,,,,,,,Ehrlich
+6185,,1930.0,Philips,880.0,,Eldorado,1599 Broadway,,,,1599,Broadway,,,,,,,,Eldorado
+6186,,1930.0,Philips,880.0,,Elfenbein S.,97 2 Ave.,,,,97,2,Ave.,,,,,,,Elfenbein
+6187,,1930.0,Philips,880.0,,Elite Lunch,44 Fulton St.,,,,44,Fulton,St.,,,,,,,Elite
+6188,,1930.0,Philips,880.0,,"Elizabeth, The",120 Pearl St.,,,,120,Pearl,St.,,,,,,,"Elizabeth,"
+6189,,1930.0,Philips,880.0,,Elk Restaurant,24 W 28 St.,,,,24,W,28,St.,,,,,,Elk
+6190,,1930.0,Philips,880.0,,Elm Tree Tea Room,3 E 52 St.,,,,3,E,52,St.,,,,,,Elm
+6191,,1930.0,Philips,880.0,,El Retiro ,3 Cedar St.,,,,3,Cedar,St.,,,,,,,El
+6192,,1930.0,Philips,880.0,,Emilys Luncheon,114 Pearl St.,,,,114,Pearl,St.,,,,,,,Emilys
+6193,,1930.0,Philips,880.0,,Engel R.,481 Broadway,,,,481,Broadway,,,,,,,,Engel
+6194,,1930.0,Philips,880.0,,Enrico & Paglieri,64 W 11 St.,,,,64,W,11,St.,,,,,,Enrico
+6195,,1930.0,Philips,880.0,,Epicure Restaurant Inc.,77 Broad St.,,,,77,Broad,St.,,,,,,,Epicure
+6196,,1930.0,Philips,880.0,,Eppys Luncheonette,86 Wall St.,,,,86,Wall,St.,,,,,,,Eppys
+6197,,1930.0,Philips,880.0,,Equitable Building Restaurant Inc.,120 Broadway,,,,120,Broadway,,,,,,,,Equitable
+6198,,1930.0,Philips,880.0,,Espana Nueva,352 W 11 St.,,,,352,W,11,St.,,,,,,Espana
+6199,,1930.0,Philips,880.0,,Eurasia,159 W 33 St.,,,,159,W,33,St.,,,,,,Eurasia
+6200,,1930.0,Philips,880.0,,Evans Louis,89 E 10 St.,,,,89,E,10,St.,,,,,,Evans
+6201,,1930.0,Philips,880.0,,Excellent Shop,136 5 Ave.,,,,136,5,Ave.,,,,,,,Excellent
+6202,,1930.0,Philips,880.0,,Excellent Shop,308 5 Ave.,,,,308,5,Ave.,,,,,,,Excellent
+6203,,1930.0,Philips,880.0,,Excellent Shop,49 Maiden La,,,,49,Maiden,La,,,,,,,Excellent
+6204,,1930.0,Philips,880.0,,Excelsior Restaurant,140 W 4 St.,,,,140,W,4,St.,,,,,,Excelsior
+6205,,1930.0,Philips,880.0,,Exchange Lunch,34 New St.,,,,34,New,St.,,,,,,,Exchange
+6206,,1930.0,Philips,880.0,,Fanis Nicholas,166 13 Ave.,,,,166,13,Ave.,,,,,,,Fanis
+6207,,1930.0,Philips,880.0,Chinese Restaurant,Far East Garden,10 Columbus Circle,,,,10,Columbus,Circle,,,,,,,Far
+6208,,1930.0,Philips,880.0,Chinese Restaurant,Far East Restaurant,1628 Broadway,,,,1628,Broadway,,,,,,,,Far
+6209,,1930.0,Philips,880.0,,Farfone Victor,145 W 49 St.,,,,145,W,49,St.,,,,,,Farfone
+6210,,1930.0,Philips,880.0,,Farish's Chop House,64 John St.,,,,64,John,St.,,,,,,,Farish's
+6211,,1930.0,Philips,880.0,,Farragut Lunch Co. Inc,326 7 Ave.,,,,326,7,Ave.,,,,,,,Farragut
+6212,,1930.0,Philips,880.0,,Fass Max,19 W 31 St.,,,,19,W,31,St.,,,,,,Fass
+6213,,1930.0,Philips,880.0,,Fay John T.,239 W 125 St.,,,,239,W,125,St.,,,,,,Fay
+6214,,1930.0,Philips,880.0,,Federal Cafeteria Inc.,64 Nassau St.,,,,64,Nassau,St.,,,,,,,Federal
+6215,,1930.0,Philips,880.0,,Feinberg B.,240 E 14 St.,,,,240,E,14,St.,,,,,,Feinberg
+6216,,1930.0,Philips,880.0,,Feldblet Josef,2079 Lexington Ave.,,,,2079,Lexington,Ave.,,,,,,,Feldblet
+6217,,1930.0,Philips,880.0,,Feldman's,34 White St.,,,,34,White,St.,,,,,,,Feldman's
+6218,,1930.0,Philips,880.0,,Felix & Frank,104 W 52 St.,,,,104,W,52,St.,,,,,,Felix
+6219,,1930.0,Philips,880.0,,Fellows Miss Cafeteria,71 Broad St.,,,,71,Broad,St.,,,,,,,Fellows
+6220,,1930.0,Philips,880.0,,"Fernery, The",691 Madison Ave.,,,,691,Madison,Ave.,,,,,,,"Fernery,"
+6221,,1930.0,Philips,880.0,,Ferry Cafeteria,635 W 23 St.,,,,635,W,23,St.,,,,,,Ferry
+6222,,1930.0,Philips,880.0,,Feuer S.,12 W 4 St.,,,,12,W,4,St.,,,,,,Feuer
+6223,,1930.0,Philips,880.0,,Fiat's Restaurant,25 Mulberry St.,,,,25,Mulberry,St.,,,,,,,Fiat's
+6224,,1930.0,Philips,880.0,,Fichman Charles,251 Bowery St.,,,,251,Bowery,St.,,,,,,,Fichman
+6225,,1930.0,Philips,880.0,,Field's National Inc.,16 W 18 St.,,,,16,W,18,St.,,,,,,Field's
+6226,,1930.0,Philips,880.0,,Fifth Avenue ,200 5 Ave.,,,,200,5,Ave.,,,,,,,Fifth
+6227,,1930.0,Philips,880.0,,Filsicht L.,806 Columbus Ave.,,,,806,Columbus,Ave.,,,,,,,Filsicht
+6228,,1930.0,Philips,880.0,,Finestone G. S. ,876 E Tremont Ave.,,,,876,E,Tremont,Ave.,,,,,,Finestone
+6229,,1930.0,Philips,880.0,,Fink H.,221 Hudson St.,,,,221,Hudson,St.,,,,,,,Fink
+6230,,1930.0,Philips,880.0,,Fischer Anton S.,44 Greenwich St.,,,,44,Greenwich,St.,,,,,,,Fischer
+6231,,1930.0,Philips,880.0,,Fischer Eugene,329 E 86 St.,,,,329,E,86,St.,,,,,,Fischer
+6232,,1930.0,Philips,880.0,,Fischer Foods Co.,306 W 59 St.,,,,306,W,59,St.,,,,,,Fischer
+6233,,1930.0,Philips,880.0,,Fischer N. L. ,10 W 18 St.,,,,10,W,18,St.,,,,,,Fischer
+6234,,1930.0,Philips,880.0,,Fischer P.,12 W 45 St.,,,,12,W,45,St.,,,,,,Fischer
+6235,,1930.0,Philips,880.0,,Fischer Rudolph A. Inc.,66 Broadway,,,,66,Broadway,,,,,,,,Fischer
+6236,,1930.0,Philips,880.0,,Fischer T. R. Inc.,79 E 125 St.,,,,79,E,125,St.,,,,,,Fischer
+6237,,1930.0,Philips,880.0,,Fischer's ,1849 Broadway,,,,1849,Broadway,,,,,,,,Fischer's
+6238,,1930.0,Philips,880.0,,Fisher J.,26 Whitehall St.,,,,26,Whitehall,St.,,,,,,,Fisher
+6239,,1930.0,Philips,880.0,,Flat Iron Lunch,164 5 Ave.,,,,164,5,Ave.,,,,,,,Flat
+6240,,1930.0,Philips,880.0,,Flatiron Resturants,949 Broadway,,,,949,Broadway,,,,,,,,Flatiron
+6241,,1930.0,Philips,880.0,,Fleischer I. P,87 Bowery St.,,,,87,Bowery,St.,,,,,,,Fleischer
+6242,,1930.0,Philips,880.0,,Fleischer I. P,317 Bowery St.,,,,317,Bowery,St.,,,,,,,Fleischer
+6243,,1930.0,Philips,880.0,,Fleischer I. P,149 Bleecker St.,,,,149,Bleecker,St.,,,,,,,Fleischer
+6244,,1930.0,Philips,880.0,,Fleischman's ,749 6 Ave.,,,,749,6,Ave.,,,,,,,Fleischman's
+6245,,1930.0,Philips,880.0,,Fleming's Tea Room,54 W 39 St.,,,,54,W,39,St.,,,,,,Fleming's
+6246,,1930.0,Philips,880.0,,Fleur De Lis,6 E 30 St.,,,,6,E,30,St.,,,,,,Fleur
+6247,,1930.0,Philips,880.0,,Florence Lunch Co. Inc.,12 Bond St.,,,,12,Bond,St.,,,,,,,Florence
+6248,,1930.0,Philips,880.0,Chinese Restaurant,Fong King,149 E 125 St.,,,,149,E,125,St.,,,,,,Fong
+6249,,1930.0,Philips,880.0,,Foodplus Lunch Corp.,110 W 40 St.,,,,110,W,40,St.,,,,,,Foodplus
+6250,,1930.0,Philips,880.0,,Forkosch S.,288 2 St.,,,,288,2,St.,,,,,,,Forkosch
+6251,,1930.0,Philips,880.0,,Forst Charles,381 3 Ave.,,,,381,3,Ave.,,,,,,,Forst
+6252,,1930.0,Philips,880.0,,Forster Geo.,36 W 48 St.,,,,36,W,48,St.,,,,,,Forster
+6253,,1930.0,Philips,880.0,,Fourth Ave Cafeteria,400 4 Ave.,,,,400,4,Ave.,,,,,,,Fourth
+6254,,1930.0,Philips,880.0,,4th Ave Luncheonette & Restaurant,477 4 Ave.,,,,477,4,Ave.,,,,,,,4th
+6255,,1930.0,Philips,880.0,,Fourth Estate ,192 William St.,,,,192,William,St.,,,,,,,Fourth
+6256,,1930.0,Philips,880.0,,Foy James ,1482 3 Ave.,,,,1482,3,Ave.,,,,,,,Foy
+6257,,1930.0,Philips,880.0,,Frank & Louis,124 W 58 St.,,,,124,W,58,St.,,,,,,Frank
+6258,,1930.0,Philips,880.0,,Frank's Restaurant,431 W 14 St.,,,,431,W,14,St.,,,,,,Frank's
+6259,,1930.0,Philips,880.0,,Frankel Max,570 Grand St.,,,,570,Grand,St.,,,,,,,Frankel
+6260,,1930.0,Philips,880.0,,Franklin Bakery & Restaurant,101 Hudson St.,,,,101,Hudson,St.,,,,,,,Franklin
+6261,,1930.0,Philips,880.0,,Franklin Inn,176 Franklin St.,,,,176,Franklin,St.,,,,,,,Franklin
+6262,,1930.0,Philips,880.0,,French-Am Restaurant,570 Hudson St.,,,,570,Hudson,St.,,,,,,,French-Am
+6263,,1930.0,Philips,880.0,,French Pastry Shop,c 11 St. &,,,,c,11,St.,&,,,,,,French
+6264,,1930.0,Philips,881.0,,Frieber Strelfer Restaurant Co.,43 John St.,,,,43,John,St.,,,,,,,Frieber
+6265,,1930.0,Philips,881.0,,Fromm Nathan,176 Wooster St.,,,,176,Wooster,St.,,,,,,,Fromm
+7240,COPY DOWN Formula by clicking down on right corner,Copy and paste,Copy and paste,,"they are all restaurants, unless they have a Chinese sounding name",,COPY DOWN Formula by clicking down on right corner,Copy and paste,Copy and paste,Copy and paste,enter house number ,Street Name,,,"Street prefix, i.e. ""W."" ""E.""","Street Suffix, i.e. ""St."" or ""Ave.""",,,,
+7241,1,1895,Trows,758.0,Restaurants,Aaron Julius,34 E. Houston St.,Manhattan,New York,New York,34,Houston,,,E.,St.,,,,Aaron
+7242,2,1895,Trows,758.0,Restaurants,Abmeyer Henry,89  2 Ave.,Manhattan,New York,New York,89,2,,,,Ave.,,,,Abmeyer
+7243,3,1895,Trows,758.0,Restaurants,Abraham & Naftolowitz,215  Wooster St.,Manhattan,New York,New York,215,Wooster,,,,St.,,,,Abraham
+7244,4,1895,Trows,758.0,Restaurants,Acerno John,209  Mulberry St.,Manhattan,New York,New York,209,Mulberry,,,,St.,,,,Acerno
+7245,5,1895,Trows,758.0,Restaurants,Achorn John E.,142  Fulton St.,Manhattan,New York,New York,142,Fulton,,,,St.,,,,Achorn
+7246,6,1895,Trows,758.0,Restaurants,Adams Joseph T.,384  West St.,Manhattan,New York,New York,384,West,,,,St.,,,,Adams
+7247,7,1895,Trows,758.0,Restaurants,Adler Albert A.,373  West St.,Manhattan,New York,New York,373,West,,,,St.,,,,Adler
+7248,8,1895,Trows,758.0,Restaurants,Ahnert Louis F.,133  7 Ave.,Manhattan,New York,New York,133,7,,,,Ave.,,,,Ahnert
+7249,9,1895,Trows,758.0,Restaurants,Ahrens Henry ,730  2 Ave.,Manhattan,New York,New York,730,2,,,,Ave.,,,,Ahrens
+7250,10,1895,Trows,758.0,Restaurants,Aird Henry F.,602  Columbus Ave.,Manhattan,New York,New York,602,Columbus,,,,Ave.,,,,Aird
+7251,11,1895,Trows,758.0,Restaurants,Albanus Charles,351  Bowery St.,Manhattan,New York,New York,351,Bowery,,,,St.,,,,Albanus
+7252,12,1895,Trows,758.0,Restaurants,Albert Samuel,214  Broome St.,Manhattan,New York,New York,214,Broome,,,,St.,,,,Albert
+7253,13,1895,Trows,758.0,Restaurants,Alberts David,236  Cherry St.,Manhattan,New York,New York,236,Cherry,,,,St.,,,,Alberts
+7254,14,1895,Trows,758.0,Restaurants,Aldrich Elizabeth ,81  Pike St.,Manhattan,New York,New York,81,Pike,,,,St.,,,,Aldrich
+7255,15,1895,Trows,758.0,Restaurants,Allaire John T.,1  Park Row,Manhattan,New York,New York,1,Park,,,,Row,,,,Allaire
+7256,16,1895,Trows,758.0,Restaurants,Allen Ephraim ,Highbridge St.,Manhattan,New York,New York,,Highbridge,,,,St.,,,,Allen
+7257,17,1895,Trows,758.0,Restaurants,Allen Brothers ,1278  3 Ave.,Manhattan,New York,New York,1278,3,,,,Ave.,,,,Allen
+7258,18,1895,Trows,758.0,Restaurants,Allison Charles,375  Broome St.,Manhattan,New York,New York,375,Broome,,,,St.,,,,Allison
+7259,19,1895,Trows,758.0,Restaurants,Allport John G.,2920  8 Ave.,Manhattan,New York,New York,2920,8,,,,Ave.,,,,Allport
+7260,20,1895,Trows,758.0,Restaurants,Allweier John,63 E. 4 St.,Manhattan,New York,New York,63,4,,,E.,St.,,,,Allweier
+7261,21,1895,Trows,758.0,Restaurants,Alpieni & Sanbarsiere,225  Fulton Mkt.,Manhattan,New York,New York,225,Fulton,,,,Mkt.,,,,Alpieni
+7262,22,1895,Trows,758.0,Restaurants,Amick & Shubert ,114 E. 14 St.,Manhattan,New York,New York,114,14,,,E.,St.,,,,Amick
+7263,23,1895,Trows,758.0,Restaurants,Amster Wolf,77  Eldridge St.,Manhattan,New York,New York,77,Eldridge,,,,St.,,,,Amster
+7264,24,1895,Trows,758.0,Restaurants,Anderson Henry,87  Dey St.,Manhattan,New York,New York,87,Dey,,,,St.,,,,Anderson
+7265,25,1895,Trows,758.0,Restaurants,Anderson James,87  10 Ave.,Manhattan,New York,New York,87,10,,,,Ave.,,,,Anderson
+7266,26,1895,Trows,758.0,Restaurants,Anderson Martin C.,527  1 Ave.,Manhattan,New York,New York,527,1,,,,Ave.,,,,Anderson
+7267,27,1895,Trows,758.0,Restaurants,Anderson William,957  6 Ave.,Manhattan,New York,New York,957,6,,,,Ave.,,,,Anderson
+7268,28,1895,Trows,758.0,Restaurants,Andre E.,170 W. 25 St.,Manhattan,New York,New York,170,25,,,W.,St.,,,,Andre
+7269,29,1895,Trows,758.0,Restaurants,Adrews Charles,13 ave. N W. 15 St.,Manhattan,New York,New York,,15,,,13 ave. N W.,St.,,,,Adrews
+7270,30,1895,Trows,758.0,Restaurants,Andris Frank,150 W. 34 St.,Manhattan,New York,New York,150,34,,,W.,St.,,,,Andris
+7271,31,1895,Trows,758.0,Restaurants,Appel Charles E.,137  Cedar St.,Manhattan,New York,New York,137,Cedar,,,,St.,,,,Appel
+7272,32,1895,Trows,758.0,Restaurants,Appell Jacob,258  8 Ave.,Manhattan,New York,New York,258,8,,,,Ave.,,,,Appell
+7273,33,1895,Trows,758.0,Restaurants,Applisdorf Joseph,439  6 St.,Manhattan,New York,New York,439,6,,,,St.,,,,Applisdorf
+7274,34,1895,Trows,758.0,Restaurants,Archer James E.,104 W. 42 St.,Manhattan,New York,New York,104,42,,,W.,St.,,,,Archer
+7275,35,1895,Trows,758.0,Restaurants,Archer Thomas,1385  3 Ave.,Manhattan,New York,New York,1385,3,,,,Ave.,,,,Archer
+7276,36,1895,Trows,758.0,Restaurants,Archiopol Angelo,2  James St.,Manhattan,New York,New York,2,James,,,,St.,,,,Archiopol
+7277,37,1895,Trows,758.0,Restaurants,Arkedas Christopher ,31  Roosevelt St.,Manhattan,New York,New York,31,Roosevelt,,,,St.,,,,Arkedas
+7278,38,1895,Trows,758.0,Restaurants,Armstrong George,126 E. 125 St.,Manhattan,New York,New York,126,125,,,E.,St.,,,,Armstrong
+7279,39,1895,Trows,758.0,Restaurants,Ashcroft Jehn ,634  Columbus Ave.,Manhattan,New York,New York,634,Columbus,,,,Ave.,,,,Ashcroft
+7280,40,1895,Trows,758.0,Restaurants,Atah Latfallah ,75  Washington St.,Manhattan,New York,New York,75,Washington,,,,St.,,,,Atah
+7281,41,1895,Trows,758.0,Restaurants,Aueringer Ehrardt,206 E. Houston St.,Manhattan,New York,New York,206,Houston,,,E.,St.,,,,Aueringer
+7282,42,1895,Trows,758.0,Restaurants,Avellanet Joseph,41 W. 28 St.,Manhattan,New York,New York,41,28,,,W.,St.,,,,Avellanet
+7283,43,1895,Trows,758.0,Restaurants,Avery John,490  6 Ave.,Manhattan,New York,New York,490,6,,,,Ave.,,,,Avery
+7284,44,1895,Trows,758.0,Restaurants,Babel James S.,134 W. 27 St.,Manhattan,New York,New York,134,27,,,W.,St.,,,,Babel
+7285,45,1895,Trows,758.0,Restaurants,Bach B. & Son,48  Bleecker St.,Manhattan,New York,New York,48,Bleecker,,,,St.,,,,Bach
+7286,46,1895,Trows,758.0,Restaurants,Badar Harriet,132 E. Houston St.,Manhattan,New York,New York,132,Houston,,,E.,St.,,,,Badar
+7287,47,1895,Trows,758.0,Restaurants,Baedecker & Feinier,1  13 Ave.,Manhattan,New York,New York,1,13,,,,Ave.,,,,Baedecker
+7288,48,1895,Trows,758.0,Restaurants,Baedecker & Feinier,W. Washington Mkt.,Manhattan,New York,New York,,Washington,,,W.,Mkt.,,,,Baedecker
+7289,49,1895,Trows,758.0,Restaurants,Bailey & Berdan,82  Broad St.,Manhattan,New York,New York,82,Broad,,,,St.,,,,Bailey
+7290,50,1895,Trows,758.0,Restaurants,Ballt Leo,92  South St.,Manhattan,New York,New York,92,South,,,,St.,,,,Ballt
+7291,51,1895,Trows,758.0,Restaurants,Bals George T.,1006  2 Ave.,Manhattan,New York,New York,1006,2,,,,Ave.,,,,Bals
+7292,52,1895,Trows,759.0,Restaurants,Baizarini Joseph,307  Washington Mkt.,Manhattan,New York,New York,307,Washington,,,,Mkt.,,,,Baizarini
+7293,53,1895,Trows,759.0,Restaurants,Baizarini Joseph,2184  3 Ave.,Manhattan,New York,New York,2184,3,,,,Ave.,,,,Baizarini
+7294,54,1895,Trows,759.0,Restaurants,Bancel & Pastorini,1140  3 Ave.,Manhattan,New York,New York,1140,3,,,,Ave.,,,,Bancel
+7295,55,1895,Trows,759.0,Restaurants,Banks Jefferson H.,760  7 Ave.,Manhattan,New York,New York,760,7,,,,Ave.,,,,Banks
+7296,56,1895,Trows,759.0,Restaurants,Bantle Conrad,160 E. Houston St.,Manhattan,New York,New York,160,Houston,,,E.,St.,,,,Bantle
+7297,57,1895,Trows,759.0,Restaurants,Baresel Paul,96  Gansevoort St.,Manhattan,New York,New York,96,Gansevoort,,,,St.,,,,Baresel
+7298,58,1895,Trows,759.0,Restaurants,Barion Joseph,16  West St.,Manhattan,New York,New York,16,West,,,,St.,,,,Barion
+7299,59,1895,Trows,759.0,Restaurants,Barrett John H.,105 W. 3 St.,Manhattan,New York,New York,105,3,,,W.,St.,,,,Barrett
+7300,60,1895,Trows,759.0,Restaurants,Barron Samuel H.,32  Broadway,Manhattan,New York,New York,32,Broadway,,,,,,,,Barron
+7301,61,1895,Trows,759.0,Restaurants,Barrow Anne,34 E. 12 St.,Manhattan,New York,New York,34,12,,,E.,St.,,,,Barrow
+7302,62,1895,Trows,759.0,Restaurants,Barrows B.,117  Leonard St.,Manhattan,New York,New York,117,Leonard,,,,St.,,,,Barrows
+7303,63,1895,Trows,759.0,Restaurants,Barry James,649  1 Ave.,Manhattan,New York,New York,649,1,,,,Ave.,,,,Barry
+7304,64,1895,Trows,759.0,Restaurants,Barson John,119  3 Ave.,Manhattan,New York,New York,119,3,,,,Ave.,,,,Barson
+7305,65,1895,Trows,759.0,Restaurants,Bartel Gustav E.,328  Broome St.,Manhattan,New York,New York,328,Broome,,,,St.,,,,Bartel
+7306,66,1895,Trows,759.0,Restaurants,Bartels Henry,31 E. 135 St.,Manhattan,New York,New York,31,135,,,E.,St.,,,,Bartels
+7307,67,1895,Trows,759.0,Restaurants,Bartels John,60  New Chambers St.,Manhattan,New York,New York,60,New Chambers,,,,St.,,,,Bartels
+7308,68,1895,Trows,759.0,Restaurants,Bartels John,500 W. 24 St.,Manhattan,New York,New York,500,24,,,W.,St.,,,,Bartels
+7309,69,1895,Trows,759.0,Restaurants,Barto Henry H.,551  Grand St.,Manhattan,New York,New York,551,Grand,,,,St.,,,,Barto
+7310,70,1895,Trows,759.0,Restaurants,Bassett James B.,112 W. 25 St.,Manhattan,New York,New York,112,25,,,W.,St.,,,,Bassett
+7311,71,1895,Trows,759.0,Restaurants,Baussmann John,653  Hudson St.,Manhattan,New York,New York,653,Hudson,,,,St.,,,,Baussmann
+7312,72,1895,Trows,759.0,Restaurants,Baumwoll Abram,9.5  Essex St.,Manhattan,New York,New York,9.5,Essex,,,,St.,,,,Baumwoll
+7313,73,1895,Trows,759.0,Restaurants,Beck Hugo,9  Battery Pl.,Manhattan,New York,New York,9,Battery,,,,Pl.,,,,Beck
+7314,74,1895,Trows,759.0,Restaurants,Becker Daniel,79  Bank St.,Manhattan,New York,New York,79,Bank,,,,St.,,,,Becker
+7315,75,1895,Trows,759.0,Restaurants,Becker Frederick J.,603  Broadway,Manhattan,New York,New York,603,Broadway,,,,,,,,Becker

@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+9817,784,1910,Trow,826,Restaurant,Edwards Alice W.,130 W 57 St.  ,Manhattan,New York,New York,130,W,57,St.,,,130 W 57 St.  ,,,Edwards
+9818,785,1910,Trow,826,Restaurant,Effros William,494 Columbus Ave   ,Manhattan,New York,New York,494,Columbus,Ave,,,,494 Columbus Ave   ,,,Effros
+9819,786,1910,Trow,826,Restaurant,Egerton Harry,354 E 82 St.  ,Manhattan,New York,New York,354,E,82,St.,,,354 E 82 St.  ,,,Egerton
+9820,787,1910,Trow,826,Restaurant,Egolnitzer Hyman ,168 Rivington St.   ,Manhattan,New York,New York,168,Rivington,St.,,,,168 Rivington St.   ,,,Egolnitzer
+9821,788,1910,Trow,826,Restaurant,Ehrenhaus Louis,82 Norfolk St.   ,Manhattan,New York,New York,82,Norfolk,St.,,,,82 Norfolk St.   ,,,Ehrenhaus
+9822,789,1910,Trow,826,Restaurant,Ehrig Richard ,146 7 Ave   ,Manhattan,New York,New York,146,7,Ave,,,,146 7 Ave   ,,,Ehrig
+9823,790,1910,Trow,826,Restaurant,Ehring & Ehrhardt,957 6 Ave   ,Manhattan,New York,New York,957,6,Ave,,,,957 6 Ave   ,,,Ehring
+9824,791,1910,Trow,826,Restaurant,Ehrler Dominick,6 Chatham  Sq   ,Manhattan,New York,New York,6,Chatham ,Sq,,,,6 Chatham  Sq   ,,,Ehrler
+9825,792,1910,Trow,826,Restaurant,Ehrlich Barnett,471 Lenox Ave   ,Manhattan,New York,New York,471,Lenox,Ave,,,,471 Lenox Ave   ,,,Ehrlich
+9826,793,1910,Trow,826,Restaurant,Ehrlich Samuel,89 4 Ave   ,Manhattan,New York,New York,89,4,Ave,,,,89 4 Ave   ,,,Ehrlich
+9827,794,1910,Trow,826,Restaurant,Ehrlich Samuel,220 3 Ave    ,Manhattan,New York,New York,220,3,Ave ,,,,220 3 Ave    ,,,Ehrlich
+9828,795,1910,Trow,826,Restaurant,Ehrlich Samuel,218 8 Ave    ,Manhattan,New York,New York,218,8,Ave ,,,,218 8 Ave    ,,,Ehrlich
+9829,796,1910,Trow,826,Restaurant,Ehrlich Samuel,618 8 Ave   ,Manhattan,New York,New York,618,8,Ave,,,,618 8 Ave   ,,,Ehrlich
+9830,797,1910,Trow,826,Restaurant,Eichen & Strauchler,62 E 12 St.  ,Manhattan,New York,New York,62,E,12,St.,,,62 E 12 St.  ,,,Eichen
+9831,798,1910,Trow,826,Restaurant,Ellowitz Moses,115 Eldridge St.   ,Manhattan,New York,New York,115,Eldridge,St.,,,,115 Eldridge St.   ,,,Ellowitz
+9832,799,1910,Trow,826,Restaurant,Einstein Harry,189 South St.   ,Manhattan,New York,New York,189,South,St.,,,,189 South St.   ,,,Einstein
+9833,800,1910,Trow,826,Restaurant,Eisen Samuel,61 W 15 St.  ,Manhattan,New York,New York,61,W,15,St.,,,61 W 15 St.  ,,,Eisen
+9834,801,1910,Trow,826,Restaurant,Eisenberg Samuel,81 Norfolk St.   ,Manhattan,New York,New York,81,Norfolk,St.,,,,81 Norfolk St.   ,,,Eisenberg
+9835,802,1910,Trow,826,Restaurant,Eissner Marcus,221 5 St.   ,Manhattan,New York,New York,221,5,St.,,,,221 5 St.   ,,,Eissner
+9836,803,1910,Trow,826,Restaurant,Eitzen William J. A,172 W End St.  ,Manhattan,New York,New York,172,W,End,St.,,,172 W End St.  ,,,Eitzen
+9837,804,1910,Trow,826,Restaurant,Ekberg & Starkey,1789 3 Ave   ,Manhattan,New York,New York,1789,3,Ave,,,,1789 3 Ave   ,,,Ekberg
+9838,805,1910,Trow,826,Restaurant,Ekonomako James,1339 Avenue A    ,Manhattan,New York,New York,1339,Avenue A,,,,,1339 Avenue A    ,,,Ekonomako
+9839,806,1910,Trow,826,Restaurant,Elbert Henry,66 Beekman St.   ,Manhattan,New York,New York,66,Beekman,St.,,,,66 Beekman St.   ,,,Elbert
+9840,807,1910,Trow,826,Restaurant,Eliasberg Max,344 3 Ave   ,Manhattan,New York,New York,344,3,Ave,,,,344 3 Ave   ,,,Eliasberg
+9841,808,1910,Trow,826,Restaurant,Elie Frank,60 New Chambers St.   ,Manhattan,New York,New York,60,New Chambers,St.,,,,60 New Chambers St.   ,,,Elie
+9842,809,1910,Trow,826,Restaurant,Elie Giuseppe,175 Hester St.   ,Manhattan,New York,New York,175,Hester,St.,,,,175 Hester St.   ,,,Elie
+9843,810,1910,Trow,826,Restaurant,Eliojsoulo & Haydininos,103 W 28 St.  ,Manhattan,New York,New York,103,W,28,St.,,,103 W 28 St.  ,,,Eliojsoulo
+9844,811,1910,Trow,826,Restaurant,Elkin Max,213 2 St.   ,Manhattan,New York,New York,213,2,St.,,,,213 2 St.   ,,,Elkin
+9845,812,1910,Trow,826,Restaurant,Elsner & Epstein,1612 2 Ave   ,Manhattan,New York,New York,1612,2,Ave,,,,1612 2 Ave   ,,,Elsner
+9846,813,1910,Trow,826,Restaurant,Elzter Nathan ,83 Chrystie St.   ,Manhattan,New York,New York,83,Chrystie,St.,,,,83 Chrystie St.   ,,,Elzter
+9847,814,1910,Trow,826,Restaurant,Embricati & Clavasco ,909 Columbus Ave   ,Manhattan,New York,New York,909,Columbus,Ave,,,,909 Columbus Ave   ,,,Embricati
+9848,815,1910,Trow,826,Restaurant,Emil Morris,205 W 62 St.  ,Manhattan,New York,New York,205,W,62,St.,,,205 W 62 St.  ,,,Emil
+9849,816,1910,Trow,826,Chinese Restaurant,Empire Chinese Restaurant,728 Lexington Ave   ,Manhattan,New York,New York,728,Lexington,Ave,,,,728 Lexington Ave   ,,,Empire
+9850,817,1910,Trow,826,Restaurant,Endler Hyman,27 Market St.   ,Manhattan,New York,New York,27,Market,St.,,,,27 Market St.   ,,,Endler
+9851,818,1910,Trow,826,Restaurant,Endursky Max,25 Rutgers St.   ,Manhattan,New York,New York,25,Rutgers,St.,,,,25 Rutgers St.   ,,,Endursky
+9852,819,1910,Trow,826,Restaurant,Engel Ferdinand,3550 Broadway St.   ,Manhattan,New York,New York,3550,Broadway,St.,,,,3550 Broadway St.   ,,,Engel
+9853,820,1910,Trow,826,Restaurant,Engel Yetta ,38 Maiden  La   ,Manhattan,New York,New York,38,Maiden ,La,,,,38 Maiden  La   ,,,Engel
+9854,821,1910,Trow,826,Restaurant,Engel's (inc) ,61 W 36 St.  ,Manhattan,New York,New York,61,W,36,St.,,,61 W 36 St.  ,,,Engel's
+9855,822,1910,Trow,826,Restaurant,Engle J. & G. L. Jacobi,1405 St. Nicholas Ave   ,Manhattan,New York,New York,1405,St. Nicholas,Ave,,,,1405 St. Nicholas Ave   ,,,Engle
+9856,823,1910,Trow,826,Restaurant,Engler Isaac,22 Clinton St.   ,Manhattan,New York,New York,22,Clinton,St.,,,,22 Clinton St.   ,,,Engler
+9857,824,1910,Trow,826,Restaurant,Epstein Max,115 Bleecker St.   ,Manhattan,New York,New York,115,Bleecker,St.,,,,115 Bleecker St.   ,,,Epstein
+9858,825,1910,Trow,826,Restaurant,Epstein Morris,92 Prince St.   ,Manhattan,New York,New York,92,Prince,St.,,,,92 Prince St.   ,,,Epstein
+9859,826,1910,Trow,826,Restaurant,Epstein Morris II,230 Wooster St.   ,Manhattan,New York,New York,230,Wooster,St.,,,,230 Wooster St.   ,,,Epstein
+9860,827,1910,Trow,826,Restaurant,Epstein Samuel,130 Maiden La   ,Manhattan,New York,New York,130,Maiden,La,,,,130 Maiden La   ,,,Epstein
+9861,828,1910,Trow,826,Restaurant,Epstein Samuel II,3 Pike St.   ,Manhattan,New York,New York,3,Pike,St.,,,,3 Pike St.   ,,,Epstein
+9862,829,1910,Trow,826,Restaurant,Erikson Jorgen P.,71 Broad St.   ,Manhattan,New York,New York,71,Broad,St.,,,,71 Broad St.   ,,,Erikson
+9863,830,1910,Trow,826,Restaurant,Eschenbach Henry E.,850 8 Ave   ,Manhattan,New York,New York,850,8,Ave,,,,850 8 Ave   ,,,Eschenbach
+9864,831,1910,Trow,826,Restaurant,Esposito Antonio,71 W 100 St.  ,Manhattan,New York,New York,71,W,100,St.,,,71 W 100 St.  ,,,Esposito
+9865,832,1910,Trow,826,Restaurant,Estrick Joseph,430 E Houston St.  ,Manhattan,New York,New York,430,E,Houston,St.,,,430 E Houston St.  ,,,Estrick
+9866,833,1910,Trow,826,Restaurant,Ettenberg Morris,112 Division St.   ,Manhattan,New York,New York,112,Division,St.,,,,112 Division St.   ,,,Ettenberg
+9867,834,1910,Trow,826,Restaurant,Ettinger Marks,288 Cherry St.   ,Manhattan,New York,New York,288,Cherry,St.,,,,288 Cherry St.   ,,,Ettinger
+9868,835,1910,Trow,826,Restaurant,Euler Edward,83 4 Ave   ,Manhattan,New York,New York,83,4,Ave,,,,83 4 Ave   ,,,Euler
+9869,836,1910,Trow,826,Restaurant,Eureka Restaurant,40 W 18 St.  ,Manhattan,New York,New York,40,W,18,St.,,,40 W 18 St.  ,,,Eureka
+9870,837,1910,Trow,826,Restaurant,Evans Silas P. ,96 Fulton St.   ,Manhattan,New York,New York,96,Fulton,St.,,,,96 Fulton St.   ,,,Evans
+9871,838,1910,Trow,826,Restaurant,Evenberg Michael,176 Eldridge St.   ,Manhattan,New York,New York,176,Eldridge,St.,,,,176 Eldridge St.   ,,,Evenberg
+9872,839,1910,Trow,826,Restaurant,Exchange Buffet Corporation,3 Broad St.   ,Manhattan,New York,New York,3,Broad,St.,,,,3 Broad St.   ,,,Exchange
+9873,840,1910,Trow,826,Restaurant,Exchange Buffet Corporation,20 Broad St.   ,Manhattan,New York,New York,20,Broad,St.,,,,20 Broad St.   ,,,Exchange
+9874,841,1910,Trow,826,Restaurant,Exchange Buffet Corporation,37 Broad St.   ,Manhattan,New York,New York,37,Broad,St.,,,,37 Broad St.   ,,,Exchange
+9875,842,1910,Trow,826,Restaurant,Exchange Buffet Corporation,46 Broad St.   ,Manhattan,New York,New York,46,Broad,St.,,,,46 Broad St.   ,,,Exchange
+9876,843,1910,Trow,826,Restaurant,Exchange Buffet Corporation,74 Broad St.   ,Manhattan,New York,New York,74,Broad,St.,,,,74 Broad St.   ,,,Exchange
+9877,844,1910,Trow,826,Restaurant,Exchange Buffet Corporation,90 Beaver St.   ,Manhattan,New York,New York,90,Beaver,St.,,,,90 Beaver St.   ,,,Exchange
+9878,845,1910,Trow,826,Restaurant,Exchange Buffet Corporation,45 John St.   ,Manhattan,New York,New York,45,John,St.,,,,45 John St.   ,,,Exchange
+9879,846,1910,Trow,826,Restaurant,Exchange Buffet Corporation,97 Liberty St.   ,Manhattan,New York,New York,97,Liberty,St.,,,,97 Liberty St.   ,,,Exchange
+9880,847,1910,Trow,826,Restaurant,Exchange Buffet Corporation,11 Murray St.   ,Manhattan,New York,New York,11,Murray,St.,,,,11 Murray St.   ,,,Exchange
+9881,848,1910,Trow,826,Restaurant,Exchange Buffet Corporation,69 Pine St.   ,Manhattan,New York,New York,69,Pine,St.,,,,69 Pine St.   ,,,Exchange
+9882,849,1910,Trow,826,Restaurant,Exchange Buffet Corporation,78 Walker St.   ,Manhattan,New York,New York,78,Walker,St.,,,,78 Walker St.   ,,,Exchange
+9883,850,1910,Trow,826,Restaurant,Eyrie Restaurant,150 Nassau St.   ,Manhattan,New York,New York,150,Nassau,St.,,,,150 Nassau St.   ,,,Eyrie
+9884,851,1910,Trow,826,Restaurant,Faccini L. P. & Co,46 Franklin St.   ,Manhattan,New York,New York,46,Franklin,St.,,,,46 Franklin St.   ,,,Faccini
+9885,852,1910,Trow,826,Restaurant,Facompre Frederick,719 7 Ave   ,Manhattan,New York,New York,719,7,Ave,,,,719 7 Ave   ,,,Facompre
+9886,853,1910,Trow,826,Restaurant,Fagat Aaron,124 E Houston St.  ,Manhattan,New York,New York,124,E,Houston,St.,,,124 E Houston St.  ,,,Fagat
+9887,854,1910,Trow,826,Restaurant,Faigie Albert,925 3 Ave   ,Manhattan,New York,New York,925,3,Ave,,,,925 3 Ave   ,,,Faigie
+9888,855,1910,Trow,826,Restaurant,Fair (The),2037 3 Ave   ,Manhattan,New York,New York,2037,3,Ave,,,,2037 3 Ave   ,,,Fair
+9889,856,1910,Trow,826,Restaurant,Fairfeld Charles F.,3537 Broadway    ,Manhattan,New York,New York,3537,Broadway,,,,,3537 Broadway    ,,,Fairfeld
+9890,857,1910,Trow,826,Restaurant,Falco Giovanni,2169 1 Ave   ,Manhattan,New York,New York,2169,1,Ave,,,,2169 1 Ave   ,,,Falco
+9891,858,1910,Trow,826,Restaurant,Falco M. ,44 E 21 St.  ,Manhattan,New York,New York,44,E,21,St.,,,44 E 21 St.  ,,,Falco
+9892,859,1910,Trow,826,Restaurant,Falnotico Frank,252 Mott St.   ,Manhattan,New York,New York,252,Mott,St.,,,,252 Mott St.   ,,,Falnotico
+9893,860,1910,Trow,826,Chinese Restaurant,Far East Chinese Restaurant,10 Grand Circle St.   ,Manhattan,New York,New York,10,Grand Circle,St.,,,,10 Grand Circle St.   ,,,Far
+9894,861,1910,Trow,826,Restaurant,Faraclas Nicholas,52 Madison St.   ,Manhattan,New York,New York,52,Madison,St.,,,,52 Madison St.   ,,,Faraclas
+9895,862,1910,Trow,826,Restaurant,Farando Joseph A.,94 Sullivan St.   ,Manhattan,New York,New York,94,Sullivan,St.,,,,94 Sullivan St.   ,,,Farando
+9896,863,1910,Trow,826,Restaurant,Farrish's Chop House (inc),107 William St.   ,Manhattan,New York,New York,107,William,St.,,,,107 William St.   ,,,Farrish's
+9897,864,1910,Trow,826,Restaurant,Fasano Giuseppe,112 Mulberry St.   ,Manhattan,New York,New York,112,Mulberry,St.,,,,112 Mulberry St.   ,,,Fasano
+9898,865,1910,Trow,826,Restaurant,Fass Harry,17 W 21 St.  ,Manhattan,New York,New York,17,W,21,St.,,,17 W 21 St.  ,,,Fass
+9899,866,1910,Trow,826,Restaurant,Fatseas & Samios,673 3 Ave   ,Manhattan,New York,New York,673,3,Ave,,,,673 3 Ave   ,,,Fatseas
+9900,867,1910,Trow,826,Restaurant,Faust Restaurant Co. ,1823 Broadway    ,Manhattan,New York,New York,1823,Broadway,,,,,1823 Broadway    ,,,Faust
+9901,868,1910,Trow,826,Restaurant,Fav John T. ,2235 8 Ave   ,Manhattan,New York,New York,2235,8,Ave,,,,2235 8 Ave   ,,,Fav
+9902,869,1910,Trow,826,Restaurant,Fav John T. ,259 W 125 St.  ,Manhattan,New York,New York,259,W,125,St.,,,259 W 125 St.  ,,,Fav
+9903,870,1910,Trow,826,Restaurant,Fav John T. ,311 W 125 St.  ,Manhattan,New York,New York,311,W,125,St.,,,311 W 125 St.  ,,,Fav
+9904,871,1910,Trow,826,Restaurant,Feaster Conrad,2391 2 Ave   ,Manhattan,New York,New York,2391,2,Ave,,,,2391 2 Ave   ,,,Feaster
+9905,872,1910,Trow,826,Restaurant,Feaster Frank,387 E 128 St.  ,Manhattan,New York,New York,387,E,128,St.,,,387 E 128 St.  ,,,Feaster
+9906,873,1910,Trow,826,Restaurant,Feaster Frank,2958 3 Ave   ,Manhattan,New York,New York,2958,3,Ave,,,,2958 3 Ave   ,,,Feaster
+9907,874,1910,Trow,826,Restaurant,Feaster George,893 Prospect Ave   ,Manhattan,New York,New York,893,Prospect,Ave,,,,893 Prospect Ave   ,,,Feaster
+9908,875,1910,Trow,826,Restaurant,Feaster Henry,2131 3 Ave   ,Manhattan,New York,New York,2131,3,Ave,,,,2131 3 Ave   ,,,Feaster
+9909,876,1910,Trow,826,Restaurant,Feaster Joseph,1392 Boston Rd   ,Manhattan,New York,New York,1392,Boston,Rd,,,,1392 Boston Rd   ,,,Feaster
+9910,877,1910,Trow,826,Restaurant,Feaster William,1955 3 Ave   ,Manhattan,New York,New York,1955,3,Ave,,,,1955 3 Ave   ,,,Feaster
+9911,878,1910,Trow,826,Restaurant,Feder Morris,312 Cherry St.   ,Manhattan,New York,New York,312,Cherry,St.,,,,312 Cherry St.   ,,,Feder
+9912,879,1910,Trow,826,Restaurant,Fegeas Alfons,664 9 Ave   ,Manhattan,New York,New York,664,9,Ave,,,,664 9 Ave   ,,,Fegeas
+9913,880,1910,Trow,826,Restaurant,Fegut Arthur P.,2637 Broadway    ,Manhattan,New York,New York,2637,Broadway,,,,,2637 Broadway    ,,,Fegut
+9914,881,1910,Trow,826,Restaurant,Feher Peter,219 Avenue A    ,Manhattan,New York,New York,219,Avenue A,,,,,219 Avenue A    ,,,Feher
+9915,882,1910,Trow,826,Restaurant,Feierstat Samuel,138 Norfolk St.   ,Manhattan,New York,New York,138,Norfolk,St.,,,,138 Norfolk St.   ,,,Feierstat
+9916,883,1910,Trow,826,Restaurant,Feifer Abraham,183 E Broadway   ,Manhattan,New York,New York,183,E,Broadway,,,,183 E Broadway   ,,,Feifer
+9917,884,1910,Trow,826,Restaurant,Feifer Isaac,14 Jeff St.   ,Manhattan,New York,New York,14,Jeff,St.,,,,14 Jeff St.   ,,,Feifer
+9918,885,1910,Trow,826,Restaurant,Feigelstock Simon,441 E 81 St.  ,Manhattan,New York,New York,441,E,81,St.,,,441 E 81 St.  ,,,Feigelstock
+9919,886,1910,Trow,826,Restaurant,Feigenbaum Reuben,250 Cherry St.   ,Manhattan,New York,New York,250,Cherry,St.,,,,250 Cherry St.   ,,,Feigenbaum
+9920,887,1910,Trow,826,Restaurant,Fein Frances,11 Essex St.   ,Manhattan,New York,New York,11,Essex,St.,,,,11 Essex St.   ,,,Fein
+9921,888,1910,Trow,826,Restaurant,Fein Jennie,190 Wooster St.   ,Manhattan,New York,New York,190,Wooster,St.,,,,190 Wooster St.   ,,,Fein
+9922,889,1910,Trow,826,Restaurant,Feinberg Samuel,55 Ridge St.   ,Manhattan,New York,New York,55,Ridge,St.,,,,55 Ridge St.   ,,,Feinberg
+9923,890,1910,Trow,826,Restaurant,Feinberg & Dunes,693 8 Ave   ,Manhattan,New York,New York,693,8,Ave,,,,693 8 Ave   ,,,Feinberg
+9924,891,1910,Trow,826,Restaurant,Feitelson & Newman ,173 Greenwich St.   ,Manhattan,New York,New York,173,Greenwich,St.,,,,173 Greenwich St.   ,,,Feitelson
+9925,892,1910,Trow,826,Restaurant,Feitelson & Newman ,84 Cortlandt St.   ,Manhattan,New York,New York,84,Cortlandt,St.,,,,84 Cortlandt St.   ,,,Feitelson
+9926,893,1910,Trow,826,Restaurant,Feldman Herman,8 Howard St.   ,Manhattan,New York,New York,8,Howard,St.,,,,8 Howard St.   ,,,Feldman
+9927,894,1910,Trow,826,Restaurant,Feldman Isaac,356 West St.   ,Manhattan,New York,New York,356,West,St.,,,,356 West St.   ,,,Feldman
+9928,895,1910,Trow,826,Restaurant,Feldman Joseph,40 Forsyth St.   ,Manhattan,New York,New York,40,Forsyth,St.,,,,40 Forsyth St.   ,,,Feldman
+9929,896,1910,Trow,826,Restaurant,Feldman Samuel,493 West St.   ,Manhattan,New York,New York,493,West,St.,,,,493 West St.   ,,,Feldman
+9930,897,1910,Trow,826,Restaurant,Feldman & Cantor,355 Bowery St.   ,Manhattan,New York,New York,355,Bowery,St.,,,,355 Bowery St.   ,,,Feldman
+9931,898,1910,Trow,826,Restaurant,Feldman & Lessinger,55 2 Ave   ,Manhattan,New York,New York,55,2,Ave,,,,55 2 Ave   ,,,Feldman
+9932,899,1910,Trow,826,Restaurant,Feldstein Joseph,156 Allen St.   ,Manhattan,New York,New York,156,Allen,St.,,,,156 Allen St.   ,,,Feldstein
+9933,900,1910,Trow,826,Restaurant,Felitto Samuel G,129 Cherry St.   ,Manhattan,New York,New York,129,Cherry,St.,,,,129 Cherry St.   ,,,Felitto
+9934,901,1910,Trow,826,Restaurant,Feller Isaac,86 Willett St.   ,Manhattan,New York,New York,86,Willett,St.,,,,86 Willett St.   ,,,Feller
+9935,902,1910,Trow,826,Restaurant,Felderman William,122 W 19 St.  ,Manhattan,New York,New York,122,W,19,St.,,,122 W 19 St.  ,,,Felderman
+9936,903,1910,Trow,826,Restaurant,Ferad Edward ,30 Lexington Ave   ,Manhattan,New York,New York,30,Lexington,Ave,,,,30 Lexington Ave   ,,,Ferad
+9937,904,1910,Trow,826,Restaurant,Ferdinand & Litwin,317 Bowery  St.   ,Manhattan,New York,New York,317,Bowery ,St.,,,,317 Bowery  St.   ,,,Ferdinand
+9938,905,1910,Trow,826,Restaurant,Ferdinand & Litwin,27 Cooper  Sq   ,Manhattan,New York,New York,27,Cooper ,Sq,,,,27 Cooper  Sq   ,,,Ferdinand
+9939,906,1910,Trow,826,Restaurant,Fererra Gemi ,106 Bayard St.   ,Manhattan,New York,New York,106,Bayard,St.,,,,106 Bayard St.   ,,,Fererra
+9940,907,1910,Trow,826,Restaurant,Ferkauf Samuel,280 Broome St.   ,Manhattan,New York,New York,280,Broome,St.,,,,280 Broome St.   ,,,Ferkauf
+9941,908,1910,Trow,826,Restaurant,Fernery (firm of) ,13 W 33 St.  ,Manhattan,New York,New York,13,W,33,St.,,,13 W 33 St.  ,,,Fernery
+9942,909,1910,Trow,826,Restaurant,Fernery (firm of) ,62 Broad St.   ,Manhattan,New York,New York,62,Broad,St.,,,,62 Broad St.   ,,,Fernery
+9943,910,1910,Trow,826,Restaurant,Ferraiolo Michael,608 E 187 St.  ,Manhattan,New York,New York,608,E,187,St.,,,608 E 187 St.  ,,,Ferraiolo
+9944,911,1910,Trow,826,Restaurant,Ferrara Josephine D. ,58 Mulberry St.   ,Manhattan,New York,New York,58,Mulberry,St.,,,,58 Mulberry St.   ,,,Ferrara
+9945,912,1910,Trow,826,Restaurant,Ferrara's Café,195 Grand St.   ,Manhattan,New York,New York,195,Grand,St.,,,,195 Grand St.   ,,,Ferrara's
+9946,913,1910,Trow,826,Restaurant,Ferrare Celsa,29 Mulberry St.   ,Manhattan,New York,New York,29,Mulberry,St.,,,,29 Mulberry St.   ,,,Ferrare
+9947,914,1910,Trow,826,Restaurant,Ferraro Thomas,165 Thompson St.   ,Manhattan,New York,New York,165,Thompson,St.,,,,165 Thompson St.   ,,,Ferraro
+9948,915,1910,Trow,826,Restaurant,Fetexs John,405 W 35 St.  ,Manhattan,New York,New York,405,W,35,St.,,,405 W 35 St.  ,,,Fetexs
+9949,916,1910,Trow,826,Restaurant,Feuerstein Joseph,184 Allen St.   ,Manhattan,New York,New York,184,Allen,St.,,,,184 Allen St.   ,,,Feuerstein
+9950,917,1910,Trow,826,Restaurant,Feuerstein Morris,55 E 4 St.  ,Manhattan,New York,New York,55,E,4,St.,,,55 E 4 St.  ,,,Feuerstein
+9951,918,1910,Trow,826,Restaurant,Fey Thomas ,c Avenue A  & E 92 St.,Manhattan,New York,New York,c,Avenue A ,&,E,,,c Avenue A  & E 92 St.,92,St.,Fey
+9952,919,1910,Trow,826,Restaurant,Fichman Charles,358 Bowery  St.   ,Manhattan,New York,New York,358,Bowery ,St.,,,,358 Bowery  St.   ,,,Fichman
+9953,920,1910,Trow,826,Restaurant,Fichman Charles,254 10 Ave   ,Manhattan,New York,New York,254,10,Ave,,,,254 10 Ave   ,,,Fichman
+9954,921,1910,Trow,826,Restaurant,Fichman Zigmund,444 7 Ave   ,Manhattan,New York,New York,444,7,Ave,,,,444 7 Ave   ,,,Fichman
+9955,922,1910,Trow,826,Restaurant,Fichman Zigmund,590 7 Ave   ,Manhattan,New York,New York,590,7,Ave,,,,590 7 Ave   ,,,Fichman
+9956,923,1910,Trow,826,Restaurant,Fichman Zigmund,484 8 Ave   ,Manhattan,New York,New York,484,8,Ave,,,,484 8 Ave   ,,,Fichman
+9957,924,1910,Trow,826,Restaurant,Fidelman Morris,67 Manhattan St.   ,Manhattan,New York,New York,67,Manhattan,St.,,,,67 Manhattan St.   ,,,Fidelman
+9958,925,1910,Trow,826,Restaurant,Fidelson Max,173 Greenwich St.   ,Manhattan,New York,New York,173,Greenwich,St.,,,,173 Greenwich St.   ,,,Fidelson
+9959,926,1910,Trow,826,Restaurant,Fidler Anton,2286 2 Ave   ,Manhattan,New York,New York,2286,2,Ave,,,,2286 2 Ave   ,,,Fidler
+9960,927,1910,Trow,826,Restaurant,Fifth Avenue Restaurant Co,196 5 Ave   ,Manhattan,New York,New York,196,5,Ave,,,,196 5 Ave   ,,,Fifth
+9961,928,1910,Trow,826,Restaurant,Fifth Avenue Tea Room,546 5 Ave   ,Manhattan,New York,New York,546,5,Ave,,,,546 5 Ave   ,,,Fifth
+9962,929,1910,Trow,826,Restaurant,Figliola Nicola,59 Elizabeth St.   ,Manhattan,New York,New York,59,Elizabeth,St.,,,,59 Elizabeth St.   ,,,Figliola
+9963,930,1910,Trow,826,Restaurant,Fignini Pietro,306 E 106 St.  ,Manhattan,New York,New York,306,E,106,St.,,,306 E 106 St.  ,,,Fignini
+9964,931,1910,Trow,826,Restaurant,Fillis & Co,1792 3 Ave   ,Manhattan,New York,New York,1792,3,Ave,,,,1792 3 Ave   ,,,Fillis
+9965,932,1910,Trow,826,Restaurant,Filreiss & Abramson,506 9 Ave   ,Manhattan,New York,New York,506,9,Ave,,,,506 9 Ave   ,,,Filreiss
+9966,933,1910,Trow,826,Restaurant,Fingert Jacob,89 E 10 St.  ,Manhattan,New York,New York,89,E,10,St.,,,89 E 10 St.  ,,,Fingert
+9967,934,1910,Trow,826,Restaurant,Finkelstein Ernest,2780 Webster Ave   ,Manhattan,New York,New York,2780,Webster,Ave,,,,2780 Webster Ave   ,,,Finkelstein
+9968,935,1910,Trow,826,Restaurant,Finnegan John,1 W 100 St.  ,Manhattan,New York,New York,1,W,100,St.,,,1 W 100 St.  ,,,Finnegan
+9969,936,1910,Trow,826,Restaurant,Firewise,48 E 34 St.  ,Manhattan,New York,New York,48,E,34,St.,,,48 E 34 St.  ,,,Firewise
+9970,937,1910,Trow,826,Restaurant,First & Beirach,18 E 42 St.  ,Manhattan,New York,New York,18,E,42,St.,,,18 E 42 St.  ,,,First
+9971,938,1910,Trow,826,Restaurant,First & Beirach,45 Maiden La   ,Manhattan,New York,New York,45,Maiden,La,,,,45 Maiden La   ,,,First
+9972,939,1910,Trow,826,Restaurant,Fischbach & Schinkel,95 Pearl St.   ,Manhattan,New York,New York,95,Pearl,St.,,,,95 Pearl St.   ,,,Fischbach
+9973,940,1910,Trow,826,Restaurant,Fischer Abraham,34 Canal St.   ,Manhattan,New York,New York,34,Canal,St.,,,,34 Canal St.   ,,,Fischer
+9974,941,1910,Trow,826,Restaurant,Fischer Christina,455 Pearl St.   ,Manhattan,New York,New York,455,Pearl,St.,,,,455 Pearl St.   ,,,Fischer
+9975,942,1910,Trow,826,Restaurant,Fischer Fredercik W. ,1843 Broadway    ,Manhattan,New York,New York,1843,Broadway,,,,,1843 Broadway    ,,,Fischer
+9976,943,1910,Trow,826,Restaurant,Fischer Harris,84 Forsyth St.   ,Manhattan,New York,New York,84,Forsyth,St.,,,,84 Forsyth St.   ,,,Fischer
+9977,944,1910,Trow,826,Restaurant,Fischer Hyman,96 Lewis St.   ,Manhattan,New York,New York,96,Lewis,St.,,,,96 Lewis St.   ,,,Fischer
+9978,945,1910,Trow,826,Restaurant,Fischer Louis,1668 Broadway    ,Manhattan,New York,New York,1668,Broadway,,,,,1668 Broadway    ,,,Fischer
+9979,946,1910,Trow,826,Restaurant,Fischer Nathan L. ,142 Rivington St.   ,Manhattan,New York,New York,142,Rivington,St.,,,,142 Rivington St.   ,,,Fischer
+9980,947,1910,Trow,826,Restaurant,Fischer Restaurant Co,51 W 14 St.  ,Manhattan,New York,New York,51,W,14,St.,,,51 W 14 St.  ,,,Fischer
+9981,948,1910,Trow,826,Restaurant,Fischer William ,122 Rivington St.   ,Manhattan,New York,New York,122,Rivington,St.,,,,122 Rivington St.   ,,,Fischer
+9982,949,1910,Trow,826,Restaurant,Fischer Thompson Co,1843 Broadway    ,Manhattan,New York,New York,1843,Broadway,,,,,1843 Broadway    ,,,Fischer
+9983,950,1910,Trow,826,Restaurant,Fischler Max,298 Broome St.   ,Manhattan,New York,New York,298,Broome,St.,,,,298 Broome St.   ,,,Fischler
+9984,951,1910,Trow,826,Restaurant,Fischman Max,82 Avenue B    ,Manhattan,New York,New York,82,Avenue B,,,,,82 Avenue B    ,,,Fischman
+9985,952,1910,Trow,826,Restaurant,Fishbein Samuel,89 Avenue C    ,Manhattan,New York,New York,89,Avenue C,,,,,89 Avenue C    ,,,Fishbein
+9986,953,1910,Trow,826,Restaurant,Fisher Morris,19 Jeff St.   ,Manhattan,New York,New York,19,Jeff,St.,,,,19 Jeff St.   ,,,Fisher
+9987,954,1910,Trow,826,Restaurant,Fisher Theodore R.,511 6 Ave   ,Manhattan,New York,New York,511,6,Ave,,,,511 6 Ave   ,,,Fisher
+9988,955,1910,Trow,826,Restaurant,Fishman Samuel,147 Clinton St.   ,Manhattan,New York,New York,147,Clinton,St.,,,,147 Clinton St.   ,,,Fishman
+9989,956,1910,Trow,826,Restaurant,Fitts Harden H.,490 6 Ave   ,Manhattan,New York,New York,490,6,Ave,,,,490 6 Ave   ,,,Fitts
+9990,957,1910,Trow,826,Restaurant,Fitzpatrick Brothers ,738 9 Ave   ,Manhattan,New York,New York,738,9,Ave,,,,738 9 Ave   ,,,Fitzpatrick
+9991,958,1910,Trow,826,Restaurant,Flat Iron Restaurant Co,949 Broadway     ,Manhattan,New York,New York,949,Broadway ,,,,,949 Broadway     ,,,Flat
+9992,959,1910,Trow,826,Restaurant,Flauti Alfonso & Co,171 Sullivan St.   ,Manhattan,New York,New York,171,Sullivan,St.,,,,171 Sullivan St.   ,,,Flauti
+9993,960,1910,Trow,826,Restaurant,Fleck Elias,232 Rivington St.   ,Manhattan,New York,New York,232,Rivington,St.,,,,232 Rivington St.   ,,,Fleck
+9994,961,1910,Trow,826,Restaurant,Fleischer Ignatz P.,119 Bowery St.   ,Manhattan,New York,New York,119,Bowery,St.,,,,119 Bowery St.   ,,,Fleischer
+9995,962,1910,Trow,826,Restaurant,Fleischer Joseph,4 Chatham  Sq   ,Manhattan,New York,New York,4,Chatham ,Sq,,,,4 Chatham  Sq   ,,,Fleischer
+9996,963,1910,Trow,826,Restaurant,Fleischer Joseph,87 Bowery St.   ,Manhattan,New York,New York,87,Bowery,St.,,,,87 Bowery St.   ,,,Fleischer
+9997,964,1910,Trow,826,Restaurant,Fleischmann's Vienna Model Bakery,801 Broadway    ,Manhattan,New York,New York,801,Broadway,,,,,801 Broadway    ,,,Fleischmann's
+9998,965,1910,Trow,826,Restaurant,Fleming Thomas,46 Gansevoort St.   ,Manhattan,New York,New York,46,Gansevoort,St.,,,,46 Gansevoort St.   ,,,Fleming
+9999,966,1910,Trow,826,Restaurant,Flemming Irene J.,19 E 32 St.  ,Manhattan,New York,New York,19,E,32,St.,,,19 E 32 St.  ,,,Flemming
+10000,967,1910,Trow,826,Restaurant,Flisser Adolph & Son,38 W Houston St.  ,Manhattan,New York,New York,38,W,Houston,St.,,,38 W Houston St.  ,,,Flisser
+10001,968,1910,Trow,826,Restaurant,Florsheim Helen ,823 10 Ave   ,Manhattan,New York,New York,823,10,Ave,,,,823 10 Ave   ,,,Florsheim
+10002,969,1910,Trow,826,Restaurant,Flurscheim Max,362 E 146 St.  ,Manhattan,New York,New York,362,E,146,St.,,,362 E 146 St.  ,,,Flurscheim
+10003,970,1910,Trow,826,Restaurant,Flynn James E. ,457 11 Ave   ,Manhattan,New York,New York,457,11,Ave,,,,457 11 Ave   ,,,Flynn
+10004,971,1910,Trow,826,Restaurant,Flynn Thomas ,6 Church St.   ,Manhattan,New York,New York,6,Church,St.,,,,6 Church St.   ,,,Flynn
+10005,972,1910,Trow,826,Restaurant,Folas & Co,976 8 Ave   ,Manhattan,New York,New York,976,8,Ave,,,,976 8 Ave   ,,,Folas
+10006,973,1910,Trow,826,Restaurant,Folcone Giuseppe,327 E 109 St.  ,Manhattan,New York,New York,327,E,109,St.,,,327 E 109 St.  ,,,Folcone
+10007,974,1910,Trow,826,Restaurant,Folke Louis,103 W 105 St.  ,Manhattan,New York,New York,103,W,105,St.,,,103 W 105 St.  ,,,Folke
+10008,975,1910,Trow,826,Chinese Restaurant,Fong Lee,319 W 125 St.  ,Manhattan,New York,New York,319,W,125,St.,,,319 W 125 St.  ,,,Fong
+10009,976,1910,Trow,826,Restaurant,Foppiani & Corce,879 3 Ave   ,Manhattan,New York,New York,879,3,Ave,,,,879 3 Ave   ,,,Foppiani
+10010,977,1910,Trow,826,Restaurant,Foppiani & Corce,977 3 Ave   ,Manhattan,New York,New York,977,3,Ave,,,,977 3 Ave   ,,,Foppiani
+10011,978,1910,Trow,826,Restaurant,Forino Luigi ,120 Mulberry St.   ,Manhattan,New York,New York,120,Mulberry,St.,,,,120 Mulberry St.   ,,,Forino
+10012,979,1910,Trow,826,Restaurant,Forman Nathan,235 E 4 St.  ,Manhattan,New York,New York,235,E,4,St.,,,235 E 4 St.  ,,,Forman
+10013,980,1910,Trow,826,Restaurant,Fortunato Frederick,35 Spring St.   ,Manhattan,New York,New York,35,Spring,St.,,,,35 Spring St.   ,,,Fortunato
+10014,981,1910,Trow,826,Restaurant,Fortwengler Victor,47 Beaver St.   ,Manhattan,New York,New York,47,Beaver,St.,,,,47 Beaver St.   ,,,Fortwengler
+10015,982,1910,Trow,826,Restaurant,Fotos George,804 9 Ave   ,Manhattan,New York,New York,804,9,Ave,,,,804 9 Ave   ,,,Fotos
+10016,983,1910,Trow,826,Restaurant,Fox Leo,141 Fulton St.   ,Manhattan,New York,New York,141,Fulton,St.,,,,141 Fulton St.   ,,,Fox
+10017,984,1910,Trow,826,Restaurant,Foy Brothers,466 8 Ave   ,Manhattan,New York,New York,466,8,Ave,,,,466 8 Ave   ,,,Foy
+10018,985,1910,Trow,826,Restaurant,Foy Brothers,1482 3 Ave   ,Manhattan,New York,New York,1482,3,Ave,,,,1482 3 Ave   ,,,Foy
+10019,986,1910,Trow,826,Restaurant,Francfort Charles,409 3 Ave   ,Manhattan,New York,New York,409,3,Ave,,,,409 3 Ave   ,,,Francfort
+10020,987,1910,Trow,826,Restaurant,Franco J. M. ,359 W 23 St.  ,Manhattan,New York,New York,359,W,23,St.,,,359 W 23 St.  ,,,Franco
+10021,988,1910,Trow,826,Restaurant,Franconi Pasquale,332 E 113 St.  ,Manhattan,New York,New York,332,E,113,St.,,,332 E 113 St.  ,,,Franconi
+10022,989,1910,Trow,826,Restaurant,Frang George,689 6 Ave   ,Manhattan,New York,New York,689,6,Ave,,,,689 6 Ave   ,,,Frang
+10023,990,1910,Trow,826,Restaurant,Frank Frederick,123 4 Ave   ,Manhattan,New York,New York,123,4,Ave,,,,123 4 Ave   ,,,Frank
+10024,991,1910,Trow,826,Restaurant,Frank Henry W.,327 8 Ave   ,Manhattan,New York,New York,327,8,Ave,,,,327 8 Ave   ,,,Frank
+10025,992,1910,Trow,826,Restaurant,Frank Samuel L.,293 3 Ave   ,Manhattan,New York,New York,293,3,Ave,,,,293 3 Ave   ,,,Frank
+10026,993,1910,Trow,826,Restaurant,Frank William R.,512 6 Ave   ,Manhattan,New York,New York,512,6,Ave,,,,512 6 Ave   ,,,Frank
+10027,994,1910,Trow,826,Restaurant,Frank & Brother,159 South St.   ,Manhattan,New York,New York,159,South,St.,,,,159 South St.   ,,,Frank
+10028,995,1910,Trow,826,Restaurant,Frank & Tasol,229 Avenue B    ,Manhattan,New York,New York,229,Avenue B,,,,,229 Avenue B    ,,,Frank
+10029,996,1910,Trow,826,Restaurant,Franki Max,70 9 Ave   ,Manhattan,New York,New York,70,9,Ave,,,,70 9 Ave   ,,,Franki
+10030,997,1910,Trow,826,Restaurant,Franko Stephen,659 1 Ave   ,Manhattan,New York,New York,659,1,Ave,,,,659 1 Ave   ,,,Franko
+10031,998,1910,Trow,826,Restaurant,Franks café,120 W 44 St.  ,Manhattan,New York,New York,120,W,44,St.,,,120 W 44 St.  ,,,Franks
+10032,999,1910,Trow,826,Restaurant,Franz John,3393 Broadway    ,Manhattan,New York,New York,3393,Broadway,,,,,3393 Broadway    ,,,Franz
+10033,1000,1910,Trow,826,Restaurant,Franz John II,2359 8 Ave   ,Manhattan,New York,New York,2359,8,Ave,,,,2359 8 Ave   ,,,Franz
+10034,1001,1910,Trow,826,Restaurant,Frasciati Joseph,159 W 30 St.  ,Manhattan,New York,New York,159,W,30,St.,,,159 W 30 St.  ,,,Frasciati
+10035,1002,1910,Trow,826,Restaurant,Fratarangeli Giovanni,83 Baxter St.   ,Manhattan,New York,New York,83,Baxter,St.,,,,83 Baxter St.   ,,,Fratarangeli
+10036,1003,1910,Trow,826,Restaurant,Fraunces Tavern,54 Pearl St.   ,Manhattan,New York,New York,54,Pearl,St.,,,,54 Pearl St.   ,,,Fraunces
+10037,1004,1910,Trow,826,Restaurant,Freed J. (firm of) ,1412 3 Ave   ,Manhattan,New York,New York,1412,3,Ave,,,,1412 3 Ave   ,,,Freed
+10038,1005,1910,Trow,826,Restaurant,Freedman david C,58 W 35 St.  ,Manhattan,New York,New York,58,W,35,St.,,,58 W 35 St.  ,,,Freedman
+10039,1006,1910,Trow,826,Restaurant,Freeman Matilda,2172 Lex Ave   ,Manhattan,New York,New York,2172,Lex,Ave,,,,2172 Lex Ave   ,,,Freeman
+10040,1007,1910,Trow,826,Restaurant,Freiman Adolf,38 Harrison St.   ,Manhattan,New York,New York,38,Harrison,St.,,,,38 Harrison St.   ,,,Freiman
+10041,1008,1910,Trow,826,Restaurant,Freireich Adolph ,77 Avenue C    ,Manhattan,New York,New York,77,Avenue C,,,,,77 Avenue C    ,,,Freireich
+10042,1009,1910,Trow,826,Restaurant,Frese Ida L.,20 W 33 St.  ,Manhattan,New York,New York,20,W,33,St.,,,20 W 33 St.  ,,,Frese
+10043,1010,1910,Trow,826,Restaurant,Freyer Philip ,1479 Madison Ave   ,Manhattan,New York,New York,1479,Madison,Ave,,,,1479 Madison Ave   ,,,Freyer
+10044,1011,1910,Trow,826,Restaurant,Fried Samuel,296 Stanton St.   ,Manhattan,New York,New York,296,Stanton,St.,,,,296 Stanton St.   ,,,Fried
+10045,1012,1910,Trow,826,Restaurant,Friedek & Siegel,14 St. Mark's  Pl   ,Manhattan,New York,New York,14,St. Mark's ,Pl,,,,14 St. Mark's  Pl   ,,,Friedek
+10046,1013,1910,Trow,826,Restaurant,Friedman Abraham,210 South St.   ,Manhattan,New York,New York,210,South,St.,,,,210 South St.   ,,,Friedman
+10047,1014,1910,Trow,826,Restaurant,Friedman Benjamin,354 E Houston St.  ,Manhattan,New York,New York,354,E,Houston,St.,,,354 E Houston St.  ,,,Friedman
+10048,1015,1910,Trow,826,Restaurant,Friedman Bernard,367 1 Ave   ,Manhattan,New York,New York,367,1,Ave,,,,367 1 Ave   ,,,Friedman
+10049,1016,1910,Trow,826,Restaurant,Friedman Edward,2675 8 Ave   ,Manhattan,New York,New York,2675,8,Ave,,,,2675 8 Ave   ,,,Friedman
+10050,1017,1910,Trow,826,Restaurant,Friedman Jacob,218 W 42 St.  ,Manhattan,New York,New York,218,W,42,St.,,,218 W 42 St.  ,,,Friedman
+10051,1018,1910,Trow,826,Restaurant,Friedman Joseph,286 E 4 St.  ,Manhattan,New York,New York,286,E,4,St.,,,286 E 4 St.  ,,,Friedman
+10052,1019,1910,Trow,826,Restaurant,Friedman Max,471 7 Ave   ,Manhattan,New York,New York,471,7,Ave,,,,471 7 Ave   ,,,Friedman
+10053,1020,1910,Trow,826,Restaurant,Friedman Simon,174 Delancey St.   ,Manhattan,New York,New York,174,Delancey,St.,,,,174 Delancey St.   ,,,Friedman
+10054,1021,1910,Trow,826,Restaurant,Friedman Samuel,530 6 St.   ,Manhattan,New York,New York,530,6,St.,,,,530 6 St.   ,,,Friedman
+10055,1022,1910,Trow,826,Restaurant,Friedman & Reinfeld,89 2 Ave   ,Manhattan,New York,New York,89,2,Ave,,,,89 2 Ave   ,,,Friedman
+10056,1023,1910,Trow,826,Restaurant,Fries Herman,51 Duane St.   ,Manhattan,New York,New York,51,Duane,St.,,,,51 Duane St.   ,,,Fries
+10057,1024,1910,Trow,826,Restaurant,Friob John B.,120 E 23 St.  ,Manhattan,New York,New York,120,E,23,St.,,,120 E 23 St.  ,,,Friob
+10058,1025,1910,Trow,826,Restaurant,Frischke Paul,3055 3 Ave   ,Manhattan,New York,New York,3055,3,Ave,,,,3055 3 Ave   ,,,Frischke
+10059,1026,1910,Trow,826,Restaurant,Frishman Charles,203 Stanton St.   ,Manhattan,New York,New York,203,Stanton,St.,,,,203 Stanton St.   ,,,Frishman
+10060,1027,1910,Trow,826,Restaurant,Fritts F. F. Co.,124 Chambers St.   ,Manhattan,New York,New York,124,Chambers,St.,,,,124 Chambers St.   ,,,Fritts
+10061,1028,1910,Trow,826,Restaurant,Fruh Julia,686 3 Ave   ,Manhattan,New York,New York,686,3,Ave,,,,686 3 Ave   ,,,Fruh
+10062,1029,1910,Trow,826,Restaurant,Fuchs Alexander,117 E 14 St.  ,Manhattan,New York,New York,117,E,14,St.,,,117 E 14 St.  ,,,Fuchs
+10063,1030,1910,Trow,826,Restaurant,Fuchs David,3 W Houston  St.  ,Manhattan,New York,New York,3,W,Houston ,St.,,,3 W Houston  St.  ,,,Fuchs
+10064,1031,1910,Trow,826,Restaurant,Fuchs Max,89 Wooster St.   ,Manhattan,New York,New York,89,Wooster,St.,,,,89 Wooster St.   ,,,Fuchs
+10065,1032,1910,Trow,826,Restaurant,Fuchs Max,81 Stanton St.   ,Manhattan,New York,New York,81,Stanton,St.,,,,81 Stanton St.   ,,,Fuchs
+10066,1033,1910,Trow,826,Restaurant,Fuchs Samuel,255 Stanton St.   ,Manhattan,New York,New York,255,Stanton,St.,,,,255 Stanton St.   ,,,Fuchs
+10067,1034,1910,Trow,826,Restaurant,Fuerst Samuel,265 3 Ave   ,Manhattan,New York,New York,265,3,Ave,,,,265 3 Ave   ,,,Fuerst
+10068,1035,1910,Trow,826,Restaurant,Fuerst Brothers,400 West St.   ,Manhattan,New York,New York,400,West,St.,,,,400 West St.   ,,,Fuerst
+10069,1036,1910,Trow,826,Restaurant,Fulton Baking Co.,201 Fulton St.   ,Manhattan,New York,New York,201,Fulton,St.,,,,201 Fulton St.   ,,,Fulton
+10070,1037,1910,Trow,826,Restaurant,Fumey George ,136 W 26 St.  ,Manhattan,New York,New York,136,W,26,St.,,,136 W 26 St.  ,,,Fumey
+10071,1038,1910,Trow,826,Restaurant,Futterman Harry,1608 Broadway     ,Manhattan,New York,New York,1608,Broadway ,,,,,1608 Broadway     ,,,Futterman
+10072,1039,1910,Trow,826,Restaurant,Futterman Harry,750 6 Ave   ,Manhattan,New York,New York,750,6,Ave,,,,750 6 Ave   ,,,Futterman
+10073,1040,1910,Trow,826,Restaurant,Gable Harriet,133 W 13 St.  ,Manhattan,New York,New York,133,W,13,St.,,,133 W 13 St.  ,,,Gable
+10074,1041,1910,Trow,826,Restaurant,Gaebler Robert,61 Warren St.   ,Manhattan,New York,New York,61,Warren,St.,,,,61 Warren St.   ,,,Gaebler
+10075,1042,1910,Trow,826,Restaurant,Gallicchio Gaetano,144 Baxter St.   ,Manhattan,New York,New York,144,Baxter,St.,,,,144 Baxter St.   ,,,Gallicchio
+10076,1043,1910,Trow,826,Restaurant,Galloti Peter,64 W 10 St.  ,Manhattan,New York,New York,64,W,10,St.,,,64 W 10 St.  ,,,Galloti
+10077,1044,1910,Trow,826,Restaurant,Galloway George,280 W 12 St.  ,Manhattan,New York,New York,280,W,12,St.,,,280 W 12 St.  ,,,Galloway
+10078,1045,1910,Trow,826,Restaurant,Gallup Patrick H.,70 Greenwich Ave   ,Manhattan,New York,New York,70,Greenwich,Ave,,,,70 Greenwich Ave   ,,,Gallup
+10079,1046,1910,Trow,826,Restaurant,Galm Carl,800 11 Ave   ,Manhattan,New York,New York,800,11,Ave,,,,800 11 Ave   ,,,Galm
+10080,1047,1910,Trow,826,Restaurant,Gang Rubin,65 E 11 St.  ,Manhattan,New York,New York,65,E,11,St.,,,65 E 11 St.  ,,,Gang
+10081,1048,1910,Trow,826,Restaurant,Garbade Emily D. ,78 W Houston  St.  ,Manhattan,New York,New York,78,W,Houston ,St.,,,78 W Houston  St.  ,,,Garbade
+10082,1049,1910,Trow,826,Restaurant,Garbarini & Tovagliari,2100 3 Ave   ,Manhattan,New York,New York,2100,3,Ave,,,,2100 3 Ave   ,,,Garbarini
+10083,1050,1910,Trow,826,Restaurant,Garfinkel Henry,132 Church St.   ,Manhattan,New York,New York,132,Church,St.,,,,132 Church St.   ,,,Garfinkel
+10084,1051,1910,Trow,826,Restaurant,Garfunkel Max,7 Ann St.   ,Manhattan,New York,New York,7,Ann,St.,,,,7 Ann St.   ,,,Garfunkel
+10085,1052,1910,Trow,826,Restaurant,Garrett Frank,430 Pearl St.   ,Manhattan,New York,New York,430,Pearl,St.,,,,430 Pearl St.   ,,,Garrett
+10086,1053,1910,Trow,826,Restaurant,Garten Clara,16 2 Ave   ,Manhattan,New York,New York,16,2,Ave,,,,16 2 Ave   ,,,Garten
+10087,1054,1910,Trow,826,Restaurant,Gatzenmeier Rudolph ,1760 2 Ave   ,Manhattan,New York,New York,1760,2,Ave,,,,1760 2 Ave   ,,,Gatzenmeier
+10088,1055,1910,Trow,826,Restaurant,Gaughan William ,122 Water St.   ,Manhattan,New York,New York,122,Water,St.,,,,122 Water St.   ,,,Gaughan
+10089,1056,1910,Trow,826,Restaurant,Gay George H.,1420 St. Nicholas Ave   ,Manhattan,New York,New York,1420,St. Nicholas,Ave,,,,1420 St. Nicholas Ave   ,,,Gay
+10090,1057,1910,Trow,826,Restaurant,Gazale Mary,269 7 Ave   ,Manhattan,New York,New York,269,7,Ave,,,,269 7 Ave   ,,,Gazale
+10091,1058,1910,Trow,826,Restaurant,Gazzale Louis,987 3 Ave   ,Manhattan,New York,New York,987,3,Ave,,,,987 3 Ave   ,,,Gazzale
+10092,1059,1910,Trow,826,Restaurant,Gazzale Nazarini,184 West St.   ,Manhattan,New York,New York,184,West,St.,,,,184 West St.   ,,,Gazzale
+10093,1060,1910,Trow,826,Restaurant,Gazzo Jerome,1427 Broadway     ,Manhattan,New York,New York,1427,Broadway ,,,,,1427 Broadway     ,,,Gazzo
+10094,1061,1910,Trow,826,Restaurant,Geber Theresa,979 2 Ave   ,Manhattan,New York,New York,979,2,Ave,,,,979 2 Ave   ,,,Geber
+10095,1062,1910,Trow,826,Restaurant,Gebhardt Henry,544 11 Ave   ,Manhattan,New York,New York,544,11,Ave,,,,544 11 Ave   ,,,Gebhardt
+10096,1063,1910,Trow,826,Restaurant,Gecopuilos Gecas,102 W 40 St.  ,Manhattan,New York,New York,102,W,40,St.,,,102 W 40 St.  ,,,Gecopuilos
+10097,1064,1910,Trow,826,Restaurant,Gee George W. ,404 W 14 St.  ,Manhattan,New York,New York,404,W,14,St.,,,404 W 14 St.  ,,,Gee
+10098,1065,1910,Trow,826,Restaurant,Gehben Ernst J. ,28 Ann    ,Manhattan,New York,New York,28,Ann,,,,,28 Ann    ,,,Gehben
+10099,1066,1910,Trow,826,Restaurant,Gehrung F. William,1310 S Blvd   ,Manhattan,New York,New York,1310,S,Blvd,,,,1310 S Blvd   ,,,Gehrung
+10100,1067,1910,Trow,826,Restaurant,Geister Adolph ,c West  St. & Loew  Ave,Manhattan,New York,New York,c,West ,St.,&,,,c West  St. & Loew  Ave,Loew ,Ave,Geister
+10101,1068,1910,Trow,826,Restaurant,Geister Adolph ,W Washn Mkt     ,Manhattan,New York,New York,W Washn Mkt,,,,,,W Washn Mkt     ,,,Geister
+10102,1069,1910,Trow,826,Restaurant,Gelber Benjamin,106 Rivington St.   ,Manhattan,New York,New York,106,Rivington,St.,,,,106 Rivington St.   ,,,Gelber
+10103,1070,1910,Trow,826,Restaurant,Gellas Isaac,37 Essex St.   ,Manhattan,New York,New York,37,Essex,St.,,,,37 Essex St.   ,,,Gellas
+10104,1071,1910,Trow,826,Restaurant,Gellas Isaac,13 Market St.   ,Manhattan,New York,New York,13,Market,St.,,,,13 Market St.   ,,,Gellas
+10105,1072,1910,Trow,826,Restaurant,Geller Constantine,315 Canal St.   ,Manhattan,New York,New York,315,Canal,St.,,,,315 Canal St.   ,,,Geller
+10106,1073,1910,Trow,826,Restaurant,Geller & Schnapp,171 Rivington St.   ,Manhattan,New York,New York,171,Rivington,St.,,,,171 Rivington St.   ,,,Geller
+10107,1074,1910,Trow,826,Restaurant,Gellman Brothers ,15 Ann St.   ,Manhattan,New York,New York,15,Ann,St.,,,,15 Ann St.   ,,,Gellman
+10108,1075,1910,Trow,826,Restaurant,Gelman Samuel,100 Essex St.   ,Manhattan,New York,New York,100,Essex,St.,,,,100 Essex St.   ,,,Gelman
+10109,1076,1910,Trow,826,Restaurant,Gelmar David,110 St. Mark's Pl   ,Manhattan,New York,New York,110,St. Mark's,Pl,,,,110 St. Mark's Pl   ,,,Gelmar
+10110,1077,1910,Trow,826,Restaurant,Gelsin Julius,324.5 E 8 St.  ,Manhattan,New York,New York,324.5,E,8,St.,,,324 E 8 St.  ,,,Gelsin
+10111,1078,1910,Trow,826,Restaurant,Gender Abraham,221 7 St.   ,Manhattan,New York,New York,221,7,St.,,,,221 7 St.   ,,,Gender
+10112,1079,1910,Trow,826,Restaurant,Genesee Lunch Co,474 Columbus  Ave   ,Manhattan,New York,New York,474,Columbus ,Ave,,,,474 Columbus  Ave   ,,,Genesee
+10113,1080,1910,Trow,826,Restaurant,Genesee Lunch Co,873 Columbus  Ave   ,Manhattan,New York,New York,873,Columbus ,Ave,,,,873 Columbus  Ave   ,,,Genesee
+10114,1081,1910,Trow,826,Restaurant,Geneva Lunch Room,316 Greenwich St.   ,Manhattan,New York,New York,316,Greenwich,St.,,,,316 Greenwich St.   ,,,Geneva
+10115,1082,1910,Trow,826,Restaurant,George Peter,892 8 Ave   ,Manhattan,New York,New York,892,8,Ave,,,,892 8 Ave   ,,,George
+10116,1083,1910,Trow,826,Restaurant,Gerakeres Louis & Brother,484 3 Ave   ,Manhattan,New York,New York,484,3,Ave,,,,484 3 Ave   ,,,Gerakeres
+10117,1084,1910,Trow,826,Restaurant,Gerakos Angelo,473 6 Ave   ,Manhattan,New York,New York,473,6,Ave,,,,473 6 Ave   ,,,Gerakos
+10118,1085,1910,Trow,826,Restaurant,Gerber Meyer B.,364 Lafayette St.   ,Manhattan,New York,New York,364,Lafayette,St.,,,,364 Lafayette St.   ,,,Gerber
+10119,1086,1910,Trow,826,Restaurant,Gernannt George,20 E 13 St.  ,Manhattan,New York,New York,20,E,13,St.,,,20 E 13 St.  ,,,Gernannt
+10120,1087,1910,Trow,826,Restaurant,Gerring Richard,682 Lenox  Ave   ,Manhattan,New York,New York,682,Lenox ,Ave,,,,682 Lenox  Ave   ,,,Gerring
+10121,1088,1910,Trow,826,Restaurant,Gershenwitz Jacob,17 Orchard St.   ,Manhattan,New York,New York,17,Orchard,St.,,,,17 Orchard St.   ,,,Gershenwitz
+10122,1089,1910,Trow,826,Restaurant,Gershman Israel,8 University  Pl   ,Manhattan,New York,New York,8,University ,Pl,,,,8 University  Pl   ,,,Gershman
+10123,1090,1910,Trow,826,Restaurant,Gertner Herman,97 Division St.   ,Manhattan,New York,New York,97,Division,St.,,,,97 Division St.   ,,,Gertner
+10124,1091,1910,Trow,826,Restaurant,Getzler Samuel,107 E 108 St.  ,Manhattan,New York,New York,107,E,108,St.,,,107 E 108 St.  ,,,Getzler
+10125,1092,1910,Trow,826,Restaurant,Giacoumos Peter,284 3 Ave   ,Manhattan,New York,New York,284,3,Ave,,,,284 3 Ave   ,,,Giacoumos
+10126,1093,1910,Trow,826,Restaurant,Giancardi Vincenzo,44 Mulberry St.   ,Manhattan,New York,New York,44,Mulberry,St.,,,,44 Mulberry St.   ,,,Giancardi
+10127,1094,1910,Trow,826,Restaurant,Gianotti Mark,3216 3 Ave   ,Manhattan,New York,New York,3216,3,Ave,,,,3216 3 Ave   ,,,Gianotti
+10128,1095,1910,Trow,826,Restaurant,Gibson's Restaurant Co,85 John  St.   ,Manhattan,New York,New York,85,John ,St.,,,,85 John  St.   ,,,Gibson's
+10129,1096,1910,Trow,826,Restaurant,Gibson's Restaurant Co,51 Maiden La   ,Manhattan,New York,New York,51,Maiden,La,,,,51 Maiden La   ,,,Gibson's
+10130,1097,1910,Trow,826,Restaurant,Gibson's Restaurant Co,63 Maiden La   ,Manhattan,New York,New York,63,Maiden,La,,,,63 Maiden La   ,,,Gibson's
+10131,1098,1910,Trow,826,Restaurant,Gift Shop Tea Room,19 E 26 St.  ,Manhattan,New York,New York,19,E,26,St.,,,19 E 26 St.  ,,,Gift
+10132,1099,1910,Trow,826,Restaurant,Gigli Dominick,2471 2 Ave   ,Manhattan,New York,New York,2471,2,Ave,,,,2471 2 Ave   ,,,Gigli
+10133,1100,1910,Trow,826,Restaurant,Gil Frank,139 4 Ave   ,Manhattan,New York,New York,139,4,Ave,,,,139 4 Ave   ,,,Gil
+10134,1101,1910,Trow,826,Restaurant,Gilbert Bernard,646 E 9 St.  ,Manhattan,New York,New York,646,E,9,St.,,,646 E 9 St.  ,,,Gilbert
+10135,1102,1910,Trow,826,Restaurant,Gillespie & Decker,266 8 Ave   ,Manhattan,New York,New York,266,8,Ave,,,,266 8 Ave   ,,,Gillespie
+10136,1103,1910,Trow,826,Restaurant,Gillette Charles,133 Christopher St.   ,Manhattan,New York,New York,133,Christopher,St.,,,,133 Christopher St.   ,,,Gillette
+10137,1104,1910,Trow,826,Restaurant,Gillio John,61 W 24 St.  ,Manhattan,New York,New York,61,W,24,St.,,,61 W 24 St.  ,,,Gillio
+10138,1105,1910,Trow,826,Restaurant,Gillman Meyer ,82 Monroe St.   ,Manhattan,New York,New York,82,Monroe,St.,,,,82 Monroe St.   ,,,Gillman
+10139,1106,1910,Trow,826,Restaurant,Ginsberg Henry,248 7 Ave   ,Manhattan,New York,New York,248,7,Ave,,,,248 7 Ave   ,,,Ginsberg
+10140,1107,1910,Trow,826,Restaurant,Ginsberg Isaac,297 Cherry St.   ,Manhattan,New York,New York,297,Cherry,St.,,,,297 Cherry St.   ,,,Ginsberg
+10141,1108,1910,Trow,826,Restaurant,Giosiosi Antonio,249 E 151 St.  ,Manhattan,New York,New York,249,E,151,St.,,,249 E 151 St.  ,,,Giosiosi
+10142,1109,1910,Trow,826,Restaurant,Giordano Francesco,72 Baxter St.   ,Manhattan,New York,New York,72,Baxter,St.,,,,72 Baxter St.   ,,,Giordano
+10143,1110,1910,Trow,826,Restaurant,Giordano Michael,122 Mott St.   ,Manhattan,New York,New York,122,Mott,St.,,,,122 Mott St.   ,,,Giordano
+10144,1111,1910,Trow,826,Restaurant,Giovannino Martha,88 W 3 St.  ,Manhattan,New York,New York,88,W,3,St.,,,88 W 3 St.  ,,,Giovannino
+10145,1112,1910,Trow,826,Restaurant,Girard Emile,77 Nassau St.   ,Manhattan,New York,New York,77,Nassau,St.,,,,77 Nassau St.   ,,,Girard
+10146,1113,1910,Trow,826,Restaurant,Girome Frank,110 Cherry St.   ,Manhattan,New York,New York,110,Cherry,St.,,,,110 Cherry St.   ,,,Girome
+10147,1114,1910,Trow,826,Restaurant,Giuseppe Leon,219 E 97 St.  ,Manhattan,New York,New York,219,E,97,St.,,,219 E 97 St.  ,,,Giuseppe
+10148,1115,1910,Trow,826,Restaurant,Glantz Isidor,90 E Broadway   ,Manhattan,New York,New York,90,E,Broadway,,,,90 E Broadway   ,,,Glantz
+10149,1116,1910,Trow,826,Restaurant,Glantz & Dantzig,37 John St.   ,Manhattan,New York,New York,37,John,St.,,,,37 John St.   ,,,Glantz
+10150,1117,1910,Trow,826,Restaurant,Glasberg & Hoffmann,101 W 42 St.  ,Manhattan,New York,New York,101,W,42,St.,,,101 W 42 St.  ,,,Glasberg
+10151,1118,1910,Trow,826,Restaurant,Glasser Israel,146 Avenue D    ,Manhattan,New York,New York,146,Avenue D,,,,,146 Avenue D    ,,,Glasser
+10152,1119,1910,Trow,826,Restaurant,Glassman Morris,70 Canal St.   ,Manhattan,New York,New York,70,Canal,St.,,,,70 Canal St.   ,,,Glassman
+10153,1120,1910,Trow,826,Restaurant,Glendenning George O.,10 Dey St.   ,Manhattan,New York,New York,10,Dey,St.,,,,10 Dey St.   ,,,Glendenning
+10154,1121,1910,Trow,826,Restaurant,Glendenning George O.,199 6 Ave   ,Manhattan,New York,New York,199,6,Ave,,,,199 6 Ave   ,,,Glendenning
+10155,1122,1910,Trow,826,Restaurant,Glicksman Louis,276 E Houston St.  ,Manhattan,New York,New York,276,E,Houston,St.,,,276 E Houston St.  ,,,Glicksman
+10156,1123,1910,Trow,826,Restaurant,Glielmo Giuseppe,2205 1 Ave   ,Manhattan,New York,New York,2205,1,Ave,,,,2205 1 Ave   ,,,Glielmo
+10157,1124,1910,Trow,826,Restaurant,Globe Lunch Co,262 Greenwich St.   ,Manhattan,New York,New York,262,Greenwich,St.,,,,262 Greenwich St.   ,,,Globe
+10158,1125,1910,Trow,826,Restaurant,Glogan Joseph ,356 Canal St.   ,Manhattan,New York,New York,356,Canal,St.,,,,356 Canal St.   ,,,Glogan
+10159,1126,1910,Trow,826,Restaurant,Gluck Samuel,447 Willis  Ave   ,Manhattan,New York,New York,447,Willis ,Ave,,,,447 Willis  Ave   ,,,Gluck
+10160,1127,1910,Trow,826,Restaurant,Gluckstein Simon,62 Rivington St.   ,Manhattan,New York,New York,62,Rivington,St.,,,,62 Rivington St.   ,,,Gluckstein
+10161,1128,1910,Trow,826,Restaurant,Gluckstein Bertha,140 Delancey St.   ,Manhattan,New York,New York,140,Delancey,St.,,,,140 Delancey St.   ,,,Gluckstein
+10162,1129,1910,Trow,826,Restaurant,Glyde Alfred,121 W 22 St.  ,Manhattan,New York,New York,121,W,22,St.,,,121 W 22 St.  ,,,Glyde
+10163,1130,1910,Trow,826,Restaurant,Godine Eugenia,338 W 59 St.  ,Manhattan,New York,New York,338,W,59,St.,,,338 W 59 St.  ,,,Godine
+10164,1131,1910,Trow,826,Restaurant,Going & Scanlon,1864 Broadway    ,Manhattan,New York,New York,1864,Broadway,,,,,1864 Broadway    ,,,Going
+10165,1132,1910,Trow,826,Restaurant,Going & Scanlon,33 Columbus Ave   ,Manhattan,New York,New York,33,Columbus,Ave,,,,33 Columbus Ave   ,,,Going
+10166,1133,1910,Trow,826,Restaurant,Going & Scanlon,622 W 57 St.  ,Manhattan,New York,New York,622,W,57,St.,,,622 W 57 St.  ,,,Going
+10167,1134,1910,Trow,826,Restaurant,Going & Scanlon,Municipal Ferry House     ,Manhattan,New York,New York,Municipal Ferry House,,,,,,Municipal Ferry House     ,,,Going
+10168,1135,1910,Trow,826,Restaurant,Gold Harry,165 Bleecker St.   ,Manhattan,New York,New York,165,Bleecker,St.,,,,165 Bleecker St.   ,,,Gold
+10169,1136,1910,Trow,826,Restaurant,Goldberg Abraham,72 West St.   ,Manhattan,New York,New York,72,West,St.,,,,72 West St.   ,,,Goldberg
+10170,1137,1910,Trow,826,Restaurant,Goldberg Abraham II,137 W 27 St.  ,Manhattan,New York,New York,137,W,27,St.,,,137 W 27 St.  ,,,Goldberg
+10171,1138,1910,Trow,826,Restaurant,Goldberg Charles,1555 2 Ave   ,Manhattan,New York,New York,1555,2,Ave,,,,1555 2 Ave   ,,,Goldberg
+10172,1139,1910,Trow,826,Restaurant,Goldberg Harry,14 Delancey St.   ,Manhattan,New York,New York,14,Delancey,St.,,,,14 Delancey St.   ,,,Goldberg
+10173,1140,1910,Trow,826,Restaurant,Goldberg Henry,84 8 Ave   ,Manhattan,New York,New York,84,8,Ave,,,,84 8 Ave   ,,,Goldberg
+10174,1141,1910,Trow,826,Restaurant,Goldberg Isaac,20 W 15 St.  ,Manhattan,New York,New York,20,W,15,St.,,,20 W 15 St.  ,,,Goldberg
+10175,1142,1910,Trow,826,Restaurant,Goldberg Israel,109 Norfolk St.   ,Manhattan,New York,New York,109,Norfolk,St.,,,,109 Norfolk St.   ,,,Goldberg
+10176,1143,1910,Trow,826,Restaurant,Goldberg Jacob,1969 1 Ave   ,Manhattan,New York,New York,1969,1,Ave,,,,1969 1 Ave   ,,,Goldberg
+10177,1144,1910,Trow,826,Restaurant,Goldberg Jacob II,245 W Broadway   ,Manhattan,New York,New York,245,W,Broadway,,,,245 W Broadway   ,,,Goldberg
+10178,1145,1910,Trow,826,Restaurant,Goldberg Julius,55 E 9 St.  ,Manhattan,New York,New York,55,E,9,St.,,,55 E 9 St.  ,,,Goldberg
+10179,1146,1910,Trow,826,Restaurant,Goldberg Mendel,57 Stanton St.   ,Manhattan,New York,New York,57,Stanton,St.,,,,57 Stanton St.   ,,,Goldberg
+10180,1147,1910,Trow,826,Restaurant,Goldberg Reuben,422 E 4 St.  ,Manhattan,New York,New York,422,E,4,St.,,,422 E 4 St.  ,,,Goldberg
+10181,1148,1910,Trow,826,Restaurant,Goldberg S. & Sons,99 Broadway    ,Manhattan,New York,New York,99,Broadway,,,,,99 Broadway    ,,,Goldberg
+10182,1149,1910,Trow,826,Restaurant,Goldberger Sabina,136 Cannon St.   ,Manhattan,New York,New York,136,Cannon,St.,,,,136 Cannon St.   ,,,Goldberger
+10183,1150,1910,Trow,826,Restaurant,Golden Samuel ,32 W Houston St.  ,Manhattan,New York,New York,32,W,Houston,St.,,,32 W Houston St.  ,,,Golden
+10184,1151,1910,Trow,826,Restaurant,Golden Waffle (inc) ,60 New  St.   ,Manhattan,New York,New York,60,New ,St.,,,,60 New  St.   ,,,Golden
+10185,1152,1910,Trow,826,Restaurant,Goldenberg Adolph,56 Stanton St.   ,Manhattan,New York,New York,56,Stanton,St.,,,,56 Stanton St.   ,,,Goldenberg
+10186,1153,1910,Trow,826,Restaurant,Goldenberg Gabriel,34 Gt Jones St.   ,Manhattan,New York,New York,34,Gt Jones,St.,,,,34 Gt Jones St.   ,,,Goldenberg
+10187,1154,1910,Trow,826,Restaurant,Goldenberg Solomon,34 E 9 St.  ,Manhattan,New York,New York,34,E,9,St.,,,34 E 9 St.  ,,,Goldenberg
+10188,1155,1910,Trow,826,Restaurant,Goldfarb Aaron,131 E 104 St.  ,Manhattan,New York,New York,131,E,104,St.,,,131 E 104 St.  ,,,Goldfarb
+10189,1156,1910,Trow,826,Restaurant,Goldfarb Max,15 Orchard St.   ,Manhattan,New York,New York,15,Orchard,St.,,,,15 Orchard St.   ,,,Goldfarb
+10190,1157,1910,Trow,826,Restaurant,Goldfinger Adolph,282 2 St.   ,Manhattan,New York,New York,282,2,St.,,,,282 2 St.   ,,,Goldfinger
+10191,1158,1910,Trow,826,Restaurant,Goldfried Louis,86 Ludlow St.   ,Manhattan,New York,New York,86,Ludlow,St.,,,,86 Ludlow St.   ,,,Goldfried
+10192,1159,1910,Trow,826,Restaurant,Goldman Jacob,220 Delancey St.   ,Manhattan,New York,New York,220,Delancey,St.,,,,220 Delancey St.   ,,,Goldman
+10193,1160,1910,Trow,826,Restaurant,Goldman Joseph,68 W 43 St.  ,Manhattan,New York,New York,68,W,43,St.,,,68 W 43 St.  ,,,Goldman
+10194,1161,1910,Trow,826,Restaurant,Goldman Leon,233 Greene St.   ,Manhattan,New York,New York,233,Greene,St.,,,,233 Greene St.   ,,,Goldman
+10195,1162,1910,Trow,826,Restaurant,Goldman Morris,665 Broadway    ,Manhattan,New York,New York,665,Broadway,,,,,665 Broadway    ,,,Goldman
+10196,1163,1910,Trow,826,Restaurant,Goldman Samuel,33 Avenue C    ,Manhattan,New York,New York,33,Avenue C,,,,,33 Avenue C    ,,,Goldman
+10197,1164,1910,Trow,826,Restaurant,Goldmann Abraham,58 E 13 St.  ,Manhattan,New York,New York,58,E,13,St.,,,58 E 13 St.  ,,,Goldmann
+10198,1165,1910,Trow,826,Restaurant,Goldsmith Louis,87 Monroe St.   ,Manhattan,New York,New York,87,Monroe,St.,,,,87 Monroe St.   ,,,Goldsmith
+10199,1166,1910,Trow,826,Restaurant,Goldstein Abraham,158 W 28 St.  ,Manhattan,New York,New York,158,W,28,St.,,,158 W 28 St.  ,,,Goldstein
+10200,1167,1910,Trow,826,Restaurant,Goldstein Benjamin,254 W 35 St.  ,Manhattan,New York,New York,254,W,35,St.,,,254 W 35 St.  ,,,Goldstein
+10201,1168,1910,Trow,826,Restaurant,Goldstein Charles,2073 3 Ave   ,Manhattan,New York,New York,2073,3,Ave,,,,2073 3 Ave   ,,,Goldstein
+10202,1169,1910,Trow,826,Restaurant,Goldstein Hyman ,310 2 St.   ,Manhattan,New York,New York,310,2,St.,,,,310 2 St.   ,,,Goldstein
+10203,1170,1910,Trow,826,Restaurant,Goldstein Leo,157 Grand St.   ,Manhattan,New York,New York,157,Grand,St.,,,,157 Grand St.   ,,,Goldstein
+10204,1171,1910,Trow,826,Restaurant,Goldstein Leopold,140 Forsyth St.   ,Manhattan,New York,New York,140,Forsyth,St.,,,,140 Forsyth St.   ,,,Goldstein
+10205,1172,1910,Trow,826,Restaurant,Goldstein Morris,193 E Houston St.  ,Manhattan,New York,New York,193,E,Houston,St.,,,193 E Houston St.  ,,,Goldstein
+10206,1173,1910,Trow,826,Restaurant,Golstein Morris II,158 Eldridge St.   ,Manhattan,New York,New York,158,Eldridge,St.,,,,158 Eldridge St.   ,,,Golstein
+10207,1174,1910,Trow,826,Restaurant,Goldstein Peter,416 6 Ave   ,Manhattan,New York,New York,416,6,Ave,,,,416 6 Ave   ,,,Goldstein
+10208,1175,1910,Trow,826,Restaurant,Goldstein Samuel,111 Cannon St.   ,Manhattan,New York,New York,111,Cannon,St.,,,,111 Cannon St.   ,,,Goldstein
+10209,1176,1910,Trow,826,Restaurant,Golub Benjamin,16 6 Ave   ,Manhattan,New York,New York,16,6,Ave,,,,16 6 Ave   ,,,Golub
+10210,1177,1910,Trow,826,Restaurant,Golubon Reuben,220 Clinton St.   ,Manhattan,New York,New York,220,Clinton,St.,,,,220 Clinton St.   ,,,Golubon
+10211,1178,1910,Trow,826,Restaurant,Gondosch Michael,766 E 138 St.  ,Manhattan,New York,New York,766,E,138,St.,,,766 E 138 St.  ,,,Gondosch
+10212,1179,1910,Trow,826,Restaurant,Gonfarone Caterina & Anacieto Sermolino,40 W 8 St.  ,Manhattan,New York,New York,40,W,8,St.,,,40 W 8 St.  ,,,Gonfarone
+10213,1180,1910,Trow,826,Restaurant,Goodman Benjamin,266 Stanton St.   ,Manhattan,New York,New York,266,Stanton,St.,,,,266 Stanton St.   ,,,Goodman
+10214,1181,1910,Trow,826,Restaurant,Goodman Harry A. ,9 W 21 St.  ,Manhattan,New York,New York,9,W,21,St.,,,9 W 21 St.  ,,,Goodman
+10215,1182,1910,Trow,826,Restaurant,Goodman Harry S.,373 West St.   ,Manhattan,New York,New York,373,West,St.,,,,373 West St.   ,,,Goodman
+10216,1183,1910,Trow,826,Restaurant,Goodman Solomon,111 Norfolk St.   ,Manhattan,New York,New York,111,Norfolk,St.,,,,111 Norfolk St.   ,,,Goodman
+10217,1184,1910,Trow,826,Restaurant,Goodwin Herbert J.,747 6 Ave   ,Manhattan,New York,New York,747,6,Ave,,,,747 6 Ave   ,,,Goodwin
+10218,1185,1910,Trow,826,Restaurant,Gordon David,304 E 100 St.  ,Manhattan,New York,New York,304,E,100,St.,,,304 E 100 St.  ,,,Gordon
+10219,1186,1910,Trow,826,Restaurant,Gordon Herman,11 W 21 St.  ,Manhattan,New York,New York,11,W,21,St.,,,11 W 21 St.  ,,,Gordon
+10220,1187,1910,Trow,826,Restaurant,Gordon Hyman,218 Broome St.   ,Manhattan,New York,New York,218,Broome,St.,,,,218 Broome St.   ,,,Gordon
+10221,1188,1910,Trow,826,Restaurant,Gordon Joseph,883 6 Ave   ,Manhattan,New York,New York,883,6,Ave,,,,883 6 Ave   ,,,Gordon
+10222,1189,1910,Trow,826,Restaurant,Gorlin & Levine,2146 Broadway    ,Manhattan,New York,New York,2146,Broadway,,,,,2146 Broadway    ,,,Gorlin
+10223,1190,1910,Trow,826,Restaurant,Gorlin & Levine,1125 Amsterdam Ave   ,Manhattan,New York,New York,1125,Amsterdam,Ave,,,,1125 Amsterdam Ave   ,,,Gorlin
+10224,1191,1910,Trow,826,Restaurant,Gotlieb Max,171 Stanton St.   ,Manhattan,New York,New York,171,Stanton,St.,,,,171 Stanton St.   ,,,Gotlieb
+10225,1192,1910,Trow,826,Restaurant,Gottdank Anna,270 Rivington St.   ,Manhattan,New York,New York,270,Rivington,St.,,,,270 Rivington St.   ,,,Gottdank
+10226,1193,1910,Trow,826,Restaurant,Gottehrer & Levitz,7 W 20 St.  ,Manhattan,New York,New York,7,W,20,St.,,,7 W 20 St.  ,,,Gottehrer
+10227,1194,1910,Trow,826,Restaurant,Gottlieb Ignatz,584 Grand St.   ,Manhattan,New York,New York,584,Grand,St.,,,,584 Grand St.   ,,,Gottlieb
+10228,1195,1910,Trow,826,Restaurant,Gottlieb Samuel,294 Grand St.   ,Manhattan,New York,New York,294,Grand,St.,,,,294 Grand St.   ,,,Gottlieb
+10229,1196,1910,Trow,826,Restaurant,Gottner Leon,121 St. Mark's  Pl   ,Manhattan,New York,New York,121,St. Mark's ,Pl,,,,121 St. Mark's  Pl   ,,,Gottner
+10230,1197,1910,Trow,826,Restaurant,Gouverneur John,243 W 39 St.  ,Manhattan,New York,New York,243,W,39,St.,,,243 W 39 St.  ,,,Gouverneur
+10231,1198,1910,Trow,826,Chinese Restaurant,Gow Sing & Co,17A  Doyers St.   ,Manhattan,New York,New York,17A ,Doyers,St.,,,,17A  Doyers St.   ,,,Gow
+10232,1199,1910,Trow,826,Restaurant,Grabel Julius,143 Norfolk St.   ,Manhattan,New York,New York,143,Norfolk,St.,,,,143 Norfolk St.   ,,,Grabel
+10233,1200,1910,Trow,826,Restaurant,Grabenhorst Henry J. ,31 Bridge St.   ,Manhattan,New York,New York,31,Bridge,St.,,,,31 Bridge St.   ,,,Grabenhorst
+10234,1201,1910,Trow,826,Restaurant,Graf & Graf Restaurant & Hotel Col.,130 3 Ave   ,Manhattan,New York,New York,130,3,Ave,,,,130 3 Ave   ,,,Graf
+10235,1202,1910,Trow,826,Restaurant,Graff D. Charles,87 Pike St.   ,Manhattan,New York,New York,87,Pike,St.,,,,87 Pike St.   ,,,Graff
+10236,1203,1910,Trow,826,Restaurant,Grambow Charles H.,1535 3 Ave   ,Manhattan,New York,New York,1535,3,Ave,,,,1535 3 Ave   ,,,Grambow
+10237,1204,1910,Trow,826,Restaurant,Grand Restaurant Co,364 Grand St.   ,Manhattan,New York,New York,364,Grand,St.,,,,364 Grand St.   ,,,Grand
+10238,1205,1910,Trow,826,Restaurant,Grand Restaurant Co,416 Grand St.   ,Manhattan,New York,New York,416,Grand,St.,,,,416 Grand St.   ,,,Grand
+10239,1206,1910,Trow,826,Restaurant,Granger George ,134 W 19 St.  ,Manhattan,New York,New York,134,W,19,St.,,,134 W 19 St.  ,,,Granger
+10240,1207,1910,Trow,826,Restaurant,Graniano Pasquale,112 Mulberry St.   ,Manhattan,New York,New York,112,Mulberry,St.,,,,112 Mulberry St.   ,,,Graniano
+10241,1208,1910,Trow,826,Restaurant,Granich Lena,570 Hudson St.   ,Manhattan,New York,New York,570,Hudson,St.,,,,570 Hudson St.   ,,,Granich
+10242,1209,1910,Trow,826,Restaurant,Grasl Mary ,543 W 43 St.  ,Manhattan,New York,New York,543,W,43,St.,,,543 W 43 St.  ,,,Grasl
+10243,1210,1910,Trow,826,Restaurant,Grasser George,126 Pearl St.   ,Manhattan,New York,New York,126,Pearl,St.,,,,126 Pearl St.   ,,,Grasser
+10244,1211,1910,Trow,826,Restaurant,Grassi Frank,168 Thompson St.   ,Manhattan,New York,New York,168,Thompson,St.,,,,168 Thompson St.   ,,,Grassi
+10245,1212,1910,Trow,826,Restaurant,Gravani Louis & Co,65 Cooper  Sq   ,Manhattan,New York,New York,65,Cooper ,Sq,,,,65 Cooper  Sq   ,,,Gravani
+10246,1213,1910,Trow,826,Restaurant,Gravani Louis & Co,509 3 Ave   ,Manhattan,New York,New York,509,3,Ave,,,,509 3 Ave   ,,,Gravani
+10247,1214,1910,Trow,826,Restaurant,Graver Frederick,16 Greenwich St.   ,Manhattan,New York,New York,16,Greenwich,St.,,,,16 Greenwich St.   ,,,Graver
+10248,1215,1910,Trow,826,Restaurant,Gray John A.,411 Bleecker St.   ,Manhattan,New York,New York,411,Bleecker,St.,,,,411 Bleecker St.   ,,,Gray
+10249,1216,1910,Trow,826,Restaurant,Gray John A. II,123 Park Row St.   ,Manhattan,New York,New York,123,Park Row,St.,,,,123 Park Row St.   ,,,Gray
+10250,1217,1910,Trow,826,Restaurant,Greater N Y Lunch Room Co,15 Frankfort St.   ,Manhattan,New York,New York,15,Frankfort,St.,,,,15 Frankfort St.   ,,,Greater
+10251,1218,1910,Trow,826,Restaurant,Grecco Giovanni,316 E 11 St.  ,Manhattan,New York,New York,316,E,11,St.,,,316 E 11 St.  ,,,Grecco
+10252,1219,1910,Trow,826,Restaurant,Green John,157 3 Ave   ,Manhattan,New York,New York,157,3,Ave,,,,157 3 Ave   ,,,Green
+10253,1220,1910,Trow,826,Restaurant,Green Max,150 Rivington St.   ,Manhattan,New York,New York,150,Rivington,St.,,,,150 Rivington St.   ,,,Green
+10254,1221,1910,Trow,826,Restaurant,Green Philip ,1595 Madison  Ave   ,Manhattan,New York,New York,1595,Madison ,Ave,,,,1595 Madison  Ave   ,,,Green
+10255,1222,1910,Trow,826,Restaurant,Green Roderick,8 Cath Sl   ,Manhattan,New York,New York,8,Cath,Sl,,,,8 Cath Sl   ,,,Green
+10256,1223,1910,Trow,826,Restaurant,Greenbaum Herman,76 Avenue D    ,Manhattan,New York,New York,76,Avenue D,,,,,76 Avenue D    ,,,Greenbaum
+10257,1224,1910,Trow,826,Restaurant,Greenberg Mary,191 Forsyth St.   ,Manhattan,New York,New York,191,Forsyth,St.,,,,191 Forsyth St.   ,,,Greenberg
+10258,1225,1910,Trow,826,Restaurant,Greenberg Max,122 W 20 St.  ,Manhattan,New York,New York,122,W,20,St.,,,122 W 20 St.  ,,,Greenberg
+10259,1226,1910,Trow,826,Restaurant,Greenberg Moses,395 W Broadway   ,Manhattan,New York,New York,395,W,Broadway,,,,395 W Broadway   ,,,Greenberg
+10260,1227,1910,Trow,826,Restaurant,Greenberg Samuel,56 E 10 St.  ,Manhattan,New York,New York,56,E,10,St.,,,56 E 10 St.  ,,,Greenberg
+10261,1228,1910,Trow,826,Restaurant,Greenblatt Harry,69 Sheriff St.   ,Manhattan,New York,New York,69,Sheriff,St.,,,,69 Sheriff St.   ,,,Greenblatt
+10262,1229,1910,Trow,826,Restaurant,Greene John,586 8 Ave   ,Manhattan,New York,New York,586,8,Ave,,,,586 8 Ave   ,,,Greene
+10263,1230,1910,Trow,826,Restaurant,Greenwich Restaurant Co,96 Warren St.   ,Manhattan,New York,New York,96,Warren,St.,,,,96 Warren St.   ,,,Greenwich
+10264,1231,1910,Trow,826,Restaurant,Gregors John,625 2 Ave   ,Manhattan,New York,New York,625,2,Ave,,,,625 2 Ave   ,,,Gregors
+10265,1232,1910,Trow,826,Restaurant,Gregory Giles F.,147 W 42 St.  ,Manhattan,New York,New York,147,W,42,St.,,,147 W 42 St.  ,,,Gregory
+10266,1233,1910,Trow,826,Restaurant,Greico Michela,166.5 Leonard St.   ,Manhattan,New York,New York,166.5,Leonard,St.,,,,166 Leonard St.   ,,,Greico
+10267,1234,1910,Trow,826,Restaurant,Greiff Isidor,59 Attorney St.   ,Manhattan,New York,New York,59,Attorney,St.,,,,59 Attorney St.   ,,,Greiff
+10268,1235,1910,Trow,826,Restaurant,Griffith Gover P.,578 Hudson St.   ,Manhattan,New York,New York,578,Hudson,St.,,,,578 Hudson St.   ,,,Griffith
+10269,1236,1910,Trow,826,Restaurant,Griggs Crawford,54 E 132 St.  ,Manhattan,New York,New York,54,E,132,St.,,,54 E 132 St.  ,,,Griggs
+10270,1237,1910,Trow,826,Restaurant,Grimn Richard,1493 3 Ave   ,Manhattan,New York,New York,1493,3,Ave,,,,1493 3 Ave   ,,,Grimn
+10271,1238,1910,Trow,826,Restaurant,Grinbaum Lena,68 Lewis St.   ,Manhattan,New York,New York,68,Lewis,St.,,,,68 Lewis St.   ,,,Grinbaum
+10272,1239,1910,Trow,826,Restaurant,Grinstein Jacob,383 Greenwich St.   ,Manhattan,New York,New York,383,Greenwich,St.,,,,383 Greenwich St.   ,,,Grinstein
+10273,1240,1910,Trow,826,Restaurant,Grivas James,101 W 100 St.  ,Manhattan,New York,New York,101,W,100,St.,,,101 W 100 St.  ,,,Grivas
+10274,1241,1910,Trow,826,Restaurant,Grobholz Frederick,1559 3 Ave   ,Manhattan,New York,New York,1559,3,Ave,,,,1559 3 Ave   ,,,Grobholz
+10275,1242,1910,Trow,826,Restaurant,Groginsky Maximilian,269 7 Ave   ,Manhattan,New York,New York,269,7,Ave,,,,269 7 Ave   ,,,Groginsky
+10276,1243,1910,Trow,826,Restaurant,Gromer Nathan,200 W 35 St.  ,Manhattan,New York,New York,200,W,35,St.,,,200 W 35 St.  ,,,Gromer
+10277,1244,1910,Trow,826,Restaurant,Gropper Brothers,106 Forsyth St.   ,Manhattan,New York,New York,106,Forsyth,St.,,,,106 Forsyth St.   ,,,Gropper
+10278,1245,1910,Trow,826,Restaurant,Gross Edward ,45 Broad St.   ,Manhattan,New York,New York,45,Broad,St.,,,,45 Broad St.   ,,,Gross
+10279,1246,1910,Trow,826,Restaurant,Gross Morris,505 E Houston St.  ,Manhattan,New York,New York,505,E,Houston,St.,,,505 E Houston St.  ,,,Gross
+10280,1247,1910,Trow,826,Restaurant,Gross Samuel,202 Wooster St.   ,Manhattan,New York,New York,202,Wooster,St.,,,,202 Wooster St.   ,,,Gross
+10281,1248,1910,Trow,826,Restaurant,Grosso William,359 W 42 St.  ,Manhattan,New York,New York,359,W,42,St.,,,359 W 42 St.  ,,,Grosso
+10282,1249,1910,Trow,826,Restaurant,Grossberg Mortiz,1156 3 Ave   ,Manhattan,New York,New York,1156,3,Ave,,,,1156 3 Ave   ,,,Grossberg
+10283,1250,1910,Trow,826,Restaurant,Grossman Bernard,12 W 4 St.  ,Manhattan,New York,New York,12,W,4,St.,,,12 W 4 St.  ,,,Grossman
+10284,1251,1910,Trow,826,Restaurant,Grote Henry,311 Bleecker St.   ,Manhattan,New York,New York,311,Bleecker,St.,,,,311 Bleecker St.   ,,,Grote
+10285,1252,1910,Trow,826,Restaurant,Grote Herman G.,349 Hudson St.   ,Manhattan,New York,New York,349,Hudson,St.,,,,349 Hudson St.   ,,,Grote
+10286,1253,1910,Trow,826,Restaurant,Grove Albert,399 Broadway    ,Manhattan,New York,New York,399,Broadway,,,,,399 Broadway    ,,,Grove
+10287,1254,1910,Trow,826,Restaurant,Gruber Harry,1105 3 Ave   ,Manhattan,New York,New York,1105,3,Ave,,,,1105 3 Ave   ,,,Gruber
+10288,1255,1910,Trow,826,Restaurant,Gruber S. Co,189 E Broadway   ,Manhattan,New York,New York,189,E,Broadway,,,,189 E Broadway   ,,,Gruber
+10289,1256,1910,Trow,826,Restaurant,Gruber Samuel,248 Bowery St.   ,Manhattan,New York,New York,248,Bowery,St.,,,,248 Bowery St.   ,,,Gruber
+10290,1257,1910,Trow,826,Restaurant,Gruber Brothers,246 Grand St.   ,Manhattan,New York,New York,246,Grand,St.,,,,246 Grand St.   ,,,Gruber
+10291,1258,1910,Trow,826,Restaurant,Gruber Brothers,398 Grand St.   ,Manhattan,New York,New York,398,Grand,St.,,,,398 Grand St.   ,,,Gruber
+10292,1259,1910,Trow,826,Restaurant,Grubi Michael,104 7 St.   ,Manhattan,New York,New York,104,7,St.,,,,104 7 St.   ,,,Grubi
+10293,1260,1910,Trow,826,Restaurant,Guckenberger August,2492 2 Ave   ,Manhattan,New York,New York,2492,2,Ave,,,,2492 2 Ave   ,,,Guckenberger
+10294,1261,1910,Trow,826,Restaurant,Gudz Henry,89 3 St.   ,Manhattan,New York,New York,89,3,St.,,,,89 3 St.   ,,,Gudz
+10295,1262,1910,Trow,826,Restaurant,Geunter John K.,271 W Broadway   ,Manhattan,New York,New York,271,W,Broadway,,,,271 W Broadway   ,,,Geunter
+10296,1263,1910,Trow,826,Restaurant,Guenzl Ernest,1157 3 Ave   ,Manhattan,New York,New York,1157,3,Ave,,,,1157 3 Ave   ,,,Guenzl
+10297,1264,1910,Trow,826,Restaurant,Guerra G. & G. Sbarra,151 Mulberry St.   ,Manhattan,New York,New York,151,Mulberry,St.,,,,151 Mulberry St.   ,,,Guerra
+10298,1265,1910,Trow,826,Restaurant,Guffanti Felix,146 W 26 St.  ,Manhattan,New York,New York,146,W,26,St.,,,146 W 26 St.  ,,,Guffanti
+10299,1266,1910,Trow,826,Restaurant,Guffanti's ,274 7 Ave   ,Manhattan,New York,New York,274,7,Ave,,,,274 7 Ave   ,,,Guffanti's
+10300,1267,1910,Trow,826,Restaurant,Guindotti Domenico,314 E 105 St.  ,Manhattan,New York,New York,314,E,105,St.,,,314 E 105 St.  ,,,Guindotti
+10301,1268,1910,Trow,826,Restaurant,Gurinowich Joseph,213 Madison St.   ,Manhattan,New York,New York,213,Madison,St.,,,,213 Madison St.   ,,,Gurinowich
+10302,1269,1910,Trow,826,Restaurant,Gurney & Botchman,7 W 19 St.  ,Manhattan,New York,New York,7,W,19,St.,,,7 W 19 St.  ,,,Gurney
+10303,1270,1910,Trow,826,Restaurant,Guryan & Mittsan,548 8 Ave   ,Manhattan,New York,New York,548,8,Ave,,,,548 8 Ave   ,,,Guryan
+10304,1271,1910,Trow,826,Restaurant,Guth Samuel,13 W 17 St.  ,Manhattan,New York,New York,13,W,17,St.,,,13 W 17 St.  ,,,Guth
+10305,1272,1910,Trow,826,Restaurant,Gutman Emma,267 Bowery St.   ,Manhattan,New York,New York,267,Bowery,St.,,,,267 Bowery St.   ,,,Gutman
+10306,1273,1910,Trow,826,Restaurant,Guttin John B. ,58 W 25 St.  ,Manhattan,New York,New York,58,W,25,St.,,,58 W 25 St.  ,,,Guttin
+10307,1274,1910,Trow,826,Restaurant,Guttman Ida,45 E Houston St.  ,Manhattan,New York,New York,45,E,Houston,St.,,,45 E Houston St.  ,,,Guttman
+10308,1275,1910,Trow,826,Restaurant,Guttman Louis,3909 3 Ave   ,Manhattan,New York,New York,3909,3,Ave,,,,3909 3 Ave   ,,,Guttman
+10309,1276,1910,Trow,826,Restaurant,H. & S. Lunch Room Co.,981 3 Ave   ,Manhattan,New York,New York,981,3,Ave,,,,981 3 Ave   ,,,H.
+10310,1277,1910,Trow,826,Restaurant,Haas Alice,182 W Broadway   ,Manhattan,New York,New York,182,W,Broadway,,,,182 W Broadway   ,,,Haas
+10311,1278,1910,Trow,826,Restaurant,Haber Frank,1969 1 Ave   ,Manhattan,New York,New York,1969,1,Ave,,,,1969 1 Ave   ,,,Haber
+10312,1279,1910,Trow,826,Restaurant,Hackett Margaret,366 Washington Market    ,Manhattan,New York,New York,366,Washington Market,,,,,366 Washington Market    ,,,Hackett
+10313,1280,1910,Trow,826,Restaurant,Hadzinano Pacalis,46 Madison St.   ,Manhattan,New York,New York,46,Madison,St.,,,,46 Madison St.   ,,,Hadzinano
+10314,1281,1910,Trow,826,Restaurant,Hagan John,809 9 Ave   ,Manhattan,New York,New York,809,9,Ave,,,,809 9 Ave   ,,,Hagan
+10315,1282,1910,Trow,826,Restaurant,Hagel Joseph,2 1 St.   ,Manhattan,New York,New York,2,1,St.,,,,2 1 St.   ,,,Hagel
+10316,1283,1910,Trow,826,Restaurant,Hagenkotter Antoinette,183 6 Ave   ,Manhattan,New York,New York,183,6,Ave,,,,183 6 Ave   ,,,Hagenkotter

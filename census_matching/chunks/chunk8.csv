@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+4841,532,1870,Trows,190,Restaurant,Refused,57 W. Houston St. ,Manhattan,New York,New York,57,W. Houston St. ,,,,,,,,Refused
+4842,1,1933,Philips,668,Restaurants,Abbasia,1523 3 Ave. ,Manhattan,New York,New York,1523,3,Ave.,,,,,,,Abbasia
+4843,1,1933,Philips,668,Restaurants,Abend Nathan,207 Canal St. ,Manhattan,New York,New York,207,Canal,St.,,,,,,,Abend
+4844,1,1933,Philips,668,Restaurants,Aberbach S. ,165 Canal St. ,Manhattan,New York,New York,165,Canal,St.,,,,,,,Aberbach
+4845,1,1933,Philips,668,Restaurants,Academy Cafeteria,146 E. 14 St. ,Manhattan,New York,New York,146,E. 14,St.,,,,,,,Academy
+4846,1,1933,Philips,668,Restaurants,Ace Cafeteria Inc.,1 E. 27 St. ,Manhattan,New York,New York,1,E. 27,St.,,,,,,,Ace
+4847,1,1933,Philips,668,Restaurants,Achner & Lambert,246 Greenwich St. ,Manhattan,New York,New York,246,Greenwich,St.,,,,,,,Achner
+4848,1,1933,Philips,668,Restaurants,Adams Hugh,369 7 Ave. ,Manhattan,New York,New York,369,7,Ave.,,,,,,,Adams
+4849,1,1933,Philips,668,Restaurants,Adams Rose R.,288 8 Ave. ,Manhattan,New York,New York,288,8,Ave.,,,,,,,Adams
+4850,1,1933,Philips,668,Restaurants,Addieg F.,26 W. 18 St. ,Manhattan,New York,New York,26,W. 18,St.,,,,,,,Addieg
+4851,1,1933,Philips,668,Restaurants,Adler & Haskell,95 Spring St. ,Manhattan,New York,New York,95,Spring,St.,,,,,,,Adler
+4852,1,1933,Philips,668,Restaurants,Aero Lunch,202 W. 19 St. ,Manhattan,New York,New York,202,W. 19,St.,,,,,,,Aero
+4853,1,1933,Philips,668,Restaurants,Ahrend Fred,269 Pearl St. ,Manhattan,New York,New York,269,Pearl,St.,,,,,,,Ahrend
+4854,1,1933,Philips,668,Restaurants,Alamo Restaurant,253 W. 125 St. ,Manhattan,New York,New York,253,W. 125,St.,,,,,,,Alamo
+4855,1,1933,Philips,668,Restaurants,Alaba,210 E. 116 St. ,Manhattan,New York,New York,210,E. 116,St.,,,,,,,Alaba
+4856,1,1933,Philips,668,Restaurants,Allen Blvd Inn.,157 Allen St. ,Manhattan,New York,New York,157,Allen,St.,,,,,,,Allen
+4857,1,1933,Philips,668,Restaurants,Allerton Shop Tea Room,10 E. 57 St. ,Manhattan,New York,New York,10,E. 57,St.,,,,,,,Allerton
+4858,1,1933,Philips,668,Restaurants,Alpert Hyman,33 Canal St. ,Manhattan,New York,New York,33,Canal,St.,,,,,,,Alpert
+4859,1,1933,Philips,668,Restaurants,Alpine Restaurant Co.,42 W. 34 St. ,Manhattan,New York,New York,42,W. 34,St.,,,,,,,Alpine
+4860,1,1933,Philips,668,Restaurants,Alps Rotisserie,128 W. 58 St. ,Manhattan,New York,New York,128,W. 58,St.,,,,,,,Alps
+4861,1,1933,Philips,668,Restaurants,Alps The,1022 6 Ave. ,Manhattan,New York,New York,1022,6,Ave.,,,,,,,Alps
+4862,1,1933,Philips,668,Restaurants,Ambassador Lunch,92 Fulton St. ,Manhattan,New York,New York,92,Fulton,St.,,,,,,,Ambassador
+4863,1,1933,Philips,668,Restaurants,Ambrosium A.,1883 Madison Ave. ,Manhattan,New York,New York,1883,Madison,Ave.,,,,,,,Ambrosium
+4864,1,1933,Philips,668,Restaurants,Amene Farris,25 Washington St. ,Manhattan,New York,New York,25,Washington,St.,,,,,,,Amene
+4865,1,1933,Philips,668,Restaurants,American Girl Lunch,313 Broadway  ,Manhattan,New York,New York,313,Broadway,,,,,,,,American
+4866,1,1933,Philips,668,Restaurants,American-Hungarian,20 W. 31 St. ,Manhattan,New York,New York,20,W. 31,St.,,,,,,,American-Hungarian
+4867,1,1933,Philips,668,Restaurants,American Restaurant,4 Greenwich St. ,Manhattan,New York,New York,4,Greenwich,St.,,,,,,,American
+4868,1,1933,Philips,668,Restaurants,Amiotis Brothers,30 Greenwich St. ,Manhattan,New York,New York,30,Greenwich,St.,,,,,,,Amiotis
+4869,1,1933,Philips,668,Restaurants,Anatoli Restaurant,273 W. 39 St. ,Manhattan,New York,New York,273,W. 39,St.,,,,,,,Anatoli
+4870,1,1933,Philips,668,Restaurants,Anchor Lunch,153 13 Ave. ,Manhattan,New York,New York,153,13,Ave.,,,,,,,Anchor
+4871,1,1933,Philips,668,Restaurants,Andres Boris,102 Madiden Ln. ,Manhattan,New York,New York,102,Madiden,Ln.,,,,,,,Andres
+4872,1,1933,Philips,668,Restaurants,Angelo Restaurant,160 Pearl St. ,Manhattan,New York,New York,160,Pearl,St.,,,,,,,Angelo
+4873,1,1933,Philips,668,Restaurants,Annex Restaurant & Grill Inc.,18 W. 33 St. ,Manhattan,New York,New York,18,W. 33,St.,,,,,,,Annex
+4874,1,1933,Philips,668,Restaurants,Appels Cafeteria,32 W. 28 St. ,Manhattan,New York,New York,32,W. 28,St.,,,,,,,Appels
+4875,1,1933,Philips,668,Restaurants,Apthorp Lunch Co.,2552 Broadway St. ,Manhattan,New York,New York,2552,Broadway,St.,,,,,,,Apthorp
+4876,1,1933,Philips,668,Restaurants,Aquarium Restaurant,3 Greenwich St. ,Manhattan,New York,New York,3,Greenwich,St.,,,,,,,Aquarium
+4877,1,1933,Philips,668,Restaurants,Arcadia ,Grand Central Concourse  St. ,Manhattan,New York,New York,Grand Central Concourse,,St.,,,,,,,Arcadia
+4878,1,1933,Philips,668,Restaurants,Achambault's,2673 2678 St. ,Manhattan,New York,New York,2673,2678,St.,,,,,,,Achambault's
+4879,1,1933,Philips,668,Restaurants,Arena Grill,246 W. 39 St. ,Manhattan,New York,New York,246,W. 39,St.,,,,,,,Arena
+4880,1,1933,Philips,668,Restaurants,Arm Chair,150 E. 34 St. ,Manhattan,New York,New York,150,E. 34,St.,,,,,,,Arm
+4881,1,1933,Philips,668,Restaurants,Asendorf Fred & Co.,108 W. 18 St. ,Manhattan,New York,New York,108,W. 18,St.,,,,,,,Asendorf
+4882,1,1933,Philips,668,Restaurants,Assante & Giaquinto,608 W. 131 St. ,Manhattan,New York,New York,608,W. 131,St.,,,,,,,Assante
+4883,1,1933,Philips,668,Restaurants,Assimack William,245 Bowery St. ,Manhattan,New York,New York,245,Bowery,St.,,,,,,,Assimack
+4884,1,1933,Philips,668,Restaurants,Assimakis Louis,19 E. 15 St. ,Manhattan,New York,New York,19,E. 15,St.,,,,,,,Assimakis
+4885,1,1933,Philips,668,Restaurants,Astor Cafeteria,149 E. 125 St. ,Manhattan,New York,New York,149,E. 125,St.,,,,,,,Astor
+4886,1,1933,Philips,668,Restaurants,Atlas Cafeteria,37 Cooper Sq. ,Manhattan,New York,New York,37,Cooper,Sq.,,,,,,,Atlas
+4887,1,1933,Philips,668,Restaurants,Auerbach H. ,1971 1 Ave. ,Manhattan,New York,New York,1971,1,Ave.,,,,,,,Auerbach
+4888,1,1933,Philips,668,Restaurants,Au Petit Trainan,592 7 Ave. ,Manhattan,New York,New York,592,7,Ave.,,,,,,,Au
+4889,1,1933,Philips,668,Restaurants,Aunt Polly's Tea Room,62 W. 49 St. ,Manhattan,New York,New York,62,W. 49,St.,,,,,,,Aunt
+4890,1,1933,Philips,668,Restaurants,Autodine,303 E. 40 St. ,Manhattan,New York,New York,303,E. 40,St.,,,,,,,Autodine
+4891,1,1933,Philips,668,Restaurants,Automatic Dining Room,1247 Broadway  ,Manhattan,New York,New York,1247,Broadway,,,,,,,,Automatic
+4892,1,1933,Philips,668,Restaurants,Avon Tea Room Inc.,18 Warren St. ,Manhattan,New York,New York,18,Warren,St.,,,,,,,Avon
+4893,1,1933,Philips,668,Restaurants,Bachman Charles T. ,146 Pearl St. ,Manhattan,New York,New York,146,Pearl,St.,,,,,,,Bachman
+4894,1,1933,Philips,668,Restaurants,Badenberg C. H.,406 W. 37 St. ,Manhattan,New York,New York,406,W. 37,St.,,,,,,,Badenberg
+4895,1,1933,Philips,668,Restaurants,Bsailetto Ignazio & Nicoloisi,24 Catharine St. ,Manhattan,New York,New York,24,Catharine,St.,,,,,,,Bsailetto
+4896,1,1933,Philips,668,Restaurants,Baltimore Dairy Lunch,110 W. 49 St. ,Manhattan,New York,New York,110,W. 49,St.,,,,,,,Baltimore
+4897,1,1933,Philips,668,Restaurants,Banks Thomas H.,25 W. 133 St. ,Manhattan,New York,New York,25,W. 133,St.,,,,,,,Banks
+4898,1,1933,Philips,668,Restaurants,Barbeiri A. ,126 William St. ,Manhattan,New York,New York,126,William,St.,,,,,,,Barbeiri
+4899,1,1933,Philips,668,Restaurants,Bardi Restaurant,495 Lexington Ave. ,Manhattan,New York,New York,495,Lexington,Ave.,,,,,,,Bardi
+4900,2,1933,Philips,668,Restaurants,Barons Restaurant,282 W. 46 St. ,Manhattan,New York,New York,282,W. 46,St.,,,,,,,Barons
+4901,3,1933,Philips,668,Restaurants,Barrs,104 E. 7 St. ,Manhattan,New York,New York,104,E. 7,St.,,,,,,,Barrs
+4902,4,1933,Philips,668,Restaurants,Barrsi & Caminos,753 Washington St. ,Manhattan,New York,New York,753,Washington,St.,,,,,,,Barrsi
+4903,5,1933,Philips,668,Restaurants,Barron Chester G.,63 Maiden Ln. ,Manhattan,New York,New York,63,Maiden,Ln.,,,,,,,Barron
+4904,6,1933,Philips,669,Restaurants,Bay State Lunch Co.,1 Frankfort St. ,Manhattan,New York,New York,1,Frankfort,St.,,,,,,,Bay
+4905,7,1933,Philips,669,Restaurants,Basekis Inc.,128 W. 32 St. ,Manhattan,New York,New York,128,W. 32,St.,,,,,,,Basekis
+4906,8,1933,Philips,669,Restaurants,Becker Max,91 Broad St. ,Manhattan,New York,New York,91,Broad,St.,,,,,,,Becker
+4907,9,1933,Philips,669,Restaurants,Beefsteak Charlie's ,216 W. 50 St. ,Manhattan,New York,New York,216,W. 50,St.,,,,,,,Beefsteak
+4908,10,1933,Philips,669,Restaurants,Baldner Benjamin,72 West St. ,Manhattan,New York,New York,72,West,St.,,,,,,,Baldner
+4909,11,1933,Philips,669,Restaurants,Bellefaire Lunch Co.,262 Hudson St. ,Manhattan,New York,New York,262,Hudson,St.,,,,,,,Bellefaire
+4910,12,1933,Philips,669,Restaurants,Belmore Lunch Co.,543 Broadway  ,Manhattan,New York,New York,543,Broadway,,,,,,,,Belmore
+4911,13,1933,Philips,669,Restaurants,Bels John,1809 Park Ave. ,Manhattan,New York,New York,1809,Park,Ave.,,,,,,,Bels
+4912,14,1933,Philips,669,Restaurants,Benenson P.,169 E. Broadway  ,Manhattan,New York,New York,169,E. Broadway,,,,,,,,Benenson
+4913,15,1933,Philips,669,Restaurants,Benjamin's,1655 Madison Ave. ,Manhattan,New York,New York,1655,Madison,Ave.,,,,,,,Benjamin's
+4914,16,1933,Philips,669,Restaurants,Benjamin's,1535 Broadway  ,Manhattan,New York,New York,1535,Broadway,,,,,,,,Benjamin's
+4915,17,1933,Philips,669,Restaurants,Benny's Restaurant,441 W. 13 St. ,Manhattan,New York,New York,441,W. 13,St.,,,,,,,Benny's
+4916,18,1933,Philips,669,Restaurants,Berger's French Restaurant,113 W. 49 St. ,Manhattan,New York,New York,113,W. 49,St.,,,,,,,Berger's
+4917,19,1933,Philips,669,Restaurants,Berkowitz J.,50 Hudson St. ,Manhattan,New York,New York,50,Hudson,St.,,,,,,,Berkowitz
+4918,20,1933,Philips,669,Restaurants,Berkshire Cafeteria,14 W. 17 St. ,Manhattan,New York,New York,14,W. 17,St.,,,,,,,Berkshire
+4919,21,1933,Philips,669,Restaurants,Bernardini Restaurant,134 W. 46 St. ,Manhattan,New York,New York,134,W. 46,St.,,,,,,,Bernardini
+4920,22,1933,Philips,669,Restaurants,Berstein Max,3197 Broadway  ,Manhattan,New York,New York,3197,Broadway,,,,,,,,Berstein
+4921,23,1933,Philips,669,Restaurants,Beverly Dwan Restaurant,125 E. 50 St. ,Manhattan,New York,New York,125,E. 50,St.,,,,,,,Beverly
+4922,24,1933,Philips,669,Restaurants,Beyrooty A.,15 Rector St. ,Manhattan,New York,New York,15,Rector,St.,,,,,,,Beyrooty
+4923,25,1933,Philips,669,Restaurants,Bezrer H.,8 Barclay St. ,Manhattan,New York,New York,8,Barclay,St.,,,,,,,Bezrer
+4924,26,1933,Philips,669,Restaurants,Bickford's Inc,1259 Broadway  ,Manhattan,New York,New York,1259,Broadway,,,,,,,,Bickford's
+4925,27,1933,Philips,669,Restaurants,Bieber Samuel,60 W. 22 St. ,Manhattan,New York,New York,60,W. 22,St.,,,,,,,Bieber
+4926,28,1933,Philips,669,Restaurants,Bieber's Lunch Room,16 W. 4 St. ,Manhattan,New York,New York,16,W. 4,St.,,,,,,,Bieber's
+4927,29,1933,Philips,669,Restaurants,Bieringer F. ,937 8 Ave. ,Manhattan,New York,New York,937,8,Ave.,,,,,,,Bieringer
+4928,30,1933,Philips,669,Restaurants,Bigilani Enrichetta,167 W. 22 St. ,Manhattan,New York,New York,167,W. 22,St.,,,,,,,Bigilani
+4929,31,1933,Philips,669,Restaurants,Bijou Restaurant,61 W. 8 St. ,Manhattan,New York,New York,61,W. 8,St.,,,,,,,Bijou
+4930,32,1933,Philips,669,Restaurants,Billy The Oysterman,7-11 E. 20 St. ,Manhattan,New York,New York,7-11,E. 20,St.,,,,,,,Billy
+4931,33,1933,Philips,669,Restaurants,Billy's Business Men's Lunch,126 Pearl St. ,Manhattan,New York,New York,126,Pearl,St.,,,,,,,Billy's
+4932,34,1933,Philips,669,Restaurants,Birken's Restaurant,5 W. 16 St. ,Manhattan,New York,New York,5,W. 16,St.,,,,,,,Birken's
+4933,35,1933,Philips,669,Restaurants,Birnbaum & Kats,137 E. Houston St. ,Manhattan,New York,New York,137,E. Houston,St.,,,,,,,Birnbaum
+4934,36,1933,Philips,669,Restaurants,Black Cat Restaurant,557 W. Broadway  ,Manhattan,New York,New York,557,W. Broadway,,,,,,,,Black
+4935,37,1933,Philips,669,Restaurants,Black & Ogilvie,45 Maiden Ln. ,Manhattan,New York,New York,45,Maiden,Ln.,,,,,,,Black
+4936,38,1933,Philips,669,Restaurants,Blackstone Cafeteria Inc.,5 Murray St. ,Manhattan,New York,New York,5,Murray,St.,,,,,,,Blackstone
+4937,39,1933,Philips,669,Restaurants,Blaktsberg Lena,1653 Madison Ave. ,Manhattan,New York,New York,1653,Madison,Ave.,,,,,,,Blaktsberg
+4938,40,1933,Philips,669,Restaurants,Blauel Lena,324 Broome St. ,Manhattan,New York,New York,324,Broome,St.,,,,,,,Blauel
+4939,41,1933,Philips,669,Restaurants,Blinderman M.,14 W. 22 St. ,Manhattan,New York,New York,14,W. 22,St.,,,,,,,Blinderman
+4940,42,1933,Philips,669,Restaurants,Block H.,1169 Madison Ave. ,Manhattan,New York,New York,1169,Madison,Ave.,,,,,,,Block
+4941,43,1933,Philips,669,Restaurants,Blossom Heath Inn,9 W. 32 St. ,Manhattan,New York,New York,9,W. 32,St.,,,,,,,Blossom
+4942,44,1933,Philips,669,Restaurants,Blue Bird Cafeteria,475 4 Ave. ,Manhattan,New York,New York,475,4,Ave.,,,,,,,Blue
+4943,45,1933,Philips,669,Restaurants,Blue Bird Restaurant,281 Bowery St. ,Manhattan,New York,New York,281,Bowery,St.,,,,,,,Blue
+4944,46,1933,Philips,669,Restaurants,Blue Dining & Tea Room,411 W. 31 St. ,Manhattan,New York,New York,411,W. 31,St.,,,,,,,Blue
+4945,47,1933,Philips,669,Restaurants,Blue Horse,21 E. 8 St. ,Manhattan,New York,New York,21,E. 8,St.,,,,,,,Blue
+4946,48,1933,Philips,669,Restaurants,Blue Hour The,165 W. 49 St. ,Manhattan,New York,New York,165,W. 49,St.,,,,,,,Blue
+4947,49,1933,Philips,669,Restaurants,Bloat House Restaurant,Boston Rd & 183 St. ,Manhattan,New York,New York,Boston Rd,&,183 St.,,,,,,,Bloat
+4948,50,1933,Philips,669,Restaurants,Boertieln A.,251 Hudson St. ,Manhattan,New York,New York,251,Hudson,St.,,,,,,,Boertieln
+4949,51,1933,Philips,669,Restaurants,Boes Emil,221 William St. ,Manhattan,New York,New York,221,William,St.,,,,,,,Boes
+4950,52,1933,Philips,669,Restaurants,Bonnie Briar Coffee Shoppe,63 Nassau St. ,Manhattan,New York,New York,63,Nassau,St.,,,,,,,Bonnie
+4951,53,1933,Philips,669,Restaurants,Boonshoft & Palsoric,53 Fulton St. ,Manhattan,New York,New York,53,Fulton,St.,,,,,,,Boonshoft
+4952,54,1933,Philips,669,Restaurants,Booras Brothers Inc.,12 Greenwich St. ,Manhattan,New York,New York,12,Greenwich,St.,,,,,,,Booras
+4953,55,1933,Philips,669,Restaurants,Bossert W. A. ,432 Hudson St. ,Manhattan,New York,New York,432,Hudson,St.,,,,,,,Bossert
+4954,56,1933,Philips,669,Restaurants,Botsacos N. J.,1365 St. Nicholas Ave. ,Manhattan,New York,New York,1365,St. Nicholas,Ave.,,,,,,,Botsacos
+4955,57,1933,Philips,669,Restaurants,Bouquet Joseph,546 W. Broadway  ,Manhattan,New York,New York,546,W. Broadway,,,,,,,,Bouquet
+4956,58,1933,Philips,669,Restaurants,Bowling Green Restaurant Inc.,13 Greenwich St. ,Manhattan,New York,New York,13,Greenwich,St.,,,,,,,Bowling
+4957,59,1933,Philips,669,Restaurants,Bradford Erna,204 Wooster St. ,Manhattan,New York,New York,204,Wooster,St.,,,,,,,Bradford
+4958,60,1933,Philips,669,Restaurants,Bradford Restaurant,163 Pearl St. ,Manhattan,New York,New York,163,Pearl,St.,,,,,,,Bradford
+4959,61,1933,Philips,669,Restaurants,Braun Mrs.,1 Carlisle St. ,Manhattan,New York,New York,1,Carlisle,St.,,,,,,,Braun
+4960,62,1933,Philips,669,Restaurants,Brecher Harry,19 E. 15 St. ,Manhattan,New York,New York,19,E. 15,St.,,,,,,,Brecher
+4961,63,1933,Philips,669,Restaurants,Breen Catherine,8 Cortlandt St. ,Manhattan,New York,New York,8,Cortlandt,St.,,,,,,,Breen
+4962,64,1933,Philips,669,Restaurants,Breitfeller F. & J.,94 Warren St. ,Manhattan,New York,New York,94,Warren,St.,,,,,,,Breitfeller
+4963,65,1933,Philips,669,Restaurants,Bremer H.,60 Fulton St. ,Manhattan,New York,New York,60,Fulton,St.,,,,,,,Bremer
+4964,66,1933,Philips,669,Restaurants,Bridge Plaza Restaurant Inc.,151 Canal St. ,Manhattan,New York,New York,151,Canal,St.,,,,,,,Bridge
+4965,67,1933,Philips,669,Restaurants,Bridge Restaurant,20 William St. ,Manhattan,New York,New York,20,William,St.,,,,,,,Bridge
+4966,68,1933,Philips,669,Restaurants,Brighton Lunch Co.,423 Lexington Ave. ,Manhattan,New York,New York,423,Lexington,Ave.,,,,,,,Brighton
+4967,69,1933,Philips,669,Restaurants,Brill & Fuchs,1261 5 Ave. ,Manhattan,New York,New York,1261,5,Ave.,,,,,,,Brill
+4968,70,1933,Philips,669,Restaurants,Brinkman Charles H.,130 Church St. ,Manhattan,New York,New York,130,Church,St.,,,,,,,Brinkman
+4969,71,1933,Philips,669,Restaurants,Bristol J. E.,120 E. 14 St. ,Manhattan,New York,New York,120,E. 14,St.,,,,,,,Bristol
+4970,72,1933,Philips,669,Restaurants,Broad Samuel,53 W. 3 St. ,Manhattan,New York,New York,53,W. 3,St.,,,,,,,Broad
+4971,73,1933,Philips,669,Restaurants,Broad Street Tavern,81 Broad St. ,Manhattan,New York,New York,81,Broad,St.,,,,,,,Broad
+4972,74,1933,Philips,669,Restaurants,Broadway Garden,308 Broadway  ,Manhattan,New York,New York,308,Broadway,,,,,,,,Broadway
+4973,75,1933,Philips,669,Restaurants,Broadway Restaurant,392 Broadway  ,Manhattan,New York,New York,392,Broadway,,,,,,,,Broadway
+4974,76,1933,Philips,669,Restaurants,Bromberg's Restaurant,143 W. 31 St. ,Manhattan,New York,New York,143,W. 31,St.,,,,,,,Bromberg's
+4975,77,1933,Philips,669,Restaurants,Bronze Bowl Cafeteria,57 W. 37 St. ,Manhattan,New York,New York,57,W. 37,St.,,,,,,,Bronze
+4976,78,1933,Philips,669,Restaurants,Brower William H. Jr.,136 2 Ave. ,Manhattan,New York,New York,136,2,Ave.,,,,,,,Brower
+4977,79,1933,Philips,669,Restaurants,Brown Betty Tea Room,27 Barclay St. ,Manhattan,New York,New York,27,Barclay,St.,,,,,,,Brown
+4978,80,1933,Philips,669,Restaurants,Brown's,1204 Broadway  ,Manhattan,New York,New York,1204,Broadway,,,,,,,,Brown's
+4979,81,1933,Philips,669,Restaurants,Browne's Chop House,1424 Broadway  ,Manhattan,New York,New York,1424,Broadway,,,,,,,,Browne's
+4980,82,1933,Philips,669,Restaurants,Brunhuber E.,275 Greenwich St. ,Manhattan,New York,New York,275,Greenwich,St.,,,,,,,Brunhuber
+4981,83,1933,Philips,669,Restaurants,Bruns William,87 Duane St. ,Manhattan,New York,New York,87,Duane,St.,,,,,,,Bruns
+4982,84,1933,Philips,669,Restaurants,Buck George,87 W. 43 St. ,Manhattan,New York,New York,87,W. 43,St.,,,,,,,Buck
+4983,85,1933,Philips,669,Restaurants,Bunn Brothers,393 7 Ave. ,Manhattan,New York,New York,393,7,Ave.,,,,,,,Bunn
+4984,86,1933,Philips,669,Restaurants,Burke P.,83 Barclay St. ,Manhattan,New York,New York,83,Barclay,St.,,,,,,,Burke
+4985,87,1933,Philips,669,Restaurants,Burke's ,62 John St. ,Manhattan,New York,New York,62,John,St.,,,,,,,Burke's
+4986,88,1933,Philips,669,Restaurants,Burns George,324 Greenwich St. ,Manhattan,New York,New York,324,Greenwich,St.,,,,,,,Burns
+4987,89,1933,Philips,669,Restaurants,Bustos,45 Beaver St. ,Manhattan,New York,New York,45,Beaver,St.,,,,,,,Bustos
+4988,90,1933,Philips,669,Restaurants,Butterscotch Pie Tea Room,645 Lexington St. ,Manhattan,New York,New York,645,Lexington,St.,,,,,,,Butterscotch
+4989,91,1933,Philips,669,Restaurants,Buyers' Restaurant,324 7 Ave. ,Manhattan,New York,New York,324,7,Ave.,,,,,,,Buyers'
+4990,92,1933,Philips,669,Restaurants,C. & L. Lunch Co.,1906 Broadway  ,Manhattan,New York,New York,1906,Broadway,,,,,,,,C.
+4991,93,1933,Philips,669,Restaurants,C. & P. Luncheon Co. Inc.,342 Madison Ave. ,Manhattan,New York,New York,342,Madison,Ave.,,,,,,,C.
+4992,94,1933,Philips,669,Restaurants,Cadillac,1500 Broadway  ,Manhattan,New York,New York,1500,Broadway,,,,,,,,Cadillac
+4993,95,1933,Philips,669,Restaurants,Cadillac Cafeteria,2 E. 23 St. ,Manhattan,New York,New York,2,E. 23,St.,,,,,,,Cadillac
+4994,96,1933,Philips,669,Restaurants,Cadillac Restaurant,952 Broadway St. ,Manhattan,New York,New York,952,Broadway,St.,,,,,,,Cadillac
+4995,97,1933,Philips,669,Restaurants,Café Boulevard,Broadway & 41 St. ,Manhattan,New York,New York,Broadway,&,41 St.,,,,,,,Café
+4996,98,1933,Philips,669,Restaurants,Café de la Bourse,35 Nassau St. ,Manhattan,New York,New York,35,Nassau,St.,,,,,,,Café
+4997,99,1933,Philips,669,Restaurants,Café Des Beaux Arts,80 W. 40 St. ,Manhattan,New York,New York,80,W. 40,St.,,,,,,,Café
+4998,100,1933,Philips,669,Restaurants,Café Gross Inc.,147 Fulton St. ,Manhattan,New York,New York,147,Fulton,St.,,,,,,,Café
+4999,101,1933,Philips,669,Restaurants,Café Savarin,120 Broadway  ,Manhattan,New York,New York,120,Broadway,,,,,,,,Café
+5000,102,1933,Philips,669,Restaurants,Café Savarin,Penn Station   ,Manhattan,New York,New York,Penn Station,,,,,,,,,Café
+5001,103,1933,Philips,669,Restaurants,Cafeteria As you Like It,24 Dey St. ,Manhattan,New York,New York,24,Dey,St.,,,,,,,Cafeteria
+5002,104,1933,Philips,669,Restaurants,Calamas Paul,691 Columbus Ave. ,Manhattan,New York,New York,691,Columbus,Ave.,,,,,,,Calamas
+5003,105,1933,Philips,669,Restaurants,California Luncheon,71 Broad St. ,Manhattan,New York,New York,71,Broad,St.,,,,,,,California
+5004,106,1933,Philips,669,Restaurants,Cambridge Court,4 E. 49 St. ,Manhattan,New York,New York,4,E. 49,St.,,,,,,,Cambridge
+5005,107,1933,Philips,669,Restaurants,Cameo Tea Room,60 W. 49 St. ,Manhattan,New York,New York,60,W. 49,St.,,,,,,,Cameo
+5006,108,1933,Philips,669,Restaurants,Cameo Tea Room,30 W. 59 St. ,Manhattan,New York,New York,30,W. 59,St.,,,,,,,Cameo
+5007,109,1933,Philips,669,Restaurants,Campus Restaurant,106 W. 32 St. ,Manhattan,New York,New York,106,W. 32,St.,,,,,,,Campus
+5008,110,1933,Philips,669,Restaurants,Cankos & Karayanis,430 7 Ave. ,Manhattan,New York,New York,430,7,Ave.,,,,,,,Cankos
+5009,111,1933,Philips,669,Restaurants,Cantor Joseph,178 E. 125 St. ,Manhattan,New York,New York,178,E. 125,St.,,,,,,,Cantor
+5010,112,1933,Philips,669,Restaurants,Canzanos Tea Room,106 Broad St. ,Manhattan,New York,New York,106,Broad,St.,,,,,,,Canzanos
+5011,113,1933,Philips,669,Restaurants,Capital Lunch Inc.,41 W. 17 St. ,Manhattan,New York,New York,41,W. 17,St.,,,,,,,Capital
+5012,114,1933,Philips,669,Restaurants,Capitol Lunch System,353 Broadway  ,Manhattan,New York,New York,353,Broadway,,,,,,,,Capitol
+5013,115,1933,Philips,669,Restaurants,Caracosta S. ,2642 Broadway  ,Manhattan,New York,New York,2642,Broadway,,,,,,,,Caracosta
+5014,116,1933,Philips,669,Restaurants,Caras Lunch,689 Hudson St. ,Manhattan,New York,New York,689,Hudson,St.,,,,,,,Caras
+5015,117,1933,Philips,669,Restaurants,Carasso Leon,67 Gold St. ,Manhattan,New York,New York,67,Gold,St.,,,,,,,Carasso
+5016,118,1933,Philips,669,Restaurants,Carbone Louis,37 W. 24 St. ,Manhattan,New York,New York,37,W. 24,St.,,,,,,,Carbone
+5017,119,1933,Philips,669,Restaurants,Carducci A.,153 W. 48 St. ,Manhattan,New York,New York,153,W. 48,St.,,,,,,,Carducci
+5018,120,1933,Philips,669,Restaurants,Carlton Lunch,92 5 Ave. ,Manhattan,New York,New York,92,5,Ave.,,,,,,,Carlton
+5019,121,1933,Philips,669,Restaurants,Carlton Terrace Inc.,2637 Broadway St. ,Manhattan,New York,New York,2637,Broadway,St.,,,,,,,Carlton
+5020,122,1933,Philips,669,Restaurants,Cascas Michael,157 W. 14 St. ,Manhattan,New York,New York,157,W. 14,St.,,,,,,,Cascas
+5021,123,1933,Philips,669,Restaurants,Casino,146 W. 45 St. ,Manhattan,New York,New York,146,W. 45,St.,,,,,,,Casino
+5022,124,1933,Philips,669,Restaurants,Castle Cave,273 7 Ave. ,Manhattan,New York,New York,273,7,Ave.,,,,,,,Castle
+5023,125,1933,Philips,669,Restaurants,Cavanagh's Seafood. Steaks and Chops,258 W. 23 St. ,Manhattan,New York,New York,258,W. 23,St.,,,,,,,Cavanagh's
+5024,126,1933,Philips,669,Restaurants,Cedars Tea Room,6 Cedar St. ,Manhattan,New York,New York,6,Cedar,St.,,,,,,,Cedars
+5025,127,1933,Philips,669,Chinese Restaurant,Celestial Restaurant,164 W. 125 St. ,Manhattan,New York,New York,164,W. 125,St.,,,,,,,Celestial
+5026,128,1933,Philips,669,Restaurants,Celtic Restaurant,265 W. 39 St. ,Manhattan,New York,New York,265,W. 39,St.,,,,,,,Celtic
+5027,129,1933,Philips,669,Restaurants,Central Cafeteria Co.,2 Warren St. ,Manhattan,New York,New York,2,Warren,St.,,,,,,,Central
+5028,130,1933,Philips,669,Restaurants,Central Lunch Room,86 West St. ,Manhattan,New York,New York,86,West,St.,,,,,,,Central
+5029,131,1933,Philips,669,Restaurants,Central Rotisserie,141 E. 42 St. ,Manhattan,New York,New York,141,E. 42,St.,,,,,,,Central
+5030,132,1933,Philips,669,Restaurants,Cesar Restaurant,142 E. 49 St. ,Manhattan,New York,New York,142,E. 49,St.,,,,,,,Cesar
+5031,133,1933,Philips,669,Restaurants,Cevasco & Roboni,2210 3 Ave. ,Manhattan,New York,New York,2210,3,Ave.,,,,,,,Cevasco
+5032,134,1933,Philips,669,Restaurants,Ceylon-India Inn,148 W. 49 St. ,Manhattan,New York,New York,148,W. 49,St.,,,,,,,Ceylon-India
+5033,135,1933,Philips,669,Restaurants,Chaine Restaurant & French Pastry Corp.,236 5 Ave. ,Manhattan,New York,New York,236,5,Ave.,,,,,,,Chaine
+5034,136,1933,Philips,669,Restaurants,Chamberlaine,120 Chambers St. ,Manhattan,New York,New York,120,Chambers,St.,,,,,,,Chamberlaine
+5035,137,1933,Philips,669,Restaurants,Charles Restaurant,111 Nassau St. ,Manhattan,New York,New York,111,Nassau,St.,,,,,,,Charles
+5036,138,1933,Philips,669,Restaurants,Chatham Restaurant Corp.,401 W. 14 St. ,Manhattan,New York,New York,401,W. 14,St.,,,,,,,Chatham
+5037,139,1933,Philips,669,Restaurants,Chevalier Jacques,133 W. 45 St. ,Manhattan,New York,New York,133,W. 45,St.,,,,,,,Chevalier
+5038,140,1933,Philips,669,Restaurants,Chiarello F.,214 Manhattan Ave. ,Manhattan,New York,New York,214,Manhattan,Ave.,,,,,,,Chiarello
+5039,141,1933,Philips,669,Restaurants,Chico Spanish Restaurant,Sheridan Sq. & Grove St. ,Manhattan,New York,New York,Sheridan Sq.,&,Grove St.,,,,,,,Chico
+5040,142,1933,Philips,669,Restaurants,Childs Co.,200 5 Ave. ,Manhattan,New York,New York,200,5,Ave.,,,,,,,Childs
+5041,143,1933,Philips,669,Chinese Restaurant,Chin Lee,1604 Broadway  ,Manhattan,New York,New York,1604,Broadway,,,,,,,,Chin
+5042,144,1933,Philips,669,Chinese Restaurant,Chin's Restaurant,1506 Broadway  ,Manhattan,New York,New York,1506,Broadway,,,,,,,,Chin's
+5043,145,1933,Philips,669,Restaurants,City Hall Tea Garden,170 Nassau  ,Manhattan,New York,New York,170,Nassau,,,,,,,,City
+5044,146,1933,Philips,669,Restaurants,Claremont,Riverside Park & 126 ,Manhattan,New York,New York,Riverside Park,&,126,,,,,,,Claremont
+5045,147,1933,Philips,669,Restaurants,Clinton Lunch,470 8 Ave. ,Manhattan,New York,New York,470,8,Ave.,,,,,,,Clinton
+5046,148,1933,Philips,669,Restaurants,Codington Co.,1437 Broadway  ,Manhattan,New York,New York,1437,Broadway,,,,,,,,Codington
+5047,149,1933,Philips,669,Restaurants,Cohen H.,322 Canal St. ,Manhattan,New York,New York,322,Canal,St.,,,,,,,Cohen
+5048,150,1933,Philips,669,Restaurants,Cohen Henry,433 Broome St. ,Manhattan,New York,New York,433,Broome,St.,,,,,,,Cohen
+5049,151,1933,Philips,669,Restaurants,Cohen I. ,139 Hester St. ,Manhattan,New York,New York,139,Hester,St.,,,,,,,Cohen
+5050,152,1933,Philips,669,Restaurants,Cohn Sam,348 4 Ave. ,Manhattan,New York,New York,348,4,Ave.,,,,,,,Cohn
+5051,153,1933,Philips,669,Restaurants,Colombo,317 W. 57 St. ,Manhattan,New York,New York,317,W. 57,St.,,,,,,,Colombo
+5052,154,1933,Philips,669,Restaurants,Colonia Tea Rooms,379 5 Ave. ,Manhattan,New York,New York,379,5,Ave.,,,,,,,Colonia
+5053,155,1933,Philips,669,Restaurants,Colonial Restaurant,269 Columbus Ave. ,Manhattan,New York,New York,269,Columbus,Ave.,,,,,,,Colonial
+5054,156,1933,Philips,669,Restaurants,Colonial Studio Restaurant,29 W. 67 St. ,Manhattan,New York,New York,29,W. 67,St.,,,,,,,Colonial
+5055,157,1933,Philips,669,Restaurants,Colony The,667 Madison Ave. ,Manhattan,New York,New York,667,Madison,Ave.,,,,,,,Colony
+5056,158,1933,Philips,669,Restaurants,Columbia,1125 Amsterdamn Ave. ,Manhattan,New York,New York,1125,Amsterdamn,Ave.,,,,,,,Columbia
+5057,159,1933,Philips,669,Restaurants,Columbia Dining Room,213 W. 34 St. ,Manhattan,New York,New York,213,W. 34,St.,,,,,,,Columbia
+5058,160,1933,Philips,669,Restaurants,Columbia Urn,120 Liberty St. ,Manhattan,New York,New York,120,Liberty,St.,,,,,,,Columbia
+5059,161,1933,Philips,670,Restaurant,Commercial Cafeteria,28 W. 32 St. ,Manhattan,New York,New York,28,W. 32,St.,,,,,,,Commercial
+5060,162,1933,Philips,670,Restaurant,Conklin Viola Percy,147 Washington St. ,Manhattan,New York,New York,147,Washington,St.,,,,,,,Conklin
+5061,163,1933,Philips,670,Restaurant,Consolidated Cafeteria,33 W. 33 St. ,Manhattan,New York,New York,33,W. 33,St.,,,,,,,Consolidated
+5062,164,1933,Philips,670,Restaurant,Consolidated Lunch,646 Broadway  ,Manhattan,New York,New York,646,Broadway,,,,,,,,Consolidated
+5063,165,1933,Philips,670,Restaurant,Consumers Co-Operative Services Inc.,154 Nassau St. ,Manhattan,New York,New York,154,Nassau,St.,,,,,,,Consumers
+5064,166,1933,Philips,670,Restaurant,Conte Restaurant,432 Lafayette St. ,Manhattan,New York,New York,432,Lafayette,St.,,,,,,,Conte
+5065,167,1933,Philips,670,Restaurant,Cooper William F.,11 W. 18 St. ,Manhattan,New York,New York,11,W. 18,St.,,,,,,,Cooper
+5066,168,1933,Philips,670,Restaurant,Cortlandt Tea Room,173 Greenwich St. ,Manhattan,New York,New York,173,Greenwich,St.,,,,,,,Cortlandt
+5067,169,1933,Philips,670,Restaurant,Cosmopolitan ,129 Chambers St. ,Manhattan,New York,New York,129,Chambers,St.,,,,,,,Cosmopolitan
+5068,170,1933,Philips,670,Restaurant,Cosmopolitan The,223 W. 14 St. ,Manhattan,New York,New York,223,W. 14,St.,,,,,,,Cosmopolitan
+5069,171,1933,Philips,670,Restaurant,Cottage Inc The,725 Lexington Ave. ,Manhattan,New York,New York,725,Lexington,Ave.,,,,,,,Cottage
+5070,172,1933,Philips,670,Restaurant,Crawford Lunch,88 Greenwich Ave. ,Manhattan,New York,New York,88,Greenwich,Ave.,,,,,,,Crawford
+5071,173,1933,Philips,670,Restaurant,Crillon Restaurant,277 Park Ave. ,Manhattan,New York,New York,277,Park,Ave.,,,,,,,Crillon
+5072,174,1933,Philips,670,Restaurant,Cresfield Cafeteria,99 William St. ,Manhattan,New York,New York,99,William,St.,,,,,,,Cresfield
+5073,175,1933,Philips,670,Restaurant,Criterion Coffee House,155 W. 44 St. ,Manhattan,New York,New York,155,W. 44,St.,,,,,,,Criterion
+5074,176,1933,Philips,670,Restaurant,Criterion Restaurant,389 E. 149 St. ,Manhattan,New York,New York,389,E. 149,St.,,,,,,,Criterion
+5075,177,1933,Philips,670,Restaurant,Cullen Mark,132 Pearl St. ,Manhattan,New York,New York,132,Pearl,St.,,,,,,,Cullen
+5076,178,1933,Philips,670,Restaurant,Cunard Restaurant,40 Greenwich St. ,Manhattan,New York,New York,40,Greenwich,St.,,,,,,,Cunard
+5077,179,1933,Philips,670,Restaurant,Curb,78 Trinity Pl. ,Manhattan,New York,New York,78,Trinity,Pl.,,,,,,,Curb
+5078,180,1933,Philips,670,Restaurant,Curley Fern,126 E. 41 St. ,Manhattan,New York,New York,126,E. 41,St.,,,,,,,Curley
+5079,181,1933,Philips,670,Restaurant,D & B Restaurant,261 W. 45 St. ,Manhattan,New York,New York,261,W. 45,St.,,,,,,,D
+5080,182,1933,Philips,670,Restaurant,Dacey's,38 W. 33 St. ,Manhattan,New York,New York,38,W. 33,St.,,,,,,,Dacey's
+5081,183,1933,Philips,670,Restaurant,Dainty Maid,50 JOhn St. ,Manhattan,New York,New York,50,JOhn,St.,,,,,,,Dainty
+5082,184,1933,Philips,670,Restaurant,Daisy Tea Room,41 W. 37 St. ,Manhattan,New York,New York,41,W. 37,St.,,,,,,,Daisy
+5083,185,1933,Philips,670,Restaurant,Daly's Grill Inco,17 E. 59 St. ,Manhattan,New York,New York,17,E. 59,St.,,,,,,,Daly's
+5084,186,1933,Philips,670,Restaurant,D'Angelo Giocanni,2230 1 Ave. ,Manhattan,New York,New York,2230,1,Ave.,,,,,,,D'Angelo
+5085,187,1933,Philips,670,Restaurant,Dattory Carl,316 Greenwich St. ,Manhattan,New York,New York,316,Greenwich,St.,,,,,,,Dattory
+5086,188,1933,Philips,670,Restaurant,Davidson's Inc.,98 Broad St. ,Manhattan,New York,New York,98,Broad,St.,,,,,,,Davidson's
+5087,189,1933,Philips,670,Restaurant,Davis & Kathmeyer,325 Greenwich St. ,Manhattan,New York,New York,325,Greenwich,St.,,,,,,,Davis
+5088,190,1933,Philips,670,Restaurant,Dean E.,57 Beach St. ,Manhattan,New York,New York,57,Beach,St.,,,,,,,Dean
+5089,191,1933,Philips,670,Restaurant,Degen's Restaurant,35 W. 20 St. ,Manhattan,New York,New York,35,W. 20,St.,,,,,,,Degen's
+5090,192,1933,Philips,670,Restaurant,Degenhardt Brothers,95 Hudson St. ,Manhattan,New York,New York,95,Hudson,St.,,,,,,,Degenhardt
+5091,193,1933,Philips,670,Restaurant,Deixier's ,153 Park Row ,Manhattan,New York,New York,153,Park,Row,,,,,,,Deixier's
+5092,194,1933,Philips,670,Restaurant,Del Pezzo Restaurant,211 W. 43 St. ,Manhattan,New York,New York,211,W. 43,St.,,,,,,,Del
+5093,195,1933,Philips,670,Restaurant,De Luxe Restaurant,238 E. 6 St. ,Manhattan,New York,New York,238,E. 6,St.,,,,,,,De
+5094,196,1933,Philips,670,Restaurant,Denver Lunch,882 Columbus Ave. ,Manhattan,New York,New York,882,Columbus,Ave.,,,,,,,Denver
+5095,197,1933,Philips,670,Restaurant,De Pascale Charles,29 Broadway  ,Manhattan,New York,New York,29,Broadway,,,,,,,,De
+5096,198,1933,Philips,670,Restaurant,Derby Lunch Co.,2305 3 Ave. ,Manhattan,New York,New York,2305,3,Ave.,,,,,,,Derby
+5097,199,1933,Philips,670,Restaurant,Desire Restaurant,202 W. 14 St. ,Manhattan,New York,New York,202,W. 14,St.,,,,,,,Desire
+5098,200,1933,Philips,670,Restaurant,Devaney Brothers,322 W. 34 St. ,Manhattan,New York,New York,322,W. 34,St.,,,,,,,Devaney
+5099,201,1933,Philips,670,Restaurant,Devaney & Amstrong,61 E. 14 St. ,Manhattan,New York,New York,61,E. 14,St.,,,,,,,Devaney
+5100,202,1933,Philips,670,Restaurant,De Vanos Restaurant Co.,1414 Broadway  ,Manhattan,New York,New York,1414,Broadway,,,,,,,,De
+5101,203,1933,Philips,670,Restaurant,Deway H. T. & Sons Co.,138 Fulton St. ,Manhattan,New York,New York,138,Fulton,St.,,,,,,,Deway
+5102,204,1933,Philips,670,Restaurant,Diamond Club Restaurant,132 Nassau St. ,Manhattan,New York,New York,132,Nassau,St.,,,,,,,Diamond
+5103,205,1933,Philips,670,Restaurant,Dick the Oysterman,65 E. 8 St. ,Manhattan,New York,New York,65,E. 8,St.,,,,,,,Dick
+5104,206,1933,Philips,670,Restaurant,Dignley Dell Inc.,187 Broadway  ,Manhattan,New York,New York,187,Broadway,,,,,,,,Dignley
+5105,207,1933,Philips,670,Restaurant,Dinner Bell,82 Broad St. ,Manhattan,New York,New York,82,Broad,St.,,,,,,,Dinner
+5106,208,1933,Philips,670,Restaurant,Dinner Place The,120 W. 72 St. ,Manhattan,New York,New York,120,W. 72,St.,,,,,,,Dinner
+5107,209,1933,Philips,670,Restaurant,D'Ippolito F.,74 West St. ,Manhattan,New York,New York,74,West,St.,,,,,,,D'Ippolito
+5108,210,1933,Philips,670,Restaurant,Divan Parisian Restaurant,17 E. 45 St. ,Manhattan,New York,New York,17,E. 45,St.,,,,,,,Divan
+5109,211,1933,Philips,670,Restaurant,Dixie Kitchen Inc.,1 E. 48 St. ,Manhattan,New York,New York,1,E. 48,St.,,,,,,,Dixie
+5110,212,1933,Philips,670,Restaurant,Dodes Morres,106 W. 46 St. ,Manhattan,New York,New York,106,W. 46,St.,,,,,,,Dodes
+5111,213,1933,Philips,670,Restaurant,Dolly Madison,601 Madison Ave. ,Manhattan,New York,New York,601,Madison,Ave.,,,,,,,Dolly
+5112,214,1933,Philips,670,Restaurant,Double R. Coffee House,112 W. 44 St. ,Manhattan,New York,New York,112,W. 44,St.,,,,,,,Double
+5113,215,1933,Philips,670,Restaurant,Douros & Mavromatis,5 Cathedral Pkway ,Manhattan,New York,New York,5,Cathedral,Pkway,,,,,,,Douros
+5114,216,1933,Philips,670,Restaurant,Dowd John J.,437 Broadway  ,Manhattan,New York,New York,437,Broadway,,,,,,,,Dowd
+5115,217,1933,Philips,670,Restaurant,Dowd John J.,645 Broadway  ,Manhattan,New York,New York,645,Broadway,,,,,,,,Dowd
+5116,218,1933,Philips,670,Restaurant,Downtown Restaurant Corporation,11 Dutch St. ,Manhattan,New York,New York,11,Dutch,St.,,,,,,,Downtown
+5117,219,1933,Philips,670,Restaurant,Dragoni Joseph,4 E. 41 St. ,Manhattan,New York,New York,4,E. 41,St.,,,,,,,Dragoni
+5118,220,1933,Philips,670,Restaurant,Drake's ,119 W. 42 St. ,Manhattan,New York,New York,119,W. 42,St.,,,,,,,Drake's
+5119,221,1933,Philips,670,Restaurant,Drews Restaurant,21 W. 53 St. ,Manhattan,New York,New York,21,W. 53,St.,,,,,,,Drews
+5120,222,1933,Philips,670,Restaurant,Dubrowin J.,2058 Lexington Ave. ,Manhattan,New York,New York,2058,Lexington,Ave.,,,,,,,Dubrowin
+5121,223,1933,Philips,670,Restaurant,Duke's House Restaurant,15 Water St. ,Manhattan,New York,New York,15,Water,St.,,,,,,,Duke's
+5122,224,1933,Philips,670,Restaurant,E. D. Restaurant,30 W. 19 St. ,Manhattan,New York,New York,30,W. 19,St.,,,,,,,E.
+5123,225,1933,Philips,670,Restaurant,Eagle Cafeteria,84 3 Ave. ,Manhattan,New York,New York,84,3,Ave.,,,,,,,Eagle
+5124,226,1933,Philips,670,Restaurant,Eagle Lunch,568 W. 23 St. ,Manhattan,New York,New York,568,W. 23,St.,,,,,,,Eagle
+5125,227,1933,Philips,670,Restaurant,Eagle Lunch Room,11th Ave & 33 St. ,Manhattan,New York,New York,11th Ave,&,33 St.,,,,,,,Eagle
+5126,228,1933,Philips,670,Restaurant,Eagle Restaurant,28 E. 14 St. ,Manhattan,New York,New York,28,E. 14,St.,,,,,,,Eagle
+5127,229,1933,Philips,670,Restaurant,Earlington ,49 W. 27 St. ,Manhattan,New York,New York,49,W. 27,St.,,,,,,,Earlington
+5128,230,1933,Philips,670,Restaurant,Eatmor,82 Nassau St. ,Manhattan,New York,New York,82,Nassau,St.,,,,,,,Eatmor
+5129,231,1933,Philips,670,Restaurant,Eberlin Fred Co.,9 New St. ,Manhattan,New York,New York,9,New,St.,,,,,,,Eberlin
+5130,232,1933,Philips,670,Restaurant,Eclipse Restaurant Co.,87 Bowery St. ,Manhattan,New York,New York,87,Bowery,St.,,,,,,,Eclipse
+5131,233,1933,Philips,670,Restaurant,Edwards Inc.,21 E. 49 St. ,Manhattan,New York,New York,21,E. 49,St.,,,,,,,Edwards
+5132,234,1933,Philips,670,Restaurant,Ehrlich & Braverman,447 7 Ave. ,Manhattan,New York,New York,447,7,Ave.,,,,,,,Ehrlich
+5133,235,1933,Philips,670,Restaurant,Eldroado,1599 Broadway  ,Manhattan,New York,New York,1599,Broadway,,,,,,,,Eldroado
+5134,236,1933,Philips,670,Restaurant,Elfenbein,97 2 Ave. ,Manhattan,New York,New York,97,2,Ave.,,,,,,,Elfenbein
+5135,237,1933,Philips,670,Restaurant,Elite Lunch,44 Fulton St. ,Manhattan,New York,New York,44,Fulton,St.,,,,,,,Elite
+5136,238,1933,Philips,670,Restaurant,Elizabeth The,120 Pearl St. ,Manhattan,New York,New York,120,Pearl,St.,,,,,,,Elizabeth
+5137,239,1933,Philips,670,Restaurant,Elk Restaurant,24 W. 23 St. ,Manhattan,New York,New York,24,W. 23,St.,,,,,,,Elk
+5138,240,1933,Philips,670,Restaurant,Elm Tree Tea Room,3 E. 52 St. ,Manhattan,New York,New York,3,E. 52,St.,,,,,,,Elm
+5139,241,1933,Philips,670,Restaurant,El Retiro,3 Cedar St. ,Manhattan,New York,New York,3,Cedar,St.,,,,,,,El
+5140,242,1933,Philips,670,Restaurant,Emilys Luncheon,114 Pearl St. ,Manhattan,New York,New York,114,Pearl,St.,,,,,,,Emilys
+5141,243,1933,Philips,670,Restaurant,Engel R.,431 Broadway  ,Manhattan,New York,New York,431,Broadway,,,,,,,,Engel
+5142,244,1933,Philips,670,Restaurant,Enrico & Paglieri,64 W. 11 St. ,Manhattan,New York,New York,64,W. 11,St.,,,,,,,Enrico
+5143,245,1933,Philips,670,Restaurant,Epicure Restaurant,77 Broad St. ,Manhattan,New York,New York,77,Broad,St.,,,,,,,Epicure
+5144,246,1933,Philips,670,Restaurant,Eppys Luncheonette,86 Wall St. ,Manhattan,New York,New York,86,Wall,St.,,,,,,,Eppys
+5145,247,1933,Philips,670,Restaurant,Equitable Building Restaurant,120 Broadway  ,Manhattan,New York,New York,120,Broadway,,,,,,,,Equitable
+5146,248,1933,Philips,670,Restaurant,Espana Nueva,352 W. 11 St. ,Manhattan,New York,New York,352,W. 11,St.,,,,,,,Espana
+5147,249,1933,Philips,670,Restaurant,Eurasia,159 W. 33 St. ,Manhattan,New York,New York,159,W. 33,St.,,,,,,,Eurasia
+5148,250,1933,Philips,670,Restaurant,Evans Louis,39 E. 10 St. ,Manhattan,New York,New York,39,E. 10,St.,,,,,,,Evans
+5149,251,1933,Philips,670,Restaurant,Excellent Shop,136 5 Ave. ,Manhattan,New York,New York,136,5,Ave.,,,,,,,Excellent
+5150,252,1933,Philips,670,Restaurant,Excellent Shop,308 5 Ave. ,Manhattan,New York,New York,308,5,Ave.,,,,,,,Excellent
+5151,253,1933,Philips,670,Restaurant,Excellent Shop,49 Maiden Ln. ,Manhattan,New York,New York,49,Maiden,Ln.,,,,,,,Excellent
+5152,254,1933,Philips,670,Restaurant,Excelsior Restaurant,140 W. 4 St. ,Manhattan,New York,New York,140,W. 4,St.,,,,,,,Excelsior
+5153,255,1933,Philips,670,Restaurant,Exchange Buffet Corp.,17 John St. ,Manhattan,New York,New York,17,John,St.,,,,,,,Exchange
+5154,256,1933,Philips,670,Restaurant,Exchange Lunch,34 NEw St. ,Manhattan,New York,New York,34,NEw,St.,,,,,,,Exchange
+5155,257,1933,Philips,670,Chinese Restaurant,Far East Garden,10 Columbus Circle ,Manhattan,New York,New York,10,Columbus,Circle,,,,,,,Far
+5156,258,1933,Philips,670,Restaurant,Farfone Victor,145 W. 49 St. ,Manhattan,New York,New York,145,W. 49,St.,,,,,,,Farfone
+5157,259,1933,Philips,670,Restaurant,Farish's Chop House,64 John St. ,Manhattan,New York,New York,64,John,St.,,,,,,,Farish's
+5158,260,1933,Philips,670,Restaurant,Farragut Lunch Co.,326 7 Ave. ,Manhattan,New York,New York,326,7,Ave.,,,,,,,Farragut
+5159,261,1933,Philips,670,Restaurant,Fass Max,19 W. 31 St. ,Manhattan,New York,New York,19,W. 31,St.,,,,,,,Fass
+5160,262,1933,Philips,670,Restaurant,Fay John T.,239 W. 125 St. ,Manhattan,New York,New York,239,W. 125,St.,,,,,,,Fay
+5161,263,1933,Philips,670,Restaurant,Federal Cafeteria,64 Nassau St. ,Manhattan,New York,New York,64,Nassau,St.,,,,,,,Federal
+5162,264,1933,Philips,670,Restaurant,Feinberg B.,240 E. 14 St. ,Manhattan,New York,New York,240,E. 14,St.,,,,,,,Feinberg
+5163,265,1933,Philips,670,Restaurant,Feldblet Josef,2079 Lexington Ave. ,Manhattan,New York,New York,2079,Lexington,Ave.,,,,,,,Feldblet
+5164,266,1933,Philips,670,Restaurant,Feldman's ,34 White St. ,Manhattan,New York,New York,34,White,St.,,,,,,,Feldman's
+5165,267,1933,Philips,670,Restaurant,Felix & Frank,104 W. 52 St. ,Manhattan,New York,New York,104,W. 52,St.,,,,,,,Felix
+5166,268,1933,Philips,670,Restaurant,Fellows Miss Cafeteria,71 Broad St. ,Manhattan,New York,New York,71,Broad,St.,,,,,,,Fellows
+5167,269,1933,Philips,670,Restaurant,FeneryThe,691 Madison Ave. ,Manhattan,New York,New York,691,Madison,Ave.,,,,,,,FeneryThe
+5168,270,1933,Philips,670,Restaurant,Ferry Cafeteria,635 W. 23 St. ,Manhattan,New York,New York,635,W. 23,St.,,,,,,,Ferry
+5169,271,1933,Philips,670,Restaurant,Feuer S.,12 W. 4 St. ,Manhattan,New York,New York,12,W. 4,St.,,,,,,,Feuer
+5170,272,1933,Philips,670,Restaurant,Fiat's Restaurant,25 Mulberry St. ,Manhattan,New York,New York,25,Mulberry,St.,,,,,,,Fiat's
+5171,273,1933,Philips,670,Restaurant,Fichman Charles,251 Bowery St. ,Manhattan,New York,New York,251,Bowery,St.,,,,,,,Fichman
+5172,274,1933,Philips,670,Restaurant,Field's National Inc.,16 W. 18 St. ,Manhattan,New York,New York,16,W. 18,St.,,,,,,,Field's
+5173,275,1933,Philips,670,Restaurant,Film Centre Soda Luncheonette,351 10 Ave. ,Manhattan,New York,New York,351,10,Ave.,,,,,,,Film
+5174,276,1933,Philips,670,Restaurant,Film Centre Grill,334 W. 44 St. ,Manhattan,New York,New York,334,W. 44,St.,,,,,,,Film
+5175,277,1933,Philips,670,Restaurant,Fifth Avenue,200 5 Ave. ,Manhattan,New York,New York,200,5,Ave.,,,,,,,Fifth
+5176,278,1933,Philips,670,Restaurant,Filsicht L.,806 Columbus Ave. ,Manhattan,New York,New York,806,Columbus,Ave.,,,,,,,Filsicht
+5177,279,1933,Philips,670,Restaurant,Fink H. ,221 Hudson St. ,Manhattan,New York,New York,221,Hudson,St.,,,,,,,Fink
+5178,280,1933,Philips,670,Restaurant,Fireside Inn,411 W. 24 St. ,Manhattan,New York,New York,411,W. 24,St.,,,,,,,Fireside
+5179,281,1933,Philips,670,Restaurant,Fischer Anton S.,44 Greenwich St. ,Manhattan,New York,New York,44,Greenwich,St.,,,,,,,Fischer
+5180,282,1933,Philips,670,Restaurant,Fischer Eugene,329 E. 86 St. ,Manhattan,New York,New York,329,E. 86,St.,,,,,,,Fischer
+5181,283,1933,Philips,670,Restaurant,Fischer N. L.,10 W. 18 St. ,Manhattan,New York,New York,10,W. 18,St.,,,,,,,Fischer
+5182,284,1933,Philips,670,Restaurant,Fischer P.,12 W. 45 St. ,Manhattan,New York,New York,12,W. 45,St.,,,,,,,Fischer
+5183,285,1933,Philips,670,Restaurant,Fischer Rudolph,66 Broadway  ,Manhattan,New York,New York,66,Broadway,,,,,,,,Fischer
+5184,286,1933,Philips,670,Restaurant,Fischer T. R. Inc,79 E.135 St. ,Manhattan,New York,New York,79,E.135,St.,,,,,,,Fischer
+5185,287,1933,Philips,670,Restaurant,Fischer's ,1849 Broadway  ,Manhattan,New York,New York,1849,Broadway,,,,,,,,Fischer's
+5186,288,1933,Philips,670,Restaurant,Fisher J.,26 Whitehall St. ,Manhattan,New York,New York,26,Whitehall,St.,,,,,,,Fisher
+5187,289,1933,Philips,670,Restaurant,Flat Iron Lunch,164 5 Ave. ,Manhattan,New York,New York,164,5,Ave.,,,,,,,Flat
+5188,290,1933,Philips,670,Restaurant,Flatiron Restaurants,949 Broadway  ,Manhattan,New York,New York,949,Broadway,,,,,,,,Flatiron
+5189,291,1933,Philips,670,Restaurant,Fleisher I. P.,87 Bowery St. ,Manhattan,New York,New York,87,Bowery,St.,,,,,,,Fleisher
+5190,292,1933,Philips,670,Restaurant,Fleisher I. P.,217 Bowery St. ,Manhattan,New York,New York,217,Bowery,St.,,,,,,,Fleisher
+5191,293,1933,Philips,670,Restaurant,Fleisher I. P.,149 Bleecker St. ,Manhattan,New York,New York,149,Bleecker,St.,,,,,,,Fleisher
+5192,294,1933,Philips,670,Restaurant,Fleishman's,749 6 Ave. ,Manhattan,New York,New York,749,6,Ave.,,,,,,,Fleishman's
+5193,295,1933,Philips,670,Restaurant,Fleming's Tea Room,54 W. 39 St. ,Manhattan,New York,New York,54,W. 39,St.,,,,,,,Fleming's
+5194,296,1933,Philips,670,Restaurant,Fleur De Lis,6 E. 30 St. ,Manhattan,New York,New York,6,E. 30,St.,,,,,,,Fleur
+5195,297,1933,Philips,670,Restaurant,Florence Lunch Co.,12 Bond St. ,Manhattan,New York,New York,12,Bond,St.,,,,,,,Florence
+5196,298,1933,Philips,670,Restaurant,Foodplus Lunch Corp.,110 W. 49 St. ,Manhattan,New York,New York,110,W. 49,St.,,,,,,,Foodplus
+5197,299,1933,Philips,670,Restaurant,Forst Charles,381 3 Ave. ,Manhattan,New York,New York,381,3,Ave.,,,,,,,Forst
+5198,300,1933,Philips,670,Restaurant,Forster George,36 W. 48 St. ,Manhattan,New York,New York,36,W. 48,St.,,,,,,,Forster
+5199,301,1933,Philips,670,Restaurant,Fourth Avenue Cafeteria,400 4 Ave. ,Manhattan,New York,New York,400,4,Ave.,,,,,,,Fourth
+5200,302,1933,Philips,670,Restaurant,4th Avenue Luncheonette & Restaurant,477 4 Ave. ,Manhattan,New York,New York,477,4,Ave.,,,,,,,4th
+5201,303,1933,Philips,670,Chinese Restaurant,Foy James,1482 3 Ave. ,Manhattan,New York,New York,1482,3,Ave.,,,,,,,Foy
+5202,304,1933,Philips,670,Restaurant,Frank & Louis,124 W. 58 St. ,Manhattan,New York,New York,124,W. 58,St.,,,,,,,Frank
+5203,305,1933,Philips,670,Restaurant,Frank's Restaurant,431 W. 14 St. ,Manhattan,New York,New York,431,W. 14,St.,,,,,,,Frank's
+5204,306,1933,Philips,670,Restaurant,Frankel Max,570 Grand St. ,Manhattan,New York,New York,570,Grand,St.,,,,,,,Frankel
+5205,307,1933,Philips,670,Restaurant,Franklin Bakery,101 Hudson St. ,Manhattan,New York,New York,101,Hudson,St.,,,,,,,Franklin
+5206,308,1933,Philips,670,Restaurant,Franklin Inn,176 Franklin St. ,Manhattan,New York,New York,176,Franklin,St.,,,,,,,Franklin
+5207,309,1933,Philips,670,Restaurant,Fraunces Tavern Restaurant,54 Pearl St. ,Manhattan,New York,New York,54,Pearl,St.,,,,,,,Fraunces
+5208,310,1933,Philips,670,Restaurant,French-American Restaurant,570 Hudson St. ,Manhattan,New York,New York,570,Hudson,St.,,,,,,,French-American
+5209,311,1933,Philips,670,Restaurant,French Pastry Shop,11 St.  & 6 Ave. ,Manhattan,New York,New York,11 St. ,&,6 Ave.,,,,,,,French
+5210,312,1933,Philips,670,Restaurant,Fuerst S. & Son,265 3 Ave. ,Manhattan,New York,New York,265,3,Ave.,,,,,,,Fuerst
+5211,313,1933,Philips,670,Restaurant,Fusco Brothers,18 Beaver St. ,Manhattan,New York,New York,18,Beaver,St.,,,,,,,Fusco
+5212,314,1933,Philips,670,Restaurant,G. & F. Lunch,68 W. 18 St. ,Manhattan,New York,New York,68,W. 18,St.,,,,,,,G.
+5213,315,1933,Philips,670,Restaurant,Gamser Gustave,142 Canal St. ,Manhattan,New York,New York,142,Canal,St.,,,,,,,Gamser
+5214,316,1933,Philips,670,Restaurant,Garden,302 W. 55 St. ,Manhattan,New York,New York,302,W. 55,St.,,,,,,,Garden
+5215,317,1933,Philips,670,Restaurant,Garfein Oscar,10 Avenue A ,Manhattan,New York,New York,10,Avenue,A,,,,,,,Garfein
+5216,318,1933,Philips,670,Restaurant,Gaughan John,102 Greenwich St. ,Manhattan,New York,New York,102,Greenwich,St.,,,,,,,Gaughan
+5217,319,1933,Philips,670,Restaurant,Gaughan William,162 Pearl St. ,Manhattan,New York,New York,162,Pearl,St.,,,,,,,Gaughan
+5218,320,1933,Philips,670,Restaurant,Geduld's,68 E. 4 St. ,Manhattan,New York,New York,68,E. 4,St.,,,,,,,Geduld's
+5219,321,1933,Philips,670,Chinese Restaurant,Gees Restaurant,404 W. 14 St. ,Manhattan,New York,New York,404,W. 14,St.,,,,,,,Gees
+5220,322,1933,Philips,671,Restaurant,Gem Fountain Corp.,90 E. 45 St. ,Manhattan,New York,New York,90,E. 45,St.,,,,,,,Gem
+5221,323,1933,Philips,671,Restaurant,Genevea Restaurant,143 W. 44 St. ,Manhattan,New York,New York,143,W. 44,St.,,,,,,,Genevea
+5222,324,1933,Philips,671,Restaurant,Genie ,236 W. 52 St. ,Manhattan,New York,New York,236,W. 52,St.,,,,,,,Genie
+5223,325,1933,Philips,671,Restaurant,Genoa Restaurant,267 W. 39 St. ,Manhattan,New York,New York,267,W. 39,St.,,,,,,,Genoa
+5224,326,1933,Philips,671,Restaurant,George's Chop House,121 Washington St. ,Manhattan,New York,New York,121,Washington,St.,,,,,,,George's
+5225,327,1933,Philips,671,Restaurant,George's Restaurant,2337 8 Ave. ,Manhattan,New York,New York,2337,8,Ave.,,,,,,,George's
+5226,328,1933,Philips,671,Restaurant,George's Tea Room,66 Broad St. ,Manhattan,New York,New York,66,Broad,St.,,,,,,,George's
+5227,329,1933,Philips,671,Restaurant,Gershowitz Brothers,220 9 Ave. ,Manhattan,New York,New York,220,9,Ave.,,,,,,,Gershowitz
+5228,330,1933,Philips,671,Restaurant,Gertner's,1380 Broadway  ,Manhattan,New York,New York,1380,Broadway,,,,,,,,Gertner's
+5229,331,1933,Philips,671,Restaurant,Gertner's,1446 Broadway  ,Manhattan,New York,New York,1446,Broadway,,,,,,,,Gertner's
+5230,332,1933,Philips,671,Restaurant,Gertner's,711 7 Ave. ,Manhattan,New York,New York,711,7,Ave.,,,,,,,Gertner's
+5231,333,1933,Philips,671,Restaurant,Giardino Di Napoli,208 E. 116 St. ,Manhattan,New York,New York,208,E. 116,St.,,,,,,,Giardino
+5232,334,1933,Philips,671,Restaurant,Glantz O.,104 W. 45 St. ,Manhattan,New York,New York,104,W. 45,St.,,,,,,,Glantz
+5233,335,1933,Philips,671,Restaurant,Glen Island Restaurant,88 Cortlandt St. ,Manhattan,New York,New York,88,Cortlandt,St.,,,,,,,Glen
+5234,336,1933,Philips,671,Restaurant,Globe Lunch,46 E. 59 St. ,Manhattan,New York,New York,46,E. 59,St.,,,,,,,Globe
+5235,337,1933,Philips,671,Restaurant,Gloria Tea Room,22 Beaver St. ,Manhattan,New York,New York,22,Beaver,St.,,,,,,,Gloria
+5236,338,1933,Philips,671,Restaurant,Goldberg I.,26 W. 20 St. ,Manhattan,New York,New York,26,W. 20,St.,,,,,,,Goldberg
+5237,339,1933,Philips,671,Restaurant,Goldberg Jacob,26 W. 20 St. ,Manhattan,New York,New York,26,W. 20,St.,,,,,,,Goldberg
+5238,340,1933,Philips,671,Restaurant,Golden Pheasant,114 W. 34 St. ,Manhattan,New York,New York,114,W. 34,St.,,,,,,,Golden
+5239,341,1933,Philips,671,Restaurant,Golden Stairs,9 E. 30 St. ,Manhattan,New York,New York,9,E. 30,St.,,,,,,,Golden
+5240,342,1933,Philips,671,Restaurant,Golden Waffle The,191 Fulton St. ,Manhattan,New York,New York,191,Fulton,St.,,,,,,,Golden
+5241,343,1933,Philips,671,Restaurant,Goldenfinger A>,269 2 St. ,Manhattan,New York,New York,269,2,St.,,,,,,,Goldenfinger
+5242,344,1933,Philips,671,Restaurant,Goldgrube Restaurant,121 Chambers St. ,Manhattan,New York,New York,121,Chambers,St.,,,,,,,Goldgrube
+5243,345,1933,Philips,671,Restaurant,Goody Shop The,14 E. 23 St. ,Manhattan,New York,New York,14,E. 23,St.,,,,,,,Goody
+5244,346,1933,Philips,671,Restaurant,Gorin's,157 E. 44 St. ,Manhattan,New York,New York,157,E. 44,St.,,,,,,,Gorin's
+5245,347,1933,Philips,671,Restaurant,Gourmet Rotisserie,2180 Broadway  ,Manhattan,New York,New York,2180,Broadway,,,,,,,,Gourmet
+5246,348,1933,Philips,671,Restaurant,Grace Church Lunch Club for Men,100 4 Ave. ,Manhattan,New York,New York,100,4,Ave.,,,,,,,Grace
+5247,349,1933,Philips,671,Restaurant,Graceton,69 Madison Ave. ,Manhattan,New York,New York,69,Madison,Ave.,,,,,,,Graceton
+5248,350,1933,Philips,671,Restaurant,Grade Cafeteria,165 W. 23 St. ,Manhattan,New York,New York,165,W. 23,St.,,,,,,,Grade
+5249,351,1933,Philips,671,Restaurant,Gramazio Brothers,225 E. 116 St. ,Manhattan,New York,New York,225,E. 116,St.,,,,,,,Gramazio
+5250,352,1933,Philips,671,Restaurant,Gramercy Garden Tea Room,118 E. 22 St. ,Manhattan,New York,New York,118,E. 22,St.,,,,,,,Gramercy
+5251,353,1933,Philips,671,Restaurant,Grammas Sweets Inc.,207 E. 59 St. ,Manhattan,New York,New York,207,E. 59,St.,,,,,,,Grammas
+5252,354,1933,Philips,671,Restaurant,Granick Brothers & Kaminsky,94 5 Ave. ,Manhattan,New York,New York,94,5,Ave.,,,,,,,Granick
+5253,355,1933,Philips,671,Restaurant,Granick Lunch Inc.,94 5 Ave. ,Manhattan,New York,New York,94,5,Ave.,,,,,,,Granick
+5254,356,1933,Philips,671,Restaurant,Green Arrow Luncheon Corp.,11 Dutch St. ,Manhattan,New York,New York,11,Dutch,St.,,,,,,,Green
+5255,357,1933,Philips,671,Restaurant,Green Arrow Luncheon Corp.,197 William St. ,Manhattan,New York,New York,197,William,St.,,,,,,,Green
+5256,358,1933,Philips,671,Restaurant,Green Bench Cafeteria,39 W. 37 St. ,Manhattan,New York,New York,39,W. 37,St.,,,,,,,Green
+5257,359,1933,Philips,671,Restaurant,Green Line. Inc,110 Water St. ,Manhattan,New York,New York,110,Water,St.,,,,,,,Green
+5258,360,1933,Philips,671,Restaurant,Green Line. Inc,1 Wall St. ,Manhattan,New York,New York,1,Wall,St.,,,,,,,Green
+5259,361,1933,Philips,671,Restaurant,Green Witch The,68 E. 116 St. ,Manhattan,New York,New York,68,E. 116,St.,,,,,,,Green
+5260,362,1933,Philips,671,Restaurant,Greenberg B.,1704 Madison Ave. ,Manhattan,New York,New York,1704,Madison,Ave.,,,,,,,Greenberg
+5261,363,1933,Philips,671,Restaurant,Greenberg & Danowitz Inc.,275 Avenue B ,Manhattan,New York,New York,275,Avenue,B,,,,,,,Greenberg
+5262,364,1933,Philips,671,Restaurant,Greenhut Charles,17 E. 12 St. ,Manhattan,New York,New York,17,E. 12,St.,,,,,,,Greenhut
+5263,365,1933,Philips,671,Restaurant,Greenstein J.,182 W. Broadway  ,Manhattan,New York,New York,182,W. Broadway,,,,,,,,Greenstein
+5264,366,1933,Philips,671,Restaurant,Greenwald & Horowitz,267 William St. ,Manhattan,New York,New York,267,William,St.,,,,,,,Greenwald
+5265,367,1933,Philips,671,Restaurant,Greenwich ,106 W. 36 St. ,Manhattan,New York,New York,106,W. 36,St.,,,,,,,Greenwich
+5266,368,1933,Philips,671,Restaurant,Greenwich Lunch,287 Greenwich St. ,Manhattan,New York,New York,287,Greenwich,St.,,,,,,,Greenwich
+5267,369,1933,Philips,671,Restaurant,Gregory Cafeteria,34 W. 37 St. ,Manhattan,New York,New York,34,W. 37,St.,,,,,,,Gregory
+5268,370,1933,Philips,671,Restaurant,Greystone Cafeteria,859 Broadway  ,Manhattan,New York,New York,859,Broadway,,,,,,,,Greystone
+5269,371,1933,Philips,671,Restaurant,Grills Inc.,35 W. 47 St. ,Manhattan,New York,New York,35,W. 47,St.,,,,,,,Grills
+5270,372,1933,Philips,671,Restaurant,Gruber's ,264 Grand St. ,Manhattan,New York,New York,264,Grand,St.,,,,,,,Gruber's
+5271,373,1933,Philips,671,Restaurant,Gruettener A.,400 W. 13 St. ,Manhattan,New York,New York,400,W. 13,St.,,,,,,,Gruettener
+5272,374,1933,Philips,671,Restaurant,Guenter John K.,271 W. Broadway St. ,Manhattan,New York,New York,271,W. Broadway,St.,,,,,,,Guenter
+5273,375,1933,Philips,671,Restaurant,Guffanti's,274 7 Ave. ,Manhattan,New York,New York,274,7,Ave.,,,,,,,Guffanti's
+5274,376,1933,Philips,671,Restaurant,Guido J. Marlani G. ,254 W. 46 St. ,Manhattan,New York,New York,254,W. 46,St.,,,,,,,Guido
+5275,377,1933,Philips,671,Restaurant,Gutmann's Restaurant,9 W. 19 St. ,Manhattan,New York,New York,9,W. 19,St.,,,,,,,Gutmann's
+5276,378,1933,Philips,671,Restaurant,H. & M. Restaurant,29 W. 19 St. ,Manhattan,New York,New York,29,W. 19,St.,,,,,,,H.
+5277,379,1933,Philips,671,Restaurant,Haan R. M. & Co.,290 Broadway St. ,Manhattan,New York,New York,290,Broadway,St.,,,,,,,Haan
+5278,380,1933,Philips,671,Restaurant,Halmowitz A.,301 Broome St. ,Manhattan,New York,New York,301,Broome,St.,,,,,,,Halmowitz
+5279,381,1933,Philips,671,Restaurant,Haldad A.,39 W. 25 St. ,Manhattan,New York,New York,39,W. 25,St.,,,,,,,Haldad
+5280,382,1933,Philips,671,Restaurant,Hall's Restaurant,75 Pine St. ,Manhattan,New York,New York,75,Pine,St.,,,,,,,Hall's
+5281,383,1933,Philips,671,Restaurant,Halloran's ,533 6 Ave. ,Manhattan,New York,New York,533,6,Ave.,,,,,,,Halloran's
+5282,384,1933,Philips,671,Restaurant,Hamilton Restaurant,107 W. 17 St. ,Manhattan,New York,New York,107,W. 17,St.,,,,,,,Hamilton
+5283,385,1933,Philips,671,Restaurant,Hammer Isaac,10 W. 17 St. ,Manhattan,New York,New York,10,W. 17,St.,,,,,,,Hammer
+5284,386,1933,Philips,671,Restaurant,Hammer M.,245 E. 14 St. ,Manhattan,New York,New York,245,E. 14,St.,,,,,,,Hammer
+5285,387,1933,Philips,671,Restaurant,Hammer & Freund,125 W. 26 St. ,Manhattan,New York,New York,125,W. 26,St.,,,,,,,Hammer
+5286,388,1933,Philips,671,Chinese Restaurant,Hankow,124 W. 34 St. ,Manhattan,New York,New York,124,W. 34,St.,,,,,,,Hankow
+5287,389,1933,Philips,671,Restaurant,Hanover Lunch & Restaurant,125 W. 31 St. ,Manhattan,New York,New York,125,W. 31,St.,,,,,,,Hanover
+5288,390,1933,Philips,671,Restaurant,Harfenist,29 W. 15 St. ,Manhattan,New York,New York,29,W. 15,St.,,,,,,,Harfenist
+5289,391,1933,Philips,671,Restaurant,Harlem Dairy Restaurant,1409 5 Ave. ,Manhattan,New York,New York,1409,5,Ave.,,,,,,,Harlem
+5290,392,1933,Philips,671,Restaurant,Hartford Lunch,40 E. 23 St. ,Manhattan,New York,New York,40,E. 23,St.,,,,,,,Hartford
+5291,393,1933,Philips,671,Restaurant,Hartford Lunch Co.,364 E. 50 St. ,Manhattan,New York,New York,364,E. 50,St.,,,,,,,Hartford
+5292,394,1933,Philips,671,Restaurant,Hartmann's,2336 Broadway  ,Manhattan,New York,New York,2336,Broadway,,,,,,,,Hartmann's
+5293,395,1933,Philips,671,Restaurant,Hartnett's ,70 Pine St. ,Manhattan,New York,New York,70,Pine,St.,,,,,,,Hartnett's
+5294,396,1933,Philips,671,Restaurant,Haven The,136 E. 55 St. ,Manhattan,New York,New York,136,E. 55,St.,,,,,,,Haven
+5295,397,1933,Philips,671,Restaurant,Haveriko & Komarnizki,426 W. 14 St. ,Manhattan,New York,New York,426,W. 14,St.,,,,,,,Haveriko
+5296,398,1933,Philips,671,Restaurant,Hayhow J. ,107 Water St. ,Manhattan,New York,New York,107,Water,St.,,,,,,,Hayhow
+5297,399,1933,Philips,671,Restaurant,Healy's Golden Glades,66 St.  &  Broadway ,Manhattan,New York,New York,66 St. ,& ,Broadway,,,,,,,Healy's
+5298,400,1933,Philips,671,Restaurant,Heller & Eliovitch,24 W. 17 St. ,Manhattan,New York,New York,24,W. 17,St.,,,,,,,Heller
+5299,401,1933,Philips,671,Restaurant,Hellewinkel & Heitz,229 W. Broadway  ,Manhattan,New York,New York,229,W. Broadway,,,,,,,,Hellewinkel
+5300,402,1933,Philips,671,Restaurant,Henry's ,69 W. 36 St. ,Manhattan,New York,New York,69,W. 36,St.,,,,,,,Henry's
+5301,403,1933,Philips,671,Restaurant,Henry's ,44 Trinity Pl. ,Manhattan,New York,New York,44,Trinity,Pl.,,,,,,,Henry's
+5302,404,1933,Philips,671,Restaurant,Hearld Lunch Inc.,412 8 Ave. ,Manhattan,New York,New York,412,8,Ave.,,,,,,,Hearld
+5303,405,1933,Philips,671,Restaurant,Heardan S. ,64 Walker St. ,Manhattan,New York,New York,64,Walker,St.,,,,,,,Heardan
+5304,406,1933,Philips,671,Restaurant,Herman's Cafeteria,749 Broadway  ,Manhattan,New York,New York,749,Broadway,,,,,,,,Herman's
+5305,407,1933,Philips,671,Restaurant,Hermer & Blum,100 West St. ,Manhattan,New York,New York,100,West,St.,,,,,,,Hermer
+5306,408,1933,Philips,671,Restaurant,Hermitage Shoppe,202 W. 42 St. ,Manhattan,New York,New York,202,W. 42,St.,,,,,,,Hermitage
+5307,409,1933,Philips,671,Restaurant,Hitchcock Oliver,22 Beekman St. ,Manhattan,New York,New York,22,Beekman,St.,,,,,,,Hitchcock
+5308,410,1933,Philips,671,Restaurant,Hob-Nob Lunch Room,45 Maiden Ln. ,Manhattan,New York,New York,45,Maiden,Ln.,,,,,,,Hob-Nob
+5309,411,1933,Philips,671,Restaurant,Hof-Brau-Haus,1214 Broadway  ,Manhattan,New York,New York,1214,Broadway,,,,,,,,Hof-Brau-Haus
+5310,412,1933,Philips,671,Restaurant,Holbert Frank,12 Warren St. ,Manhattan,New York,New York,12,Warren,St.,,,,,,,Holbert
+5311,413,1933,Philips,671,Restaurant,Holls & Potts,70 Wall St. ,Manhattan,New York,New York,70,Wall,St.,,,,,,,Holls
+5312,414,1933,Philips,671,Restaurant,Holly Tree Lunch,26 Vesey St. ,Manhattan,New York,New York,26,Vesey,St.,,,,,,,Holly
+5313,415,1933,Philips,671,Restaurant,Holtz Restaurant,365 Broadway  ,Manhattan,New York,New York,365,Broadway,,,,,,,,Holtz
+5314,416,1933,Philips,671,Restaurant,Holtzer's,147 W. 40 St. ,Manhattan,New York,New York,147,W. 40,St.,,,,,,,Holtzer's
+5315,417,1933,Philips,671,Restaurant,Homecraft Cafeteria,48 E. 39 St. ,Manhattan,New York,New York,48,E. 39,St.,,,,,,,Homecraft
+5316,418,1933,Philips,671,Restaurant,Hones 'T' Goodness Sandwich,161 William St. ,Manhattan,New York,New York,161,William,St.,,,,,,,Hones
+5317,419,1933,Philips,671,Restaurant,Honey Dew Cafeteria,116 6 Ave. ,Manhattan,New York,New York,116,6,Ave.,,,,,,,Honey
+5318,420,1933,Philips,671,Chinese Restaurant,Hong Kong Low,23-25 Park Row ,Manhattan,New York,New York,23-25,Park,Row,,,,,,,Hong
+5319,421,1933,Philips,671,Restaurant,Honig Lunch,486 Hudson St. ,Manhattan,New York,New York,486,Hudson,St.,,,,,,,Honig
+5320,422,1933,Philips,671,Restaurant,Horn Herman,146 Pearl St. ,Manhattan,New York,New York,146,Pearl,St.,,,,,,,Horn
+5321,423,1933,Philips,671,Restaurant,Horn & Hardart Co.,600 W. 50 St. ,Manhattan,New York,New York,600,W. 50,St.,,,,,,,Horn
+5322,424,1933,Philips,671,Restaurant,Horn & Hardart Co.,78 Nassau St. ,Manhattan,New York,New York,78,Nassau,St.,,,,,,,Horn
+5323,425,1933,Philips,671,Restaurant,Horowitz Harry,248 Broome St. ,Manhattan,New York,New York,248,Broome,St.,,,,,,,Horowitz
+5324,426,1933,Philips,671,Restaurant,Horowitz P.,144 Spring St. ,Manhattan,New York,New York,144,Spring,St.,,,,,,,Horowitz
+5325,427,1933,Philips,671,Restaurant,Hotel Plaza,5 Ave. & 59 St. ,Manhattan,New York,New York,5 Ave.,&,59 St.,,,,,,,Hotel
+5326,428,1933,Philips,671,Restaurant,Hotel Roosevelt,Madison Ave.  & 45 St.  ,Manhattan,New York,New York,Madison Ave. ,&,45 St. ,,,,,,,Hotel
+5327,429,1933,Philips,671,Restaurant,Hudson Bakery & Restaurant,616 Hudson St. ,Manhattan,New York,New York,616,Hudson,St.,,,,,,,Hudson
+5328,430,1933,Philips,671,Restaurant,Hudson Lunch Co.,5 Frankfort St. ,Manhattan,New York,New York,5,Frankfort,St.,,,,,,,Hudson
+5329,431,1933,Philips,671,Restaurant,Hudson Terminal Lunch CO.,191 Fulton St. ,Manhattan,New York,New York,191,Fulton,St.,,,,,,,Hudson
+5330,432,1933,Philips,671,Restaurant,Huether & Steffens,203 Greenwich St. ,Manhattan,New York,New York,203,Greenwich,St.,,,,,,,Huether
+5331,433,1933,Philips,671,Chinese Restaurant,Hung Far Low,517 Lenox Ave. ,Manhattan,New York,New York,517,Lenox,Ave.,,,,,,,Hung
+5332,434,1933,Philips,671,Restaurant,Hunter Delicatessen,1160 3 Ave. ,Manhattan,New York,New York,1160,3,Ave.,,,,,,,Hunter
+5333,435,1933,Philips,671,Restaurant,Huntington Restaurant,501 3 Ave. ,Manhattan,New York,New York,501,3,Ave.,,,,,,,Huntington
+5334,436,1933,Philips,671,Restaurant,Huntley Cafeteria,85 John St. ,Manhattan,New York,New York,85,John,St.,,,,,,,Huntley
+5335,437,1933,Philips,671,Restaurant,Ideal Restaurant,37 W. 32 St. ,Manhattan,New York,New York,37,W. 32,St.,,,,,,,Ideal
+5336,438,1933,Philips,671,Restaurant,Ideal Cafeteria,113 E. 23 St. ,Manhattan,New York,New York,113,E. 23,St.,,,,,,,Ideal
+5337,439,1933,Philips,671,Restaurant,Ideal Oxford Cafeteria,411 Broadway St. ,Manhattan,New York,New York,411,Broadway,St.,,,,,,,Ideal
+5338,440,1933,Philips,671,Restaurant,Idle Hour ,6 Cortlandt St. ,Manhattan,New York,New York,6,Cortlandt,St.,,,,,,,Idle
+5339,441,1933,Philips,671,Restaurant,Independent Lunch Co.,95 Duane St. ,Manhattan,New York,New York,95,Duane,St.,,,,,,,Independent
+5340,442,1933,Philips,671,Restaurant,India House ,1 Hanover Sq. ,Manhattan,New York,New York,1,Hanover,Sq.,,,,,,,India

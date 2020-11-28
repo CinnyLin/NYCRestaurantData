@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+12817,336.0,1915.0,Philips,1010.0,Restaurants,Hellmuth Simon,205  West St.,Manhattan,New York,New York,205,West,,,,St.,,,,Hellmuth
+12818,337.0,1915.0,Philips,1010.0,Restaurants,"Hencken, Haaren & Co. ",50 W. 18 St.,Manhattan,New York,New York,50,18,,,W.,St.,,,,"Hencken,"
+12819,338.0,1915.0,Philips,1010.0,Restaurants,"Hencken, Haaren & Co. ",108 W. 18 St.,Manhattan,New York,New York,108,18,,,W.,St.,,,,"Hencken,"
+12820,339.0,1915.0,Philips,1010.0,Restaurants,Henri's,67 W. 44 St.,Manhattan,New York,New York,67,44,,,W.,St.,,,,Henri's
+12821,340.0,1915.0,Philips,1010.0,Restaurants,Henry's,69 W. 36 St.,Manhattan,New York,New York,69,36,,,W.,St.,,,,Henry's
+12822,341.0,1915.0,Philips,1010.0,Restaurants,Herald Lunch,219 W. 42 St.,Manhattan,New York,New York,219,42,,,W.,St.,,,,Herald
+12823,342.0,1915.0,Philips,1010.0,Restaurants,Herzog Leon,2549  Broadway ,Manhattan,New York,New York,2549,Broadway,,,,,,,,Herzog
+12824,343.0,1915.0,Philips,1010.0,Restaurants,Heyman Lew M.,2824  Broadway ,Manhattan,New York,New York,2824,Broadway,,,,,,,,Heyman
+12825,344.0,1915.0,Philips,1010.0,Restaurants,Hitchcock Oliver,34  Park Row,Manhattan,New York,New York,34,Park,,,,Row,,,,Hitchcock
+12826,345.0,1915.0,Philips,1010.0,Restaurants,Hoetzer Frederick J.,46 W. 35 St.,Manhattan,New York,New York,46,35,,,W.,St.,,,,Hoetzer
+12827,346.0,1915.0,Philips,1010.0,Restaurants,Hof-Brau-Haus,1214  Broadway ,Manhattan,New York,New York,1214,Broadway,,,,,,,,Hof-Brau-Haus
+12828,347.0,1915.0,Philips,1010.0,Restaurants,Hoffman George,1313  Broadway ,Manhattan,New York,New York,1313,Broadway,,,,,,,,Hoffman
+12829,348.0,1915.0,Philips,1010.0,Restaurants,Holbert Frank,12  Warren St.,Manhattan,New York,New York,12,Warren,,,,St.,,,,Holbert
+12830,349.0,1915.0,Philips,1010.0,Restaurants,Holtzman D.,19  Fulton St.,Manhattan,New York,New York,19,Fulton,,,,St.,,,,Holtzman
+12831,350.0,1915.0,Philips,1010.0,Restaurants,Homadko & Brikle,401  Hudson St.,Manhattan,New York,New York,401,Hudson,,,,St.,,,,Homadko
+12832,351.0,1915.0,Philips,1010.0,Restaurants,Horn & Hardart Co.,600 W. 50 St.,Manhattan,New York,New York,600,50,,,W.,St.,,,,Horn
+12833,352.0,1915.0,Philips,1010.0,Restaurants,Horowitz D.,315  Canal St.,Manhattan,New York,New York,315,Canal,,,,St.,,,,Horowitz
+12834,353.0,1915.0,Philips,1010.0,Restaurants,Howes J. F. ,702  West End  Ave.,Manhattan,New York,New York,702,West End ,,,,Ave.,,,,Howes
+12835,354.0,1915.0,Philips,1010.0,Restaurants,Hudson Lunch Co.,164  5 Ave.,Manhattan,New York,New York,164,5,,,,Ave.,,,,Hudson
+12836,355.0,1915.0,Philips,1010.0,Restaurants,Hudson Terminal Lunch Co.,191  Fulton St.,Manhattan,New York,New York,191,Fulton,,,,St.,,,,Hudson
+12837,356.0,1915.0,Philips,1010.0,Restaurants,Hug E. R.,165 W. 23 St.,Manhattan,New York,New York,165,23,,,W.,St.,,,,Hug
+12838,357.0,1915.0,Philips,1010.0,Restaurants,Hunia Pastry Co.,894  Prospect Ave.,Manhattan,New York,New York,894,Prospect,,,,Ave.,,,,Hunia
+12839,358.0,1915.0,Philips,1010.0,Restaurants,Huntley Lunch,5  Gold St.,Manhattan,New York,New York,5,Gold,,,,St.,,,,Huntley
+12840,359.0,1915.0,Philips,1010.0,Restaurants,Ideal Bakery & Lunch Rooms,589  Broadway ,Manhattan,New York,New York,589,Broadway,,,,,,,,Ideal
+12841,360.0,1915.0,Philips,1010.0,Restaurants,Ideal Dairy,168 W. 25 St.,Manhattan,New York,New York,168,25,,,W.,St.,,,,Ideal
+12842,361.0,1915.0,Philips,1010.0,Restaurants,Ivy Tea Room,33  Murray St.,Manhattan,New York,New York,33,Murray,,,,St.,,,,Ivy
+12843,362.0,1915.0,Philips,1010.0,Restaurants,J B G,58 W. 25 St.,Manhattan,New York,New York,58,25,,,W.,St.,,,,J
+12844,363.0,1915.0,Philips,1010.0,Restaurants,Jack's,761  6 Ave.,Manhattan,New York,New York,761,6,,,,Ave.,,,,Jack's
+12845,364.0,1915.0,Philips,1010.0,Restaurants,Jacobs L.,330  Grand  St.,Manhattan,New York,New York,330,Grand ,,,,St.,,,,Jacobs
+12846,365.0,1915.0,Philips,1010.0,Restaurants,Jalien M.,71  Broad St.,Manhattan,New York,New York,71,Broad,,,,St.,,,,Jalien
+12847,366.0,1915.0,Philips,1010.0,Restaurants,Jardin de Danse,1520  Broadway ,Manhattan,New York,New York,1520,Broadway,,,,,,,,Jardin
+12848,367.0,1915.0,Philips,1010.0,Restaurants,Jensen Wm. A.,152  Columbus Ave.,Manhattan,New York,New York,152,Columbus,,,,Ave.,,,,Jensen
+12849,368.0,1915.0,Philips,1010.0,Restaurants,Jensen Wm. A.,430  Columbus Ave.,Manhattan,New York,New York,430,Columbus,,,,Ave.,,,,Jensen
+12850,369.0,1915.0,Philips,1010.0,Restaurants,Joelly J.,201 W. 6 Ave.,Manhattan,New York,New York,201,6,,,W.,Ave.,,,,Joelly
+12851,370.0,1915.0,Philips,1010.0,Restaurants,Joel's,206 W. 41 St.,Manhattan,New York,New York,206,41,,,W.,St.,,,,Joel's
+12852,371.0,1915.0,Philips,1010.0,Restaurants,Johnsen Wm.,29  Frankfort  St.,Manhattan,New York,New York,29,Frankfort ,,,,St.,,,,Johnsen
+12853,372.0,1915.0,Philips,1010.0,Restaurants,Jonquin's,12  Reade St.,Manhattan,New York,New York,12,Reade,,,,St.,,,,Jonquin's
+12854,373.0,1915.0,Philips,1010.0,Restaurants,Joslin Nellie,2507  Broadway ,Manhattan,New York,New York,2507,Broadway,,,,,,,,Joslin
+12855,374.0,1915.0,Philips,1010.0,Restaurants,Jourdans C.& F.,249  8 Ave.,Manhattan,New York,New York,249,8,,,,Ave.,,,,Jourdans
+12856,375.0,1915.0,Philips,1010.0,Restaurants,Kahansky Co.,104 W. 30 St.,Manhattan,New York,New York,104,30,,,W.,St.,,,,Kahansky
+12857,376.0,1915.0,Philips,1010.0,Restaurants,Kaiser Hof,1414  Broadway ,Manhattan,New York,New York,1414,Broadway,,,,,,,,Kaiser
+12858,377.0,1915.0,Philips,1010.0,Restaurants,Kaiser Keller,145 W. 42 St.,Manhattan,New York,New York,145,42,,,W.,St.,,,,Kaiser
+12859,378.0,1915.0,Philips,1010.0,Restaurants,Kaplan Louis,484  6 Ave.,Manhattan,New York,New York,484,6,,,,Ave.,,,,Kaplan
+12860,379.0,1915.0,Philips,1011.0,Restaurants,Kaminsky & Tarr,972  8 Ave.,Manhattan,New York,New York,972,8,,,,Ave.,,,,Kaminsky
+12861,380.0,1915.0,Philips,1011.0,Restaurants,Kane J. F. ,1551  Lexington Ave.,Manhattan,New York,New York,1551,Lexington,,,,Ave.,,,,Kane
+12862,381.0,1915.0,Philips,1011.0,Restaurants,Kastner A.,32 W. 32 St.,Manhattan,New York,New York,32,32,,,W.,St.,,,,Kastner
+12863,382.0,1915.0,Philips,1011.0,Restaurants,Keen's Chop House,68 W. 36 St.,Manhattan,New York,New York,68,36,,,W.,St.,,,,Keen's
+12864,383.0,1915.0,Philips,1011.0,Restaurants,Kelly Jos. W.,922  6 Ave.,Manhattan,New York,New York,922,6,,,,Ave.,,,,Kelly
+12865,384.0,1915.0,Philips,1011.0,Restaurants,Kelso Chas.,438  6 Ave.,Manhattan,New York,New York,438,6,,,,Ave.,,,,Kelso
+12866,385.0,1915.0,Philips,1011.0,Restaurants,Kennelly's ,2852  Broadway ,Manhattan,New York,New York,2852,Broadway,,,,,,,,Kennelly's
+12867,386.0,1915.0,Philips,1011.0,Restaurants,Kerasotis & Calomiris,134 W. 23 St.,Manhattan,New York,New York,134,23,,,W.,St.,,,,Kerasotis
+12868,387.0,1915.0,Philips,1011.0,Restaurants,Kiessling Geo.,275  Greenwich St.,Manhattan,New York,New York,275,Greenwich,,,,St.,,,,Kiessling
+12869,388.0,1915.0,Philips,1011.0,Restaurants,Kirschner & Bernard,47  Beaver St.,Manhattan,New York,New York,47,Beaver,,,,St.,,,,Kirschner
+12870,389.0,1915.0,Philips,1011.0,Restaurants,Klappert H. J. ,8 E. 18 St.,Manhattan,New York,New York,8,18,,,E.,St.,,,,Klappert
+12871,390.0,1915.0,Philips,1011.0,Restaurants,Klein F.,34 E. 20 St.,Manhattan,New York,New York,34,20,,,E.,St.,,,,Klein
+12872,391.0,1915.0,Philips,1011.0,Restaurants,Klein & Siegel,16 E. 23 St.,Manhattan,New York,New York,16,23,,,E.,St.,,,,Klein
+12873,392.0,1915.0,Philips,1011.0,Restaurants,Kleinfield M.,97  Park Row,Manhattan,New York,New York,97,Park,,,,Row,,,,Kleinfield
+12874,393.0,1915.0,Philips,1011.0,Restaurants,Kleinschmidt H.,138  6 Ave.,Manhattan,New York,New York,138,6,,,,Ave.,,,,Kleinschmidt
+12875,394.0,1915.0,Philips,1011.0,Restaurants,Klonower H.,6 W. 21 St.,Manhattan,New York,New York,6,21,,,W.,St.,,,,Klonower
+12876,395.0,1915.0,Philips,1011.0,Restaurants,Knirim J.,114  Pearl St.,Manhattan,New York,New York,114,Pearl,,,,St.,,,,Knirim
+12877,396.0,1915.0,Philips,1011.0,Restaurants,Koch & Linderman,53 W. 19 St.,Manhattan,New York,New York,53,19,,,W.,St.,,,,Koch
+12878,397.0,1915.0,Philips,1011.0,Restaurants,Kokoszka G.,327 E. 14 St.,Manhattan,New York,New York,327,14,,,E.,St.,,,,Kokoszka
+12879,398.0,1915.0,Philips,1011.0,Restaurants,Krafft E.,23 E. 23 St.,Manhattan,New York,New York,23,23,,,E.,St.,,,,Krafft
+12880,399.0,1915.0,Philips,1011.0,Restaurants,Kramer Chas.,55  Broad St.,Manhattan,New York,New York,55,Broad,,,,St.,,,,Kramer
+12881,400.0,1915.0,Philips,1011.0,Restaurants,Krausz Edw.,12  Dutch St.,Manhattan,New York,New York,12,Dutch,,,,St.,,,,Krausz
+12882,401.0,1915.0,Philips,1011.0,Restaurants,Krug Oscar J.,58 W. 36 St.,Manhattan,New York,New York,58,36,,,W.,St.,,,,Krug
+12883,402.0,1915.0,Philips,1011.0,Restaurants,Krug & Zinn,117 W. 47 St.,Manhattan,New York,New York,117,47,,,W.,St.,,,,Krug
+12884,403.0,1915.0,Philips,1011.0,Restaurants,Kuchlin Chris,76  Broad St.,Manhattan,New York,New York,76,Broad,,,,St.,,,,Kuchlin
+12885,404.0,1915.0,Philips,1011.0,Restaurants,Kuhnemann Otto,2100  Broadway ,Manhattan,New York,New York,2100,Broadway,,,,,,,,Kuhnemann
+12886,405.0,1915.0,Philips,1011.0,Restaurants,Kupferman L.,121 W. 34 St.,Manhattan,New York,New York,121,34,,,W.,St.,,,,Kupferman
+12887,406.0,1915.0,Philips,1011.0,Restaurants,Kupferman Samuel,124 W. 34 St.,Manhattan,New York,New York,124,34,,,W.,St.,,,,Kupferman
+12888,407.0,1915.0,Philips,1011.0,Restaurants,La Chorrera,164  Pearl St.,Manhattan,New York,New York,164,Pearl,,,,St.,,,,La
+12889,408.0,1915.0,Philips,1011.0,Restaurants,Lakeside Dairy Lunch,120  Water St.,Manhattan,New York,New York,120,Water,,,,St.,,,,Lakeside
+12890,409.0,1915.0,Philips,1011.0,Restaurants,Lamm B.,105 W. 29 St.,Manhattan,New York,New York,105,29,,,W.,St.,,,,Lamm
+12891,410.0,1915.0,Philips,1011.0,Restaurants,Lampe Frank,355  2 Ave.,Manhattan,New York,New York,355,2,,,,Ave.,,,,Lampe
+12892,411.0,1915.0,Philips,1011.0,Restaurants,Lamport & Lustgarten,300  Grand St.,Manhattan,New York,New York,300,Grand,,,,St.,,,,Lamport
+12893,412.0,1915.0,Philips,1011.0,Restaurants,Lawrie Sheila,11  Vandam St.,Manhattan,New York,New York,11,Vandam,,,,St.,,,,Lawrie
+12894,413.0,1915.0,Philips,1011.0,Restaurants,Leary John H.,931  6 Ave.,Manhattan,New York,New York,931,6,,,,Ave.,,,,Leary
+12895,414.0,1915.0,Philips,1011.0,Restaurants,Leicht S.,441 E. 14 St.,Manhattan,New York,New York,441,14,,,E.,St.,,,,Leicht
+12896,415.0,1915.0,Philips,1011.0,Restaurants,Le Mon Forest,26 E. 28 St.,Manhattan,New York,New York,26,28,,,E.,St.,,,,Le
+12897,416.0,1915.0,Philips,1011.0,Restaurants,Le Mon Forest,10 W. 28 St.,Manhattan,New York,New York,10,28,,,W.,St.,,,,Le
+12898,417.0,1915.0,Philips,1011.0,Restaurants,Leshin & Locker,133 W. 22 St.,Manhattan,New York,New York,133,22,,,W.,St.,,,,Leshin
+12899,418.0,1915.0,Philips,1011.0,Restaurants,Levenson M. L.,2780  Webster  Ave.,Manhattan,New York,New York,2780,Webster ,,,,Ave.,,,,Levenson
+12900,419.0,1915.0,Philips,1011.0,Restaurants,Levy H. L.,8 W. 17 St.,Manhattan,New York,New York,8,17,,,W.,St.,,,,Levy
+12901,420.0,1915.0,Philips,1011.0,Restaurants,Libby W. F.,122  Fulton St.,Manhattan,New York,New York,122,Fulton,,,,St.,,,,Libby
+12902,421.0,1915.0,Philips,1011.0,Restaurants,Lieberman & Liebesman,17 E. 12 St.,Manhattan,New York,New York,17,12,,,E.,St.,,,,Lieberman
+12903,422.0,1915.0,Philips,1011.0,Restaurants,Lifchitz L. A.,144  5 Ave.,Manhattan,New York,New York,144,5,,,,Ave.,,,,Lifchitz
+12904,423.0,1915.0,Philips,1011.0,Restaurants,Lifshitz & Halpern,36 W. 26 St.,Manhattan,New York,New York,36,26,,,W.,St.,,,,Lifshitz
+12905,424.0,1915.0,Philips,1011.0,Restaurants,Lincoln A. A. Co.,174  Fulton St.,Manhattan,New York,New York,174,Fulton,,,,St.,,,,Lincoln
+12906,425.0,1915.0,Philips,1011.0,Restaurants,Lind Isidore,6 E. 17 St.,Manhattan,New York,New York,6,17,,,E.,St.,,,,Lind
+12907,426.0,1915.0,Philips,1011.0,Restaurants,Lindenbaum & Sternlieb,472  8 Ave.,Manhattan,New York,New York,472,8,,,,Ave.,,,,Lindenbaum
+12908,427.0,1915.0,Philips,1011.0,Restaurants,Lion D'or,61 W. 24 St.,Manhattan,New York,New York,61,24,,,W.,St.,,,,Lion
+12909,428.0,1915.0,Philips,1011.0,Restaurants,Little Hungary,255 E. Houston St.,Manhattan,New York,New York,255,Houston,,,E.,St.,,,,Little
+12910,429.0,1915.0,Philips,1011.0,Restaurants,Little Roma,44  Beaver St.,Manhattan,New York,New York,44,Beaver,,,,St.,,,,Little
+12911,430.0,1915.0,Philips,1011.0,Restaurants,Locker M.,216  Canal  St.,Manhattan,New York,New York,216,Canal ,,,,St.,,,,Locker
+12912,431.0,1915.0,Philips,1011.0,Restaurants,Loeffler's A. Sons,506  Willis Ave.,Manhattan,New York,New York,506,Willis,,,,Ave.,,,,Loeffler's
+12913,432.0,1915.0,Philips,1011.0,Restaurants,Loew's G.,41 W. 36 St.,Manhattan,New York,New York,41,36,,,W.,St.,,,,Loew's
+12914,433.0,1915.0,Philips,1011.0,Restaurants,Logan James A. Buffet Co.,63  Nassau St.,Manhattan,New York,New York,63,Nassau,,,,St.,,,,Logan
+12915,434.0,1915.0,Philips,1011.0,Restaurants,Lonie James,150  William St.,Manhattan,New York,New York,150,William,,,,St.,,,,Lonie
+12916,435.0,1915.0,Philips,1011.0,Restaurants,Lorber's,1420  Broadway ,Manhattan,New York,New York,1420,Broadway,,,,,,,,Lorber's
+12917,436.0,1915.0,Philips,1011.0,Restaurants,Lord's Court Restaurant Co.,40  Exchange  Pl.,Manhattan,New York,New York,40,Exchange ,,,,Pl.,,,,Lord's
+12918,437.0,1915.0,Philips,1011.0,Restaurants,Loubet J.,112  Cedar St.,Manhattan,New York,New York,112,Cedar,,,,St.,,,,Loubet
+12919,438.0,1915.0,Philips,1011.0,Restaurants,Lowe's  ,612  8 Ave.,Manhattan,New York,New York,612,8,,,,Ave.,,,,Lowe's
+12920,439.0,1915.0,Philips,1011.0,Restaurants,Lowe's Casino,  Boston  Rd.,Manhattan,New York,New York,,Boston ,,,,Rd.,,,,Lowe's
+12921,440.0,1915.0,Philips,1011.0,Restaurants,Lowe's Casino, E. 181 St.,Manhattan,New York,New York,,181,,,E.,St.,,,,Lowe's
+12922,441.0,1915.0,Philips,1011.0,Restaurants,Lowney's ,1695  Broadway ,Manhattan,New York,New York,1695,Broadway,,,,,,,,Lowney's
+12923,442.0,1915.0,Philips,1011.0,Restaurants,Lubitz D.,30  Canal St.,Manhattan,New York,New York,30,Canal,,,,St.,,,,Lubitz
+12924,443.0,1915.0,Philips,1011.0,Restaurants,Lubold Wm. H.,6 W. 24 St.,Manhattan,New York,New York,6,24,,,W.,St.,,,,Lubold
+12925,444.0,1915.0,Philips,1011.0,Restaurants,Luchow August,106-114 E. 14 St.,Manhattan,New York,New York,106-114,14,,,E.,St.,,,,Luchow
+12926,445.0,1915.0,Philips,1011.0,Restaurants,Lute A. P.,36 E. 21 St.,Manhattan,New York,New York,36,21,,,E.,St.,,,,Lute
+12927,446.0,1915.0,Philips,1011.0,Restaurants,Lux J. B.,4  Union St.,Manhattan,New York,New York,4,Union,,,,St.,,,,Lux
+12928,447.0,1915.0,Philips,1011.0,Restaurants,Lyons Kate,383  Greenwich St.,Manhattan,New York,New York,383,Greenwich,,,,St.,,,,Lyons
+12929,448.0,1915.0,Philips,1011.0,Restaurants,MacDonald R.,123  Park Row,Manhattan,New York,New York,123,Park,,,,Row,,,,MacDonald
+12930,449.0,1915.0,Philips,1011.0,Restaurants,MacFadden ,141  Fulton St.,Manhattan,New York,New York,141,Fulton,,,,St.,,,,MacFadden
+12931,450.0,1915.0,Philips,1011.0,Restaurants,Mackee H.,204  9 Ave.,Manhattan,New York,New York,204,9,,,,Ave.,,,,Mackee
+12932,451.0,1915.0,Philips,1011.0,Restaurants,Maggi H.,103 W. 38 St.,Manhattan,New York,New York,103,38,,,W.,St.,,,,Maggi
+12933,452.0,1915.0,Philips,1011.0,Restaurants,Maison Chevalier ,528  7 Ave.,Manhattan,New York,New York,528,7,,,,Ave.,,,,Maison
+12934,453.0,1915.0,Philips,1011.0,Restaurants,Maloney J. J.,791  7 Ave.,Manhattan,New York,New York,791,7,,,,Ave.,,,,Maloney
+12935,454.0,1915.0,Philips,1011.0,Chinese restaurant,Mandarin,1553  Broadway ,Manhattan,New York,New York,1553,Broadway,,,,,,,,Mandarin
+12936,455.0,1915.0,Philips,1011.0,Restaurants,Mandl J.,31 W. 26 St.,Manhattan,New York,New York,31,26,,,W.,St.,,,,Mandl
+12937,456.0,1915.0,Philips,1011.0,Restaurants,Manhattan Dairy Rest.,160 W. 24 St.,Manhattan,New York,New York,160,24,,,W.,St.,,,,Manhattan
+12938,457.0,1915.0,Philips,1011.0,Restaurants,Maple Leaf Dairy,70  Wall St.,Manhattan,New York,New York,70,Wall,,,,St.,,,,Maple
+12939,458.0,1915.0,Philips,1011.0,Restaurants,Maria's,130 W. 21 St.,Manhattan,New York,New York,130,21,,,W.,St.,,,,Maria's
+12940,459.0,1915.0,Philips,1011.0,Restaurants,Markos Michl.,228  Lenox Ave.,Manhattan,New York,New York,228,Lenox,,,,Ave.,,,,Markos
+12941,460.0,1915.0,Philips,1011.0,Restaurants,Maros & Terzoglos,300 E. 23 St.,Manhattan,New York,New York,300,23,,,E.,St.,,,,Maros
+12942,461.0,1915.0,Philips,1011.0,Restaurants,Marsullo D.,133 W. 49 St.,Manhattan,New York,New York,133,49,,,W.,St.,,,,Marsullo
+12943,462.0,1915.0,Philips,1011.0,Restaurants,Martera R.,165 W. 97 St.,Manhattan,New York,New York,165,97,,,W.,St.,,,,Martera
+12944,463.0,1915.0,Philips,1011.0,Restaurants,Mattin & Spwack,22 W. 17 St.,Manhattan,New York,New York,22,17,,,W.,St.,,,,Mattin
+12945,464.0,1915.0,Philips,1011.0,Restaurants,Mayer Martin,177 W. Broadway ,Manhattan,New York,New York,177,Broadway,,,W.,,,,,Mayer
+12946,465.0,1915.0,Philips,1011.0,Restaurants,Maxim's,108 W. 38 St.,Manhattan,New York,New York,108,38,,,W.,St.,,,,Maxim's
+12947,466.0,1915.0,Philips,1011.0,Restaurants,McCormick M. J. ,475  4 Ave.,Manhattan,New York,New York,475,4,,,,Ave.,,,,McCormick
+12948,467.0,1915.0,Philips,1011.0,Restaurants,McDonald's Men's Grill.,60 W. 39 St.,Manhattan,New York,New York,60,39,,,W.,St.,,,,McDonald's
+12949,468.0,1915.0,Philips,1011.0,Restaurants,McKinley Sq. Casino,775 E. 169 St.,Manhattan,New York,New York,775,169,,,E.,St.,,,,McKinley
+12950,469.0,1915.0,Philips,1011.0,Restaurants,Meises Morris & Son,13 E. Broadway ,Manhattan,New York,New York,13,Broadway,,,E.,,,,,Meises
+12951,470.0,1915.0,Philips,1011.0,Restaurants,"Mendel Wm. H., Inc.",87 E. 42 St.,Manhattan,New York,New York,87,42,,,E.,St.,,,,Mendel
+12952,471.0,1915.0,Philips,1011.0,Restaurants,"Mendel Wm. H., Inc.",430  4 Ave.,Manhattan,New York,New York,430,4,,,,Ave.,,,,Mendel
+12953,472.0,1915.0,Philips,1011.0,Restaurants,Mentasti & Ubertino ,40  Broad St.,Manhattan,New York,New York,40,Broad,,,,St.,,,,Mentasti
+12954,473.0,1915.0,Philips,1011.0,Restaurants,Mercantile Lunch Co.,187  Broadway ,Manhattan,New York,New York,187,Broadway,,,,,,,,Mercantile
+12955,474.0,1915.0,Philips,1011.0,Restaurants,Mercantile Lunch Co.,20  Maiden La.,Manhattan,New York,New York,20,Maiden,,,,La.,,,,Mercantile
+12956,475.0,1915.0,Philips,1011.0,Restaurants,Mercantile Lunch Co.,66  Nassau St.,Manhattan,New York,New York,66,Nassau,,,,St.,,,,Mercantile
+12957,476.0,1915.0,Philips,1011.0,Restaurants,Mercantile Lunch Co.,111  Nassau St.,Manhattan,New York,New York,111,Nassau,,,,St.,,,,Mercantile
+12958,477.0,1915.0,Philips,1011.0,Restaurants,Merchants Dining Rooms,108  Duane St.,Manhattan,New York,New York,108,Duane,,,,St.,,,,Merchants
+12959,478.0,1915.0,Philips,1011.0,Restaurants,Meyers A. P. ,2844  Broadway ,Manhattan,New York,New York,2844,Broadway,,,,,,,,Meyers
+12960,479.0,1915.0,Philips,1011.0,Chinese restaurant,Mi Chan's ,610  8 Ave.,Manhattan,New York,New York,610,8,,,,Ave.,,,,Mi
+12961,480.0,1915.0,Philips,1011.0,Restaurants,Milano Restaurant Corpn.,39  Beaver St.,Manhattan,New York,New York,39,Beaver,,,,St.,,,,Milano
+12962,481.0,1915.0,Philips,1011.0,Restaurants,Miller J.,66  Church St.,Manhattan,New York,New York,66,Church,,,,St.,,,,Miller
+12963,482.0,1915.0,Philips,1011.0,Restaurants,Mills Building Restaurant,15  Broad St.,Manhattan,New York,New York,15,Broad,,,,St.,,,,Mills
+12964,483.0,1915.0,Philips,1011.0,Restaurants,Mintz S.,31 W. 17 St.,Manhattan,New York,New York,31,17,,,W.,St.,,,,Mintz
+12965,484.0,1915.0,Philips,1011.0,Restaurants,Miserocchi Felix,29 W. 27 St.,Manhattan,New York,New York,29,27,,,W.,St.,,,,Miserocchi
+12966,485.0,1915.0,Philips,1011.0,Restaurants,Mock's Restaurant,746  8 Ave.,Manhattan,New York,New York,746,8,,,,Ave.,,,,Mock's
+12967,486.0,1915.0,Philips,1011.0,Restaurants,Mohr J.,388  Canal St.,Manhattan,New York,New York,388,Canal,,,,St.,,,,Mohr
+12968,487.0,1915.0,Philips,1011.0,Restaurants,Monteverde Luisa,139 W. 41 St.,Manhattan,New York,New York,139,41,,,W.,St.,,,,Monteverde
+12969,488.0,1915.0,Philips,1012.0,Restaurants,Moore Edward,38  Beaver St.,Manhattan,New York,New York,38,Beaver,,,,St.,,,,Moore
+12970,489.0,1915.0,Philips,1012.0,Restaurants,Moretti's,51-55 W. 35 St.,Manhattan,New York,New York,51-55,35,,,W.,St.,,,,Moretti's
+12971,490.0,1915.0,Philips,1012.0,Restaurants,Moses R.,21 E. 21 St.,Manhattan,New York,New York,21,21,,,E.,St.,,,,Moses
+12972,491.0,1915.0,Philips,1012.0,Restaurants,Moskowitz S.,282  Lenox Ave.,Manhattan,New York,New York,282,Lenox,,,,Ave.,,,,Moskowitz
+12973,492.0,1915.0,Philips,1012.0,Restaurants,Mouquin Restaurant & Wine Co.,20  Ann St.,Manhattan,New York,New York,20,Ann,,,,St.,,,,Mouquin
+12974,493.0,1915.0,Philips,1012.0,Restaurants,Mouquin Restaurant & Wine Co.,149  Fulton St.,Manhattan,New York,New York,149,Fulton,,,,St.,,,,Mouquin
+12975,494.0,1915.0,Philips,1012.0,Restaurants,Mouquin Restaurant & Wine Co.,454  6 St.,Manhattan,New York,New York,454,6,,,,St.,,,,Mouquin
+12976,495.0,1915.0,Philips,1012.0,Restaurants,Muhs F.,56  John St.,Manhattan,New York,New York,56,John,,,,St.,,,,Muhs
+12977,496.0,1915.0,Philips,1012.0,Restaurants,Muldoon J. F.,1045  6 Ave.,Manhattan,New York,New York,1045,6,,,,Ave.,,,,Muldoon
+12978,497.0,1915.0,Philips,1012.0,Restaurants,Muller F.,42 E. 23 St.,Manhattan,New York,New York,42,23,,,E.,St.,,,,Muller
+12979,498.0,1915.0,Philips,1012.0,Restaurants,Muller Theo.,642  6 Ave.,Manhattan,New York,New York,642,6,,,,Ave.,,,,Muller
+12980,499.0,1915.0,Philips,1012.0,Restaurants,Murray Cafe,61  Murray St.,Manhattan,New York,New York,61,Murray,,,,St.,,,,Murray
+12981,500.0,1915.0,Philips,1012.0,Restaurants,Murray J. W.,1027  6 Ave.,Manhattan,New York,New York,1027,6,,,,Ave.,,,,Murray
+12982,501.0,1915.0,Philips,1012.0,Restaurants,Murray V. C.,70  Pine St.,Manhattan,New York,New York,70,Pine,,,,St.,,,,Murray
+12983,502.0,1915.0,Philips,1012.0,Restaurants,Murray's,228 W. 42 St.,Manhattan,New York,New York,228,42,,,W.,St.,,,,Murray's
+12984,503.0,1915.0,Philips,1012.0,Restaurants,"Myrtle Dining Room, The",40  Maiden La.,Manhattan,New York,New York,40,Maiden,,,,La.,,,,Myrtle
+12985,504.0,1915.0,Philips,1012.0,Restaurants,Naething Bros.,120  Fulton St.,Manhattan,New York,New York,120,Fulton,,,,St.,,,,Naething
+12986,505.0,1915.0,Philips,1012.0,Restaurants,Naomi Dining Room,129  Fulton St.,Manhattan,New York,New York,129,Fulton,,,,St.,,,,Naomi
+12987,506.0,1915.0,Philips,1012.0,Restaurants,Naples Restaurant,210 W. 34 St.,Manhattan,New York,New York,210,34,,,W.,St.,,,,Naples
+12988,507.0,1915.0,Philips,1012.0,Restaurants,Nassau Cafetiere,77  Nassau St.,Manhattan,New York,New York,77,Nassau,,,,St.,,,,Nassau
+12989,508.0,1915.0,Philips,1012.0,Restaurants,National Dairy Lunch Room Co.,12 W. 19 St.,Manhattan,New York,New York,12,19,,,W.,St.,,,,National
+12990,509.0,1915.0,Philips,1012.0,Restaurants,National Lunch Co.,124  6 Ave.,Manhattan,New York,New York,124,6,,,,Ave.,,,,National
+12991,510.0,1915.0,Philips,1012.0,Restaurants,Naughton J.,82  Duane St.,Manhattan,New York,New York,82,Duane,,,,St.,,,,Naughton
+12992,511.0,1915.0,Philips,1012.0,Restaurants,Nedicks ,32  John St.,Manhattan,New York,New York,32,John,,,,St.,,,,Nedicks
+12993,512.0,1915.0,Philips,1012.0,Restaurants,Neidhardt Theo.,936  8 Ave.,Manhattan,New York,New York,936,8,,,,Ave.,,,,Neidhardt
+12994,513.0,1915.0,Philips,1012.0,Restaurants,Nelson S. E.,67  Grand St.,Manhattan,New York,New York,67,Grand,,,,St.,,,,Nelson
+12995,514.0,1915.0,Philips,1012.0,Restaurants,Newman F.,202 E. 23 St.,Manhattan,New York,New York,202,23,,,E.,St.,,,,Newman
+12996,515.0,1915.0,Philips,1012.0,Restaurants,Newman R.,11 W. 18 St.,Manhattan,New York,New York,11,18,,,W.,St.,,,,Newman
+12997,516.0,1915.0,Philips,1012.0,Restaurants,Neumann Bros.,387  Canal ,Manhattan,New York,New York,387,Canal,,,,,,,,Neumann
+12998,517.0,1915.0,Philips,1012.0,Restaurants,Neumann Bros.,141 W. Broadway ,Manhattan,New York,New York,141,Broadway,,,W.,,,,,Neumann
+12999,518.0,1915.0,Philips,1012.0,Restaurants,N. Y. Lunch,261 W. 42 St.,Manhattan,New York,New York,261,42,,,W.,St.,,,,N.
+13000,519.0,1915.0,Philips,1012.0,Restaurants,Nichthauser B.,11 W. 31 St.,Manhattan,New York,New York,11,31,,,W.,St.,,,,Nichthauser
+13001,520.0,1915.0,Philips,1012.0,Restaurants,Nichthauser B.,32 W. 38 St.,Manhattan,New York,New York,32,38,,,W.,St.,,,,Nichthauser
+13002,521.0,1915.0,Philips,1012.0,Restaurants,Nickel Alfred,2585  Broadway ,Manhattan,New York,New York,2585,Broadway,,,,,,,,Nickel
+13003,522.0,1915.0,Philips,1012.0,Restaurants,Noakes George,67  Park Pl.,Manhattan,New York,New York,67,Park,,,,Pl.,,,,Noakes
+13004,523.0,1915.0,Philips,1012.0,Restaurants,Noe Henry ,105  Duane St.,Manhattan,New York,New York,105,Duane,,,,St.,,,,Noe
+13005,524.0,1915.0,Philips,1012.0,Restaurants,Nussdorf Abe ,249 W. 35 St.,Manhattan,New York,New York,249,35,,,W.,St.,,,,Nussdorf
+13006,525.0,1915.0,Philips,1012.0,Restaurants,Nutman M.,2015  Boston Rd.,Manhattan,New York,New York,2015,Boston,,,,Rd.,,,,Nutman
+13007,526.0,1915.0,Philips,1012.0,Restaurants,Ockendon Richard,53 W. 3 St.,Manhattan,New York,New York,53,3,,,W.,St.,,,,Ockendon
+13008,527.0,1915.0,Philips,1012.0,Restaurants,O'Connor & Wulfers,9 W. 32 St.,Manhattan,New York,New York,9,32,,,W.,St.,,,,O'Connor
+13009,528.0,1915.0,Philips,1012.0,Restaurants,Odde Otto P.,59 W. 27 St.,Manhattan,New York,New York,59,27,,,W.,St.,,,,Odde
+13010,529.0,1915.0,Philips,1012.0,Restaurants,Offer Chas.,38 E. 9 St.,Manhattan,New York,New York,38,9,,,E.,St.,,,,Offer
+13011,530.0,1915.0,Philips,1012.0,Restaurants,Ohmeis P. M. & Co,140  Fulton St.,Manhattan,New York,New York,140,Fulton,,,,St.,,,,Ohmeis
+13012,531.0,1915.0,Philips,1012.0,Restaurants,Olnick Bros.,2332  Broadway ,Manhattan,New York,New York,2332,Broadway,,,,,,,,Olnick
+13013,532.0,1915.0,Philips,1012.0,Restaurants,Olnick Bros.,2546  Broadway ,Manhattan,New York,New York,2546,Broadway,,,,,,,,Olnick
+13014,533.0,1915.0,Philips,1012.0,Restaurants,Opera Lunch,34 E. 28 St.,Manhattan,New York,New York,34,28,,,E.,St.,,,,Opera
+13015,534.0,1915.0,Philips,1012.0,Restaurants,Oreanstan A.,116  Maiden La.,Manhattan,New York,New York,116,Maiden,,,,La.,,,,Oreanstan
+13016,535.0,1915.0,Philips,1012.0,Restaurants,Ortelli C. & A. Cipriani,51 W. 35 St.,Manhattan,New York,New York,51,35,,,W.,St.,,,,Ortelli
+13017,536.0,1915.0,Philips,1012.0,Restaurants,Pabst Grand Circle,  59 St.,Manhattan,New York,New York,,59,,,,St.,,,,Pabst
+13018,537.0,1915.0,Philips,1012.0,Restaurants,Pabst Harlem Restaurant,256 W. 125 St.,Manhattan,New York,New York,256,125,,,W.,St.,,,,Pabst
+13019,538.0,1915.0,Philips,1012.0,Restaurants,Pabst Van Cortlandt Park Restaurant,  Broadway ,Manhattan,New York,New York,,Broadway,,,,,,,,Pabst
+13020,539.0,1915.0,Philips,1012.0,Restaurants,Pabst Van Cortlandt Park Restaurant,  242 St.,Manhattan,New York,New York,,242,,,,St.,,,,Pabst
+13021,540.0,1915.0,Philips,1012.0,Restaurants,Paddell T. F.,8 E. 23 St.,Manhattan,New York,New York,8,23,,,E.,St.,,,,Paddell
+13022,541.0,1915.0,Philips,1012.0,Restaurants,Palais de Danse,  Broadway ,Manhattan,New York,New York,,Broadway,,,,,,,,Palais
+13023,542.0,1915.0,Philips,1012.0,Restaurants,Palais de Danse,  50 St.,Manhattan,New York,New York,,50,,,,St.,,,,Palais
+13024,543.0,1915.0,Philips,1012.0,Restaurants,Palm Tree,62  Broad St.,Manhattan,New York,New York,62,Broad,,,,St.,,,,Palm
+13025,544.0,1915.0,Philips,1012.0,Restaurants,Palmer John,488  8 Ave.,Manhattan,New York,New York,488,8,,,,Ave.,,,,Palmer
+13026,545.0,1915.0,Philips,1012.0,Restaurants,Palmer's Restaurant,401  Canal  St.,Manhattan,New York,New York,401,Canal ,,,,St.,,,,Palmer's
+13027,546.0,1915.0,Philips,1012.0,Restaurants,Pappas John,245 W. 34 St.,Manhattan,New York,New York,245,34,,,W.,St.,,,,Pappas
+13028,547.0,1915.0,Philips,1012.0,Restaurants,Park Avenue Hotel,  32-33 Ave.,Manhattan,New York,New York,,32-33,,,,Ave.,,,,Park
+13029,548.0,1915.0,Philips,1012.0,Restaurants,Pasini Frank,348  Washington St.,Manhattan,New York,New York,348,Washington,,,,St.,,,,Pasini
+13030,549.0,1915.0,Philips,1012.0,Restaurants,Pauker B.,19 W. 35 St.,Manhattan,New York,New York,19,35,,,W.,St.,,,,Pauker
+13031,550.0,1915.0,Philips,1012.0,Restaurants,Pause Max, 72 University  Pl.,Manhattan,New York,New York,,University ,,,72,Pl.,,,,Pause
+13032,551.0,1915.0,Philips,1012.0,Restaurants,Pechar's Vienna Restaurant,658  6 St.,Manhattan,New York,New York,658,6,,,,St.,,,,Pechar's
+13033,552.0,1915.0,Philips,1012.0,Restaurants,Peck J.,140  Fulton St.,Manhattan,New York,New York,140,Fulton,,,,St.,,,,Peck
+13034,553.0,1915.0,Philips,1012.0,Restaurants,Peg Woffington Coffee House ,11 E. 44 St.,Manhattan,New York,New York,11,44,,,E.,St.,,,,Peg
+13035,554.0,1915.0,Philips,1012.0,Restaurants,Pekin,708  7 Ave.,Manhattan,New York,New York,708,7,,,,Ave.,,,,Pekin
+13036,555.0,1915.0,Philips,1012.0,Restaurants,Pellerano & Olivari,463  Columbus Ave.,Manhattan,New York,New York,463,Columbus,,,,Ave.,,,,Pellerano
+13037,556.0,1915.0,Philips,1012.0,Restaurants,Peragallo Harry ,114  Park Pl.,Manhattan,New York,New York,114,Park,,,,Pl.,,,,Peragallo
+13038,557.0,1915.0,Philips,1012.0,Restaurants,Peragallo L.,366 W. 23 St.,Manhattan,New York,New York,366,23,,,W.,St.,,,,Peragallo
+13039,558.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,656  Broadway ,Manhattan,New York,New York,656,Broadway,,,,,,,,Physical
+13040,559.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,85  Bleecker St.,Manhattan,New York,New York,85,Bleecker,,,,St.,,,,Physical
+13041,560.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,220  Fulton St.,Manhattan,New York,New York,220,Fulton,,,,St.,,,,Physical
+13042,561.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,37 W. 17 St.,Manhattan,New York,New York,37,17,,,W.,St.,,,,Physical
+13043,562.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,27  Beekman St.,Manhattan,New York,New York,27,Beekman,,,,St.,,,,Physical
+13044,563.0,1915.0,Philips,1012.0,Restaurants,Physical Culture Restaurant Co.,615  6 Ave.,Manhattan,New York,New York,615,6,,,,Ave.,,,,Physical
+13045,564.0,1915.0,Philips,1012.0,Restaurants,Piccadilly,170 W. 72 St.,Manhattan,New York,New York,170,72,,,W.,St.,,,,Piccadilly
+13046,565.0,1915.0,Philips,1012.0,Restaurants,Pilgrim P.,161 W. 23 St.,Manhattan,New York,New York,161,23,,,W.,St.,,,,Pilgrim
+13047,566.0,1915.0,Philips,1012.0,Restaurants,Pilmer Max,5 E. 14 St.,Manhattan,New York,New York,5,14,,,E.,St.,,,,Pilmer
+13048,567.0,1915.0,Philips,1012.0,Restaurants,Plaza Lunch,1017  6 Ave.,Manhattan,New York,New York,1017,6,,,,Ave.,,,,Plaza
+13049,568.0,1915.0,Philips,1012.0,Restaurants,Pogosky Max,865  6 Ave.,Manhattan,New York,New York,865,6,,,,Ave.,,,,Pogosky
+13050,569.0,1915.0,Philips,1012.0,Restaurants,Popkin I.,957  6 Ave.,Manhattan,New York,New York,957,6,,,,Ave.,,,,Popkin
+13051,570.0,1915.0,Philips,1012.0,Restaurants,Popp E.,131 W. 33 St.,Manhattan,New York,New York,131,33,,,W.,St.,,,,Popp
+13052,571.0,1915.0,Philips,1012.0,Restaurants,Port Arthur,7  Mott St.,Manhattan,New York,New York,7,Mott,,,,St.,,,,Port
+13053,572.0,1915.0,Philips,1012.0,Restaurants,Potters Lunch Co.,23 W. 35 St.,Manhattan,New York,New York,23,35,,,W.,St.,,,,Potters
+13054,573.0,1915.0,Philips,1012.0,Restaurants,Prago Louis,1385  5 Ave.,Manhattan,New York,New York,1385,5,,,,Ave.,,,,Prago
+13055,574.0,1915.0,Philips,1012.0,Restaurants,Prince George Hotel,  5 Ave.,Manhattan,New York,New York,,5,,,,Ave.,,,,Prince
+13056,575.0,1915.0,Philips,1012.0,Restaurants,Prince George Hotel,  28 St.,Manhattan,New York,New York,,28,,,,St.,,,,Prince
+13057,576.0,1915.0,Philips,1012.0,Restaurants,Princess Restaurant Inc.,1845  Broadway ,Manhattan,New York,New York,1845,Broadway,,,,,,,,Princess
+13058,577.0,1915.0,Philips,1012.0,Restaurants,Proctor's,96  Broadway ,Manhattan,New York,New York,96,Broadway,,,,,,,,Proctor's
+13059,578.0,1915.0,Philips,1012.0,Restaurants,Quinn & O'Hara,1413  St. Nicholas Ave.,Manhattan,New York,New York,1413,St. Nicholas,,,,Ave.,,,,Quinn
+13060,579.0,1915.0,Philips,1012.0,Restaurants,Rasche Wm. H.,123  Worth  St.,Manhattan,New York,New York,123,Worth ,,,,St.,,,,Rasche
+13061,580.0,1915.0,Philips,1012.0,Restaurants,Rau Arnold,303  4 Ave.,Manhattan,New York,New York,303,4,,,,Ave.,,,,Rau
+13062,581.0,1915.0,Philips,1012.0,Restaurants,Raymond W. J.,25  Thames St.,Manhattan,New York,New York,25,Thames,,,,St.,,,,Raymond
+13063,582.0,1915.0,Philips,1012.0,Restaurants,Razzetti & Cella,630  8 Ave.,Manhattan,New York,New York,630,8,,,,Ave.,,,,Razzetti
+13064,583.0,1915.0,Philips,1012.0,Restaurants,Rebhorn C.,644  6 Ave.,Manhattan,New York,New York,644,6,,,,Ave.,,,,Rebhorn
+13065,584.0,1915.0,Philips,1012.0,Restaurants,Reimer Theo.,125  Park Row,Manhattan,New York,New York,125,Park,,,,Row,,,,Reimer
+13066,585.0,1915.0,Philips,1013.0,Restaurants,Reisenweber's ,987  8 Ave.,Manhattan,New York,New York,987,8,,,,Ave.,,,,Reisenweber's
+13067,586.0,1915.0,Philips,1013.0,Restaurants,Richelieu,41 W. 24 St.,Manhattan,New York,New York,41,24,,,W.,St.,,,,Richelieu
+13068,587.0,1915.0,Philips,1013.0,Restaurants,Richmond H.,1993  Broadway ,Manhattan,New York,New York,1993,Broadway,,,,,,,,Richmond
+13069,588.0,1915.0,Philips,1013.0,Restaurants,Rigg's,43 W. 33 St.,Manhattan,New York,New York,43,33,,,W.,St.,,,,Rigg's
+13070,589.0,1915.0,Philips,1013.0,Restaurants,Rip Van Winkle Tea Room,17 W. 37 St.,Manhattan,New York,New York,17,37,,,W.,St.,,,,Rip
+13071,590.0,1915.0,Philips,1013.0,Restaurants,Ristaino Generoso,198  Grand St.,Manhattan,New York,New York,198,Grand,,,,St.,,,,Ristaino
+13072,591.0,1915.0,Philips,1013.0,Restaurants,Ritz-Carlton,374  Madison Ave.,Manhattan,New York,New York,374,Madison,,,,Ave.,,,,Ritz-Carlton
+13073,592.0,1915.0,Philips,1013.0,Restaurants,Robins S. M. Co.,35  Broadway ,Manhattan,New York,New York,35,Broadway,,,,,,,,Robins
+13074,593.0,1915.0,Philips,1013.0,Restaurants,Robins S. M. Co.,135  Broadway ,Manhattan,New York,New York,135,Broadway,,,,,,,,Robins
+13075,594.0,1915.0,Philips,1013.0,Restaurants,Robins S. M. Co.,54  Broad St.,Manhattan,New York,New York,54,Broad,,,,St.,,,,Robins
+13076,595.0,1915.0,Philips,1013.0,Restaurants,Rocking Stone Restaurant,  Bronx Pk.,Manhattan,New York,New York,,Bronx,,,,Pk.,,,,Rocking
+13077,596.0,1915.0,Philips,1013.0,Restaurants,Roemer Lunch,120  Water St.,Manhattan,New York,New York,120,Water,,,,St.,,,,Roemer
+13078,597.0,1915.0,Philips,1013.0,Restaurants,Roeser G. W. Jr.,53  Fulton St.,Manhattan,New York,New York,53,Fulton,,,,St.,,,,Roeser
+13079,598.0,1915.0,Philips,1013.0,Restaurants,Roey Samuel,151 E. 14 St.,Manhattan,New York,New York,151,14,,,E.,St.,,,,Roey
+13080,599.0,1915.0,Philips,1013.0,Restaurants,Rogers M.,801  6 Ave.,Manhattan,New York,New York,801,6,,,,Ave.,,,,Rogers
+13081,600.0,1915.0,Philips,1013.0,Restaurants,Rolfe's,42  John St.,Manhattan,New York,New York,42,John,,,,St.,,,,Rolfe's
+13082,601.0,1915.0,Philips,1013.0,Restaurants,Roof Tree Inn Garden,5 W. 28 St.,Manhattan,New York,New York,5,28,,,W.,St.,,,,Roof
+13083,602.0,1915.0,Philips,1013.0,Restaurants,Rosenzweig Chas.,149 W. 27 St.,Manhattan,New York,New York,149,27,,,W.,St.,,,,Rosenzweig
+13084,603.0,1915.0,Philips,1013.0,Restaurants,Rasoff Lunch Co. Inc.,452  6 Ave.,Manhattan,New York,New York,452,6,,,,Ave.,,,,Rasoff
+13085,604.0,1915.0,Philips,1013.0,Restaurants,Ross Jos.,81  White St.,Manhattan,New York,New York,81,White,,,,St.,,,,Ross
+13086,605.0,1915.0,Philips,1013.0,Restaurants,Ross Wm.,46 W. 22 St.,Manhattan,New York,New York,46,22,,,W.,St.,,,,Ross
+13087,606.0,1915.0,Philips,1013.0,Restaurants,Roversi Hotel,29 W. 27 St.,Manhattan,New York,New York,29,27,,,W.,St.,,,,Roversi
+13088,607.0,1915.0,Philips,1013.0,Restaurants,Royal Hungarian,17 W. 24 St.,Manhattan,New York,New York,17,24,,,W.,St.,,,,Royal
+13089,608.0,1915.0,Philips,1013.0,Restaurants,Rozoll Louis,201 E. 14 St.,Manhattan,New York,New York,201,14,,,E.,St.,,,,Rozoll
+13090,609.0,1915.0,Philips,1013.0,Restaurants,Rubenfeld D. R.,9 E. 22 St.,Manhattan,New York,New York,9,22,,,E.,St.,,,,Rubenfeld
+13091,610.0,1915.0,Philips,1013.0,Restaurants,Rufe J.,669  6 Ave.,Manhattan,New York,New York,669,6,,,,Ave.,,,,Rufe
+13092,611.0,1915.0,Philips,1013.0,Restaurants,S. & S. Bakery & Restaurant,55 W. 24 St.,Manhattan,New York,New York,55,24,,,W.,St.,,,,S.
+13093,612.0,1915.0,Philips,1013.0,Restaurants,S. & S. Lunch Co. Inc.,1864  Broadway ,Manhattan,New York,New York,1864,Broadway,,,,,,,,S.
+13094,613.0,1915.0,Philips,1013.0,Restaurants,S. & S. Lunch Co. Inc.,738  9 Ave.,Manhattan,New York,New York,738,9,,,,Ave.,,,,S.
+13095,614.0,1915.0,Philips,1013.0,Restaurants,S. & S. Lunch Co. Inc.,40 W. 18 St.,Manhattan,New York,New York,40,18,,,W.,St.,,,,S.
+13096,615.0,1915.0,Philips,1013.0,Restaurants,S. & S. Lunch Co. Inc.,313 W. 110 St.,Manhattan,New York,New York,313,110,,,W.,St.,,,,S.
+13097,616.0,1915.0,Philips,1013.0,Restaurants,Sachs I.,86  Canal  St.,Manhattan,New York,New York,86,Canal ,,,,St.,,,,Sachs
+13098,617.0,1915.0,Philips,1013.0,Restaurants,Sachs Philip,54 W. 23 St.,Manhattan,New York,New York,54,23,,,W.,St.,,,,Sachs
+13099,618.0,1915.0,Philips,1013.0,Restaurants,Salmon J. W.,19  Beaver St.,Manhattan,New York,New York,19,Beaver,,,,St.,,,,Salmon
+13100,619.0,1915.0,Philips,1013.0,Restaurants,Savoy Lunch,800  6 Ave.,Manhattan,New York,New York,800,6,,,,Ave.,,,,Savoy
+13101,620.0,1915.0,Philips,1013.0,Restaurants,Saxer J. J. Jr.,51 W. 14 St.,Manhattan,New York,New York,51,14,,,W.,St.,,,,Saxer
+13102,621.0,1915.0,Philips,1013.0,Restaurants,Schaeffer John,27  Bridge St.,Manhattan,New York,New York,27,Bridge,,,,St.,,,,Schaeffer
+13103,622.0,1915.0,Philips,1013.0,Restaurants,Schaeffer John,24  Fulton St.,Manhattan,New York,New York,24,Fulton,,,,St.,,,,Schaeffer
+13104,623.0,1915.0,Philips,1013.0,Restaurants,Schaeffer David,713  6 Ave.,Manhattan,New York,New York,713,6,,,,Ave.,,,,Schaeffer
+13105,624.0,1915.0,Philips,1013.0,Restaurants,Scheer Max,9 W. 28 St.,Manhattan,New York,New York,9,28,,,W.,St.,,,,Scheer
+13106,625.0,1915.0,Philips,1013.0,Restaurants,Schepps John,810  6 Ave.,Manhattan,New York,New York,810,6,,,,Ave.,,,,Schepps
+13107,626.0,1915.0,Philips,1013.0,Restaurants,Scherrible Ernest C.,351  Hudson St.,Manhattan,New York,New York,351,Hudson,,,,St.,,,,Scherrible
+13108,627.0,1915.0,Philips,1013.0,Restaurants,Schlesinger I.,252 E. 4 St.,Manhattan,New York,New York,252,4,,,E.,St.,,,,Schlesinger
+13109,628.0,1915.0,Philips,1013.0,Restaurants,Schmaltz A. & M.,322 W. 34 St.,Manhattan,New York,New York,322,34,,,W.,St.,,,,Schmaltz
+13110,629.0,1915.0,Philips,1013.0,Restaurants,Schmidt F.,503 W. 23 St.,Manhattan,New York,New York,503,23,,,W.,St.,,,,Schmidt
+13111,630.0,1915.0,Philips,1013.0,Restaurants,Schneider A.,480  Canal St.,Manhattan,New York,New York,480,Canal,,,,St.,,,,Schneider
+13112,631.0,1915.0,Philips,1013.0,Restaurants,Schoeniger C.,115  Canal St.,Manhattan,New York,New York,115,Canal,,,,St.,,,,Schoeniger
+13113,632.0,1915.0,Philips,1013.0,Restaurants,Schulz C.,133 W. 33 St.,Manhattan,New York,New York,133,33,,,W.,St.,,,,Schulz
+13114,633.0,1915.0,Philips,1013.0,Restaurants,Schulz Otto,191  William St.,Manhattan,New York,New York,191,William,,,,St.,,,,Schulz
+13115,634.0,1915.0,Philips,1013.0,Restaurants,Schur Erwin V.,74  Beaver St.,Manhattan,New York,New York,74,Beaver,,,,St.,,,,Schur
+13116,635.0,1915.0,Philips,1013.0,Restaurants,Schur & Reimenschneider,38  Fulton St.,Manhattan,New York,New York,38,Fulton,,,,St.,,,,Schur
+13117,636.0,1915.0,Philips,1013.0,Restaurants,Schwabs Bros.,747  Broadway ,Manhattan,New York,New York,747,Broadway,,,,,,,,Schwabs
+13118,637.0,1915.0,Philips,1013.0,Restaurants,Schwartz & Salzman,121  Chambers St.,Manhattan,New York,New York,121,Chambers,,,,St.,,,,Schwartz
+13119,638.0,1915.0,Philips,1013.0,Restaurants,Scotti C.,144 W. 23 St.,Manhattan,New York,New York,144,23,,,W.,St.,,,,Scotti
+13120,639.0,1915.0,Philips,1013.0,Restaurants,Seigel & Goldstein,138  5 Ave.,Manhattan,New York,New York,138,5,,,,Ave.,,,,Seigel
+13121,640.0,1915.0,Philips,1013.0,Restaurants,Sejman Stanislaus,327 E. 14 St.,Manhattan,New York,New York,327,14,,,E.,St.,,,,Sejman
+13122,641.0,1915.0,Philips,1013.0,Restaurants,Shack Lunch Room,38  Broad St.,Manhattan,New York,New York,38,Broad,,,,St.,,,,Shack
+13123,642.0,1915.0,Philips,1013.0,Restaurants,Shanley Co.,  Broadway ,Manhattan,New York,New York,,Broadway,,,,,,,,Shanley
+13124,643.0,1915.0,Philips,1013.0,Restaurants,Shanley Co., W. 43-44 St.,Manhattan,New York,New York,,43-44,,,W.,St.,,,,Shanley
+13125,644.0,1915.0,Philips,1013.0,Restaurants,Shanley Co.,383  6 St.,Manhattan,New York,New York,383,6,,,,St.,,,,Shanley
+13126,645.0,1915.0,Philips,1013.0,Restaurants,Shapiro H.,444  7 Ave.,Manhattan,New York,New York,444,7,,,,Ave.,,,,Shapiro
+13127,646.0,1915.0,Philips,1013.0,Restaurants,Shapiro Samuel,456  Greenwich St.,Manhattan,New York,New York,456,Greenwich,,,,St.,,,,Shapiro
+13128,647.0,1915.0,Philips,1013.0,Restaurants,Sharrot D.,49  Broad St.,Manhattan,New York,New York,49,Broad,,,,St.,,,,Sharrot
+13129,648.0,1915.0,Philips,1013.0,Restaurants,Shefrin N.,173  Park Row,Manhattan,New York,New York,173,Park,,,,Row,,,,Shefrin
+13130,649.0,1915.0,Philips,1013.0,Restaurants,Sheinberg S.,949  6 Ave.,Manhattan,New York,New York,949,6,,,,Ave.,,,,Sheinberg
+13131,650.0,1915.0,Philips,1013.0,Restaurants,Sheridan Catherine,39  Lexington Ave.,Manhattan,New York,New York,39,Lexington,,,,Ave.,,,,Sheridan
+13132,651.0,1915.0,Philips,1013.0,Restaurants,Shore & Son,94.5  Greenwich St.,Manhattan,New York,New York,94.5,Greenwich,,,,St.,,,,Shore
+13133,652.0,1915.0,Philips,1013.0,Restaurants,Shore & Son,823  Church St.,Manhattan,New York,New York,823,Church,,,,St.,,,,Shore
+13134,653.0,1915.0,Philips,1013.0,Restaurants,Siegel Bros.,124  6 Ave.,Manhattan,New York,New York,124,6,,,,Ave.,,,,Siegel
+13135,654.0,1915.0,Philips,1013.0,Restaurants,Sievers Geo.,92  Fulton St.,Manhattan,New York,New York,92,Fulton,,,,St.,,,,Sievers
+13136,655.0,1915.0,Philips,1013.0,Restaurants,Silberman & Ehrlich,62 E. 12 St.,Manhattan,New York,New York,62,12,,,E.,St.,,,,Silberman
+13137,656.0,1915.0,Philips,1013.0,Restaurants,Silva G. N. & H.,139 W. 33 St.,Manhattan,New York,New York,139,33,,,W.,St.,,,,Silva
+13138,657.0,1915.0,Philips,1013.0,Restaurants,Silver A. ,1935  Broadway ,Manhattan,New York,New York,1935,Broadway,,,,,,,,Silver
+13139,658.0,1915.0,Philips,1013.0,Restaurants,Silver A. ,903  8 Ave.,Manhattan,New York,New York,903,8,,,,Ave.,,,,Silver
+13140,659.0,1915.0,Philips,1013.0,Restaurants,Silver A. ,977  8 Ave.,Manhattan,New York,New York,977,8,,,,Ave.,,,,Silver
+13141,660.0,1915.0,Philips,1013.0,Restaurants,Silver Lunch,28 W. 33 St.,Manhattan,New York,New York,28,33,,,W.,St.,,,,Silver
+13142,661.0,1915.0,Philips,1013.0,Restaurants,Simonson G.,118 W. 43 St.,Manhattan,New York,New York,118,43,,,W.,St.,,,,Simonson
+13143,662.0,1915.0,Philips,1013.0,Restaurants,Singer M.,146 W. 26 St.,Manhattan,New York,New York,146,26,,,W.,St.,,,,Singer
+13144,663.0,1915.0,Philips,1013.0,Restaurants,Solomon Bros.,522  8 Ave.,Manhattan,New York,New York,522,8,,,,Ave.,,,,Solomon
+13145,664.0,1915.0,Philips,1013.0,Restaurants,Soubie,123 W. 26 St.,Manhattan,New York,New York,123,26,,,W.,St.,,,,Soubie
+13146,665.0,1915.0,Philips,1013.0,Restaurants,Spilker C. A.,33  Cortlandt St.,Manhattan,New York,New York,33,Cortlandt,,,,St.,,,,Spilker
+13147,666.0,1915.0,Philips,1013.0,Restaurants,Springer Charles ,37 W. 21 St.,Manhattan,New York,New York,37,21,,,W.,St.,,,,Springer
+13148,667.0,1915.0,Philips,1013.0,Restaurants,Stampler I.,30 W. 19 St.,Manhattan,New York,New York,30,19,,,W.,St.,,,,Stampler
+13149,668.0,1915.0,Philips,1013.0,Restaurants,Stampfl Joseph,163 W. 34 St.,Manhattan,New York,New York,163,34,,,W.,St.,,,,Stampfl
+13150,669.0,1915.0,Philips,1013.0,Restaurants,Standard Lunch Co.,124  Chambers St.,Manhattan,New York,New York,124,Chambers,,,,St.,,,,Standard
+13151,670.0,1915.0,Philips,1013.0,Restaurants,Standard Lunch Co.,52  New St.,Manhattan,New York,New York,52,New,,,,St.,,,,Standard
+13152,671.0,1915.0,Philips,1013.0,Restaurants,Star Lunch & Provision Supply Co.,213 E. 120 St.,Manhattan,New York,New York,213,120,,,E.,St.,,,,Star
+13153,672.0,1915.0,Philips,1013.0,Restaurants,Star Restaurant,164 W. 36 St.,Manhattan,New York,New York,164,36,,,W.,St.,,,,Star
+13154,673.0,1915.0,Philips,1013.0,Restaurants,Starin J. ,34 W. 21 St.,Manhattan,New York,New York,34,21,,,W.,St.,,,,Starin
+13155,674.0,1915.0,Philips,1013.0,Restaurants,Stark Max,125 W. 26 St.,Manhattan,New York,New York,125,26,,,W.,St.,,,,Stark
+13156,675.0,1915.0,Philips,1013.0,Restaurants,Steiermann M. H. ,189  7 Ave.,Manhattan,New York,New York,189,7,,,,Ave.,,,,Steiermann
+13157,676.0,1915.0,Philips,1013.0,Restaurants,Strauss M.,76  Fulton St.,Manhattan,New York,New York,76,Fulton,,,,St.,,,,Strauss
+13158,677.0,1915.0,Philips,1013.0,Restaurants,Strauss & Burram,252 W. 14 St.,Manhattan,New York,New York,252,14,,,W.,St.,,,,Strauss
+13159,678.0,1915.0,Philips,1013.0,Restaurants,Stelzer S.,329 E. 14 St.,Manhattan,New York,New York,329,14,,,E.,St.,,,,Stelzer
+13160,679.0,1915.0,Philips,1013.0,Restaurants,Stern Bros.,22  Beaver St.,Manhattan,New York,New York,22,Beaver,,,,St.,,,,Stern
+13161,680.0,1915.0,Philips,1013.0,Restaurants,Stewart's ,26-30  Park Pl.,Manhattan,New York,New York,26-30,Park,,,,Pl.,,,,Stewart's
+13162,681.0,1915.0,Philips,1013.0,Restaurants,Stocks,17  Battery Pl.,Manhattan,New York,New York,17,Battery,,,,Pl.,,,,Stocks
+13163,682.0,1915.0,Philips,1013.0,Restaurants,Stoger Bros.,111  Watts St.,Manhattan,New York,New York,111,Watts,,,,St.,,,,Stoger
+13164,683.0,1915.0,Philips,1013.0,Restaurants,Streifer J.,105 W. 44 St.,Manhattan,New York,New York,105,44,,,W.,St.,,,,Streifer
+13165,684.0,1915.0,Philips,1013.0,Restaurants,Still's Oyster House,195  3 Ave.,Manhattan,New York,New York,195,3,,,,Ave.,,,,Still's
+13166,685.0,1915.0,Philips,1013.0,Restaurants,Stroub Bros.,153 E. 125 St.,Manhattan,New York,New York,153,125,,,E.,St.,,,,Stroub
+13167,686.0,1915.0,Philips,1013.0,Restaurants,Strothmann F.,16 E. 13 St.,Manhattan,New York,New York,16,13,,,E.,St.,,,,Strothmann
+13168,687.0,1915.0,Philips,1013.0,Restaurants,Suerken J. P. & Bro.,27  Park Pl.,Manhattan,New York,New York,27,Park,,,,Pl.,,,,Suerken
+13169,688.0,1915.0,Philips,1013.0,Restaurants,Surwertz & Wasserman ,24 W. 17 St.,Manhattan,New York,New York,24,17,,,W.,St.,,,,Surwertz
+13170,689.0,1915.0,Philips,1013.0,Restaurants,Swanson & Frost,423  Lexington St.,Manhattan,New York,New York,423,Lexington,,,,St.,,,,Swanson
+13171,690.0,1915.0,Philips,1013.0,Restaurants,Swanson & Frost,445  Lexington St.,Manhattan,New York,New York,445,Lexington,,,,St.,,,,Swanson
+13172,691.0,1915.0,Philips,1013.0,Restaurants,Sweeney Jas. J.,37  Beaver St.,Manhattan,New York,New York,37,Beaver,,,,St.,,,,Sweeney
+13173,692.0,1915.0,Philips,1013.0,Restaurants,Sweet's A. M. Sons,4  Fulton St.,Manhattan,New York,New York,4,Fulton,,,,St.,,,,Sweet's
+13174,693.0,1915.0,Philips,1013.0,Restaurants,Tallyho Buffet Lunch Corpn.,859  Broadway ,Manhattan,New York,New York,859,Broadway,,,,,,,,Tallyho
+13175,694.0,1915.0,Philips,1013.0,Restaurants,Terminal Lunch Co.,22  John St.,Manhattan,New York,New York,22,John,,,,St.,,,,Terminal
+13176,695.0,1915.0,Philips,1013.0,Restaurants,Terminal Lunch Co.,60  John St.,Manhattan,New York,New York,60,John,,,,St.,,,,Terminal
+13177,696.0,1915.0,Philips,1014.0,Restaurants,Terzian H.,151 E. 26 St.,Manhattan,New York,New York,151,26,,,E.,St.,,,,Terzian
+13178,697.0,1915.0,Philips,1014.0,Restaurants,37th St. Tea Rooms,11 W. 37 St.,Manhattan,New York,New York,11,37,,,W.,St.,,,,37th
+13179,698.0,1915.0,Philips,1014.0,Restaurants,Thomann's ,183  6 Ave.,Manhattan,New York,New York,183,6,,,,Ave.,,,,Thomann's
+13180,699.0,1915.0,Philips,1014.0,Restaurants,Thomashoff's,411  Broadway ,Manhattan,New York,New York,411,Broadway,,,,,,,,Thomashoff's
+13181,700.0,1915.0,Philips,1014.0,Restaurants,Thompson F. D.,1843  Broadway ,Manhattan,New York,New York,1843,Broadway,,,,,,,,Thompson
+13182,701.0,1915.0,Philips,1014.0,Restaurants,Thompson Gertrude,120  Front St.,Manhattan,New York,New York,120,Front,,,,St.,,,,Thompson
+13183,702.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",33  Park Row,Manhattan,New York,New York,33,Park,,,,Row,,,,"Thompson,"
+13184,703.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",1129  Broadway ,Manhattan,New York,New York,1129,Broadway,,,,,,,,"Thompson,"
+13185,704.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",1259  Broadway ,Manhattan,New York,New York,1259,Broadway,,,,,,,,"Thompson,"
+13186,705.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",1365  Broadway ,Manhattan,New York,New York,1365,Broadway,,,,,,,,"Thompson,"
+13187,706.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",113  Nassau St.,Manhattan,New York,New York,113,Nassau,,,,St.,,,,"Thompson,"
+13188,707.0,1915.0,Philips,1014.0,Restaurants,"Thompson, John R.",87 E. 42 St.,Manhattan,New York,New York,87,42,,,E.,St.,,,,"Thompson,"
+13189,708.0,1915.0,Philips,1014.0,Chinese Restaurant,Tran Henry,29 W. 19 St.,Manhattan,New York,New York,29,19,,,W.,St.,,,,Tran
+13190,709.0,1915.0,Philips,1014.0,Restaurants,Trautwein M.,45  Barclay St.,Manhattan,New York,New York,45,Barclay,,,,St.,,,,Trautwein
+13191,710.0,1915.0,Philips,1014.0,Restaurants,Trinity Lunch,447  7 Ave.,Manhattan,New York,New York,447,7,,,,Ave.,,,,Trinity
+13192,711.0,1915.0,Philips,1014.0,Restaurants,Trinity Lunch Co.,83  Maiden La.,Manhattan,New York,New York,83,Maiden,,,,La.,,,,Trinity
+13193,712.0,1915.0,Philips,1014.0,Restaurants,Trotzky H.,673  Broadway ,Manhattan,New York,New York,673,Broadway,,,,,,,,Trotzky
+13194,713.0,1915.0,Philips,1014.0,Restaurants,Tuchfeld M.,10 W. 21 St.,Manhattan,New York,New York,10,21,,,W.,St.,,,,Tuchfeld
+13195,714.0,1915.0,Philips,1014.0,Restaurants,Tucker A. L. Jr.,422  Canal St.,Manhattan,New York,New York,422,Canal,,,,St.,,,,Tucker
+13196,715.0,1915.0,Philips,1014.0,Restaurants,Unathum Theresa,61 W. 35 St.,Manhattan,New York,New York,61,35,,,W.,St.,,,,Unathum
+13197,716.0,1915.0,Philips,1014.0,Restaurants,Viemeister H. W.,45 E. 18 St.,Manhattan,New York,New York,45,18,,,E.,St.,,,,Viemeister
+13198,717.0,1915.0,Philips,1014.0,Restaurants,Virginia Tea Room,901  7 Ave.,Manhattan,New York,New York,901,7,,,,Ave.,,,,Virginia
+13199,718.0,1915.0,Philips,1014.0,Restaurants,Vogel's Vienna Cafe,46 W. 21 St.,Manhattan,New York,New York,46,21,,,W.,St.,,,,Vogel's
+13200,719.0,1915.0,Philips,1014.0,Restaurants,W. & G. Bakery & Lunch Room,679  Broadway ,Manhattan,New York,New York,679,Broadway,,,,,,,,W.
+13201,720.0,1915.0,Philips,1014.0,Restaurants,W. & G. Bakery & Lunch Room,751  Broadway ,Manhattan,New York,New York,751,Broadway,,,,,,,,W.
+13202,721.0,1915.0,Philips,1014.0,Restaurants,W. & G. Restaurant,261  Broadway ,Manhattan,New York,New York,261,Broadway,,,,,,,,W.
+13203,722.0,1915.0,Philips,1014.0,Restaurants,Wagner Emil,25  Bowery St.,Manhattan,New York,New York,25,Bowery,,,,St.,,,,Wagner
+13204,723.0,1915.0,Philips,1014.0,Restaurants,Wallach & Newman,84  Cortlandt St.,Manhattan,New York,New York,84,Cortlandt,,,,St.,,,,Wallach
+13205,724.0,1915.0,Philips,1014.0,Restaurants,Wallach & Newman,110  West St.,Manhattan,New York,New York,110,West,,,,St.,,,,Wallach
+13206,725.0,1915.0,Philips,1014.0,Restaurants,Wallach's,110  West St.,Manhattan,New York,New York,110,West,,,,St.,,,,Wallach's
+13207,726.0,1915.0,Philips,1014.0,Restaurants,Wallicks,  Broadway ,Manhattan,New York,New York,,Broadway,,,,,,,,Wallicks
+13208,727.0,1915.0,Philips,1014.0,Restaurants,Wallicks,  43 St.,Manhattan,New York,New York,,43,,,,St.,,,,Wallicks
+13209,728.0,1915.0,Philips,1014.0,Restaurants,Wallman Joseph,136  Broad St.,Manhattan,New York,New York,136,Broad,,,,St.,,,,Wallman
+13210,729.0,1915.0,Philips,1014.0,Restaurants,Walton T.,245  8 Ave.,Manhattan,New York,New York,245,8,,,,Ave.,,,,Walton
+13211,730.0,1915.0,Philips,1014.0,Restaurants,"Warners Mrs., Tea Shop",13 E. 35 St.,Manhattan,New York,New York,13,35,,,E.,St.,,,,Warners
+13212,731.0,1915.0,Philips,1014.0,Restaurants,Washer Wm. H.,2365  Broadway ,Manhattan,New York,New York,2365,Broadway,,,,,,,,Washer
+13213,732.0,1915.0,Philips,1014.0,Restaurants,Wasser David,7 W. 31 St.,Manhattan,New York,New York,7,31,,,W.,St.,,,,Wasser
+13214,733.0,1915.0,Philips,1014.0,Restaurants,Weber Max,127 W. 22 St.,Manhattan,New York,New York,127,22,,,W.,St.,,,,Weber
+13215,734.0,1915.0,Philips,1014.0,Restaurants,Wee Nook Lunch & Tea Room,13 W. 35 St.,Manhattan,New York,New York,13,35,,,W.,St.,,,,Wee
+13216,735.0,1915.0,Philips,1014.0,Restaurants,Weisenberg M.,279 W. Broadway ,Manhattan,New York,New York,279,Broadway,,,W.,,,,,Weisenberg
+13217,736.0,1915.0,Philips,1014.0,Restaurants,Weiss L.,264  Grand St.,Manhattan,New York,New York,264,Grand,,,,St.,,,,Weiss
+13218,737.0,1915.0,Philips,1014.0,Restaurants,Welsh J. T.,170  7 Ave.,Manhattan,New York,New York,170,7,,,,Ave.,,,,Welsh
+13219,738.0,1915.0,Philips,1014.0,Restaurants,West Shore Dining Room,645 W. 42 St.,Manhattan,New York,New York,645,42,,,W.,St.,,,,West
+13220,739.0,1915.0,Philips,1014.0,Restaurants,Westchester Dairy & Res.,87  John St.,Manhattan,New York,New York,87,John,,,,St.,,,,Westchester
+13221,740.0,1915.0,Philips,1014.0,Restaurants,Western Lunch,528  6 Ave.,Manhattan,New York,New York,528,6,,,,Ave.,,,,Western
+13222,741.0,1915.0,Philips,1014.0,Restaurants,Wetzel Chas. F.,152 E. 23 St.,Manhattan,New York,New York,152,23,,,E.,St.,,,,Wetzel
+13223,742.0,1915.0,Philips,1014.0,Restaurants,Whyte's,145  Fulton St.,Manhattan,New York,New York,145,Fulton,,,,St.,,,,Whyte's
+13224,743.0,1915.0,Philips,1014.0,Restaurants,Wiehl & Widmann,101  Chambers St.,Manhattan,New York,New York,101,Chambers,,,,St.,,,,Wiehl
+13225,744.0,1915.0,Philips,1014.0,Restaurants,Wiener H.,118  Wall St.,Manhattan,New York,New York,118,Wall,,,,St.,,,,Wiener
+13226,745.0,1915.0,Philips,1014.0,Restaurants,Williams & Biscotti,77  John St.,Manhattan,New York,New York,77,John,,,,St.,,,,Williams
+13227,746.0,1915.0,Philips,1014.0,Restaurants,Wimmer L.,897  Prospect Ave.,Manhattan,New York,New York,897,Prospect,,,,Ave.,,,,Wimmer
+13228,747.0,1915.0,Philips,1014.0,Restaurants,Wishkowsky L.,247 E. 14 St.,Manhattan,New York,New York,247,14,,,E.,St.,,,,Wishkowsky
+13229,748.0,1915.0,Philips,1014.0,Restaurants,Witcomb J. A.,521  Broadway ,Manhattan,New York,New York,521,Broadway,,,,,,,,Witcomb
+13230,749.0,1915.0,Philips,1014.0,Restaurants,Wollenhaupt H.,37 E. 19 St.,Manhattan,New York,New York,37,19,,,E.,St.,,,,Wollenhaupt
+13231,750.0,1915.0,Philips,1014.0,Restaurants,Woolworth Buffet Lunch,12  Barclay St.,Manhattan,New York,New York,12,Barclay,,,,St.,,,,Woolworth
+13232,751.0,1915.0,Philips,1014.0,Restaurants,Yale Lunch,1 E. 28 St.,Manhattan,New York,New York,1,28,,,E.,St.,,,,Yale
+13233,752.0,1915.0,Philips,1014.0,Restaurants,Yale Lunch,14 E. 42 St.,Manhattan,New York,New York,14,42,,,E.,St.,,,,Yale
+13234,753.0,1915.0,Philips,1014.0,Restaurants,Ye Cosmos Luncheon & Tea Shop,57 W. 35 St.,Manhattan,New York,New York,57,35,,,W.,St.,,,,Ye
+13235,754.0,1915.0,Philips,1014.0,Restaurants,Yellow Aster Dining Room,17 W. 35 St.,Manhattan,New York,New York,17,35,,,W.,St.,,,,Yellow
+13236,755.0,1915.0,Philips,1014.0,Restaurants,Ye Olde English Coffee House,28 W. 43 St.,Manhattan,New York,New York,28,43,,,W.,St.,,,,Ye
+13237,756.0,1915.0,Philips,1014.0,Restaurants,Ye Olde Tavern,161  Duane St.,Manhattan,New York,New York,161,Duane,,,,St.,,,,Ye
+13238,757.0,1915.0,Philips,1014.0,Restaurants,Yet-Wah-Low & Co.,103 W. 44 St.,Manhattan,New York,New York,103,44,,,W.,St.,,,,Yet-Wah-Low
+13239,758.0,1915.0,Philips,1014.0,Restaurants,Zangan & Loomas,167 W. 23 St.,Manhattan,New York,New York,167,23,,,W.,St.,,,,Zangan
+13240,759.0,1915.0,Philips,1014.0,Restaurants,Zankel Max,48 W. 27 St.,Manhattan,New York,New York,48,27,,,W.,St.,,,,Zankel
+13241,760.0,1915.0,Philips,1014.0,Restaurants,Zeltner Theo.,549  Pearl St.,Manhattan,New York,New York,549,Pearl,,,,St.,,,,Zeltner
+13242,761.0,1915.0,Philips,1014.0,Restaurants,Ziegler Wm.,  Jerome Ave.,Manhattan,New York,New York,,Jerome,,,,Ave.,,,,Ziegler
+13243,762.0,1915.0,Philips,1014.0,Restaurants,Ziegler Wm.,  Fordham  Rd.,Manhattan,New York,New York,,Fordham ,,,,Rd.,,,,Ziegler
+13244,763.0,1915.0,Philips,1014.0,Restaurants,Zimmermann C.,119 E. 18 St.,Manhattan,New York,New York,119,18,,,E.,St.,,,,Zimmermann
+13245,764.0,1915.0,Philips,1014.0,Restaurants,Zinke B.,676  8 Ave.,Manhattan,New York,New York,676,8,,,,Ave.,,,,Zinke
+13247,1.0,1910.0,Trow's,826.0,Restaurants,A Modern Dining Room,41 W. 21 St.,Manhattan,New York,New York,41,W.,21,St.,,,,,,A
+13248,1.0,1920.0,Phillip's,1182.0,,Abbondi August,439 6 Ave ,Manhattan,New York,New York,439,6,Ave,,,,,,,Abbondi
+13249,1.0,1920.0,Phillip's,1182.0,,Abbott E. ,2708 Broadway  ,,New York,New York,2708,Broadway,,,,,,,,Abbott
+13250,1.0,1920.0,Phillip's,1182.0,,Abott O. B.,2555 Broadway  ,,New York,New York,2555,Broadway,,,,,,,,Abott
+13251,1.0,1920.0,Phillip's,1182.0,,Aberbach S.,165 Canal  ,,New York,New York,165,Canal,,,,,,,,Aberbach
+13252,1.0,1920.0,Phillip's,1182.0,,Abramson M.,1471 Madison Ave ,Manhattan,New York,New York,1471,Madison,Ave,,,,,,,Abramson
+13253,1.0,1920.0,Phillip's,1182.0,,Achorn H. D.,218 W 96 St.,Manhattan,New York,New York,218,W,96,St.,,,,,,Achorn
+13254,1.0,1920.0,Phillip's,1182.0,,Adams Rose R.,266 8 Ave ,,New York,New York,266,8,Ave,,,,,,,Adams
+13255,1.0,1920.0,Phillip's,1182.0,,Addieg F.,26 W 18 St.,Manhattan,New York,New York,26,W,18,St.,,,,,,Addieg
+13256,1.0,1920.0,Phillip's,1182.0,,Adler & Haskell,95 Spring St. ,,New York,New York,95,Spring,St.,,,,,,,Adler
+13257,1.0,1920.0,Phillip's,1182.0,,Afcharoff A.,267 W 33 St.,,New York,New York,267,W,33,St.,,,,,,Afcharoff
+13258,1.0,1920.0,Phillip's,1182.0,,Aquarium ,225 W 42 St.,,New York,New York,225,W,42,St.,,,,,,Aquarium
+13259,1.0,1920.0,Phillip's,1182.0,,Alamo Restaurant,253 W 125 St.,,New York,New York,253,W,125,St.,,,,,,Alamo
+13260,1.0,1920.0,Phillip's,1182.0,,Albasi & Mazzari,909 Columbus Ave ,,New York,New York,909,Columbus,Ave,,,,,,,Albasi
+13261,,1920.0,Phillip's,1182.0,,Albers L.,46 W 22 St.,,New York,New York,46,W,22,St.,,,,,,Albers
+13262,,1920.0,Phillip's,1182.0,,Alleva Ernesto,57 Spring St. ,,New York,New York,57,Spring,St.,,,,,,,Alleva
+13263,,1920.0,Phillip's,1182.0,,Alps The,1022 6 Ave ,,New York,New York,1022,6,Ave,,,,,,,Alps
+13264,,1920.0,Phillip's,1182.0,,Als Jacobs,40 W 4 St.,,New York,New York,40,W,4,St.,,,,,,Als
+13265,,1920.0,Phillip's,1182.0,,Altman Hyman ,472 Broadway  ,,New York,New York,472,Broadway,,,,,,,,Altman
+13266,,1920.0,Phillip's,1182.0,,Am Hugarian,105 W 38 St.,,New York,New York,105,W,38,St.,,,,,,Am
+13267,,1920.0,Phillip's,1182.0,,Am Lunch Co.,413 10 Ave ,,New York,New York,413,10,Ave,,,,,,,Am
+13268,,1920.0,Phillip's,1182.0,,Amron's ,1587 Broadway  ,,New York,New York,1587,Broadway,,,,,,,,Amron's
+13269,,1920.0,Phillip's,1182.0,,Angers E. W.,368 Alexander  Ave ,,New York,New York,368,Alexander ,Ave,,,,,,,Angers
+13270,,1920.0,Phillip's,1182.0,,Apfelberg M.,272 Broome St. ,,New York,New York,272,Broome,St.,,,,,,,Apfelberg
+13271,,1920.0,Phillip's,1182.0,,Apthorf,2520 Broadway  ,,New York,New York,2520,Broadway,,,,,,,,Apthorf
+13272,,1920.0,Phillip's,1182.0,,Arcade Lunch,42 Park Pl ,,New York,New York,42,Park,Pl,,,,,,,Arcade
+13273,,1920.0,Phillip's,1182.0,,Archambeault's ,2678 Broadway  ,,New York,New York,2678,Broadway,,,,,,,,Archambeault's
+13274,,1920.0,Phillip's,1182.0,,Arrow Head Inn,c 177 &  Hudson,,New York,New York,c,177,& ,Hudson,,,,,,Arrow
+13275,,1920.0,Phillip's,1182.0,,Asahi,48 W 39 St.,,New York,New York,48,W,39,St.,,,,,,Asahi
+13276,,1920.0,Phillip's,1182.0,,Asendorf Fred & Co,108 W 18 St.,,New York,New York,108,W,18,St.,,,,,,Asendorf
+13277,,1920.0,Phillip's,1182.0,,Assante & Giaquinto,608 W 181 St.,,New York,New York,608,W,181,St.,,,,,,Assante
+13278,,1920.0,Phillip's,1182.0,,Assimakis Louis,19 E 15 St.,,New York,New York,19,E,15,St.,,,,,,Assimakis
+13279,,1920.0,Phillip's,1182.0,,As-You-Like-It Tea Room,83 Beaver St. ,,New York,New York,83,Beaver,St.,,,,,,,As-You-Like-It
+13280,,1920.0,Phillip's,1182.0,,Auerbach H.,1971 1 Ave ,,New York,New York,1971,1,Ave,,,,,,,Auerbach
+13281,,1920.0,Phillip's,1182.0,,Automatic Dining Room,1247 Broadway  ,,New York,New York,1247,Broadway,,,,,,,,Automatic
+13282,,1920.0,Phillip's,1182.0,,Baboulis Z. A.,73 Worchester  Sq ,,New York,New York,73,Worchester ,Sq,,,,,,,Baboulis
+13283,,1920.0,Phillip's,1182.0,,Baclavas & Damasko Inc,157 E 42 St.,,New York,New York,157,E,42,St.,,,,,,Baclavas
+13284,,1920.0,Phillip's,1182.0,,Bailetto Ignazio & Nicoloisi,94 Catharine St. ,,New York,New York,94,Catharine,St.,,,,,,,Bailetto
+13285,,1920.0,Phillip's,1182.0,,Baldin's ,315 Broadway  ,,New York,New York,315,Broadway,,,,,,,,Baldin's
+13286,,1920.0,Phillip's,1182.0,,Balli Restaurant,119 W 83 St.,,New York,New York,119,W,83,St.,,,,,,Balli
+13287,,1920.0,Phillip's,1182.0,,Balzarini & Gravano,2141 8 Ave ,,New York,New York,2141,8,Ave,,,,,,,Balzarini
+13288,,1920.0,Phillip's,1182.0,,Banka A. C.,933 8 Ave ,,New York,New York,933,8,Ave,,,,,,,Banka
+13289,,1920.0,Phillip's,1182.0,,Banks Thos. H.,25 W 133 St.,,New York,New York,25,W,133,St.,,,,,,Banks
+13290,,1920.0,Phillip's,1182.0,,Baracca Inc,39 S William St.,,New York,New York,39,S,William,St.,,,,,,Baracca
+13291,,1920.0,Phillip's,1182.0,,Barbesino F & Co.,315 W 42 St.,,New York,New York,315,W,42,St.,,,,,,Barbesino
+13292,,1920.0,Phillip's,1182.0,,Barbieri Henry,124 W 44 St.,,New York,New York,124,W,44,St.,,,,,,Barbieri
+13293,,1920.0,Phillip's,1182.0,,Barkin & Lassman,2268 Broadway  ,,New York,New York,2268,Broadway,,,,,,,,Barkin
+13294,,1920.0,Phillip's,1182.0,,Barnett A. M.,197 Lenox Ave ,,New York,New York,197,Lenox,Ave,,,,,,,Barnett
+13295,,1920.0,Phillip's,1182.0,,Barro & Muller,26 E 20 St.,,New York,New York,26,E,20,St.,,,,,,Barro
+13296,,1920.0,Phillip's,1182.0,,Barth J.,32 W 28 St.,,New York,New York,32,W,28,St.,,,,,,Barth
+13297,,1920.0,Phillip's,1182.0,,Bartos M.,543 W 145 St.,,New York,New York,543,W,145,St.,,,,,,Bartos
+13298,,1920.0,Phillip's,1182.0,,Batzing Frank J.,383 Broome St. ,,New York,New York,383,Broome,St.,,,,,,,Batzing
+13299,,1920.0,Phillip's,1182.0,,Baum Bros.,51 W 19 St.,,New York,New York,51,W,19,St.,,,,,,Baum
+13300,,1920.0,Phillip's,1182.0,,Baumann Harry,369 Lexington Ave ,,New York,New York,369,Lexington,Ave,,,,,,,Baumann
+13301,,1920.0,Phillip's,1182.0,,Bay State Lunch Co,1 Frankfort St. ,,New York,New York,1,Frankfort,St.,,,,,,,Bay
+13302,,1920.0,Phillip's,1182.0,,Beach E. L.,80 Nassau St. ,,New York,New York,80,Nassau,St.,,,,,,,Beach
+13303,,1920.0,Phillip's,1182.0,,Beaver Café,51 Beaver St. ,,New York,New York,51,Beaver,St.,,,,,,,Beaver
+13304,,1920.0,Phillip's,1182.0,,Beck & McCarty Inc,90 Nassau St. ,,New York,New York,90,Nassau,St.,,,,,,,Beck
+13305,,1920.0,Phillip's,1182.0,,Beekman Café Co.,1 Beekman St. ,,New York,New York,1,Beekman,St.,,,,,,,Beekman
+13306,,1920.0,Phillip's,1182.0,,Begis J.,112 Cedar St. ,,New York,New York,112,Cedar,St.,,,,,,,Begis
+13307,,1920.0,Phillip's,1182.0,,Beldner J.,480 Canal St. ,,New York,New York,480,Canal,St.,,,,,,,Beldner
+13308,,1920.0,Phillip's,1182.0,,Bell Catering Co,50 Broad St. ,,New York,New York,50,Broad,St.,,,,,,,Bell
+13309,,1920.0,Phillip's,1182.0,,Belmore Lunch Co,24 E 23 St.,,New York,New York,24,E,23,St.,,,,,,Belmore
+13310,,1920.0,Phillip's,1182.0,,Berfield Leo,2308 Broadway  ,,New York,New York,2308,Broadway,,,,,,,,Berfield
+13311,,1920.0,Phillip's,1182.0,,Berger Geo C.,324 Broome St. ,,New York,New York,324,Broome,St.,,,,,,,Berger
+13312,,1920.0,Phillip's,1182.0,,Bergfield L.,2306 Broadway  ,,New York,New York,2306,Broadway,,,,,,,,Bergfield
+13313,,1920.0,Phillip's,1182.0,,Bergin Michael J.,35 Cooper Sq ,,New York,New York,35,Cooper,Sq,,,,,,,Bergin
+13314,,1920.0,Phillip's,1182.0,,Bergman & Silbiger ,93 Nassau St. ,,New York,New York,93,Nassau,St.,,,,,,,Bergman
+13315,,1920.0,Phillip's,1182.0,,Bergmann's,45 Liberty St. ,,New York,New York,45,Liberty,St.,,,,,,,Bergmann's
+13316,,1920.0,Phillip's,1182.0,,Berkowitz J.,50 Hudson St. ,,New York,New York,50,Hudson,St.,,,,,,,Berkowitz
+13317,,1920.0,Phillip's,1182.0,,Berkshire Lunch ,954 Broadway  ,,New York,New York,954,Broadway,,,,,,,,Berkshire

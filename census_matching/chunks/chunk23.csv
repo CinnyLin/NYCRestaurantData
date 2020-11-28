@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+13318,,1920.0,Phillip's,1182.0,,Berlin N.,120 W 17 St.,,New York,New York,120,W,17,St.,,,,,,Berlin
+13319,,1920.0,Phillip's,1182.0,,Berman H.,500 Claremont Pkwy ,,New York,New York,500,Claremont,Pkwy,,,,,,,Berman
+13320,,1920.0,Phillip's,1183.0,,Bernkopf N.,43 W 21 St.,,New York,New York,43,W,21,St.,,,,,,Bernkopf
+13321,,1920.0,Phillip's,1183.0,,Bernstein M,66 Canal St. ,,New York,New York,66,Canal,St.,,,,,,,Bernstein
+13322,,1920.0,Phillip's,1183.0,,Bernstein Max,3197 Broadway  ,,New York,New York,3197,Broadway,,,,,,,,Bernstein
+13323,,1920.0,Phillip's,1183.0,,Bertha-Clare Tea Room,49 W 39 St.,,New York,New York,49,W,39,St.,,,,,,Bertha-Clare
+13324,,1920.0,Phillip's,1183.0,,Betsy Ross Tea Room,40 Maiden La ,,New York,New York,40,Maiden,La,,,,,,,Betsy
+13325,,1920.0,Phillip's,1183.0,,Biehn Carl,415 W 42 St.,,New York,New York,415,W,42,St.,,,,,,Biehn
+13326,,1920.0,Phillip's,1183.0,,Birenberg Max,536 7 Ave ,,New York,New York,536,7,Ave,,,,,,,Birenberg
+13327,,1920.0,Phillip's,1183.0,,Blackstone Cafeteria,66.5 Pine St. ,,New York,New York,66.5,Pine,St.,,,,,,,Blackstone
+13328,,1920.0,Phillip's,1183.0,,Block H.,1169 Madison Ave ,,New York,New York,1169,Madison,Ave,,,,,,,Block
+13329,,1920.0,Phillip's,1183.0,,Block M.,144 E 86 St.,,New York,New York,144,E,86,St.,,,,,,Block
+13330,,1920.0,Phillip's,1183.0,,Boat House Restaurant,c Boston  Rd &,,New York,New York,c,Boston ,Rd,&,,,,,,Boat
+13331,,1920.0,Phillip's,1183.0,,Bodanoff M.,1302 Washington Ave ,,New York,New York,1302,Washington,Ave,,,,,,,Bodanoff
+13332,,1920.0,Phillip's,1183.0,,Bohlen H. J.,177 William St. ,,New York,New York,177,William,St.,,,,,,,Bohlen
+13333,,1920.0,Phillip's,1183.0,,Bonocchi F.,14 Franklin St. ,,New York,New York,14,Franklin,St.,,,,,,,Bonocchi
+13334,,1920.0,Phillip's,1183.0,,Boondas C.,1284 South Blvd ,,New York,New York,1284,South,Blvd,,,,,,,Boondas
+13335,,1920.0,Phillip's,1183.0,,Born Jacob,2362 3 Ave ,,New York,New York,2362,3,Ave,,,,,,,Born
+13336,,1920.0,Phillip's,1183.0,,Bossert El.,536 Hudson St. ,,New York,New York,536,Hudson,St.,,,,,,,Bossert
+13337,,1920.0,Phillip's,1183.0,,Boosert W. A.,432 Hudson St. ,,New York,New York,432,Hudson,St.,,,,,,,Boosert
+13338,,1920.0,Phillip's,1183.0,,Booseshon A.,162 E 4 ,,New York,New York,162,E,4,,,,,,,Booseshon
+13339,,1920.0,Phillip's,1183.0,,Boston Lunch,191 Greenwich St. ,,New York,New York,191,Greenwich,St.,,,,,,,Boston
+13340,,1920.0,Phillip's,1183.0,,Botsacos N. J.,1365 St. Nicholas Ave ,,New York,New York,1365,St. Nicholas,Ave,,,,,,,Botsacos
+13341,,1920.0,Phillip's,1183.0,,Boulevard Lunch,1284 South Blvd ,,New York,New York,1284,South,Blvd,,,,,,,Boulevard
+13342,,1920.0,Phillip's,1183.0,,Bradford's Restaurant ,73 W 134 St.,,New York,New York,73,W,134,St.,,,,,,Bradford's
+13343,,1920.0,Phillip's,1183.0,,Braun F.,802 Washington St. ,,New York,New York,802,Washington,St.,,,,,,,Braun
+13344,,1920.0,Phillip's,1183.0,,Braverman Harry,2394 Broadway  ,,New York,New York,2394,Broadway,,,,,,,,Braverman
+13345,,1920.0,Phillip's,1183.0,,Bremer H.,92 Fulton St. ,,New York,New York,92,Fulton,St.,,,,,,,Bremer
+13346,,1920.0,Phillip's,1183.0,,Brenner Louis,989.5 Westchester Ave ,,New York,New York,989.5,Westchester,Ave,,,,,,,Brenner
+13347,,1920.0,Phillip's,1183.0,,Brighton Lunch,161 W 34 St.,,New York,New York,161,W,34,St.,,,,,,Brighton
+13348,,1920.0,Phillip's,1183.0,,Brinkman Chas. H.,130 Church St.  ,,New York,New York,130,Church,St. ,,,,,,,Brinkman
+13349,,1920.0,Phillip's,1183.0,,Bristol J. E.,600 6 Ave ,,New York,New York,600,6,Ave,,,,,,,Bristol
+13350,,1920.0,Phillip's,1183.0,,Broad Exchange Café,25 Broad St. ,,New York,New York,25,Broad,St.,,,,,,,Broad
+13351,,1920.0,Phillip's,1183.0,,Broadway Rose Garden,810 7 Ave ,,New York,New York,810,7,Ave,,,,,,,Broadway
+13352,,1920.0,Phillip's,1183.0,,Brod Joseph ,554 W 158 St.,,New York,New York,554,W,158,St.,,,,,,Brod
+13353,,1920.0,Phillip's,1183.0,,Brodsky Joseph,554 W 158 St.,,New York,New York,554,W,158,St.,,,,,,Brodsky
+13354,,1920.0,Phillip's,1183.0,,Bronx Hofbrau Haus,534 Willis Ave ,,New York,New York,534,Willis,Ave,,,,,,,Bronx
+13355,,1920.0,Phillip's,1183.0,,Bronx Restaurant,379 E 148 St.,,New York,New York,379,E,148,St.,,,,,,Bronx
+13356,,1920.0,Phillip's,1183.0,,Brower Wm. H. Jr.,1086 2 Ave ,,New York,New York,1086,2,Ave,,,,,,,Brower
+13357,,1920.0,Phillip's,1183.0,,Brown Betty Luncheon & Tea Room,72 Wall St. ,,New York,New York,72,Wall,St.,,,,,,,Brown
+13358,,1920.0,Phillip's,1183.0,,Brown Randolph,c 172 & Jerome,,New York,New York,c,172,&,Jerome,,,,,,Brown
+13359,,1920.0,Phillip's,1183.0,,Browne's Chop House ,1424 Broadway  ,,New York,New York,1424,Broadway,,,,,,,,Browne's
+13360,,1920.0,Phillip's,1183.0,,Brown's Lunch & Restaurant,c Franklin St. &,,New York,New York,c,Franklin,St.,&,,,,,,Brown's
+13361,,1920.0,Phillip's,1183.0,,Brun Wm.,8 W 28 St.,,New York,New York,8,W,28,St.,,,,,,Brun
+13362,,1920.0,Phillip's,1183.0,,Bruschi D.,12 Franklin St. ,,New York,New York,12,Franklin,St.,,,,,,,Bruschi
+13363,,1920.0,Phillip's,1183.0,,Buchalter S.,716 Broadway  ,,New York,New York,716,Broadway,,,,,,,,Buchalter
+13364,,1920.0,Phillip's,1183.0,,Buchalter S.,827 Broadway  ,,New York,New York,827,Broadway,,,,,,,,Buchalter
+13365,,1920.0,Phillip's,1183.0,,Buck Geo.,37 W 43 St.,,New York,New York,37,W,43,St.,,,,,,Buck
+13366,,1920.0,Phillip's,1183.0,,Buffet Terminal Lunch,10 Courtlandt St. ,,New York,New York,10,Courtlandt,St.,,,,,,,Buffet
+13367,,1920.0,Phillip's,1183.0,,Bunn A. C. ,c William St. & ,,New York,New York,c,William,St.,& ,,,,,,Bunn
+13368,,1920.0,Phillip's,1183.0,,Burdack Carl,308 Pearl St. ,,New York,New York,308,Pearl,St.,,,,,,,Burdack
+13369,,1920.0,Phillip's,1183.0,,Burke J. L.,62 John St. ,,New York,New York,62,John,St.,,,,,,,Burke
+13370,,1920.0,Phillip's,1183.0,,Burke Jas.,724 8 Ave ,,New York,New York,724,8,Ave,,,,,,,Burke
+13371,,1920.0,Phillip's,1183.0,,Burman I.,89 E 10 St.,,New York,New York,89,E,10,St.,,,,,,Burman
+13372,,1920.0,Phillip's,1183.0,,Burns George,324 Greenwich St. ,,New York,New York,324,Greenwich,St.,,,,,,,Burns
+13373,,1920.0,Phillip's,1183.0,,C. & L. Lunch Co.,2855 Broadway  ,,New York,New York,2855,Broadway,,,,,,,,C.
+13374,,1920.0,Phillip's,1183.0,,C. & L. Lunch Co.,2246 Broadway  ,,New York,New York,2246,Broadway,,,,,,,,C.
+13375,,1920.0,Phillip's,1183.0,,C. B. Lunch Co.,2246 Broadway  ,,New York,New York,2246,Broadway,,,,,,,,C.
+13376,,1920.0,Phillip's,1183.0,,Café Boulevard ,c Broadway & 41,,New York,New York,c,Broadway,&,41,,,,,,Café
+13377,,1920.0,Phillip's,1183.0,,Café Bousquet,157 W 44 St.,,New York,New York,157,W,44,St.,,,,,,Café
+13378,,1920.0,Phillip's,1183.0,,Café Des Beaux Arts,80 W 40 St.,,New York,New York,80,W,40,St.,,,,,,Café
+13379,,1920.0,Phillip's,1183.0,,Café Gross Inc,45 Broad St. ,,New York,New York,45,Broad,St.,,,,,,,Café
+13380,,1920.0,Phillip's,1183.0,,Café Hugo,109 W 38 St.,,New York,New York,109,W,38,St.,,,,,,Café
+13381,,1920.0,Phillip's,1183.0,,Café Laloy,230 W 39 St.,,New York,New York,230,W,39,St.,,,,,,Café
+13382,,1920.0,Phillip's,1183.0,,Café New York ,1414 Broadway  ,,New York,New York,1414,Broadway,,,,,,,,Café
+13383,,1920.0,Phillip's,1183.0,,Café Parfait,18 Warren St. ,,New York,New York,18,Warren,St.,,,,,,,Café
+13384,,1920.0,Phillip's,1183.0,,Café St. Gall,136 5 Ave ,,New York,New York,136,5,Ave,,,,,,,Café
+13385,,1920.0,Phillip's,1183.0,,Café Savarin,120 Broadway  ,,New York,New York,120,Broadway,,,,,,,,Café
+13386,,1920.0,Phillip's,1183.0,,Calama S.,365 W 42 St.,,New York,New York,365,W,42,St.,,,,,,Calama
+13387,,1920.0,Phillip's,1183.0,,Calcagnini Angelo,161 Pearl St. ,,New York,New York,161,Pearl,St.,,,,,,,Calcagnini
+13388,,1920.0,Phillip's,1183.0,,California Restaurant Co.,1385 5 Ave ,,New York,New York,1385,5,Ave,,,,,,,California
+13389,,1920.0,Phillip's,1183.0,,Campus Restaurant,900 Columbus Ave ,,New York,New York,900,Columbus,Ave,,,,,,,Campus
+13390,,1920.0,Phillip's,1183.0,,Capital Lunch Inc,41 W 17 St.,,New York,New York,41,W,17,St.,,,,,,Capital
+13391,,1920.0,Phillip's,1183.0,,Capitol Lunch System main office,346 Broadway  ,,New York,New York,346,Broadway,,,,,,,,Capitol
+13392,,1920.0,Phillip's,1183.0,,Caracosta S.,2642 Broadway  ,,New York,New York,2642,Broadway,,,,,,,,Caracosta
+13393,,1920.0,Phillip's,1183.0,,Carducci A.,153 W 48 St.,,New York,New York,153,W,48,St.,,,,,,Carducci
+13394,,1920.0,Phillip's,1183.0,,Carini J.,805 Columbus Ave. ,,New York,New York,805,Columbus,Ave.,,,,,,,Carini
+13395,,1920.0,Phillip's,1183.0,,Carlos ,25 W 24 St.,,New York,New York,25,W,24,St.,,,,,,Carlos
+13396,,1920.0,Phillip's,1183.0,,Carlton Lunch ,337 Broadway  ,,New York,New York,337,Broadway,,,,,,,,Carlton
+13397,,1920.0,Phillip's,1183.0,,Carlton Terrace,2637 Broadway  ,,New York,New York,2637,Broadway,,,,,,,,Carlton
+13398,,1920.0,Phillip's,1183.0,,Carmine ,76 Fulton St. ,,New York,New York,76,Fulton,St.,,,,,,,Carmine
+13399,,1920.0,Phillip's,1183.0,,Carrara & Co.,1333 3 Ave ,,New York,New York,1333,3,Ave,,,,,,,Carrara
+13400,,1920.0,Phillip's,1183.0,,Caselli V. & Son,878 6 Ave ,,New York,New York,878,6,Ave,,,,,,,Caselli
+13401,,1920.0,Phillip's,1183.0,,Castle Cave,273 7 Ave ,,New York,New York,273,7,Ave,,,,,,,Castle
+13402,,1920.0,Phillip's,1183.0,,Cavanagh's ,258 W 23 St.,,New York,New York,258,W,23,St.,,,,,,Cavanagh's
+13403,,1920.0,Phillip's,1183.0,,Celestial Restaurant,164 W 125 St.,,New York,New York,164,W,125,St.,,,,,,Celestial
+13404,,1920.0,Phillip's,1183.0,,Central Cafeteria,261 Broadway  ,,New York,New York,261,Broadway,,,,,,,,Central
+13405,,1920.0,Phillip's,1183.0,,Central Lunch Room,86 West St. ,,New York,New York,86,West,St.,,,,,,,Central
+13406,,1920.0,Phillip's,1183.0,,Century Lunch,174 6 Ave ,,New York,New York,174,6,Ave,,,,,,,Century
+13407,,1920.0,Phillip's,1183.0,,Charter Oak Lunch,805 6 Ave ,,New York,New York,805,6,Ave,,,,,,,Charter
+13408,,1920.0,Phillip's,1183.0,,Chasin N.,50 3 St. ,,New York,New York,50,3,St.,,,,,,,Chasin
+13409,,1920.0,Phillip's,1183.0,,Chateau Thierry,c Riverside  Dr &,,New York,New York,c,Riverside ,Dr,&,,,,,,Chateau
+13410,,1920.0,Phillip's,1183.0,,Cherkis L.,97 E 3 St.,,New York,New York,97,E,3,St.,,,,,,Cherkis
+13411,,1920.0,Phillip's,1183.0,,Cherry Leon,43 E 18 St.,,New York,New York,43,E,18,St.,,,,,,Cherry
+13412,,1920.0,Phillip's,1183.0,,Chevalier Jacques,133 W 45 St.,,New York,New York,133,W,45,St.,,,,,,Chevalier
+13413,,1920.0,Phillip's,1183.0,,Chiarello F.,214 Manhattan Ave ,,New York,New York,214,Manhattan,Ave,,,,,,,Chiarello
+13414,,1920.0,Phillip's,1183.0,,Childs Company office,200 5 Ave ,,New York,New York,200,5,Ave,,,,,,,Childs
+13415,,1920.0,Phillip's,1183.0,,Chinitz A.,324 Amsterdam Ave ,,New York,New York,324,Amsterdam,Ave,,,,,,,Chinitz
+13416,,1920.0,Phillip's,1183.0,Chinese Restaurant,Chung Mee Low,1373 St. Nicholas Ave ,,New York,New York,1373,St. Nicholas,Ave,,,,,,,Chung
+13417,,1920.0,Phillip's,1183.0,,Churchill's,1607 Broadway  ,,New York,New York,1607,Broadway,,,,,,,,Churchill's
+13418,,1920.0,Phillip's,1183.0,,Cinderella Restaurants,144 E 86 St.,,New York,New York,144,E,86,St.,,,,,,Cinderella
+13419,,1920.0,Phillip's,1183.0,,Cirolli A.,353 E. 116 St.,,New York,New York,353,E.,116,St.,,,,,,Cirolli
+13420,,1920.0,Phillip's,1183.0,,City Hall Tea Garden,170 Nassau St. ,,New York,New York,170,Nassau,St.,,,,,,,City
+13421,,1920.0,Phillip's,1183.0,,Ciancey J. J.,134 Liberty St. ,,New York,New York,134,Liberty,St.,,,,,,,Ciancey
+13422,,1920.0,Phillip's,1183.0,,Claredon ,c Broadway & 135,,New York,New York,c,Broadway,&,135,,,,,,Claredon
+13423,,1920.0,Phillip's,1183.0,,Claremont ,c Riverside Pk & 126,,New York,New York,c,Riverside Pk,&,126,,,,,,Claremont
+13424,,1920.0,Phillip's,1183.0,,Claridge Shop,Broadway & 44 St.,,New York,New York,Broadway,&,44,St.,,,,,,Claridge
+13425,,1920.0,Phillip's,1183.0,,Clinton Lunch Room,462 Hudson St. ,,New York,New York,462,Hudson,St.,,,,,,,Clinton
+13426,,1920.0,Phillip's,1183.0,,Codington Co.,1487 Broadway  ,,New York,New York,1487,Broadway,,,,,,,,Codington
+13427,,1920.0,Phillip's,1183.0,,Cohen H. ,322 Canal St. ,,New York,New York,322,Canal,St.,,,,,,,Cohen
+13428,,1920.0,Phillip's,1183.0,,Cohen I.,190 West St. ,,New York,New York,190,West,St.,,,,,,,Cohen
+13429,,1920.0,Phillip's,1183.0,,Coleman's Restaurant,284 Hudson St. ,,New York,New York,284,Hudson,St.,,,,,,,Coleman's
+13430,,1920.0,Phillip's,1183.0,,College Inn,319 W 125 St.,,New York,New York,319,W,125,St.,,,,,,College
+13431,,1920.0,Phillip's,1183.0,,College Lunch Co,406 Fordham  Rd ,,New York,New York,406,Fordham ,Rd,,,,,,,College
+13432,,1920.0,Phillip's,1183.0,,Collins Lunch,3 E 14 St.,,New York,New York,3,E,14,St.,,,,,,Collins
+13433,,1920.0,Phillip's,1183.0,,Colonia Tea Room,379 5 Ave ,,New York,New York,379,5,Ave,,,,,,,Colonia
+13434,,1920.0,Phillip's,1183.0,,Colony Luncheon & Tea Room,147 Fulton St. ,,New York,New York,147,Fulton,St.,,,,,,,Colony
+13435,,1920.0,Phillip's,1183.0,,Columbia Urn,130 Liberty St. ,,New York,New York,130,Liberty,St.,,,,,,,Columbia
+13436,,1920.0,Phillip's,1183.0,,Columbus Lunch Co.,150 Columbus Ave ,,New York,New York,150,Columbus,Ave,,,,,,,Columbus
+13437,,1920.0,Phillip's,1183.0,,Constantinople Hotel Co.,17 E 24 St.,,New York,New York,17,E,24,St.,,,,,,Constantinople
+13438,,1920.0,Phillip's,1183.0,,Conte's Restaurant,432 Lafayette St. ,,New York,New York,432,Lafayette,St.,,,,,,,Conte's
+13439,,1920.0,Phillip's,1183.0,,Cooper Wm F.,11 W 18 St.,,New York,New York,11,W,18,St.,,,,,,Cooper
+13440,,1920.0,Phillip's,1183.0,,Corduy M.,642 6 Ave ,,New York,New York,642,6,Ave,,,,,,,Corduy
+13441,,1920.0,Phillip's,1183.0,,Corpuel M.,40 E. 10 St.,,New York,New York,40,E.,10,St.,,,,,,Corpuel
+13442,,1920.0,Phillip's,1183.0,,Cortlandt Tea Room,173 Greenwich St. ,,New York,New York,173,Greenwich,St.,,,,,,,Cortlandt
+13443,,1920.0,Phillip's,1183.0,,Cosmopolitan,129 Chambers St. ,,New York,New York,129,Chambers,St.,,,,,,,Cosmopolitan
+13444,,1920.0,Phillip's,1183.0,,Costabile D.,206 W 124 St.,,New York,New York,206,W,124,St.,,,,,,Costabile
+13445,,1920.0,Phillip's,1183.0,,Cottage Quick Lunch,165 William St. ,,New York,New York,165,William,St.,,,,,,,Cottage
+13446,,1920.0,Phillip's,1183.0,,Coutoucas Nicholas,917 8 Ave ,,New York,New York,917,8,Ave,,,,,,,Coutoucas
+13447,,1920.0,Phillip's,1183.0,,Cove Restaurant,1734 Broadway  ,,New York,New York,1734,Broadway,,,,,,,,Cove
+13448,,1920.0,Phillip's,1183.0,,Crippa Hector,2403 South Blvd ,,New York,New York,2403,South,Blvd,,,,,,,Crippa
+13449,,1920.0,Phillip's,1183.0,,Criterion Restaurant,389 E 149 St.,,New York,New York,389,E,149,St.,,,,,,Criterion
+13450,,1920.0,Phillip's,1183.0,,Crystal Palace,17 Church St. ,,New York,New York,17,Church,St.,,,,,,,Crystal
+13451,,1920.0,Phillip's,1183.0,,Cuperman B.,101 Beekman St. ,,New York,New York,101,Beekman,St.,,,,,,,Cuperman
+13452,,1920.0,Phillip's,1183.0,,Cushman's Restaurant Co.,121 E 18 St.,,New York,New York,121,E,18,St.,,,,,,Cushman's
+13453,,1920.0,Phillip's,1183.0,,Cushman's Restaurant Co.,157 3 Ave. ,,New York,New York,157,3,Ave.,,,,,,,Cushman's
+13454,,1920.0,Phillip's,1183.0,,Dachslager Wm. Co.,850 Broadway  ,,New York,New York,850,Broadway,,,,,,,,Dachslager
+13455,,1920.0,Phillip's,1183.0,,Dainty Maid,50 John St. ,,New York,New York,50,John,St.,,,,,,,Dainty
+13456,,1920.0,Phillip's,1183.0,,Daly's Grill Inc.,20 E 42 St.,,New York,New York,20,E,42,St.,,,,,,Daly's
+13457,,1920.0,Phillip's,1183.0,,Dankowski R. A.,681 Elton Ave ,,New York,New York,681,Elton,Ave,,,,,,,Dankowski
+13458,,1920.0,Phillip's,1183.0,,Dashchlager Wm.,45 Lafayette St. ,,New York,New York,45,Lafayette,St.,,,,,,,Dashchlager
+13459,,1920.0,Phillip's,1183.0,,Davidson J.,179 Greenwich St. ,,New York,New York,179,Greenwich,St.,,,,,,,Davidson
+13460,,1920.0,Phillip's,1184.0,,Davidson's ,96 Broad St. ,,New York,New York,96,Broad,St.,,,,,,,Davidson's
+13461,,1920.0,Phillip's,1184.0,,Davis Louis,433 Canal St. ,,New York,New York,433,Canal,St.,,,,,,,Davis
+13462,,1920.0,Phillip's,1184.0,,Davis & Kathmeyer,319 Greenwich St. ,,New York,New York,319,Greenwich,St.,,,,,,,Davis
+13463,,1920.0,Phillip's,1184.0,,Dean E.,57 Beach St. ,,New York,New York,57,Beach,St.,,,,,,,Dean
+13464,,1920.0,Phillip's,1184.0,,Decker E.,124 Brook Ave ,,New York,New York,124,Brook,Ave,,,,,,,Decker
+13465,,1920.0,Phillip's,1184.0,,Degenhardt Bros.,95 Hudson  ,,New York,New York,95,Hudson,,,,,,,,Degenhardt
+13466,,1920.0,Phillip's,1184.0,,Deixler M.,147 Park Row  ,,New York,New York,147,Park Row,,,,,,,,Deixler
+13467,,1920.0,Phillip's,1184.0,,Delenne F.,945 8 Ave ,,New York,New York,945,8,Ave,,,,,,,Delenne
+13468,,1920.0,Phillip's,1184.0,,Delmonicos,531 5 Ave. ,,New York,New York,531,5,Ave.,,,,,,,Delmonicos
+13469,,1920.0,Phillip's,1184.0,,Dennis Harry,235 4 Ave. ,,New York,New York,235,4,Ave.,,,,,,,Dennis
+13470,,1920.0,Phillip's,1184.0,,Denver Dairy Lunch Co.,79 W 125 St.,,New York,New York,79,W,125,St.,,,,,,Denver
+13471,,1920.0,Phillip's,1184.0,,De Prato Maria & Co.,128 W 21 St.,,New York,New York,128,W,21,St.,,,,,,De
+13472,,1920.0,Phillip's,1184.0,,Devin E.,2784 Webster Ave. ,,New York,New York,2784,Webster,Ave.,,,,,,,Devin
+13473,,1920.0,Phillip's,1184.0,,Dewey H. T. & Sons Co. ,138 Fulton St. ,,New York,New York,138,Fulton,St.,,,,,,,Dewey
+13474,,1920.0,Phillip's,1184.0,,Diamond Dealers Restaurant,93 Nassau St. ,,New York,New York,93,Nassau,St.,,,,,,,Diamond
+13475,,1920.0,Phillip's,1184.0,,Dietsche Emil,412 W Broadway ,,New York,New York,412,W,Broadway,,,,,,,Dietsche
+13476,,1920.0,Phillip's,1184.0,,D'Ippolito F.,74 West St. ,,New York,New York,74,West,St.,,,,,,,D'Ippolito
+13477,,1920.0,Phillip's,1184.0,,Dobkins S.,196 Broome St. ,,New York,New York,196,Broome,St.,,,,,,,Dobkins
+13478,,1920.0,Phillip's,1184.0,,Dodson & Fletcher,116 W 135 St.,,New York,New York,116,W,135,St.,,,,,,Dodson
+13479,,1920.0,Phillip's,1184.0,,Dolan's Nephew,120 Nassau St. ,,New York,New York,120,Nassau,St.,,,,,,,Dolan's
+13480,,1920.0,Phillip's,1184.0,,Dolly Madison,601 Madison St. ,,New York,New York,601,Madison,St.,,,,,,,Dolly
+13481,,1920.0,Phillip's,1184.0,,Donahue's Inc.,415 8 Ave. ,,New York,New York,415,8,Ave.,,,,,,,Donahue's
+13482,,1920.0,Phillip's,1184.0,,Donahue's Inc.,484 8 Ave. ,,New York,New York,484,8,Ave.,,,,,,,Donahue's
+13483,,1920.0,Phillip's,1184.0,,Donenhirsh D.,53 W 25 St. ,,New York,New York,53,W,25,St. ,,,,,,Donenhirsh
+13484,,1920.0,Phillip's,1184.0,,Donner J.,38 Maiden La ,,New York,New York,38,Maiden,La,,,,,,,Donner
+13485,,1920.0,Phillip's,1184.0,,Dooling J.,40 Front St. ,,New York,New York,40,Front,St.,,,,,,,Dooling
+13486,,1920.0,Phillip's,1184.0,,Dorothy Louise,1 W 39 St.,,New York,New York,1,W,39,St.,,,,,,Dorothy
+13487,,1920.0,Phillip's,1184.0,,Douros & Mavromatis,5 Cathedral Pkwy ,,New York,New York,5,Cathedral,Pkwy,,,,,,,Douros
+13488,,1920.0,Phillip's,1184.0,,Dowd John J.,321 Broadway  ,,New York,New York,321,Broadway,,,,,,,,Dowd
+13489,,1920.0,Phillip's,1184.0,,Dowd John J.,437 Broadway  ,,New York,New York,437,Broadway,,,,,,,,Dowd
+13490,,1920.0,Phillip's,1184.0,,Dowd John J.,654 Broadway  ,,New York,New York,654,Broadway,,,,,,,,Dowd
+13491,,1920.0,Phillip's,1184.0,,Downtown Restaurant Corp'n,8 Nassau St. ,,New York,New York,8,Nassau,St.,,,,,,,Downtown
+13492,,1920.0,Phillip's,1184.0,,Drake's ,119 W 42 St.,,New York,New York,119,W,42,St.,,,,,,Drake's
+13493,,1920.0,Phillip's,1184.0,,Drews C.,195 Claremont Ave. ,,New York,New York,195,Claremont,Ave.,,,,,,,Drews
+13494,,1920.0,Phillip's,1184.0,,Droge B.,28 Elm St. ,,New York,New York,28,Elm,St.,,,,,,,Droge
+13495,,1920.0,Phillip's,1184.0,,Dun Bldg. Restaurant & café,290 Broadway  ,,New York,New York,290,Broadway,,,,,,,,Dun
+13496,,1920.0,Phillip's,1184.0,,Dunlap-Baldwin Lunch Co.,313 Broadway  ,,New York,New York,313,Broadway,,,,,,,,Dunlap-Baldwin
+13497,,1920.0,Phillip's,1184.0,,Dunlap-Baldwin Lunch Co.,78 5 Ave. ,,New York,New York,78,5,Ave.,,,,,,,Dunlap-Baldwin
+13498,,1920.0,Phillip's,1184.0,,Durham,7 E 32 St.,,New York,New York,7,E,32,St.,,,,,,Durham
+13499,,1920.0,Phillip's,1184.0,,Eastern Hotel,c Whitehall St &,,New York,New York,c,Whitehall,St,&,,,,,,Eastern
+13500,,1920.0,Phillip's,1184.0,,Ehrlich Max,692 6 Ave. ,,New York,New York,692,6,Ave.,,,,,,,Ehrlich
+13501,,1920.0,Phillip's,1184.0,,Elfenbein & Engelman,25 W 35 St. ,,New York,New York,25,W,35,St. ,,,,,,Elfenbein
+13502,,1920.0,Phillip's,1184.0,,Elfenbein & Engelman,97 2 Ave. ,,New York,New York,97,2,Ave.,,,,,,,Elfenbein
+13503,,1920.0,Phillip's,1184.0,,Elite Lunch,44 Fulton St. ,,New York,New York,44,Fulton,St.,,,,,,,Elite
+13504,,1920.0,Phillip's,1184.0,,Elizabeth Mary,392 5 Ave. ,,New York,New York,392,5,Ave.,,,,,,,Elizabeth
+13505,,1920.0,Phillip's,1184.0,,Elk Lunch Co,186 6 Ave. ,,New York,New York,186,6,Ave.,,,,,,,Elk
+13506,,1920.0,Phillip's,1184.0,,Ellentee Restaurant,57 Whitehall St. ,,New York,New York,57,Whitehall,St.,,,,,,,Ellentee
+13507,,1920.0,Phillip's,1184.0,,Elsinger Ralph,112 E 23 St.,,New York,New York,112,E,23,St.,,,,,,Elsinger
+13508,,1920.0,Phillip's,1184.0,,Engel E.,98 Warren St. ,,New York,New York,98,Warren,St.,,,,,,,Engel
+13509,,1920.0,Phillip's,1184.0,,Engel R.,5 N Moore St.,,New York,New York,5,N,Moore,St.,,,,,,Engel
+13510,,1920.0,Phillip's,1184.0,,Engel's Chop House ,61 W 36 St.,,New York,New York,61,W,36,St.,,,,,,Engel's
+13511,,1920.0,Phillip's,1184.0,,Engel's Plum Pudding Shop Inc.,6 E 41 St.,,New York,New York,6,E,41,St.,,,,,,Engel's
+13512,,1920.0,Phillip's,1184.0,,Equitable Building Restaurant Inc.,120 Broadway  ,,New York,New York,120,Broadway,,,,,,,,Equitable
+13513,,1920.0,Phillip's,1184.0,,Eriksen's ,75 Madison Ave. ,,New York,New York,75,Madison,Ave.,,,,,,,Eriksen's
+13514,,1920.0,Phillip's,1184.0,,Ettenberg M.,1653 Broadway  ,,New York,New York,1653,Broadway,,,,,,,,Ettenberg
+13515,,1920.0,Phillip's,1184.0,,Evans Lunch,85 4 Ave. ,,New York,New York,85,4,Ave.,,,,,,,Evans
+13516,,1920.0,Phillip's,1184.0,,Exchange Buffet Corp'n office,52 William St.  ,,New York,New York,52,William,St. ,,,,,,,Exchange
+13517,,1920.0,Phillip's,1184.0,,Exchange Lunch,34 New St. ,,New York,New York,34,New,St.,,,,,,,Exchange
+13518,,1920.0,Phillip's,1184.0,,Fairfax,80 Nassau St. ,,New York,New York,80,Nassau,St.,,,,,,,Fairfax
+13519,,1920.0,Phillip's,1184.0,Chinese Restaurant,Far East Garden,10 Columbus Circle ,,New York,New York,10,Columbus,Circle,,,,,,,Far
+13520,,1920.0,Phillip's,1184.0,,Farrish's Chop House,64 John St. ,,New York,New York,64,John,St.,,,,,,,Farrish's
+13521,,1920.0,Phillip's,1184.0,,Fass Max,19 W 31 St.,,New York,New York,19,W,31,St.,,,,,,Fass
+13522,,1920.0,Phillip's,1184.0,,Fastenan Frederick,110 Liberty St. ,,New York,New York,110,Liberty,St.,,,,,,,Fastenan
+13523,,1920.0,Phillip's,1184.0,,Fatseas & Samois,159 E 42 St.,,New York,New York,159,E,42,St.,,,,,,Fatseas
+13524,,1920.0,Phillip's,1184.0,,Fay John T.,239 W 125 St.,,New York,New York,239,W,125,St.,,,,,,Fay
+13525,,1920.0,Phillip's,1184.0,,Feasters Geo.  ,539 E 180 St.,,New York,New York,539,E,180,St.,,,,,,Feasters
+13526,,1920.0,Phillip's,1184.0,,Feifer & Jurin,87 Duane St. ,,New York,New York,87,Duane,St.,,,,,,,Feifer
+13527,,1920.0,Phillip's,1184.0,,Feildenberg J.,31 W 17 St.,,New York,New York,31,W,17,St.,,,,,,Feildenberg
+13528,,1920.0,Phillip's,1184.0,,Ferdinand & Littwin,38 W 20 St.,,New York,New York,38,W,20,St.,,,,,,Ferdinand
+13529,,1920.0,Phillip's,1184.0,,"Fernery, The",22 E 33 St.,,New York,New York,22,E,33,St.,,,,,,"Fernery,"
+13530,,1920.0,Phillip's,1184.0,,Ferrando D.,69 W 125 St.,,New York,New York,69,W,125,St.,,,,,,Ferrando
+13531,,1920.0,Phillip's,1184.0,,Fiat's Italian Restaurant,180 Worth St. ,,New York,New York,180,Worth,St.,,,,,,,Fiat's
+13532,,1920.0,Phillip's,1184.0,,Fifth Avenue,200 5 Ave. ,,New York,New York,200,5,Ave.,,,,,,,Fifth
+13533,,1920.0,Phillip's,1184.0,,Filsicht L.,806 Columbus Ave. ,,New York,New York,806,Columbus,Ave.,,,,,,,Filsicht
+13534,,1920.0,Phillip's,1184.0,,Fink H.,221 Hudson St. ,,New York,New York,221,Hudson,St.,,,,,,,Fink
+13535,,1920.0,Phillip's,1184.0,,Finkler & Lempert,47 E 29 St.,,New York,New York,47,E,29,St.,,,,,,Finkler
+13536,,1920.0,Phillip's,1184.0,,Fischer Bros.,34 Canal St. ,,New York,New York,34,Canal,St.,,,,,,,Fischer
+13537,,1920.0,Phillip's,1184.0,,Fischer Eugene,2839 Broadway  ,,New York,New York,2839,Broadway,,,,,,,,Fischer
+13538,,1920.0,Phillip's,1184.0,,Fischer P.,430 Pearl St. ,,New York,New York,430,Pearl,St.,,,,,,,Fischer
+13539,,1920.0,Phillip's,1184.0,,Fischer Theo. Co.,79 E. 125 St.,,New York,New York,79,E.,125,St.,,,,,,Fischer
+13540,,1920.0,Phillip's,1184.0,,Fischer-Thomson Co.,152 W 34 St.,,New York,New York,152,W,34,St.,,,,,,Fischer-Thomson
+13541,,1920.0,Phillip's,1184.0,,Fischer & Stromberg,426 6 Ave. ,,New York,New York,426,6,Ave.,,,,,,,Fischer
+13542,,1920.0,Phillip's,1184.0,,Fisher J.,26 Whitehall St. ,,New York,New York,26,Whitehall,St.,,,,,,,Fisher
+13543,,1920.0,Phillip's,1184.0,,Fleischer I. Pi.,87 Bowery St. ,,New York,New York,87,Bowery,St.,,,,,,,Fleischer
+13544,,1920.0,Phillip's,1184.0,,Fleichmann's,96 Duane St.  ,,New York,New York,96,Duane,St. ,,,,,,,Fleichmann's
+13545,,1920.0,Phillip's,1184.0,,Fleichmann's,801 Broadway  ,,New York,New York,801,Broadway,,,,,,,,Fleichmann's
+13546,,1920.0,Phillip's,1184.0,,Florence Dining Room,167 W 34 St.,,New York,New York,167,W,34,St.,,,,,,Florence
+13547,,1920.0,Phillip's,1184.0,,Flower Luncheon,84 Nassau St. ,,New York,New York,84,Nassau,St.,,,,,,,Flower
+13548,,1920.0,Phillip's,1184.0,,Follansbee's Restaurant Co.,26 Vesey St. ,,New York,New York,26,Vesey,St.,,,,,,,Follansbee's
+13549,,1920.0,Phillip's,1184.0,,Foodcraft Eating Place,1626 Broadway  ,,New York,New York,1626,Broadway,,,,,,,,Foodcraft
+13550,,1920.0,Phillip's,1184.0,,Forster Eric,203 Greewich St. ,,New York,New York,203,Greewich,St.,,,,,,,Forster
+13551,,1920.0,Phillip's,1184.0,,Foy James,1482 3 Ave. ,,New York,New York,1482,3,Ave.,,,,,,,Foy
+13552,,1920.0,Phillip's,1184.0,,Forty-second Street Restaurant & Grill,30 E 42 St.,,New York,New York,30,E,42,St.,,,,,,Forty-second
+13553,,1920.0,Phillip's,1184.0,,Francais,47 Beaver St. ,,New York,New York,47,Beaver,St.,,,,,,,Francais
+13554,,1920.0,Phillip's,1184.0,,Frank & Bro.,461 W 14 St.,,New York,New York,461,W,14,St.,,,,,,Frank
+13555,,1920.0,Phillip's,1184.0,,Franklin Bakery & Lunch Room,101 Hudson St. ,,New York,New York,101,Hudson,St.,,,,,,,Franklin
+13556,,1920.0,Phillip's,1184.0,,Franklin Inn,176 Franklin St.  ,,New York,New York,176,Franklin,St. ,,,,,,,Franklin
+13557,,1920.0,Phillip's,1184.0,,Frank's ,165 W 97 St.,,New York,New York,165,W,97,St.,,,,,,Frank's
+13558,,1920.0,Phillip's,1184.0,,Frascati ,246 W 44 St.,,New York,New York,246,W,44,St.,,,,,,Frascati
+13559,,1920.0,Phillip's,1184.0,,French-Am. Restaurant,570 Hudson St. ,,New York,New York,570,Hudson,St.,,,,,,,French-Am.
+13560,,1920.0,Phillip's,1184.0,,Friob John B.,682 6 Ave. ,,New York,New York,682,6,Ave.,,,,,,,Friob
+13561,,1920.0,Phillip's,1184.0,,Frommer O.,1313 Wilkins Ave. ,,New York,New York,1313,Wilkins,Ave.,,,,,,,Frommer
+13562,,1920.0,Phillip's,1184.0,,Frucht David,108 5 Ave. ,,New York,New York,108,5,Ave.,,,,,,,Frucht
+13563,,1920.0,Phillip's,1184.0,,Fuchs Alex,117 E 14 St.,,New York,New York,117,E,14,St.,,,,,,Fuchs
+13564,,1920.0,Phillip's,1184.0,,Fuchs M.,144 Spring St. ,,New York,New York,144,Spring,St.,,,,,,,Fuchs
+13565,,1920.0,Phillip's,1184.0,,Fusco Brothers,18 Beaver St. ,,New York,New York,18,Beaver,St.,,,,,,,Fusco
+13566,,1920.0,Phillip's,1184.0,,G. H. R. Inc,38 W 22 St.,,New York,New York,38,W,22,St.,,,,,,G.
+13567,,1920.0,Phillip's,1184.0,,G. & W. Café & Restaurant Co.,7 Beaver St. ,,New York,New York,7,Beaver,St.,,,,,,,G.
+13568,,1920.0,Phillip's,1184.0,,Gaetemo S.,96 Murray St. ,,New York,New York,96,Murray,St.,,,,,,,Gaetemo
+13569,,1920.0,Phillip's,1184.0,,Gamser Gustave,242 Canal St. ,,New York,New York,242,Canal,St.,,,,,,,Gamser
+13570,,1920.0,Phillip's,1184.0,,Ganbrinus,466 8 Ave. ,,New York,New York,466,8,Ave.,,,,,,,Ganbrinus
+13571,,1920.0,Phillip's,1184.0,,Garbarini Chas.,666 8 Ave. ,,New York,New York,666,8,Ave.,,,,,,,Garbarini
+13572,,1920.0,Phillip's,1184.0,,Garbarini & Gazzale,877 6 Ave. ,,New York,New York,877,6,Ave.,,,,,,,Garbarini
+13573,,1920.0,Phillip's,1184.0,,Gardella & Pensa,154 Church St. ,,New York,New York,154,Church,St.,,,,,,,Gardella
+13574,,1920.0,Phillip's,1184.0,,Garden ,c Broadway & 50,,New York,New York,c,Broadway,&,50,,,,,,Garden
+13575,,1920.0,Phillip's,1184.0,,Garret Co.,90 West St. ,,New York,New York,90,West,St.,,,,,,,Garret
+13576,,1920.0,Phillip's,1184.0,,Gaston's,125 W 45 St.,,New York,New York,125,W,45,St.,,,,,,Gaston's
+13577,,1920.0,Phillip's,1184.0,,Geiger H.,459 Hudson St. ,,New York,New York,459,Hudson,St.,,,,,,,Geiger
+13578,,1920.0,Phillip's,1184.0,,Gelber's ,53 Fulton St. ,,New York,New York,53,Fulton,St.,,,,,,,Gelber's
+13579,,1920.0,Phillip's,1184.0,,Geneva Restaurant,236 W 43 St.,,New York,New York,236,W,43,St.,,,,,,Geneva
+13580,,1920.0,Phillip's,1184.0,,George's Restaurant,2337 8 Ave. ,,New York,New York,2337,8,Ave.,,,,,,,George's
+13581,,1920.0,Phillip's,1184.0,,Gerbeau Co. Inc.,535 5 Ave. ,,New York,New York,535,5,Ave.,,,,,,,Gerbeau
+13582,,1920.0,Phillip's,1184.0,,Gershowitz Bros.,94 Chambers St. ,,New York,New York,94,Chambers,St.,,,,,,,Gershowitz
+13583,,1920.0,Phillip's,1184.0,,Gertner's ,1446 Broadway  ,,New York,New York,1446,Broadway,,,,,,,,Gertner's
+13584,,1920.0,Phillip's,1184.0,,Gertner's ,1380 Broadway  ,,New York,New York,1380,Broadway,,,,,,,,Gertner's
+13585,,1920.0,Phillip's,1184.0,,Gertner's ,669 Broadway  ,,New York,New York,669,Broadway,,,,,,,,Gertner's
+13586,,1920.0,Phillip's,1184.0,,Gertner's ,65 E Broadway ,,New York,New York,65,E,Broadway,,,,,,,Gertner's
+13587,,1920.0,Phillip's,1184.0,,Gesing Chas.,84 Church St. ,,New York,New York,84,Church,St.,,,,,,,Gesing
+13588,,1920.0,Phillip's,1184.0,,Getzoff A.,114 W 23 St.,,New York,New York,114,W,23,St.,,,,,,Getzoff
+13589,,1920.0,Phillip's,1184.0,,Gibson Restaurant Co.,85 John  ,,New York,New York,85,John,,,,,,,,Gibson
+13590,,1920.0,Phillip's,1184.0,,Gibson Restaurant Co.,51 Maiden La ,,New York,New York,51,Maiden,La,,,,,,,Gibson
+13591,,1920.0,Phillip's,1184.0,,Gigolito,236 W 46 St.,,New York,New York,236,W,46,St.,,,,,,Gigolito
+13592,,1920.0,Phillip's,1184.0,,Gillman Bros.,152 Church St.  ,,New York,New York,152,Church,St. ,,,,,,,Gillman
+13593,,1920.0,Phillip's,1184.0,,Gillman Bros.,433 6 Ave. ,,New York,New York,433,6,Ave.,,,,,,,Gillman
+13594,,1920.0,Phillip's,1184.0,,Gioliot Carlo,126 W 48 St.,,New York,New York,126,W,48,St.,,,,,,Gioliot
+13595,,1920.0,Phillip's,1184.0,,Girard Emile,92 William St. ,,New York,New York,92,William,St.,,,,,,,Girard
+13596,,1920.0,Phillip's,1184.0,,Glantz O.,104 W 45 St.,,New York,New York,104,W,45,St.,,,,,,Glantz
+13597,,1920.0,Phillip's,1184.0,,Glassman M.,70 Canal St. ,,New York,New York,70,Canal,St.,,,,,,,Glassman
+13598,,1920.0,Phillip's,1184.0,,Glendenning Geo. O.,102 W 14 St.,,New York,New York,102,W,14,St.,,,,,,Glendenning
+13599,,1920.0,Phillip's,1184.0,,Glendwood Dairy,60 W 27 St.,,New York,New York,60,W,27,St.,,,,,,Glendwood
+13600,,1920.0,Phillip's,1184.0,,Glenwoof Farms Dairy Co.,151 W 23 St.,,New York,New York,151,W,23,St.,,,,,,Glenwoof
+13601,,1920.0,Phillip's,1184.0,,Glinick Ernst,168 Pearl St.  ,,New York,New York,168,Pearl,St. ,,,,,,,Glinick
+13602,,1920.0,Phillip's,1184.0,,Glogau J.,356 Canal St. ,,New York,New York,356,Canal,St.,,,,,,,Glogau
+13603,,1920.0,Phillip's,1184.0,,Godwin Grace,58 Washington Sq. ,,New York,New York,58,Washington,Sq.,,,,,,,Godwin
+13604,,1920.0,Phillip's,1184.0,,Gold H.,121 W 125 St.,,New York,New York,121,W,125,St.,,,,,,Gold
+13605,,1920.0,Phillip's,1185.0,,Goldberg A.,72 West St. ,,New York,New York,72,West,St.,,,,,,,Goldberg
+13606,,1920.0,Phillip's,1185.0,,Goldberg D.,27 Fulton St. ,,New York,New York,27,Fulton,St.,,,,,,,Goldberg
+13607,,1920.0,Phillip's,1185.0,,Goldberg Jacobs,21 W 20 St.,,New York,New York,21,W,20,St.,,,,,,Goldberg
+13608,,1920.0,Phillip's,1185.0,,Golding H.,16 St. Nicholas Ave. ,,New York,New York,16,St. Nicholas,Ave.,,,,,,,Golding
+13609,,1920.0,Phillip's,1185.0,,Gold's S.,213 E 2 St.,,New York,New York,213,E,2,St.,,,,,,Gold's
+13610,,1920.0,Phillip's,1185.0,,Goldstein S.,78 E 4 St.,,New York,New York,78,E,4,St.,,,,,,Goldstein
+13611,,1920.0,Phillip's,1185.0,Chinese Restaurant,Gon Tom & Co.,139 E 23 St.,,New York,New York,139,E,23,St.,,,,,,Gon
+13612,,1920.0,Phillip's,1185.0,,Goodstein R.,38 Harrison St.  ,,New York,New York,38,Harrison,St. ,,,,,,,Goodstein
+13613,,1920.0,Phillip's,1185.0,,Goodwin Herbert,53 E 59 St.,,New York,New York,53,E,59,St.,,,,,,Goodwin
+13614,,1920.0,Phillip's,1185.0,,"Goody Shop, The",851 Broadway  ,,New York,New York,851,Broadway,,,,,,,,Goody
+13615,,1920.0,Phillip's,1185.0,,Gorgus A.,405 Canal St. ,,New York,New York,405,Canal,St.,,,,,,,Gorgus
+13616,,1920.0,Phillip's,1185.0,,Gossler's ,c 104 St. &,,New York,New York,c,104,St.,&,,,,,,Gossler's
+13617,,1920.0,Phillip's,1185.0,,Grabenhorst H. J.,256 Fulton St.  ,,New York,New York,256,Fulton,St. ,,,,,,,Grabenhorst
+13618,,1920.0,Phillip's,1185.0,,Gramazio Bros.,225 E 116 St.,,New York,New York,225,E,116,St.,,,,,,Gramazio
+13619,,1920.0,Phillip's,1185.0,,Grand Central Terminal Restaurant,70 E 45 St.,,New York,New York,70,E,45,St.,,,,,,Grand
+13620,,1920.0,Phillip's,1185.0,,Granick Bros. & Kaminsky,121 E 23 St.,,New York,New York,121,E,23,St.,,,,,,Granick
+13621,,1920.0,Phillip's,1185.0,,Granier Eugenie,114 W 48 St.,,New York,New York,114,W,48,St.,,,,,,Granier
+13622,,1920.0,Phillip's,1185.0,,Grasser G. ,126 Pearl St. ,,New York,New York,126,Pearl,St.,,,,,,,Grasser
+13623,,1920.0,Phillip's,1185.0,,Greeley Tea Room,15 W 31 St.,,New York,New York,15,W,31,St.,,,,,,Greeley
+13624,,1920.0,Phillip's,1185.0,,Green P.,202 W 14 St.,,New York,New York,202,W,14,St.,,,,,,Green
+13625,,1920.0,Phillip's,1185.0,,Green R.,477 Canal St. ,,New York,New York,477,Canal,St.,,,,,,,Green
+13626,,1920.0,Phillip's,1185.0,,Green Parrot Tea Room,13 E 35 St.,,New York,New York,13,E,35,St.,,,,,,Green
+13627,,1920.0,Phillip's,1185.0,,"Green Tea Pot, at Sign of, ",13 E 36 St.,,New York,New York,13,E,36,St.,,,,,,Green
+13628,,1920.0,Phillip's,1185.0,,Green Tree,33 Maiden La ,,New York,New York,33,Maiden,La,,,,,,,Green
+13629,,1920.0,Phillip's,1185.0,,Greenstein J.,182 W Broadway ,,New York,New York,182,W,Broadway,,,,,,,Greenstein
+13630,,1920.0,Phillip's,1185.0,,Grimm & Behrens,922 Broadway  ,,New York,New York,922,Broadway,,,,,,,,Grimm
+13631,,1920.0,Phillip's,1185.0,,Grossberg I.,8 W Broadway ,,New York,New York,8,W,Broadway,,,,,,,Grossberg
+13632,,1920.0,Phillip's,1185.0,,Gross Morris,118 Wall St. ,,New York,New York,118,Wall,St.,,,,,,,Gross
+13633,,1920.0,Phillip's,1185.0,,Grossman A.,442 6 Ave. ,,New York,New York,442,6,Ave.,,,,,,,Grossman
+13634,,1920.0,Phillip's,1185.0,,Grossman Bros.,455 4 Ave. ,,New York,New York,455,4,Ave.,,,,,,,Grossman
+13635,,1920.0,Phillip's,1185.0,,Grotto ,165 Madison Ave. ,,New York,New York,165,Madison,Ave.,,,,,,,Grotto
+13636,,1920.0,Phillip's,1185.0,,Guenter John K.,271 W Broadway ,,New York,New York,271,W,Broadway,,,,,,,Guenter
+13637,,1920.0,Phillip's,1185.0,,Guffanti's ,274 7 Ave. ,,New York,New York,274,7,Ave.,,,,,,,Guffanti's
+13638,,1920.0,Phillip's,1185.0,,Guttman B.,9 W 19 St.,,New York,New York,9,W,19,St.,,,,,,Guttman
+13639,,1920.0,Phillip's,1185.0,,H. & W.,104 W 30 St.,,New York,New York,104,W,30,St.,,,,,,H.
+13640,,1920.0,Phillip's,1185.0,,Haan's,290 Broadway  ,,New York,New York,290,Broadway,,,,,,,,Haan's
+13641,,1920.0,Phillip's,1185.0,,Haber,10 W 32 St.,,New York,New York,10,W,32,St.,,,,,,Haber
+13642,,1920.0,Phillip's,1185.0,,Haesler A.,611 W 181 St.,,New York,New York,611,W,181,St.,,,,,,Haesler
+13643,,1920.0,Phillip's,1185.0,,Haggerty Cornelius,381 West St. ,,New York,New York,381,West,St.,,,,,,,Haggerty
+13644,,1920.0,Phillip's,1185.0,,Haggerty J. J. ,134 Hamilton Pl ,,New York,New York,134,Hamilton,Pl,,,,,,,Haggerty
+13645,,1920.0,Phillip's,1185.0,,Halms & Gross,4207 3 Ave. ,,New York,New York,4207,3,Ave.,,,,,,,Halms
+13646,,1920.0,Phillip's,1185.0,,Halloran J. H.,213 6 Ave. ,,New York,New York,213,6,Ave.,,,,,,,Halloran
+13647,,1920.0,Phillip's,1185.0,,Hamelburger Daniel,219 W Broadway ,,New York,New York,219,W,Broadway,,,,,,,Hamelburger
+13648,,1920.0,Phillip's,1185.0,,Hammer M.,245 E 14 St.,,New York,New York,245,E,14,St.,,,,,,Hammer
+13649,,1920.0,Phillip's,1185.0,,Hammerman S.,374 Canal St. ,,New York,New York,374,Canal,St.,,,,,,,Hammerman
+13650,,1920.0,Phillip's,1185.0,,Handel & Felber,295 Greenwich St. ,,New York,New York,295,Greenwich,St.,,,,,,,Handel
+13651,,1920.0,Phillip's,1185.0,,Hanover Lunch Co.,426 W 14 St.,,New York,New York,426,W,14,St.,,,,,,Hanover
+13652,,1920.0,Phillip's,1185.0,,Harding W. G.,1936 Amsterdam Ave. ,,New York,New York,1936,Amsterdam,Ave.,,,,,,,Harding
+13653,,1920.0,Phillip's,1185.0,,Harris S.,454 Worchester Ave. ,,New York,New York,454,Worchester,Ave.,,,,,,,Harris
+13654,,1920.0,Phillip's,1185.0,,Harry's Chop House,810 Westchester Ave. ,,New York,New York,810,Westchester,Ave.,,,,,,,Harry's
+13655,,1920.0,Phillip's,1185.0,,Hartford Lunch Co.,364 W 50 St.,,New York,New York,364,W,50,St.,,,,,,Hartford
+13656,,1920.0,Phillip's,1185.0,,Hayhow J.,107 Water St. ,,New York,New York,107,Water,St.,,,,,,,Hayhow
+13657,,1920.0,Phillip's,1185.0,,Hazeltine's Inc,39 Broad St. ,,New York,New York,39,Broad,St.,,,,,,,Hazeltine's
+13658,,1920.0,Phillip's,1185.0,,Healy's ,c Broadway & 66,,New York,New York,c,Broadway,&,66,,,,,,Healy's
+13659,,1920.0,Phillip's,1185.0,,Hellmuth Simon,205 West St. ,,New York,New York,205,West,St.,,,,,,,Hellmuth
+13660,,1920.0,Phillip's,1185.0,,Hengstmann H.,227 W Broadway ,,New York,New York,227,W,Broadway,,,,,,,Hengstmann
+13661,,1920.0,Phillip's,1185.0,,Henri's ,67 W 44 St.,,New York,New York,67,W,44,St.,,,,,,Henri's
+13662,,1920.0,Phillip's,1185.0,,Henry's,69 W 36 St.,,New York,New York,69,W,36,St.,,,,,,Henry's
+13663,,1920.0,Phillip's,1185.0,,Herald Lunch,219 W 42 St.,,New York,New York,219,W,42,St.,,,,,,Herald
+13664,,1920.0,Phillip's,1185.0,,Herdan Harry,92 Spring St. ,,New York,New York,92,Spring,St.,,,,,,,Herdan
+13665,,1920.0,Phillip's,1185.0,,Herdan S.,64 Walker St. ,,New York,New York,64,Walker,St.,,,,,,,Herdan
+13666,,1920.0,Phillip's,1185.0,,Hermida & Palos,190 Pearl St. ,,New York,New York,190,Pearl,St.,,,,,,,Hermida
+13667,,1920.0,Phillip's,1185.0,,Herzog Leon,2549 Broadway  ,,New York,New York,2549,Broadway,,,,,,,,Herzog
+13668,,1920.0,Phillip's,1185.0,,Hetzel F.,39 W 67 St.,,New York,New York,39,W,67,St.,,,,,,Hetzel
+13669,,1920.0,Phillip's,1185.0,,Heyman Lew M.,2824 Broadway  ,,New York,New York,2824,Broadway,,,,,,,,Heyman
+13670,,1920.0,Phillip's,1185.0,,Higgins Restaurant,42 New St. ,,New York,New York,42,New,St.,,,,,,,Higgins
+13671,,1920.0,Phillip's,1185.0,,Hirchberg & Prince,45 Barclay St. ,,New York,New York,45,Barclay,St.,,,,,,,Hirchberg
+13672,,1920.0,Phillip's,1185.0,,Hitchcock Oliver,34 Park Row  ,,New York,New York,34,Park Row,,,,,,,,Hitchcock
+13673,,1920.0,Phillip's,1185.0,,Hob-Nob Lunch Room,72 Pine St. ,,New York,New York,72,Pine,St.,,,,,,,Hob-Nob
+13674,,1920.0,Phillip's,1185.0,,Hoehle G.,171 E 86 St.,,New York,New York,171,E,86,St.,,,,,,Hoehle
+13675,,1920.0,Phillip's,1185.0,,Hof-Brau-Haus,1214 Broadway  ,,New York,New York,1214,Broadway,,,,,,,,Hof-Brau-Haus
+13676,,1920.0,Phillip's,1185.0,,Hoffman A.,123 E 18 St.,,New York,New York,123,E,18,St.,,,,,,Hoffman
+13677,,1920.0,Phillip's,1185.0,,Hoffman's Restaurant Inc,1313 Broadway  ,,New York,New York,1313,Broadway,,,,,,,,Hoffman's
+13678,,1920.0,Phillip's,1185.0,,Hoblert Frank,12 Warren St. ,,New York,New York,12,Warren,St.,,,,,,,Hoblert
+13679,,1920.0,Phillip's,1185.0,,Holder S.,28 W 31 St.,,New York,New York,28,W,31,St.,,,,,,Holder
+13680,,1920.0,Phillip's,1185.0,,Holly Tree Lunch,26 Vesey St. ,,New York,New York,26,Vesey,St.,,,,,,,Holly
+13681,,1920.0,Phillip's,1185.0,,Holtz Restaurant,365 Broadway  ,,New York,New York,365,Broadway,,,,,,,,Holtz
+13682,,1920.0,Phillip's,1185.0,,Holtman D.,40 Fulton St. ,,New York,New York,40,Fulton,St.,,,,,,,Holtman
+13683,,1920.0,Phillip's,1185.0,Chinese Restaurant,Hong Lee,2324 8 Ave. ,,New York,New York,2324,8,Ave.,,,,,,,Hong
+13684,,1920.0,Phillip's,1185.0,,Horn & Hardart Co. office,600 W 50 St.,,New York,New York,600,W,50,St.,,,,,,Horn
+13685,,1920.0,Phillip's,1185.0,,Horwitz & Glassman,1124 St. Nicholas Ave. ,,New York,New York,1124,St. Nicholas,Ave.,,,,,,,Horwitz
+13686,,1920.0,Phillip's,1185.0,,Hotel Peter Stuyvesant,Central Park West & 86 St.,,New York,New York,Central Park West,&,86,St.,,,,,,Hotel
+13687,,1920.0,Phillip's,1185.0,,Hotel Plaza,5 Ave & 59,,New York,New York,5,Ave,&,59,,,,,,Hotel
+13688,,1920.0,Phillip's,1185.0,,Howes J. F.,702 West End Ave. ,,New York,New York,702,West End,Ave.,,,,,,,Howes
+13689,,1920.0,Phillip's,1185.0,,Hromadko W.,401 Hudson St. ,,New York,New York,401,Hudson,St.,,,,,,,Hromadko
+13690,,1920.0,Phillip's,1185.0,,Hudson Lunch,410 6 Ave. ,,New York,New York,410,6,Ave.,,,,,,,Hudson
+13691,,1920.0,Phillip's,1185.0,,Hudson Lunch Co.,5 Frankfort St. ,,New York,New York,5,Frankfort,St.,,,,,,,Hudson
+13692,,1920.0,Phillip's,1185.0,,Hudson Restaurant,69 New St. ,,New York,New York,69,New,St.,,,,,,,Hudson
+13693,,1920.0,Phillip's,1185.0,,Hudson Terminal Lunch Co.,191 Fulton St. ,,New York,New York,191,Fulton,St.,,,,,,,Hudson
+13694,,1920.0,Phillip's,1185.0,,Hufnagel C.,82 Broad St. ,,New York,New York,82,Broad,St.,,,,,,,Hufnagel
+13695,,1920.0,Phillip's,1185.0,,Huggard & Akerley,2723 8 Ave. ,,New York,New York,2723,8,Ave.,,,,,,,Huggard
+13696,,1920.0,Phillip's,1185.0,Chinese Restaurant,Hung Far Low,517 Lenox Ave. ,,New York,New York,517,Lenox,Ave.,,,,,,,Hung
+13697,,1920.0,Phillip's,1185.0,,Hunia Pastry Co.,894 Prospect  Ave. ,,New York,New York,894,Prospect ,Ave.,,,,,,,Hunia
+13698,,1920.0,Phillip's,1185.0,,Hutley Cafeteria,87 Maiden La ,,New York,New York,87,Maiden,La,,,,,,,Hutley
+13699,,1920.0,Phillip's,1185.0,,Huntley Lunch,5 Gold St. ,,New York,New York,5,Gold,St.,,,,,,,Huntley
+13700,,1920.0,Phillip's,1185.0,,Hygrade Lunch,1989 Broadway  ,,New York,New York,1989,Broadway,,,,,,,,Hygrade
+13701,,1920.0,Phillip's,1185.0,,Ideal ,398 4 Ave. ,,New York,New York,398,4,Ave.,,,,,,,Ideal
+13702,,1920.0,Phillip's,1185.0,,Ideal Bakery & Lunch Rooms,589 Broadway  ,,New York,New York,589,Broadway,,,,,,,,Ideal
+13703,,1920.0,Phillip's,1185.0,,India House,1 Hanover  Sq ,,New York,New York,1,Hanover ,Sq,,,,,,,India
+13704,,1920.0,Phillip's,1185.0,,Iskenderian M. G. ,17 E 24 St.,,New York,New York,17,E,24,St.,,,,,,Iskenderian
+13705,,1920.0,Phillip's,1185.0,,J. B. G. ,158 W 45 St.,,New York,New York,158,W,45,St.,,,,,,J.
+13706,,1920.0,Phillip's,1185.0,,Jack's,761 6 Ave. ,,New York,New York,761,6,Ave.,,,,,,,Jack's
+13707,,1920.0,Phillip's,1185.0,,Jackson M. A.,256 W 31 St.,,New York,New York,256,W,31,St.,,,,,,Jackson
+13708,,1920.0,Phillip's,1185.0,,Jacobi Geo L.,2680 Broadway  ,,New York,New York,2680,Broadway,,,,,,,,Jacobi
+13709,,1920.0,Phillip's,1185.0,,Jacobs L.,330 Grand St. ,,New York,New York,330,Grand,St.,,,,,,,Jacobs
+13710,,1920.0,Phillip's,1185.0,,Jacobson H.,118 Spring St. ,,New York,New York,118,Spring,St.,,,,,,,Jacobson
+13711,,1920.0,Phillip's,1185.0,,Jensen Wm. A.,152 Columbus Ave. ,,New York,New York,152,Columbus,Ave.,,,,,,,Jensen
+13712,,1920.0,Phillip's,1185.0,,Jensen Wm. A.,430 Columbus Ave. ,,New York,New York,430,Columbus,Ave.,,,,,,,Jensen
+13713,,1920.0,Phillip's,1185.0,,Joe's Restaurant,41 3 Ave. ,,New York,New York,41,3,Ave.,,,,,,,Joe's
+13714,,1920.0,Phillip's,1185.0,,Joel's ,206 W 41 St.,,New York,New York,206,W,41,St.,,,,,,Joel's
+13715,,1920.0,Phillip's,1185.0,,John & Mathius,279 Greenwich St. ,,New York,New York,279,Greenwich,St.,,,,,,,John
+13716,,1920.0,Phillip's,1185.0,,Johnsen Wm.,29 Frankfort St. ,,New York,New York,29,Frankfort,St.,,,,,,,Johnsen
+13717,,1920.0,Phillip's,1185.0,,Joslin Nellie,2507 Broadway  ,,New York,New York,2507,Broadway,,,,,,,,Joslin
+13718,,1920.0,Phillip's,1185.0,,Jourdans C. & F.,249 8 Ave. ,,New York,New York,249,8,Ave.,,,,,,,Jourdans
+13719,,1920.0,Phillip's,1185.0,,Juchter & Zonleithner,267 William St. ,,New York,New York,267,William,St.,,,,,,,Juchter
+13720,,1920.0,Phillip's,1185.0,,Kachihitis J.,1033 Worchester Ave. ,,New York,New York,1033,Worchester,Ave.,,,,,,,Kachihitis
+13721,,1920.0,Phillip's,1185.0,,Kaiser Geo. M.,11 Broadway  ,,New York,New York,11,Broadway,,,,,,,,Kaiser
+13722,,1920.0,Phillip's,1185.0,,Kaiser Keller,145 W 42 St.,,New York,New York,145,W,42,St.,,,,,,Kaiser
+13723,,1920.0,Phillip's,1185.0,,Kalmar S.,1622 1 Ave. ,,New York,New York,1622,1,Ave.,,,,,,,Kalmar
+13724,,1920.0,Phillip's,1185.0,,Kaminsky & Tarr,972 8 Ave. ,,New York,New York,972,8,Ave.,,,,,,,Kaminsky
+13725,,1920.0,Phillip's,1185.0,,Kamerer Fred,21 Coenties Sl ,,New York,New York,21,Coenties,Sl,,,,,,,Kamerer
+13726,,1920.0,Phillip's,1185.0,,Kane J. F. ,1131 3 Ave. ,,New York,New York,1131,3,Ave.,,,,,,,Kane
+13727,,1920.0,Phillip's,1185.0,,Kaplan Louis,484 6 Ave. ,,New York,New York,484,6,Ave.,,,,,,,Kaplan
+13728,,1920.0,Phillip's,1185.0,,Karp Harry,43 Old Sl ,,New York,New York,43,Old,Sl,,,,,,,Karp
+13729,,1920.0,Phillip's,1185.0,,Kastner M. Inc.,3543 Broadway  ,,New York,New York,3543,Broadway,,,,,,,,Kastner
+13730,,1920.0,Phillip's,1185.0,,Keen's Chop House ,72 W 36 St.,,New York,New York,72,W,36,St.,,,,,,Keen's
+13731,,1920.0,Phillip's,1185.0,,Kelly Jos. W.,922 6 Ave. ,,New York,New York,922,6,Ave.,,,,,,,Kelly
+13732,,1920.0,Phillip's,1185.0,,Kelso Chas.,438 6 Ave. ,,New York,New York,438,6,Ave.,,,,,,,Kelso
+13733,,1920.0,Phillip's,1185.0,,Kennelly Jos. P.,2852 Broadway  ,,New York,New York,2852,Broadway,,,,,,,,Kennelly
+13734,,1920.0,Phillip's,1186.0,,Kiessling Geo.,274 Greenwich St. ,,New York,New York,274,Greenwich,St.,,,,,,,Kiessling
+13735,,1920.0,Phillip's,1186.0,,Kirchner & Bernard,47 Beaver St. ,,New York,New York,47,Beaver,St.,,,,,,,Kirchner
+13736,,1920.0,Phillip's,1186.0,,Klappert H. J.,8 E 18 St.,,New York,New York,8,E,18,St.,,,,,,Klappert
+13737,,1920.0,Phillip's,1186.0,,Klein F.,34 E 20 St.,,New York,New York,34,E,20,St.,,,,,,Klein
+13738,,1920.0,Phillip's,1186.0,,Klein's Restaurant,282 E 2 St.,,New York,New York,282,E,2,St.,,,,,,Klein's
+13739,,1920.0,Phillip's,1186.0,,Kleinfeld M.,97 Park Row  ,,New York,New York,97,Park Row,,,,,,,,Kleinfeld
+13740,,1920.0,Phillip's,1186.0,,Kleinmans Inc.,308 Broome St. ,,New York,New York,308,Broome,St.,,,,,,,Kleinmans
+13741,,1920.0,Phillip's,1186.0,,Kleinschmidt H.,138 6 Ave. ,,New York,New York,138,6,Ave.,,,,,,,Kleinschmidt
+13742,,1920.0,Phillip's,1186.0,,Klugsberg I.,463 Columbus Ave. ,,New York,New York,463,Columbus,Ave.,,,,,,,Klugsberg
+13743,,1920.0,Phillip's,1186.0,,Knirim J.,114 Pearl St. ,,New York,New York,114,Pearl,St.,,,,,,,Knirim
+13744,,1920.0,Phillip's,1186.0,,Knolhoff Frederic,45 Franklin St. ,,New York,New York,45,Franklin,St.,,,,,,,Knolhoff
+13745,,1920.0,Phillip's,1186.0,,Koch Chas.,53 W 19 St.,,New York,New York,53,W,19,St.,,,,,,Koch
+13746,,1920.0,Phillip's,1186.0,,Kohler & Campbell,604 W 51 St.,,New York,New York,604,W,51,St.,,,,,,Kohler
+13747,,1920.0,Phillip's,1186.0,,Kosher Hungarian Restaurant Inc.,37 John St. ,,New York,New York,37,John,St.,,,,,,,Kosher
+13748,,1920.0,Phillip's,1186.0,,Kramer Chas.,57 Broad St. ,,New York,New York,57,Broad,St.,,,,,,,Kramer
+13749,,1920.0,Phillip's,1186.0,,Kramer & Katz,118 Cedar St. ,,New York,New York,118,Cedar,St.,,,,,,,Kramer
+13750,,1920.0,Phillip's,1186.0,,Krantzler F.,193 Grand St. ,,New York,New York,193,Grand,St.,,,,,,,Krantzler
+13751,,1920.0,Phillip's,1186.0,,Krausz Edw.,12 Dutch St. ,,New York,New York,12,Dutch,St.,,,,,,,Krausz
+13752,,1920.0,Phillip's,1186.0,,Krebs Joseph,10 W 21 St.,,New York,New York,10,W,21,St.,,,,,,Krebs
+13753,,1920.0,Phillip's,1186.0,,Krepestman S.,54 4 St. ,,New York,New York,54,4,St.,,,,,,,Krepestman
+13754,,1920.0,Phillip's,1186.0,,Kreutzer's Inc.,101 Chambers St. ,,New York,New York,101,Chambers,St.,,,,,,,Kreutzer's
+13755,,1920.0,Phillip's,1186.0,,Krim's ,25 Fulton St. ,,New York,New York,25,Fulton,St.,,,,,,,Krim's
+13756,,1920.0,Phillip's,1186.0,,Kronenberg Wm.,141 Grand St. ,,New York,New York,141,Grand,St.,,,,,,,Kronenberg
+13757,,1920.0,Phillip's,1186.0,,Krug & Zinn,117 W 47 St.,,New York,New York,117,W,47,St.,,,,,,Krug
+13758,,1920.0,Phillip's,1186.0,,Kruh Joseph,79 W 125 St.,,New York,New York,79,W,125,St.,,,,,,Kruh
+13759,,1920.0,Phillip's,1186.0,,Kuchlin Chris,76 Broad St. ,,New York,New York,76,Broad,St.,,,,,,,Kuchlin
+13760,,1920.0,Phillip's,1186.0,,Kuhneman Otto,2100 Broadway  ,,New York,New York,2100,Broadway,,,,,,,,Kuhneman
+13761,,1920.0,Phillip's,1186.0,,Kunz Henry M.,27 Bridge St. ,,New York,New York,27,Bridge,St.,,,,,,,Kunz
+13762,,1920.0,Phillip's,1186.0,,"""La Chorrera""",164 Pearl St. ,,New York,New York,164,Pearl,St.,,,,,,,"""La"
+13763,,1920.0,Phillip's,1186.0,,Lader D.,7 W 19 St.,,New York,New York,7,W,19,St.,,,,,,Lader
+13764,,1920.0,Phillip's,1186.0,,Lafayette Restaurant,3782 Broadway  ,,New York,New York,3782,Broadway,,,,,,,,Lafayette
+13765,,1920.0,Phillip's,1186.0,,Lake & Anderson,2 Fulton St. ,,New York,New York,2,Fulton,St.,,,,,,,Lake
+13766,,1920.0,Phillip's,1186.0,,Laloy ,228 W 39 St.,,New York,New York,228,W,39,St.,,,,,,Laloy
+13767,,1920.0,Phillip's,1186.0,,Lang Emil,1 Beekman St. ,,New York,New York,1,Beekman,St.,,,,,,,Lang
+13768,,1920.0,Phillip's,1186.0,,Lange Rudolph,532 Broadway  ,,New York,New York,532,Broadway,,,,,,,,Lange
+13769,,1920.0,Phillip's,1186.0,,Lauritano H.,315 E 149 St.,,New York,New York,315,E,149,St.,,,,,,Lauritano
+13770,,1920.0,Phillip's,1186.0,,Lawrie Sheila,11 Vandam St. ,,New York,New York,11,Vandam,St.,,,,,,,Lawrie
+13771,,1920.0,Phillip's,1186.0,,Lazarovitz Bros.,490 Lenox Ave. ,,New York,New York,490,Lenox,Ave.,,,,,,,Lazarovitz
+13772,,1920.0,Phillip's,1186.0,,Leary John H.,931 6 Ave. ,,New York,New York,931,6,Ave.,,,,,,,Leary
+13773,,1920.0,Phillip's,1186.0,,Lecuyer ,105 W 25 St.,,New York,New York,105,W,25,St.,,,,,,Lecuyer
+13774,,1920.0,Phillip's,1186.0,,Leicht S.,441 E 14 St.,,New York,New York,441,E,14,St.,,,,,,Leicht
+13775,,1920.0,Phillip's,1186.0,,Le Mon Forest,26 E 28 St.,,New York,New York,26,E,28,St.,,,,,,Le
+13776,,1920.0,Phillip's,1186.0,,Le Mon Forest,10 W 28 St.,,New York,New York,10,W,28,St.,,,,,,Le
+13777,,1920.0,Phillip's,1186.0,,Lenobel I.,29 W 19 St.,,New York,New York,29,W,19,St.,,,,,,Lenobel
+13778,,1920.0,Phillip's,1186.0,,Leon Wm.,121 W 45 St.,,New York,New York,121,W,45,St.,,,,,,Leon
+13779,,1920.0,Phillip's,1186.0,,Leony's ,10 Stone St. ,,New York,New York,10,Stone,St.,,,,,,,Leony's
+13780,,1920.0,Phillip's,1186.0,,Lessing's Inc,120 Broadway  ,,New York,New York,120,Broadway,,,,,,,,Lessing's
+13781,,1920.0,Phillip's,1186.0,,Levenson M. L. ,2780 Webster Ave. ,,New York,New York,2780,Webster,Ave.,,,,,,,Levenson
+13782,,1920.0,Phillip's,1186.0,,Levidiotis I.,141 E 42 St.,,New York,New York,141,E,42,St.,,,,,,Levidiotis
+13783,,1920.0,Phillip's,1186.0,,Levin & Weber,90 Lenox Ave. ,,New York,New York,90,Lenox,Ave.,,,,,,,Levin
+13784,,1920.0,Phillip's,1186.0,,Levine S.,3782 Broadway  ,,New York,New York,3782,Broadway,,,,,,,,Levine
+13785,,1920.0,Phillip's,1186.0,,Levy H. L. ,8 W 17 St.,,New York,New York,8,W,17,St.,,,,,,Levy
+13786,,1920.0,Phillip's,1186.0,,L'Homme Chas.,110 W 45 St.,,New York,New York,110,W,45,St.,,,,,,L'Homme
+13787,,1920.0,Phillip's,1186.0,,Libby W. F.,122 Fulton St. ,,New York,New York,122,Fulton,St.,,,,,,,Libby
+13788,,1920.0,Phillip's,1186.0,,Liberty Lunch Room,149 Greenwich St. ,,New York,New York,149,Greenwich,St.,,,,,,,Liberty
+13789,,1920.0,Phillip's,1186.0,,Liberty Quick Lunch Room,29 Coenties sl ,,New York,New York,29,Coenties,sl,,,,,,,Liberty
+13790,,1920.0,Phillip's,1186.0,,Lifchitz L. A.,144 5 Ave. ,,New York,New York,144,5,Ave.,,,,,,,Lifchitz
+13791,,1920.0,Phillip's,1186.0,,Lincoln A. A. Co.,174 Fulton St. ,,New York,New York,174,Fulton,St.,,,,,,,Lincoln
+13792,,1920.0,Phillip's,1186.0,,Lind Isidore,6 E 17 St.,,New York,New York,6,E,17,St.,,,,,,Lind
+13793,,1920.0,Phillip's,1186.0,,Lindenbaum & Sternlieb,472 8 Ave. ,,New York,New York,472,8,Ave.,,,,,,,Lindenbaum
+13794,,1920.0,Phillip's,1186.0,,Linder's Bakery & Restaurant,2 Warren St. ,,New York,New York,2,Warren,St.,,,,,,,Linder's
+13795,,1920.0,Phillip's,1186.0,,Lion D'or,59 W 24 St.,,New York,New York,59,W,24,St.,,,,,,Lion
+13796,,1920.0,Phillip's,1186.0,,Lippitt S.,492 W Broadway ,,New York,New York,492,W,Broadway,,,,,,,Lippitt
+13797,,1920.0,Phillip's,1186.0,,Little Hungary,255 E Houston St.,,New York,New York,255,E,Houston,St.,,,,,,Little
+13798,,1920.0,Phillip's,1186.0,,Little Roma,44 Beaver St. ,,New York,New York,44,Beaver,St.,,,,,,,Little
+13799,,1920.0,Phillip's,1186.0,,Locker M.,216 Canal St. ,,New York,New York,216,Canal,St.,,,,,,,Locker
+13800,,1920.0,Phillip's,1186.0,,Lodes V.,782 Washington St. ,,New York,New York,782,Washington,St.,,,,,,,Lodes
+13801,,1920.0,Phillip's,1186.0,,Loeffler's A. Sons,506 Willis Ave. ,,New York,New York,506,Willis,Ave.,,,,,,,Loeffler's
+13802,,1920.0,Phillip's,1186.0,,Loew's G.,41 W 36 St.,,New York,New York,41,W,36,St.,,,,,,Loew's
+13803,,1920.0,Phillip's,1186.0,,Lonie James,150 William St. ,,New York,New York,150,William,St.,,,,,,,Lonie
+13804,,1920.0,Phillip's,1186.0,,Lorber's ,1420 Broadway  ,,New York,New York,1420,Broadway,,,,,,,,Lorber's
+13805,,1920.0,Phillip's,1186.0,,Lord's Court Restaurant Co,40 Exchange Pl ,,New York,New York,40,Exchange,Pl,,,,,,,Lord's
+13806,,1920.0,Phillip's,1186.0,,Lorenz & Riegow,731 Amsterdam Ave. ,,New York,New York,731,Amsterdam,Ave.,,,,,,,Lorenz
+13807,,1920.0,Phillip's,1186.0,,Louis,17 W 49 St.,,New York,New York,17,W,49,St.,,,,,,Louis
+13808,,1920.0,Phillip's,1186.0,,Louvre,205 W 34 St.,,New York,New York,205,W,34,St.,,,,,,Louvre
+13809,,1920.0,Phillip's,1186.0,Chinese Restaurant,Low Hong Kong,23 Park Row  ,,New York,New York,23,Park Row,,,,,,,,Low
+13810,,1920.0,Phillip's,1186.0,,Lowe's,612 8 Ave. ,,New York,New York,612,8,Ave.,,,,,,,Lowe's
+13811,,1920.0,Phillip's,1186.0,,Lowe's Casino ,Boston Rd  & E 181,,New York,New York,Boston Rd ,&,E,181,,,,,,Lowe's
+13812,,1920.0,Phillip's,1186.0,,Lubold Wm. H.,6 W 24 St.,,New York,New York,6,W,24,St.,,,,,,Lubold
+13813,,1920.0,Phillip's,1186.0,,Lucca,110 W 44 St.,,New York,New York,110,W,44,St.,,,,,,Lucca
+13814,,1920.0,Phillip's,1186.0,,Luchow August,106 E 14 St.,,New York,New York,106,E,14,St.,,,,,,Luchow
+13815,,1920.0,Phillip's,1186.0,,Lussier Restaurant,149 W 43 St.,,New York,New York,149,W,43,St.,,,,,,Lussier
+13816,,1920.0,Phillip's,1186.0,,Lustgarten,300 Grand St. ,,New York,New York,300,Grand,St.,,,,,,,Lustgarten
+13817,,1920.0,Phillip's,1186.0,,Lusthaus A. L.,238 4 Ave. ,,New York,New York,238,4,Ave.,,,,,,,Lusthaus

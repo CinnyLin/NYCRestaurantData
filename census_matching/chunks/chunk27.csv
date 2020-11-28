@@ -1,0 +1,501 @@
+Unnamed: 0,ID,YR,DIR,PG,TYPE,NAME,ADDY,BOROUGH,CITY,STATE,HOUSENO,STNAME,STNAME.1,STNAME.2,ST_PREFIX,ST_SUFFIX,AdrMod,STNAME.3,STNAME.4,last_name
+15322,835,1890,Trows,332,Restaurants,Maillie John,221  Bleecker St.,Manhattan,New York,New York,221,Bleecker,,,,St.,,,,Maillie
+15323,836,1890,Trows,332,Restaurants,Maisch Leopold,384  Pearl St.,Manhattan,New York,New York,384,Pearl,,,,St.,,,,Maisch
+15324,837,1890,Trows,332,Restaurants,Malat John,2  Washington Pl.,Manhattan,New York,New York,2,Washington,,,,Pl.,,,,Malat
+15325,838,1890,Trows,332,Restaurants,Malcomson James,560  10 Ave.,Manhattan,New York,New York,560,10,,,,Ave.,,,,Malcomson
+15326,839,1890,Trows,332,Restaurants,Maleham William E.,42 E. 43 St.,Manhattan,New York,New York,42,43,,,E.,St.,,,,Maleham
+15327,840,1890,Trows,332,Restaurants,Malley & Jensen,249  Bowery St.,Manhattan,New York,New York,249,Bowery,,,,St.,,,,Malley
+15328,841,1890,Trows,332,Restaurants,Manny Cornelius J.,69  Hudson St.,Manhattan,New York,New York,69,Hudson,,,,St.,,,,Manny
+15329,842,1890,Trows,332,Restaurants,Mansch Philip,34  Liberty St.,Manhattan,New York,New York,34,Liberty,,,,St.,,,,Mansch
+15330,843,1890,Trows,332,Restaurants,Marchet Camille,56 W. Houston St.,Manhattan,New York,New York,56,Houston,,,W.,St.,,,,Marchet
+15331,844,1890,Trows,332,Restaurants,Mark Frederick,201  Avenue A. St.,Manhattan,New York,New York,201,Avenue A.,,,,St.,,,,Mark
+15332,845,1890,Trows,332,Restaurants,Markert & Weil,453  6 Ave.,Manhattan,New York,New York,453,6,,,,Ave.,,,,Markert
+15333,846,1890,Trows,332,Restaurants,Marrie Louis,72  Marion St.,Manhattan,New York,New York,72,Marion,,,,St.,,,,Marrie
+15334,847,1890,Trows,332,Restaurants,Martin Samuel W.,1437  Broadway ,Manhattan,New York,New York,1437,Broadway,,,,,,,,Martin
+15335,848,1890,Trows,332,Restaurants,Martinez & Aberasturi,192  Pearl St.,Manhattan,New York,New York,192,Pearl,,,,St.,,,,Martinez
+15336,849,1890,Trows,332,Restaurants,Marx Felix,79  Mercer St.,Manhattan,New York,New York,79,Mercer,,,,St.,,,,Marx
+15337,850,1890,Trows,332,Restaurants,Mather George,387  10 Ave.,Manhattan,New York,New York,387,10,,,,Ave.,,,,Mather
+15338,851,1890,Trows,332,Restaurants,Mathews Edward,1  West St.,Manhattan,New York,New York,1,West,,,,St.,,,,Mathews
+15339,852,1890,Trows,332,Restaurants,Mattern Paul,258 E. Houston St.,Manhattan,New York,New York,258,Houston,,,E.,St.,,,,Mattern
+15340,853,1890,Trows,332,Restaurants,May Ernest,125  Bleecker St.,Manhattan,New York,New York,125,Bleecker,,,,St.,,,,May
+15341,854,1890,Trows,332,Restaurants,Mayer Joseph,19 W. 4 St.,Manhattan,New York,New York,19,4,,,W.,St.,,,,Mayer
+15342,855,1890,Trows,332,Restaurants,Mayer Otto,643  10 Ave.,Manhattan,New York,New York,643,10,,,,Ave.,,,,Mayer
+15343,856,1890,Trows,332,Restaurants,Mayer Simon,27  Mercer St.,Manhattan,New York,New York,27,Mercer,,,,St.,,,,Mayer
+15344,857,1890,Trows,332,Restaurants,Meckauer Bruno,116  Eldridge St.,Manhattan,New York,New York,116,Eldridge,,,,St.,,,,Meckauer
+15345,858,1890,Trows,332,Restaurants,Meehan & Brennan,129  West St.,Manhattan,New York,New York,129,West,,,,St.,,,,Meehan
+15346,859,1890,Trows,332,Restaurants,Mehlein John,1933  Washington Ave.,Manhattan,New York,New York,1933,Washington,,,,Ave.,,,,Mehlein
+15347,860,1890,Trows,332,Restaurants,Mehlich & Ruckert,21  Park Row,Manhattan,New York,New York,21,Park,,,,Row,,,,Mehlich
+15348,861,1890,Trows,332,Restaurants,Mercy George,137 W. Broadway ,Manhattan,New York,New York,137,Broadway,,,W.,,,,,Mercy
+15349,862,1890,Trows,332,Restaurants,Mergenthaler & Co.,122  Park Row,Manhattan,New York,New York,122,Park,,,,Row,,,,Mergenthaler
+15350,863,1890,Trows,332,Restaurants,Mertz Frederick,202 E. 65 St.,Manhattan,New York,New York,202,65,,,E.,St.,,,,Mertz
+15351,864,1890,Trows,332,Restaurants,Merz Frederick,634  3 Ave.,Manhattan,New York,New York,634,3,,,,Ave.,,,,Merz
+15352,865,1890,Trows,332,Restaurants,Messet John,17 E. 134 St.,Manhattan,New York,New York,17,134,,,E.,St.,,,,Messet
+15353,866,1890,Trows,332,Restaurants,Messner & Freienstein,813  8 Ave.,Manhattan,New York,New York,813,8,,,,Ave.,,,,Messner
+15354,867,1890,Trows,332,Restaurants,Meusburger Bernhard,109  Nassau St.,Manhattan,New York,New York,109,Nassau,,,,St.,,,,Meusburger
+15355,868,1890,Trows,332,Restaurants,Meyer Frederick,36  Desbrosses St.,Manhattan,New York,New York,36,Desbrosses,,,,St.,,,,Meyer
+15356,869,1890,Trows,332,Restaurants,Meyer Gustav,1 W. 3 St.,Manhattan,New York,New York,1,3,,,W.,St.,,,,Meyer
+15357,870,1890,Trows,332,Restaurants,Meyer Henrietta,268  Greenwich St.,Manhattan,New York,New York,268,Greenwich,,,,St.,,,,Meyer
+15358,871,1890,Trows,332,Restaurants,Meyer Henry,74  William St.,Manhattan,New York,New York,74,William,,,,St.,,,,Meyer
+15359,872,1890,Trows,332,Restaurants,Meyer Herman,176  West St.,Manhattan,New York,New York,176,West,,,,St.,,,,Meyer
+15360,873,1890,Trows,332,Restaurants,Meyer John,279  West St.,Manhattan,New York,New York,279,West,,,,St.,,,,Meyer
+15361,874,1890,Trows,332,Restaurants,Meyer John H.,39  Elm St.,Manhattan,New York,New York,39,Elm,,,,St.,,,,Meyer
+15362,875,1890,Trows,332,Restaurants,Meyer Louis,78  Greene St.,Manhattan,New York,New York,78,Greene,,,,St.,,,,Meyer
+15363,876,1890,Trows,332,Restaurants,Meyer Peter,388  Broome St.,Manhattan,New York,New York,388,Broome,,,,St.,,,,Meyer
+15364,877,1890,Trows,332,Restaurants,Middleton Solomon S.,84  William St.,Manhattan,New York,New York,84,William,,,,St.,,,,Middleton
+15365,878,1890,Trows,332,Restaurants,Miller James,53  Carmine St.,Manhattan,New York,New York,53,Carmine,,,,St.,,,,Miller
+15366,879,1890,Trows,332,Restaurants,Miller John,72  Avenue B. St.,Manhattan,New York,New York,72,Avenue B.,,,,St.,,,,Miller
+15367,880,1890,Trows,332,Restaurants,Miller Louis,149 W. 125 St.,Manhattan,New York,New York,149,125,,,W.,St.,,,,Miller
+15368,881,1890,Trows,332,Restaurants,Mills Alexander,417 E. 34 St.,Manhattan,New York,New York,417,34,,,E.,St.,,,,Mills
+15369,882,1890,Trows,332,Restaurants,Minchin Pierce,138  Bleecker St.,Manhattan,New York,New York,138,Bleecker,,,,St.,,,,Minchin
+15370,883,1890,Trows,332,Restaurants,Miner L. H.,26 W. 13 St.,Manhattan,New York,New York,26,13,,,W.,St.,,,,Miner
+15371,884,1890,Trows,332,Restaurants,Mitchell Thomas,18  Coenties Sl.,Manhattan,New York,New York,18,Coenties,,,,Sl.,,,,Mitchell
+15372,885,1890,Trows,332,Restaurants,Moenk William ,456  Canal St.,Manhattan,New York,New York,456,Canal,,,,St.,,,,Moenk
+15373,886,1890,Trows,332,Restaurants,Moffatt & Co.,486  6 Ave.,Manhattan,New York,New York,486,6,,,,Ave.,,,,Moffatt
+15374,887,1890,Trows,332,Restaurants,Moffatt & Co.,924  6 Ave.,Manhattan,New York,New York,924,6,,,,Ave.,,,,Moffatt
+15375,888,1890,Trows,332,Restaurants,Moffatt & Diefendorf,668  8 Ave.,Manhattan,New York,New York,668,8,,,,Ave.,,,,Moffatt
+15376,889,1890,Trows,332,Restaurants,Mogg George C.,1  Barclay St.,Manhattan,New York,New York,1,Barclay,,,,St.,,,,Mogg
+15377,890,1890,Trows,332,Restaurants,Mollner Samuel,494  Broadway ,Manhattan,New York,New York,494,Broadway,,,,,,,,Mollner
+15378,891,1890,Trows,332,Restaurants,Monaghan John,21  West St.,Manhattan,New York,New York,21,West,,,,St.,,,,Monaghan
+15379,892,1890,Trows,332,Restaurants,Monnan Emma,61  Grand St.,Manhattan,New York,New York,61,Grand,,,,St.,,,,Monnan
+15380,893,1890,Trows,332,Restaurants,Moore John H.,169 E. Broadway ,Manhattan,New York,New York,169,Broadway,,,E.,,,,,Moore
+15381,894,1890,Trows,332,Restaurants,Mora Henry,441 E. 52 St.,Manhattan,New York,New York,441,52,,,E.,St.,,,,Mora
+15382,895,1890,Trows,332,Restaurants,Morello Angelo,4 W. 29 St.,Manhattan,New York,New York,4,29,,,W.,St.,,,,Morello
+15383,896,1890,Trows,332,Restaurants,Moretti Stephen,22 E. 21 St.,Manhattan,New York,New York,22,21,,,E.,St.,,,,Moretti
+15384,897,1890,Trows,332,Restaurants,Morrison William P.,127  8 St.,Manhattan,New York,New York,127,8,,,,St.,,,,Morrison
+15385,898,1890,Trows,332,Restaurants,Morrissey Patrick,348  1 Ave.,Manhattan,New York,New York,348,1,,,,Ave.,,,,Morrissey
+15386,899,1890,Trows,332,Restaurants,Morse Henry A.,778  3 Ave.,Manhattan,New York,New York,778,3,,,,Ave.,,,,Morse
+15387,900,1890,Trows,332,Restaurants,Morton John J., Sedgwick av. N Depot Pl.,Manhattan,New York,New York,,Depot,,,Sedgwick av. N,Pl.,,,,Morton
+15388,901,1890,Trows,332,Restaurants,Moses Morris,28 W. Houston St.,Manhattan,New York,New York,28,Houston,,,W.,St.,,,,Moses
+15389,902,1890,Trows,332,Restaurants,Mosig Louisa,2497  3 Ave.,Manhattan,New York,New York,2497,3,,,,Ave.,,,,Mosig
+15390,903,1890,Trows,332,Restaurants,Moskovitz Max,38  Essex St.,Manhattan,New York,New York,38,Essex,,,,St.,,,,Moskovitz
+15391,904,1890,Trows,332,Restaurants,Moskowitz Bella M.,198  Stanton St.,Manhattan,New York,New York,198,Stanton,,,,St.,,,,Moskowitz
+15392,905,1890,Trows,332,Restaurants,Motel John,320 E. 54 St.,Manhattan,New York,New York,320,54,,,E.,St.,,,,Motel
+15393,906,1890,Trows,332,Restaurants,Mott James R.,211  Bowery St.,Manhattan,New York,New York,211,Bowery,,,,St.,,,,Mott
+15394,907,1890,Trows,333,Restaurants,Mouquin Restaurant & Wine Co. (Ltd),149  Fulton St.,Manhattan,New York,New York,149,Fulton,,,,St.,,,,Mouquin
+15395,908,1890,Trows,333,Restaurants,Mouquin Restaurant & Wine Co. (Ltd),20  Ann St.,Manhattan,New York,New York,20,Ann,,,,St.,,,,Mouquin
+15396,909,1890,Trows,333,Restaurants,Mouquin Restaurant & Wine Co. (Ltd),438  6 Ave.,Manhattan,New York,New York,438,6,,,,Ave.,,,,Mouquin
+15397,910,1890,Trows,333,Restaurants,Mueller Philip,392  11 Ave.,Manhattan,New York,New York,392,11,,,,Ave.,,,,Mueller
+15398,911,1890,Trows,333,Restaurants,Mueller Rudolph C.,36  Catharine St.,Manhattan,New York,New York,36,Catharine,,,,St.,,,,Mueller
+15399,912,1890,Trows,333,Restaurants,Muhlenberg Emil,108  Gansevoort St.,Manhattan,New York,New York,108,Gansevoort,,,,St.,,,,Muhlenberg
+15400,913,1890,Trows,333,Restaurants,Mulcahey John,832  Washington St.,Manhattan,New York,New York,832,Washington,,,,St.,,,,Mulcahey
+15401,914,1890,Trows,333,Restaurants,Muller Ernst,"355,5  Bowery St.",Manhattan,New York,New York,355.5,Bowery,,,,St.,,,,Muller
+15402,915,1890,Trows,333,Restaurants,Muller Frank,78  Stanton St.,Manhattan,New York,New York,78,Stanton,,,,St.,,,,Muller
+15403,916,1890,Trows,333,Restaurants,Muller George,154  Franklin St.,Manhattan,New York,New York,154,Franklin,,,,St.,,,,Muller
+15404,917,1890,Trows,333,Restaurants,Muller John H.,70  University Pl.,Manhattan,New York,New York,70,University,,,,Pl.,,,,Muller
+15405,918,1890,Trows,333,Restaurants,Muller John T.,477  11 Ave.,Manhattan,New York,New York,477,11,,,,Ave.,,,,Muller
+15406,919,1890,Trows,333,Restaurants,Muller Theodore,88  Park Row,Manhattan,New York,New York,88,Park,,,,Row,,,,Muller
+15407,920,1890,Trows,333,Restaurants,Mulligan John ,234  Avenue A. St.,Manhattan,New York,New York,234,Avenue A.,,,,St.,,,,Mulligan
+15408,921,1890,Trows,333,Restaurants,Munchenhagen Albert W. F.,416 E. 23 St.,Manhattan,New York,New York,416,23,,,E.,St.,,,,Munchenhagen
+15409,922,1890,Trows,333,Restaurants,Murley Lawrence & Co.,334  Washington Mkt.,Manhattan,New York,New York,334,Washington,,,,Mkt.,,,,Murley
+15410,923,1890,Trows,333,Restaurants,Murphy Patrick,19  New St.,Manhattan,New York,New York,19,New,,,,St.,,,,Murphy
+15411,924,1890,Trows,333,Restaurants,Naething Arthur R.,177  William St.,Manhattan,New York,New York,177,William,,,,St.,,,,Naething
+15412,925,1890,Trows,333,Restaurants,Naething William H.,33  Cortlandt St.,Manhattan,New York,New York,33,Cortlandt,,,,St.,,,,Naething
+15413,926,1890,Trows,333,Restaurants,Naething Brothers,118  Fulton St.,Manhattan,New York,New York,118,Fulton,,,,St.,,,,Naething
+15414,927,1890,Trows,333,Restaurants,Naething Brothers,360  Canal St.,Manhattan,New York,New York,360,Canal,,,,St.,,,,Naething
+15415,928,1890,Trows,333,Restaurants,Nash & Brush,16  Park Pl.,Manhattan,New York,New York,16,Park,,,,Pl.,,,,Nash
+15416,929,1890,Trows,333,Restaurants,Nathan Jacob,178  Mercer St.,Manhattan,New York,New York,178,Mercer,,,,St.,,,,Nathan
+15417,930,1890,Trows,333,Restaurants,Nebling Valentine,854  10 Ave.,Manhattan,New York,New York,854,10,,,,Ave.,,,,Nebling
+15418,931,1890,Trows,333,Restaurants,Neidhardt Theodore,271  3 Ave.,Manhattan,New York,New York,271,3,,,,Ave.,,,,Neidhardt
+15419,932,1890,Trows,333,Restaurants,Nelson & Co.,13  Cortlandt St.,Manhattan,New York,New York,13,Cortlandt,,,,St.,,,,Nelson
+15420,933,1890,Trows,333,Restaurants,Nelson & Ward,606  Broadway ,Manhattan,New York,New York,606,Broadway,,,,,,,,Nelson
+15421,934,1890,Trows,333,Restaurants,Neumann August,530 E. 14 St.,Manhattan,New York,New York,530,14,,,E.,St.,,,,Neumann
+15422,935,1890,Trows,333,Restaurants,Neumann Brothers,387  Canal St.,Manhattan,New York,New York,387,Canal,,,,St.,,,,Neumann
+15423,936,1890,Trows,333,Restaurants,Neumann Brothers,43 W. Broadway ,Manhattan,New York,New York,43,Broadway,,,W.,,,,,Neumann
+15424,937,1890,Trows,333,Restaurants,Neumuller Francis,174  Pearl St.,Manhattan,New York,New York,174,Pearl,,,,St.,,,,Neumuller
+15425,938,1890,Trows,333,Restaurants,Neustadter Louis,56  Ludlow St.,Manhattan,New York,New York,56,Ludlow,,,,St.,,,,Neustadter
+15426,939,1890,Trows,333,Restaurants,Neuwelt Ignatz,286 E. Houston St.,Manhattan,New York,New York,286,Houston,,,E.,St.,,,,Neuwelt
+15427,940,1890,Trows,333,Restaurants,N. Y. Bible & Fruit Mission,416 E. 26 St.,Manhattan,New York,New York,416,26,,,E.,St.,,,,N.
+15428,941,1890,Trows,333,Restaurants,N. Y. Buffet Co.,167  Broadway ,Manhattan,New York,New York,167,Broadway,,,,,,,,N.
+15429,942,1890,Trows,333,Restaurants,N. Y. Diet Kitchen Assn.,137  Centre St.,Manhattan,New York,New York,137,Centre,,,,St.,,,,N.
+15430,943,1890,Trows,333,Restaurants,N. Y. Diet Kitchen Assn.,99  Varick St.,Manhattan,New York,New York,99,Varick,,,,St.,,,,N.
+15431,944,1890,Trows,333,Restaurants,N. Y. Diet Kitchen Assn.,269  3 Ave.,Manhattan,New York,New York,269,3,,,,Ave.,,,,N.
+15432,945,1890,Trows,333,Restaurants,N. Y. Diet Kitchen Assn.,469  9 Ave.,Manhattan,New York,New York,469,9,,,,Ave.,,,,N.
+15433,946,1890,Trows,333,Restaurants,Newton Hannah R.,268  6 Ave.,Manhattan,New York,New York,268,6,,,,Ave.,,,,Newton
+15434,947,1890,Trows,333,Restaurants,Newton & Howell,645  3 Ave.,Manhattan,New York,New York,645,3,,,,Ave.,,,,Newton
+15435,948,1890,Trows,333,Restaurants,Nicholas Moses J.,48  Whitehall St.,Manhattan,New York,New York,48,Whitehall,,,,St.,,,,Nicholas
+15436,949,1890,Trows,333,Restaurants,Nicholas William H.,100  Front St.,Manhattan,New York,New York,100,Front,,,,St.,,,,Nicholas
+15437,950,1890,Trows,333,Restaurants,Nicklin Ellen,384  West St.,Manhattan,New York,New York,384,West,,,,St.,,,,Nicklin
+15438,951,1890,Trows,333,Restaurants,Niegsch August,214  Canal St.,Manhattan,New York,New York,214,Canal,,,,St.,,,,Niegsch
+15439,952,1890,Trows,333,Restaurants,Niemeyer August,283  8 Ave.,Manhattan,New York,New York,283,8,,,,Ave.,,,,Niemeyer
+15440,953,1890,Trows,333,Restaurants,Nitschke Henry,86  Fulton St.,Manhattan,New York,New York,86,Fulton,,,,St.,,,,Nitschke
+15441,954,1890,Trows,333,Restaurants,Noakes George,219  Greenwich St.,Manhattan,New York,New York,219,Greenwich,,,,St.,,,,Noakes
+15442,955,1890,Trows,333,Restaurants,Nöltner Franz jr.,230  Chrystie  St.,Manhattan,New York,New York,230,Chrystie ,,,,St.,,,,Nöltner
+15443,956,1890,Trows,333,Restaurants,Nudi John,153  3 Ave.,Manhattan,New York,New York,153,3,,,,Ave.,,,,Nudi
+15444,957,1890,Trows,333,Restaurants,Nugent John R.,  Castle Clinton ,Manhattan,New York,New York,,Castle Clinton,,,,,,,,Nugent
+15445,958,1890,Trows,333,Restaurants,Nugent Thomas,211  Spring St.,Manhattan,New York,New York,211,Spring,,,,St.,,,,Nugent
+15446,959,1890,Trows,333,Restaurants,Nuis Henry V.,1590  2 Ave.,Manhattan,New York,New York,1590,2,,,,Ave.,,,,Nuis
+15447,960,1890,Trows,333,Restaurants,Nurse George A.,530  8 Ave.,Manhattan,New York,New York,530,8,,,,Ave.,,,,Nurse
+15448,961,1890,Trows,333,Restaurants,O'Brien Michael,1485  3 Ave.,Manhattan,New York,New York,1485,3,,,,Ave.,,,,O'Brien
+15449,962,1890,Trows,333,Restaurants,O'Brien Michael D.,1153  3 Ave.,Manhattan,New York,New York,1153,3,,,,Ave.,,,,O'Brien
+15450,963,1890,Trows,333,Restaurants,Ochse Frederick,51 W. Broadway ,Manhattan,New York,New York,51,Broadway,,,W.,,,,,Ochse
+15451,964,1890,Trows,333,Restaurants,Ochse John,191  Canal St.,Manhattan,New York,New York,191,Canal,,,,St.,,,,Ochse
+15452,965,1890,Trows,333,Restaurants,Ockendon William T.,53 W. 3 St.,Manhattan,New York,New York,53,3,,,W.,St.,,,,Ockendon
+15453,966,1890,Trows,333,Restaurants,O'Connell James,61  Great Jones St.,Manhattan,New York,New York,61,Great Jones,,,,St.,,,,O'Connell
+15454,967,1890,Trows,333,Restaurants,O'Connor Henry,5 N. William St.,Manhattan,New York,New York,5,William,,,N.,St.,,,,O'Connor
+15455,968,1890,Trows,333,Restaurants,O'Connor James F.,52  South St.,Manhattan,New York,New York,52,South,,,,St.,,,,O'Connor
+15456,969,1890,Trows,333,Restaurants,Oestreich Charles H. F.,77  Nassau St.,Manhattan,New York,New York,77,Nassau,,,,St.,,,,Oestreich
+15457,970,1890,Trows,333,Restaurants,Offermann Charles H.,64  Prince St.,Manhattan,New York,New York,64,Prince,,,,St.,,,,Offermann
+15458,971,1890,Trows,333,Restaurants,O'Leary Andrew,154  3 Ave.,Manhattan,New York,New York,154,3,,,,Ave.,,,,O'Leary
+15459,972,1890,Trows,333,Restaurants,O'Leary Jane,36  3 Ave.,Manhattan,New York,New York,36,3,,,,Ave.,,,,O'Leary
+15460,973,1890,Trows,333,Restaurants,Olney David,2032  3 Ave.,Manhattan,New York,New York,2032,3,,,,Ave.,,,,Olney
+15461,974,1890,Trows,333,Restaurants,O'Neil Andrew F.,53  Clinton  Mkt.,Manhattan,New York,New York,53,Clinton ,,,,Mkt.,,,,O'Neil
+15462,975,1890,Trows,333,Restaurants,O'Neil John,358  6 Ave.,Manhattan,New York,New York,358,6,,,,Ave.,,,,O'Neil
+15463,976,1890,Trows,333,Restaurants,O'Neil Thomas P.,563  10 Ave.,Manhattan,New York,New York,563,10,,,,Ave.,,,,O'Neil
+15464,977,1890,Trows,333,Restaurants,Orcutt Edwin B.,200  Broadway ,Manhattan,New York,New York,200,Broadway,,,,,,,,Orcutt
+15465,978,1890,Trows,333,Restaurants,Orero George B.,35  Baxter St.,Manhattan,New York,New York,35,Baxter,,,,St.,,,,Orero
+15466,979,1890,Trows,333,Restaurants,Ortmann Frederick,254  Canal St.,Manhattan,New York,New York,254,Canal,,,,St.,,,,Ortmann
+15467,980,1890,Trows,333,Restaurants,Osborne Ann,14  Horatio St.,Manhattan,New York,New York,14,Horatio,,,,St.,,,,Osborne
+15468,981,1890,Trows,333,Restaurants,Osswald Herman,217  Hester St.,Manhattan,New York,New York,217,Hester,,,,St.,,,,Osswald
+15469,982,1890,Trows,333,Restaurants,Oswald F. & Sons,1106  2 Ave.,Manhattan,New York,New York,1106,2,,,,Ave.,,,,Oswald
+15470,983,1890,Trows,333,Restaurants,Ott Michael,110 E. 41 St.,Manhattan,New York,New York,110,41,,,E.,St.,,,,Ott
+15471,984,1890,Trows,333,Restaurants,Overton William B.,436  Broome St.,Manhattan,New York,New York,436,Broome,,,,St.,,,,Overton
+15472,985,1890,Trows,333,Restaurants,Page Philip,78  1 Ave.,Manhattan,New York,New York,78,1,,,,Ave.,,,,Page
+15473,986,1890,Trows,333,Restaurants,Paine Mary J.,41  Bowery St.,Manhattan,New York,New York,41,Bowery,,,,St.,,,,Paine
+15474,987,1890,Trows,333,Restaurants,Palm Augusta,257  3 Ave.,Manhattan,New York,New York,257,3,,,,Ave.,,,,Palm
+15475,988,1890,Trows,333,Restaurants,Palmer Brothers,74  Chambers St.,Manhattan,New York,New York,74,Chambers,,,,St.,,,,Palmer
+15476,989,1890,Trows,333,Restaurants,Paolera Rapheal,45  Mulberry St.,Manhattan,New York,New York,45,Mulberry,,,,St.,,,,Paolera
+15477,990,1890,Trows,333,Restaurants,Parker Patrick,1208  2 Ave.,Manhattan,New York,New York,1208,2,,,,Ave.,,,,Parker
+15478,991,1890,Trows,333,Restaurants,Pauli & Healy,513  Hudson St.,Manhattan,New York,New York,513,Hudson,,,,St.,,,,Pauli
+15479,992,1890,Trows,333,Restaurants,Pause Max,45  Exchange  Pl.,Manhattan,New York,New York,45,Exchange ,,,,Pl.,,,,Pause
+15480,993,1890,Trows,333,Restaurants,Pauw Henry,14  Centre St.,Manhattan,New York,New York,14,Centre,,,,St.,,,,Pauw
+15481,994,1890,Trows,333,Restaurants,Payne Ezbern,254  10 Ave.,Manhattan,New York,New York,254,10,,,,Ave.,,,,Payne
+15482,995,1890,Trows,333,Restaurants,Peck Julius,110  Chambers St.,Manhattan,New York,New York,110,Chambers,,,,St.,,,,Peck
+15483,996,1890,Trows,333,Restaurants,Pell Brothers,12  Ann St.,Manhattan,New York,New York,12,Ann,,,,St.,,,,Pell
+15484,997,1890,Trows,333,Restaurants,Pellettieri L.,167  Elizabeth St.,Manhattan,New York,New York,167,Elizabeth,,,,St.,,,,Pellettieri
+15485,998,1890,Trows,333,Restaurants,Pepin Pierre,140 W. 25 St.,Manhattan,New York,New York,140,25,,,W.,St.,,,,Pepin
+15486,999,1890,Trows,333,Restaurants,Perfetti Antonio,172  Worth St.,Manhattan,New York,New York,172,Worth,,,,St.,,,,Perfetti
+15487,1000,1890,Trows,333,Restaurants,Perlman Meyer,136  Delancey St.,Manhattan,New York,New York,136,Delancey,,,,St.,,,,Perlman
+15488,1001,1890,Trows,333,Restaurants,Permaho Anton G.,6  James St.,Manhattan,New York,New York,6,James,,,,St.,,,,Permaho
+15489,1002,1890,Trows,333,Restaurants,Permarco John G.,170  Worth St.,Manhattan,New York,New York,170,Worth,,,,St.,,,,Permarco
+15490,1003,1890,Trows,333,Restaurants,Perna Pasquale,111  Thompson St.,Manhattan,New York,New York,111,Thompson,,,,St.,,,,Perna
+15491,1004,1890,Trows,333,Restaurants,Perry Charles G.,278  Pearl St.,Manhattan,New York,New York,278,Pearl,,,,St.,,,,Perry
+15492,1005,1890,Trows,333,Restaurants,Petermann Adolph,563 W. 30 St.,Manhattan,New York,New York,563,30,,,W.,St.,,,,Petermann
+15493,1006,1890,Trows,333,Restaurants,Petersen Andrew,74  Park Pl.,Manhattan,New York,New York,74,Park,,,,Pl.,,,,Petersen
+15494,1007,1890,Trows,333,Restaurants,Peterson John O.,205  Chambers St.,Manhattan,New York,New York,205,Chambers,,,,St.,,,,Peterson
+15495,1008,1890,Trows,333,Restaurants,Peterson John O.,197  Reade St.,Manhattan,New York,New York,197,Reade,,,,St.,,,,Peterson
+15496,1009,1890,Trows,333,Restaurants,Petsch Charles H.,104  Spring St.,Manhattan,New York,New York,104,Spring,,,,St.,,,,Petsch
+15497,1010,1890,Trows,333,Restaurants,Pettit & Co.,136  Water St.,Manhattan,New York,New York,136,Water,,,,St.,,,,Pettit
+15498,1011,1890,Trows,333,Restaurants,Pick Edward A.,802  1 Ave.,Manhattan,New York,New York,802,1,,,,Ave.,,,,Pick
+15499,1012,1890,Trows,333,Restaurants,Pick Morris ,1296  1 Ave.,Manhattan,New York,New York,1296,1,,,,Ave.,,,,Pick
+15500,1013,1890,Trows,333,Restaurants,Piper F. W. & Co.,57  Broadway ,Manhattan,New York,New York,57,Broadway,,,,,,,,Piper
+15501,1014,1890,Trows,333,Restaurants,Piper F. W. & Co.,33  Trinity Pl.,Manhattan,New York,New York,33,Trinity,,,,Pl.,,,,Piper
+15502,1015,1890,Trows,333,Restaurants,Pitman William,324  Greenwich St.,Manhattan,New York,New York,324,Greenwich,,,,St.,,,,Pitman
+15503,1016,1890,Trows,333,Restaurants,Plavano James,28 E. 23 St.,Manhattan,New York,New York,28,23,,,E.,St.,,,,Plavano
+15504,1017,1890,Trows,333,Restaurants,Polegre Guillermo,214  Pearl St.,Manhattan,New York,New York,214,Pearl,,,,St.,,,,Polegre
+15505,1018,1890,Trows,333,Restaurants,Pons G. ,53 W. 28 St.,Manhattan,New York,New York,53,28,,,W.,St.,,,,Pons
+15506,1019,1890,Trows,333,Restaurants,Pontin William S.,46  Franklin St.,Manhattan,New York,New York,46,Franklin,,,,St.,,,,Pontin
+15507,1020,1890,Trows,333,Restaurants,Popper Louis,148  Avenue C. St.,Manhattan,New York,New York,148,Avenue C.,,,,St.,,,,Popper
+15508,1021,1890,Trows,333,Restaurants,Porter James,959  3 Ave.,Manhattan,New York,New York,959,3,,,,Ave.,,,,Porter
+15509,1022,1890,Trows,333,Restaurants,Porth John,307  West St.,Manhattan,New York,New York,307,West,,,,St.,,,,Porth
+15510,1023,1890,Trows,333,Restaurants,Postilline Vinzenzo,2123  1 Ave.,Manhattan,New York,New York,2123,1,,,,Ave.,,,,Postilline
+15511,1024,1890,Trows,333,Restaurants,Potter Thomas,778  7 Ave.,Manhattan,New York,New York,778,7,,,,Ave.,,,,Potter
+15512,1025,1890,Trows,333,Restaurants,Ponnd Samuel L.,1933  3 Ave.,Manhattan,New York,New York,1933,3,,,,Ave.,,,,Ponnd
+15513,1026,1890,Trows,333,Restaurants,Power John,83  Cedar St.,Manhattan,New York,New York,83,Cedar,,,,St.,,,,Power
+15514,1027,1890,Trows,333,Restaurants,Preinfalk Jacob ,168 W. Broadway ,Manhattan,New York,New York,168,Broadway,,,W.,,,,,Preinfalk
+15515,1028,1890,Trows,333,Restaurants,Pressler Ernest,49  Bleecker St.,Manhattan,New York,New York,49,Bleecker,,,,St.,,,,Pressler
+15516,1029,1890,Trows,333,Restaurants,Pressler Herman,272  Broome St.,Manhattan,New York,New York,272,Broome,,,,St.,,,,Pressler
+15517,1030,1890,Trows,333,Restaurants,Pressler Joseph,131  Spring St.,Manhattan,New York,New York,131,Spring,,,,St.,,,,Pressler
+15518,1031,1890,Trows,333,Restaurants,Prince Henry,27 W. Houston St.,Manhattan,New York,New York,27,Houston,,,W.,St.,,,,Prince
+15519,1032,1890,Trows,333,Restaurants,Pusch George F.,727  3 Ave.,Manhattan,New York,New York,727,3,,,,Ave.,,,,Pusch
+15520,1033,1890,Trows,333,Restaurants,Quaker Dairy Co.,279  Broadway ,Manhattan,New York,New York,279,Broadway,,,,,,,,Quaker
+15521,1034,1890,Trows,333,Restaurants,Queen George E.,26  Beaver St.,Manhattan,New York,New York,26,Beaver,,,,St.,,,,Queen
+15522,1035,1890,Trows,333,Restaurants,Quest Albert,74  West St.,Manhattan,New York,New York,74,West,,,,St.,,,,Quest
+15523,1036,1890,Trows,333,Restaurants,Quinn William,"114,5  Bowery St.",Manhattan,New York,New York,114.5,Bowery,,,,St.,,,,Quinn
+15524,1037,1890,Trows,333,Restaurants,Quinn William,576  8 Ave.,Manhattan,New York,New York,576,8,,,,Ave.,,,,Quinn
+15525,1038,1890,Trows,333,Restaurants,Quirk John D.,436  2 Ave.,Manhattan,New York,New York,436,2,,,,Ave.,,,,Quirk
+15526,1039,1890,Trows,333,Restaurants,Quirk Maurice,196  South St.,Manhattan,New York,New York,196,South,,,,St.,,,,Quirk
+15527,1040,1890,Trows,333,Restaurants,Raab Charles,796  10 Ave.,Manhattan,New York,New York,796,10,,,,Ave.,,,,Raab
+15528,1041,1890,Trows,333,Restaurants,Rader David,93  Maiden La.,Manhattan,New York,New York,93,Maiden,,,,La.,,,,Rader
+15529,1042,1890,Trows,334,Restaurants,Raders Julius F.,25  Platt St.,Manhattan,New York,New York,25,Platt,,,,St.,,,,Raders
+15530,1043,1890,Trows,334,Restaurants,Rand Frank P.,42  Cedar St.,Manhattan,New York,New York,42,Cedar,,,,St.,,,,Rand
+15531,1044,1890,Trows,334,Restaurants,Randegger August,38  Stanton St.,Manhattan,New York,New York,38,Stanton,,,,St.,,,,Randegger
+15532,1045,1890,Trows,334,Restaurants,Ranft John ,36 E. 4 St.,Manhattan,New York,New York,36,4,,,E.,St.,,,,Ranft
+15533,1046,1890,Trows,334,Restaurants,Rapp Emanuel M.,13  Crosby St.,Manhattan,New York,New York,13,Crosby,,,,St.,,,,Rapp
+15534,1047,1890,Trows,334,Restaurants,Rau Arnold,199  6 Ave.,Manhattan,New York,New York,199,6,,,,Ave.,,,,Rau
+15535,1048,1890,Trows,334,Restaurants,Ravera Battista,138  6 Ave.,Manhattan,New York,New York,138,6,,,,Ave.,,,,Ravera
+15536,1049,1890,Trows,334,Restaurants,Read Cassius H. & Co.,7  Beaver St.,Manhattan,New York,New York,7,Beaver,,,,St.,,,,Read
+15537,1050,1890,Trows,334,Restaurants,Read Cassius H. & Co.,60  Broadway ,Manhattan,New York,New York,60,Broadway,,,,,,,,Read
+15538,1051,1890,Trows,334,Restaurants,Reckling Frederick,182  Church St.,Manhattan,New York,New York,182,Church,,,,St.,,,,Reckling
+15539,1052,1890,Trows,334,Restaurants,Redling John,200  Avenue C. St.,Manhattan,New York,New York,200,Avenue C.,,,,St.,,,,Redling
+15540,1053,1890,Trows,334,Restaurants,Redner Daniel L.,62  3 Ave.,Manhattan,New York,New York,62,3,,,,Ave.,,,,Redner
+15541,1054,1890,Trows,334,Restaurants,Redner & Howc,136 E. 42 St.,Manhattan,New York,New York,136,42,,,E.,St.,,,,Redner
+15542,1055,1890,Trows,334,Restaurants,Rees William A.,135  Liberty St.,Manhattan,New York,New York,135,Liberty,,,,St.,,,,Rees
+15543,1056,1890,Trows,334,Restaurants,Reeves Frances,1779  3 Ave.,Manhattan,New York,New York,1779,3,,,,Ave.,,,,Reeves
+15544,1057,1890,Trows,334,Restaurants,Reich Caroline,6  Walker St.,Manhattan,New York,New York,6,Walker,,,,St.,,,,Reich
+15545,1058,1890,Trows,334,Restaurants,Reich Lena,50  Essex St.,Manhattan,New York,New York,50,Essex,,,,St.,,,,Reich
+15546,1059,1890,Trows,334,Restaurants,Reichenbach Charles,111 W. 24 St.,Manhattan,New York,New York,111,24,,,W.,St.,,,,Reichenbach
+15547,1060,1890,Trows,334,Restaurants,Reicher William,97  Stanton St.,Manhattan,New York,New York,97,Stanton,,,,St.,,,,Reicher
+15548,1061,1890,Trows,334,Restaurants,Reif Arnold,45  Jay St.,Manhattan,New York,New York,45,Jay,,,,St.,,,,Reif
+15549,1062,1890,Trows,334,Restaurants,Reilly Mary,285  Avenue C. St.,Manhattan,New York,New York,285,Avenue C.,,,,St.,,,,Reilly
+15550,1063,1890,Trows,334,Restaurants,Reimers Christian,92  Varick St.,Manhattan,New York,New York,92,Varick,,,,St.,,,,Reimers
+15551,1064,1890,Trows,334,Restaurants,Reinhart John,26  Bowery St.,Manhattan,New York,New York,26,Bowery,,,,St.,,,,Reinhart
+15552,1065,1890,Trows,334,Restaurants,Reinig Jacob,1547  2 Ave.,Manhattan,New York,New York,1547,2,,,,Ave.,,,,Reinig
+15553,1066,1890,Trows,334,Restaurants,Reinken Louis,40  Bowery St.,Manhattan,New York,New York,40,Bowery,,,,St.,,,,Reinken
+15554,1067,1890,Trows,334,Restaurants,Reinken Louis,141  Bowery St.,Manhattan,New York,New York,141,Bowery,,,,St.,,,,Reinken
+15555,1068,1890,Trows,334,Restaurants,Reisler Celia,21  Eldridge St.,Manhattan,New York,New York,21,Eldridge,,,,St.,,,,Reisler
+15556,1069,1890,Trows,334,Restaurants,Reynolds Joseph,15  Greenwich Ave.,Manhattan,New York,New York,15,Greenwich,,,,Ave.,,,,Reynolds
+15557,1070,1890,Trows,334,Restaurants,Reynolds Thomas,58 E. Houston St.,Manhattan,New York,New York,58,Houston,,,E.,St.,,,,Reynolds
+15558,1071,1890,Trows,334,Restaurants,Rheinboldt Joseph,67 E. 4 St.,Manhattan,New York,New York,67,4,,,E.,St.,,,,Rheinboldt
+15559,1072,1890,Trows,334,Restaurants,Rhodes Herbert G.,118  Fulton St.,Manhattan,New York,New York,118,Fulton,,,,St.,,,,Rhodes
+15560,1073,1890,Trows,334,Restaurants,Riccadonna Abele,42 E. Union Sq.,Manhattan,New York,New York,42,Union,,,E.,Sq.,,,,Riccadonna
+15561,1074,1890,Trows,334,Restaurants,Rice Abraham,204  Front St.,Manhattan,New York,New York,204,Front,,,,St.,,,,Rice
+15562,1075,1890,Trows,334,Restaurants,Richardson Benj.,127  Lincoln Ave.,Manhattan,New York,New York,127,Lincoln,,,,Ave.,,,,Richardson
+15563,1076,1890,Trows,334,Restaurants,Richmond Jane,352 W. 11 St.,Manhattan,New York,New York,352,11,,,W.,St.,,,,Richmond
+15564,1077,1890,Trows,334,Restaurants,Richter Louis H.,335  Broadway ,Manhattan,New York,New York,335,Broadway,,,,,,,,Richter
+15565,1078,1890,Trows,334,Restaurants,Richter O. H. & Co.,7  Pine St.,Manhattan,New York,New York,7,Pine,,,,St.,,,,Richter
+15566,1079,1890,Trows,334,Restaurants,Ridal Anne,1554  9 Ave.,Manhattan,New York,New York,1554,9,,,,Ave.,,,,Ridal
+15567,1080,1890,Trows,334,Restaurants,Riegler Joseph,413 E. Houston St.,Manhattan,New York,New York,413,Houston,,,E.,St.,,,,Riegler
+15568,1081,1890,Trows,334,Restaurants,Rigby Peter J.,141  Pearl St.,Manhattan,New York,New York,141,Pearl,,,,St.,,,,Rigby
+15569,1082,1890,Trows,334,Restaurants,Riger Abraham,3  Suffolk St.,Manhattan,New York,New York,3,Suffolk,,,,St.,,,,Riger
+15570,1083,1890,Trows,334,Restaurants,Riley James,282  10 Ave.,Manhattan,New York,New York,282,10,,,,Ave.,,,,Riley
+15571,1084,1890,Trows,334,Restaurants,Rimoldi & Bianchi,131 W. 23 St.,Manhattan,New York,New York,131,23,,,W.,St.,,,,Rimoldi
+15572,1085,1890,Trows,334,Restaurants,Rinn Joseph F. ,216  Spring St.,Manhattan,New York,New York,216,Spring,,,,St.,,,,Rinn
+15573,1086,1890,Trows,334,Restaurants,Rischow August,135  Canal St.,Manhattan,New York,New York,135,Canal,,,,St.,,,,Rischow
+15574,1087,1890,Trows,334,Restaurants,Robart Delvilani,106 W. 26 St.,Manhattan,New York,New York,106,26,,,W.,St.,,,,Robart
+15575,1088,1890,Trows,334,Restaurants,Roberts George F.,585  1 Ave.,Manhattan,New York,New York,585,1,,,,Ave.,,,,Roberts
+15576,1089,1890,Trows,334,Restaurants,Robins Samuel M.,22  New St.,Manhattan,New York,New York,22,New,,,,St.,,,,Robins
+15577,1090,1890,Trows,334,Restaurants,Robins Samuel M.,24  Broad St.,Manhattan,New York,New York,24,Broad,,,,St.,,,,Robins
+15578,1091,1890,Trows,334,Restaurants,Robins & Foy,50  John St.,Manhattan,New York,New York,50,John,,,,St.,,,,Robins
+15579,1092,1890,Trows,334,Restaurants,Robinson Henry J.,587  Hudson St.,Manhattan,New York,New York,587,Hudson,,,,St.,,,,Robinson
+15580,1093,1890,Trows,334,Restaurants,Robinson John H. & Co.,48  Harrison St.,Manhattan,New York,New York,48,Harrison,,,,St.,,,,Robinson
+15581,1094,1890,Trows,334,Restaurants,Rocher Louis,24  Rose St.,Manhattan,New York,New York,24,Rose,,,,St.,,,,Rocher
+15582,1095,1890,Trows,334,Restaurants,Rodda Joseph,348  6 Ave.,Manhattan,New York,New York,348,6,,,,Ave.,,,,Rodda
+15583,1096,1890,Trows,334,Restaurants,Rodh Frances N.,21  Catherine Sl.,Manhattan,New York,New York,21,Catherine,,,,Sl.,,,,Rodh
+15584,1097,1890,Trows,334,Restaurants,Roemaet Charles,75  Nassau St.,Manhattan,New York,New York,75,Nassau,,,,St.,,,,Roemaet
+15585,1098,1890,Trows,334,Restaurants,Roetherdt Frederick,96  Greenwich St.,Manhattan,New York,New York,96,Greenwich,,,,St.,,,,Roetherdt
+15586,1099,1890,Trows,334,Restaurants,Rogers Aaron ,56  College Pl.,Manhattan,New York,New York,56,College,,,,Pl.,,,,Rogers
+15587,1100,1890,Trows,334,Restaurants,Rogers John J.,6  Park Pl.,Manhattan,New York,New York,6,Park,,,,Pl.,,,,Rogers
+15588,1101,1890,Trows,334,Restaurants,Rehrberg Charles,866  11 Ave.,Manhattan,New York,New York,866,11,,,,Ave.,,,,Rehrberg
+15589,1102,1890,Trows,334,Restaurants,Rolfe George B.,42  John St.,Manhattan,New York,New York,42,John,,,,St.,,,,Rolfe
+15590,1103,1890,Trows,334,Restaurants,Romermann Julia, Pelham av. N. Kingsbridge  Rd.,Manhattan,New York,New York,,Kingsbridge ,,,Pelham av. N.,Rd.,,,,Romermann
+15591,1104,1890,Trows,334,Restaurants,Rommelsbacher Carl,79  Franklin St.,Manhattan,New York,New York,79,Franklin,,,,St.,,,,Rommelsbacher
+15592,1105,1890,Trows,334,Restaurants,Rooney E. & J.,259  South St.,Manhattan,New York,New York,259,South,,,,St.,,,,Rooney
+15593,1106,1890,Trows,334,Restaurants,Rose Leonard,69  Leonard St.,Manhattan,New York,New York,69,Leonard,,,,St.,,,,Rose
+15594,1107,1890,Trows,334,Restaurants,Rosecrana Thomas,204  9 Ave.,Manhattan,New York,New York,204,9,,,,Ave.,,,,Rosecrana
+15595,1108,1890,Trows,334,Restaurants,Rosenbaum Gustave,121  1 Ave.,Manhattan,New York,New York,121,1,,,,Ave.,,,,Rosenbaum
+15596,1109,1890,Trows,334,Restaurants,Rosenberg Gerson,103  Orchard St.,Manhattan,New York,New York,103,Orchard,,,,St.,,,,Rosenberg
+15597,1110,1890,Trows,334,Restaurants,Rosenberg Morris,83  Delancey St.,Manhattan,New York,New York,83,Delancey,,,,St.,,,,Rosenberg
+15598,1111,1890,Trows,334,Restaurants,Rosenburg Joseph,71  Sheriff St.,Manhattan,New York,New York,71,Sheriff,,,,St.,,,,Rosenburg
+15599,1112,1890,Trows,334,Restaurants,Rosenfeld Leo,86  2 Ave.,Manhattan,New York,New York,86,2,,,,Ave.,,,,Rosenfeld
+15600,1113,1890,Trows,334,Restaurants,Rosenfeld & Kramrich,98  Ridge St.,Manhattan,New York,New York,98,Ridge,,,,St.,,,,Rosenfeld
+15601,1114,1890,Trows,334,Restaurants,Ross John F.,614  Grand St.,Manhattan,New York,New York,614,Grand,,,,St.,,,,Ross
+15602,1115,1890,Trows,334,Restaurants,Rossini Peter,327  3 Ave.,Manhattan,New York,New York,327,3,,,,Ave.,,,,Rossini
+15603,1116,1890,Trows,334,Restaurants,Roth Joseph,187  Avenue A. St.,Manhattan,New York,New York,187,Avenue A.,,,,St.,,,,Roth
+15604,1117,1890,Trows,334,Restaurants,Rothmann Henry J.,119 W. Broadway ,Manhattan,New York,New York,119,Broadway,,,W.,,,,,Rothmann
+15605,1118,1890,Trows,334,Restaurants,Rourke Cornelius W.,1233  Broadway ,Manhattan,New York,New York,1233,Broadway,,,,,,,,Rourke
+15606,1119,1890,Trows,334,Restaurants,Rowley James B.,90 W. Houston St.,Manhattan,New York,New York,90,Houston,,,W.,St.,,,,Rowley
+15607,1120,1890,Trows,334,Restaurants,Rowls Milford,984  6 Ave.,Manhattan,New York,New York,984,6,,,,Ave.,,,,Rowls
+15608,1121,1890,Trows,334,Restaurants,Rubbin Samuel,"54,5  Ludlow St.",Manhattan,New York,New York,54.5,Ludlow,,,,St.,,,,Rubbin
+15609,1122,1890,Trows,334,Restaurants,Rubovitz Jacob,128  Rivington St.,Manhattan,New York,New York,128,Rivington,,,,St.,,,,Rubovitz
+15610,1123,1890,Trows,334,Restaurants,Ruchti Louis,101  Wooster St.,Manhattan,New York,New York,101,Wooster,,,,St.,,,,Ruchti
+15611,1124,1890,Trows,334,Restaurants,Runge August F.,123  8 Ave.,Manhattan,New York,New York,123,8,,,,Ave.,,,,Runge
+15612,1125,1890,Trows,334,Restaurants,Runge Hugo ,263 E. 10 St.,Manhattan,New York,New York,263,10,,,E.,St.,,,,Runge
+15613,1126,1890,Trows,334,Restaurants,Ryan James J.,512  2 Ave.,Manhattan,New York,New York,512,2,,,,Ave.,,,,Ryan
+15614,1127,1890,Trows,334,Restaurants,Ryan John,388  1 Ave.,Manhattan,New York,New York,388,1,,,,Ave.,,,,Ryan
+15615,1128,1890,Trows,334,Restaurants,Sabella Francesco,144  Baxter St.,Manhattan,New York,New York,144,Baxter,,,,St.,,,,Sabella
+15616,1129,1890,Trows,334,Restaurants,Sachs Philip,298  Broome St.,Manhattan,New York,New York,298,Broome,,,,St.,,,,Sachs
+15617,1130,1890,Trows,334,Restaurants,Sachs Brothers,119  Division St.,Manhattan,New York,New York,119,Division,,,,St.,,,,Sachs
+15618,1131,1890,Trows,334,Restaurants,Safran Morris,114 W. 20 St.,Manhattan,New York,New York,114,20,,,W.,St.,,,,Safran
+15619,1132,1890,Trows,334,Restaurants,Safran B. & Brother,355 E. Houston St.,Manhattan,New York,New York,355,Houston,,,E.,St.,,,,Safran
+15620,1133,1890,Trows,334,Restaurants,Salad Max,120  Delancey St.,Manhattan,New York,New York,120,Delancey,,,,St.,,,,Salad
+15621,1134,1890,Trows,334,Restaurants,Salamon Max,266  Stanton St.,Manhattan,New York,New York,266,Stanton,,,,St.,,,,Salamon
+15622,1135,1890,Trows,334,Restaurants,Salmon John W.,48 E. 13 St.,Manhattan,New York,New York,48,13,,,E.,St.,,,,Salmon
+15623,1136,1890,Trows,334,Restaurants,Salowe Emil,45  Canal St.,Manhattan,New York,New York,45,Canal,,,,St.,,,,Salowe
+15624,1137,1890,Trows,334,Restaurants,Sancier Samuel A.,137  8 St.,Manhattan,New York,New York,137,8,,,,St.,,,,Sancier
+15625,1138,1890,Trows,334,Restaurants,Sasse Emelie,343  Greenwich St.,Manhattan,New York,New York,343,Greenwich,,,,St.,,,,Sasse
+15626,1139,1890,Trows,334,Restaurants,Sayers Henry,738  6 Ave.,Manhattan,New York,New York,738,6,,,,Ave.,,,,Sayers
+15627,1140,1890,Trows,334,Restaurants,Schaeffer Frederick,384 E. Houston St.,Manhattan,New York,New York,384,Houston,,,E.,St.,,,,Schaeffer
+15628,1141,1890,Trows,334,Restaurants,Schaffner Henry,252  Fulton St.,Manhattan,New York,New York,252,Fulton,,,,St.,,,,Schaffner
+15629,1142,1890,Trows,334,Restaurants,Schanzer Sarah ,60  Essex St.,Manhattan,New York,New York,60,Essex,,,,St.,,,,Schanzer
+15630,1143,1890,Trows,334,Restaurants,Scharmann Frederick,112  3 Ave.,Manhattan,New York,New York,112,3,,,,Ave.,,,,Scharmann
+15631,1144,1890,Trows,334,Restaurants,Scheffler Alfred,298  Avenue A. St.,Manhattan,New York,New York,298,Avenue A.,,,,St.,,,,Scheffler
+15632,1145,1890,Trows,334,Restaurants,Schelcher August,548  3 Ave.,Manhattan,New York,New York,548,3,,,,Ave.,,,,Schelcher
+15633,1146,1890,Trows,334,Restaurants,Scher & Forst,95  Ludlow St.,Manhattan,New York,New York,95,Ludlow,,,,St.,,,,Scher
+15634,1147,1890,Trows,334,Restaurants,Schetter Louis,101  3 Ave.,Manhattan,New York,New York,101,3,,,,Ave.,,,,Schetter
+15635,1148,1890,Trows,334,Restaurants,Scheuch Julius,174  Pearl St.,Manhattan,New York,New York,174,Pearl,,,,St.,,,,Scheuch
+15636,1149,1890,Trows,334,Restaurants,Scheuplein John G.,328  3 Ave.,Manhattan,New York,New York,328,3,,,,Ave.,,,,Scheuplein
+15637,1150,1890,Trows,334,Restaurants,Schiffman Isaac ,88  Norfolk St.,Manhattan,New York,New York,88,Norfolk,,,,St.,,,,Schiffman
+15638,1151,1890,Trows,334,Restaurants,Schilling Catharine,44  Franklin St.,Manhattan,New York,New York,44,Franklin,,,,St.,,,,Schilling
+15639,1152,1890,Trows,334,Restaurants,Schimpf Robert, 10 ave. C W. 161 St.,Manhattan,New York,New York,,161,,,10 ave. C W.,St.,,,,Schimpf
+15640,1153,1890,Trows,334,Restaurants,Schrimer William,83  Allen St.,Manhattan,New York,New York,83,Allen,,,,St.,,,,Schrimer
+15641,1154,1890,Trows,334,Restaurants,Schlatter Henry,115  Canal St.,Manhattan,New York,New York,115,Canal,,,,St.,,,,Schlatter
+15642,1155,1890,Trows,334,Restaurants,Schlesinger B.,407  Broome St.,Manhattan,New York,New York,407,Broome,,,,St.,,,,Schlesinger
+15643,1156,1890,Trows,334,Restaurants,Schmauder Theresa,632  10 Ave.,Manhattan,New York,New York,632,10,,,,Ave.,,,,Schmauder
+15644,1157,1890,Trows,334,Restaurants,Schmidt Adam,12  Chambers St.,Manhattan,New York,New York,12,Chambers,,,,St.,,,,Schmidt
+15645,1158,1890,Trows,334,Restaurants,Schmidt Claus,70 W. Broadway ,Manhattan,New York,New York,70,Broadway,,,W.,,,,,Schmidt
+15646,1159,1890,Trows,334,Restaurants,Schmidt George,791  7 Ave.,Manhattan,New York,New York,791,7,,,,Ave.,,,,Schmidt
+15647,1160,1890,Trows,334,Restaurants,Schmidt Gustave,86  10 Ave.,Manhattan,New York,New York,86,10,,,,Ave.,,,,Schmidt
+15648,1161,1890,Trows,334,Restaurants,Schmidt Henry,388  Canal St.,Manhattan,New York,New York,388,Canal,,,,St.,,,,Schmidt
+15649,1162,1890,Trows,334,Restaurants,Schmidt John P.,301 E. 64 St.,Manhattan,New York,New York,301,64,,,E.,St.,,,,Schmidt
+15650,1163,1890,Trows,334,Restaurants,Schmidt Brothers,402 W. 17 St.,Manhattan,New York,New York,402,17,,,W.,St.,,,,Schmidt
+15651,1164,1890,Trows,334,Restaurants,Schmidt & Selle,51  Beaver St.,Manhattan,New York,New York,51,Beaver,,,,St.,,,,Schmidt
+15652,1165,1890,Trows,334,Restaurants,Schneider Anna,148  Spring St.,Manhattan,New York,New York,148,Spring,,,,St.,,,,Schneider
+15653,1166,1890,Trows,334,Restaurants,Schneider Charles,431  Broome St.,Manhattan,New York,New York,431,Broome,,,,St.,,,,Schneider
+15654,1167,1890,Trows,334,Restaurants,Schneider George,270  Avenue A. St.,Manhattan,New York,New York,270,Avenue A.,,,,St.,,,,Schneider
+15655,1168,1890,Trows,334,Restaurants,Schneider John Thos.,1085  1 Ave.,Manhattan,New York,New York,1085,1,,,,Ave.,,,,Schneider
+15656,1169,1890,Trows,334,Restaurants,Schnepp Elizabeth,626  8 Ave.,Manhattan,New York,New York,626,8,,,,Ave.,,,,Schnepp
+15657,1170,1890,Trows,334,Restaurants,Schoen Joseph,450  Broome St.,Manhattan,New York,New York,450,Broome,,,,St.,,,,Schoen
+15658,1171,1890,Trows,334,Restaurants,Schoenfeld Isaac,1092  Park Ave.,Manhattan,New York,New York,1092,Park,,,,Ave.,,,,Schoenfeld
+15659,1172,1890,Trows,334,Restaurants,Schoenherr August,343 E. 23 St.,Manhattan,New York,New York,343,23,,,E.,St.,,,,Schoenherr
+15660,1173,1890,Trows,334,Restaurants,Schönbrun Morris,"293,5  Stanton St.",Manhattan,New York,New York,293.5,Stanton,,,,St.,,,,Schönbrun
+15661,1174,1890,Trows,334,Restaurants,Schott Emily,251  Church St.,Manhattan,New York,New York,251,Church,,,,St.,,,,Schott
+15662,1175,1890,Trows,334,Restaurants,Schotte Rosa A.,250  10 Ave.,Manhattan,New York,New York,250,10,,,,Ave.,,,,Schotte
+15663,1176,1890,Trows,334,Restaurants,Schreiher Moses,25  Canal St.,Manhattan,New York,New York,25,Canal,,,,St.,,,,Schreiher
+15664,1177,1890,Trows,334,Restaurants,Schroer Henry,"78,5  Delancey St.",Manhattan,New York,New York,78.5,Delancey,,,,St.,,,,Schroer
+15665,1178,1890,Trows,334,Restaurants,Schuler Charles,132  Essex St.,Manhattan,New York,New York,132,Essex,,,,St.,,,,Schuler
+15666,1179,1890,Trows,335,Restaurants,Schulken Frederick,83  Pine St.,Manhattan,New York,New York,83,Pine,,,,St.,,,,Schulken
+15667,1180,1890,Trows,335,Restaurants,Schuller Cornelius H.,128  Clinton  Mkt.,Manhattan,New York,New York,128,Clinton ,,,,Mkt.,,,,Schuller
+15668,1181,1890,Trows,335,Restaurants,Schultz Christian,175 E. Houston St.,Manhattan,New York,New York,175,Houston,,,E.,St.,,,,Schultz
+15669,1182,1890,Trows,335,Restaurants,Schultz Henry,43 W. 24 St.,Manhattan,New York,New York,43,24,,,W.,St.,,,,Schultz
+15670,1183,1890,Trows,335,Restaurants,Schultze Frederick W.,257 E. 10 St.,Manhattan,New York,New York,257,10,,,E.,St.,,,,Schultze
+15671,1184,1890,Trows,335,Restaurants,Schulz Lawrence,12 W. 14 St.,Manhattan,New York,New York,12,14,,,W.,St.,,,,Schulz
+15672,1185,1890,Trows,335,Restaurants,Schulze Edward,23  William St.,Manhattan,New York,New York,23,William,,,,St.,,,,Schulze
+15673,1186,1890,Trows,335,Restaurants,Schumacher Charles,46  Hudson St.,Manhattan,New York,New York,46,Hudson,,,,St.,,,,Schumacher
+15674,1187,1890,Trows,335,Restaurants,Schumann Gustav,18  Division St.,Manhattan,New York,New York,18,Division,,,,St.,,,,Schumann
+15675,1188,1890,Trows,335,Restaurants,Schwagerl Louis,394  8 Ave.,Manhattan,New York,New York,394,8,,,,Ave.,,,,Schwagerl
+15676,1189,1890,Trows,335,Restaurants,Schwartz A.,47  Clinton  St.,Manhattan,New York,New York,47,Clinton ,,,,St.,,,,Schwartz
+15677,1190,1890,Trows,335,Restaurants,Schwartz Elias,123  Sheriff St.,Manhattan,New York,New York,123,Sheriff,,,,St.,,,,Schwartz
+15678,1191,1890,Trows,335,Restaurants,Schwartz John,142 E. Houston St.,Manhattan,New York,New York,142,Houston,,,E.,St.,,,,Schwartz
+15679,1192,1890,Trows,335,Restaurants,Schwartz John E.,451  6 St.,Manhattan,New York,New York,451,6,,,,St.,,,,Schwartz
+15680,1193,1890,Trows,335,Restaurants,Schwartz Columbus W.,28  Cortlandt St.,Manhattan,New York,New York,28,Cortlandt,,,,St.,,,,Schwartz
+15681,1194,1890,Trows,335,Restaurants,Schwartz Herman,265  Broome St.,Manhattan,New York,New York,265,Broome,,,,St.,,,,Schwartz
+15682,1195,1890,Trows,335,Restaurants,Scott Caroline,153 W. 30 St.,Manhattan,New York,New York,153,30,,,W.,St.,,,,Scott
+15683,1196,1890,Trows,335,Restaurants,Searles Alexander,178  Thompson St.,Manhattan,New York,New York,178,Thompson,,,,St.,,,,Searles
+15684,1197,1890,Trows,335,Restaurants,Sears James C.,520  3 Ave.,Manhattan,New York,New York,520,3,,,,Ave.,,,,Sears
+15685,1198,1890,Trows,335,Restaurants,Seelig & Taylor,10  2 Ave.,Manhattan,New York,New York,10,2,,,,Ave.,,,,Seelig
+15686,1199,1890,Trows,335,Restaurants,Seiffert Abraham,88  Delancey St.,Manhattan,New York,New York,88,Delancey,,,,St.,,,,Seiffert
+15687,1200,1890,Trows,335,Restaurants,Semken Frederick,175  Broadway ,Manhattan,New York,New York,175,Broadway,,,,,,,,Semken
+15688,1201,1890,Trows,335,Restaurants,Senftman Max,318  Broome St.,Manhattan,New York,New York,318,Broome,,,,St.,,,,Senftman
+15689,1202,1890,Trows,335,Restaurants,Serrer Faustin,240  South St.,Manhattan,New York,New York,240,South,,,,St.,,,,Serrer
+15690,1203,1890,Trows,335,Restaurants,Shackleton R. E.,148  Greenwich St.,Manhattan,New York,New York,148,Greenwich,,,,St.,,,,Shackleton
+15691,1204,1890,Trows,335,Restaurants,Sharkey Patrick,481 E. Houston St.,Manhattan,New York,New York,481,Houston,,,E.,St.,,,,Sharkey
+15692,1205,1890,Trows,335,Restaurants,Shaw Joseph A.,130  Clinton  Mkt.,Manhattan,New York,New York,130,Clinton ,,,,Mkt.,,,,Shaw
+15693,1206,1890,Trows,335,Restaurants,Shea Timothy J.,119  3 Ave.,Manhattan,New York,New York,119,3,,,,Ave.,,,,Shea
+15694,1207,1890,Trows,335,Restaurants,Sheinlinger Max,22  Orchard St.,Manhattan,New York,New York,22,Orchard,,,,St.,,,,Sheinlinger
+15695,1208,1890,Trows,335,Restaurants,Sheridan Michael,740  2 Ave.,Manhattan,New York,New York,740,2,,,,Ave.,,,,Sheridan
+15696,1209,1890,Trows,335,Restaurants,Shields Lucy,417 E. 10 St.,Manhattan,New York,New York,417,10,,,E.,St.,,,,Shields
+15697,1210,1890,Trows,335,Restaurants,Shinkman Harris,43  Canal St.,Manhattan,New York,New York,43,Canal,,,,St.,,,,Shinkman
+15698,1211,1890,Trows,335,Restaurants,Shinkman Pauline,34  Canal St.,Manhattan,New York,New York,34,Canal,,,,St.,,,,Shinkman
+15699,1212,1890,Trows,335,Restaurants,Showery Samuel H.,494  7 Ave.,Manhattan,New York,New York,494,7,,,,Ave.,,,,Showery
+15700,1213,1890,Trows,335,Restaurants,Seibler Peter,168 E. Houston St.,Manhattan,New York,New York,168,Houston,,,E.,St.,,,,Seibler
+15701,1214,1890,Trows,335,Restaurants,Sieghortner August L.,32  Lafayette Pl.,Manhattan,New York,New York,32,Lafayette,,,,Pl.,,,,Sieghortner
+15702,1215,1890,Trows,335,Restaurants,Silberman Bernard,44  Canal St.,Manhattan,New York,New York,44,Canal,,,,St.,,,,Silberman
+15703,1216,1890,Trows,335,Restaurants,Silberstein Louis,36  Norfolk St.,Manhattan,New York,New York,36,Norfolk,,,,St.,,,,Silberstein
+15704,1217,1890,Trows,335,Restaurants,Silberstein Moritz,126  Lewis St.,Manhattan,New York,New York,126,Lewis,,,,St.,,,,Silberstein
+15705,1218,1890,Trows,335,Restaurants,Silsbe & Son,203  6 Ave.,Manhattan,New York,New York,203,6,,,,Ave.,,,,Silsbe
+15706,1219,1890,Trows,335,Restaurants,Silverman August,497  Broome St.,Manhattan,New York,New York,497,Broome,,,,St.,,,,Silverman
+15707,1220,1890,Trows,335,Restaurants,Simmons Henry,73  Murray St.,Manhattan,New York,New York,73,Murray,,,,St.,,,,Simmons
+15708,1221,1890,Trows,335,Restaurants,Simmons Martha,242 W. 47 St.,Manhattan,New York,New York,242,47,,,W.,St.,,,,Simmons
+15709,1222,1890,Trows,335,Restaurants,Simpsons Peter,855  11 Ave.,Manhattan,New York,New York,855,11,,,,Ave.,,,,Simpsons
+15710,1223,1890,Trows,335,Restaurants,Sinnott Mary,388  4 Ave.,Manhattan,New York,New York,388,4,,,,Ave.,,,,Sinnott
+15711,1224,1890,Trows,335,Restaurants,Sitzmann John,143  Forsyth St.,Manhattan,New York,New York,143,Forsyth,,,,St.,,,,Sitzmann
+15712,1225,1890,Trows,335,Restaurants,Slattery John,527  6 Ave.,Manhattan,New York,New York,527,6,,,,Ave.,,,,Slattery
+15713,1226,1890,Trows,335,Restaurants,Slattery John,150  3 Ave.,Manhattan,New York,New York,150,3,,,,Ave.,,,,Slattery
+15714,1227,1890,Trows,335,Restaurants,Smith Benjamin F.,391  6 Ave.,Manhattan,New York,New York,391,6,,,,Ave.,,,,Smith
+15715,1228,1890,Trows,335,Restaurants,Smith Charles K.,207  1 Ave.,Manhattan,New York,New York,207,1,,,,Ave.,,,,Smith
+15716,1229,1890,Trows,335,Restaurants,Smith George D.,44 E. 14 St.,Manhattan,New York,New York,44,14,,,E.,St.,,,,Smith
+15717,1230,1890,Trows,335,Restaurants,Smith George R.,"28,5  Catherine St.",Manhattan,New York,New York,28.5,Catherine,,,,St.,,,,Smith
+15718,1231,1890,Trows,335,Restaurants,Smith Henry,1283  3 Ave.,Manhattan,New York,New York,1283,3,,,,Ave.,,,,Smith
+15719,1232,1890,Trows,335,Restaurants,Smith John H.,262  West St.,Manhattan,New York,New York,262,West,,,,St.,,,,Smith
+15720,1233,1890,Trows,335,Restaurants,Smith John T.,324  3 Ave.,Manhattan,New York,New York,324,3,,,,Ave.,,,,Smith
+15721,1234,1890,Trows,335,Restaurants,Smith John W.,110  West St.,Manhattan,New York,New York,110,West,,,,St.,,,,Smith
+15722,1235,1890,Trows,335,Restaurants,Smith Niles F.,1162  Broadway ,Manhattan,New York,New York,1162,Broadway,,,,,,,,Smith
+15723,1236,1890,Trows,335,Restaurants,Smith Sarah E.,501  3 Ave.,Manhattan,New York,New York,501,3,,,,Ave.,,,,Smith
+15724,1237,1890,Trows,335,Restaurants,Smith William,102  Washington St.,Manhattan,New York,New York,102,Washington,,,,St.,,,,Smith
+15725,1238,1890,Trows,335,Restaurants,Snooks Peter,170  South St.,Manhattan,New York,New York,170,South,,,,St.,,,,Snooks
+15726,1239,1890,Trows,335,Restaurants,Snyder Henry,783  7 Ave.,Manhattan,New York,New York,783,7,,,,Ave.,,,,Snyder
+15727,1240,1890,Trows,335,Restaurants,Snyder John I.,828  9 Ave.,Manhattan,New York,New York,828,9,,,,Ave.,,,,Snyder
+15728,1241,1890,Trows,335,Restaurants,Sollender Isaac,215  Rivington St.,Manhattan,New York,New York,215,Rivington,,,,St.,,,,Sollender
+15729,1242,1890,Trows,335,Restaurants,Solari Joseph F.,44  University Pl.,Manhattan,New York,New York,44,University,,,,Pl.,,,,Solari
+15730,1243,1890,Trows,335,Restaurants,Sollier Panl,105 W. 25 St.,Manhattan,New York,New York,105,25,,,W.,St.,,,,Sollier
+15731,1244,1890,Trows,335,Restaurants,Solte Henry,2454  2 Ave.,Manhattan,New York,New York,2454,2,,,,Ave.,,,,Solte
+15732,1245,1890,Trows,335,Restaurants,Solzman A.,68  Eldridge St.,Manhattan,New York,New York,68,Eldridge,,,,St.,,,,Solzman
+15733,1246,1890,Trows,335,Restaurants,Sommer Christian,276 E. Houston St.,Manhattan,New York,New York,276,Houston,,,E.,St.,,,,Sommer
+15734,1247,1890,Trows,335,Restaurants,Soppett Ernest A. W.,28  Duane St.,Manhattan,New York,New York,28,Duane,,,,St.,,,,Soppett
+15735,1248,1890,Trows,335,Restaurants,Souls Edward R.,2  Baruch Pl.,Manhattan,New York,New York,2,Baruch,,,,Pl.,,,,Souls
+15736,1249,1890,Trows,335,Restaurants,Spalding Andrew,303  8 Ave.,Manhattan,New York,New York,303,8,,,,Ave.,,,,Spalding
+15737,1250,1890,Trows,335,Restaurants,Speiser Israel,209  Stanton St.,Manhattan,New York,New York,209,Stanton,,,,St.,,,,Speiser
+15738,1251,1890,Trows,335,Restaurants,Spelman Rob't W. & Co.,364  3 Ave.,Manhattan,New York,New York,364,3,,,,Ave.,,,,Spelman
+15739,1252,1890,Trows,335,Restaurants,Spence & Chase,735  Broadway ,Manhattan,New York,New York,735,Broadway,,,,,,,,Spence
+15740,1253,1890,Trows,335,Restaurants,Spencer Charles J.,2  Broadway ,Manhattan,New York,New York,2,Broadway,,,,,,,,Spencer
+15741,1254,1890,Trows,335,Restaurants,Spengermann Henrietta,351  Spring St.,Manhattan,New York,New York,351,Spring,,,,St.,,,,Spengermann
+15742,1255,1890,Trows,335,Restaurants,Spier Benjamin,600  6 St.,Manhattan,New York,New York,600,6,,,,St.,,,,Spier
+15743,1256,1890,Trows,335,Restaurants,Spies Peter,110  Fulton St.,Manhattan,New York,New York,110,Fulton,,,,St.,,,,Spies
+15744,1257,1890,Trows,335,Restaurants,Spiess Brothers,2  Bond St.,Manhattan,New York,New York,2,Bond,,,,St.,,,,Spiess
+15745,1258,1890,Trows,335,Restaurants,Spilborghs Henry,2141  8 Ave.,Manhattan,New York,New York,2141,8,,,,Ave.,,,,Spilborghs
+15746,1259,1890,Trows,335,Restaurants,Spitz Amelia M.,70  2 Ave.,Manhattan,New York,New York,70,2,,,,Ave.,,,,Spitz
+15747,1260,1890,Trows,335,Restaurants,Sprague Edward N.,203 E. 87 St.,Manhattan,New York,New York,203,87,,,E.,St.,,,,Sprague
+15748,1261,1890,Trows,335,Restaurants,Sprute Herman,417 E. 106 St.,Manhattan,New York,New York,417,106,,,E.,St.,,,,Sprute
+15749,1262,1890,Trows,335,Restaurants,Staab William,42  Whitehall St.,Manhattan,New York,New York,42,Whitehall,,,,St.,,,,Staab
+15750,1263,1890,Trows,335,Restaurants,Stacey Frank,497  6 Ave.,Manhattan,New York,New York,497,6,,,,Ave.,,,,Stacey
+15751,1264,1890,Trows,335,Restaurants,Stafford James S.,1867  2 Ave.,Manhattan,New York,New York,1867,2,,,,Ave.,,,,Stafford
+15752,1265,1890,Trows,335,Restaurants,Stahl Louis,308  Canal St.,Manhattan,New York,New York,308,Canal,,,,St.,,,,Stahl
+15753,1266,1890,Trows,335,Restaurants,Stampfer William,156  2 Ave.,Manhattan,New York,New York,156,2,,,,Ave.,,,,Stampfer
+15754,1267,1890,Trows,335,Restaurants,Stanley George,1771  1 Ave.,Manhattan,New York,New York,1771,1,,,,Ave.,,,,Stanley
+15755,1268,1890,Trows,335,Restaurants,Stark John,438  9 Ave.,Manhattan,New York,New York,438,9,,,,Ave.,,,,Stark
+15756,1269,1890,Trows,335,Restaurants,Stecking Henry,329  Broome St.,Manhattan,New York,New York,329,Broome,,,,St.,,,,Stecking
+15757,1270,1890,Trows,335,Restaurants,Stein Edward,69  Norfolk St.,Manhattan,New York,New York,69,Norfolk,,,,St.,,,,Stein
+15758,1271,1890,Trows,335,Restaurants,Stein Joseph,830  3 Ave.,Manhattan,New York,New York,830,3,,,,Ave.,,,,Stein
+15759,1272,1890,Trows,335,Restaurants,Steinberg Amelia,78 W. Broadway ,Manhattan,New York,New York,78,Broadway,,,W.,,,,,Steinberg
+15760,1273,1890,Trows,335,Restaurants,Steiner Victor,105  Delancey St.,Manhattan,New York,New York,105,Delancey,,,,St.,,,,Steiner
+15761,1274,1890,Trows,335,Restaurants,Steiniger Valentine,104 E. 4 St.,Manhattan,New York,New York,104,4,,,E.,St.,,,,Steiniger
+15762,1275,1890,Trows,335,Restaurants,Steininger Frank,1164  2 Ave.,Manhattan,New York,New York,1164,2,,,,Ave.,,,,Steininger
+15763,1276,1890,Trows,335,Restaurants,Stelz Gustav,232 E. 9 St.,Manhattan,New York,New York,232,9,,,E.,St.,,,,Stelz
+15764,1277,1890,Trows,335,Restaurants,Stelzner Julius,254  Canal St.,Manhattan,New York,New York,254,Canal,,,,St.,,,,Stelzner
+15765,1278,1890,Trows,335,Restaurants,Stender Henry,179  William St.,Manhattan,New York,New York,179,William,,,,St.,,,,Stender
+15766,1279,1890,Trows,335,Restaurants,Stener Vilmes,38  Clinton  Pl.,Manhattan,New York,New York,38,Clinton ,,,,Pl.,,,,Stener
+15767,1280,1890,Trows,335,Restaurants,Stenger Joseph,2077  3 Ave.,Manhattan,New York,New York,2077,3,,,,Ave.,,,,Stenger
+15768,1281,1890,Trows,335,Restaurants,Stern Joseph,118  Pitt St.,Manhattan,New York,New York,118,Pitt,,,,St.,,,,Stern
+15769,1282,1890,Trows,335,Restaurants,Sterneckert Frederick,116  4 Ave.,Manhattan,New York,New York,116,4,,,,Ave.,,,,Sterneckert
+15770,1283,1890,Trows,335,Restaurants,Sternglanz & Loeb,23  Frankfort St.,Manhattan,New York,New York,23,Frankfort,,,,St.,,,,Sternglanz
+15771,1284,1890,Trows,335,Restaurants,Steup Gustav,"1,5  2 Ave.",Manhattan,New York,New York,1.5,2,,,,Ave.,,,,Steup
+15772,1285,1890,Trows,335,Restaurants,Stewart Alexander,132  3 Ave.,Manhattan,New York,New York,132,3,,,,Ave.,,,,Stewart
+15773,1286,1890,Trows,335,Restaurants,Stewart Joseph C.,111 W. 27 St.,Manhattan,New York,New York,111,27,,,W.,St.,,,,Stewart
+15774,1287,1890,Trows,335,Restaurants,Stewart Margaret,51  Stanton St.,Manhattan,New York,New York,51,Stanton,,,,St.,,,,Stewart
+15775,1288,1890,Trows,335,Restaurants,Stewart Peter V.,107  William St.,Manhattan,New York,New York,107,William,,,,St.,,,,Stewart
+15776,1289,1890,Trows,335,Restaurants,Stieglitz Edward,107  1 Ave.,Manhattan,New York,New York,107,1,,,,Ave.,,,,Stieglitz
+15777,1290,1890,Trows,335,Restaurants,Stifter Marcus,52  Bond St.,Manhattan,New York,New York,52,Bond,,,,St.,,,,Stifter
+15778,1291,1890,Trows,335,Restaurants,Still J. II. & Son,195  3 Ave.,Manhattan,New York,New York,195,3,,,,Ave.,,,,Still
+15779,1292,1890,Trows,335,Restaurants,Stockert Max,908  3 Ave.,Manhattan,New York,New York,908,3,,,,Ave.,,,,Stockert
+15780,1293,1890,Trows,335,Restaurants,Stollberg Frank A.,117  Broad St.,Manhattan,New York,New York,117,Broad,,,,St.,,,,Stollberg
+15781,1294,1890,Trows,335,Restaurants,Stollenwerk William,318  Pearl St.,Manhattan,New York,New York,318,Pearl,,,,St.,,,,Stollenwerk
+15782,1295,1890,Trows,335,Restaurants,Story George,120  Centre St.,Manhattan,New York,New York,120,Centre,,,,St.,,,,Story
+15783,1296,1890,Trows,335,Restaurants,Strackerjan Uffo,76  Maiden La.,Manhattan,New York,New York,76,Maiden,,,,La.,,,,Strackerjan
+15784,1297,1890,Trows,335,Restaurants,Stratton Benjamin,80 E. 9 St.,Manhattan,New York,New York,80,9,,,E.,St.,,,,Stratton
+15785,1298,1890,Trows,335,Restaurants,Strauss Leopold,51  Allen St.,Manhattan,New York,New York,51,Allen,,,,St.,,,,Strauss
+15786,1299,1890,Trows,335,Restaurants,Striker Lincoln I.,"186,5  South St.",Manhattan,New York,New York,186.5,South,,,,St.,,,,Striker
+15787,1300,1890,Trows,335,Restaurants,Strittmatter H'y & Jos.,150  3 Ave.,Manhattan,New York,New York,150,3,,,,Ave.,,,,Strittmatter
+15788,1301,1890,Trows,335,Restaurants,Strittmatter Maurice,102  Bowery St.,Manhattan,New York,New York,102,Bowery,,,,St.,,,,Strittmatter
+15789,1302,1890,Trows,335,Restaurants,Stroehlein Nicholas,437 E. 10 St.,Manhattan,New York,New York,437,10,,,E.,St.,,,,Stroehlein
+15790,1303,1890,Trows,335,Restaurants,Stroh August,388  6 Ave.,Manhattan,New York,New York,388,6,,,,Ave.,,,,Stroh
+15791,1304,1890,Trows,335,Restaurants,Stroub John L.,93  Canal St.,Manhattan,New York,New York,93,Canal,,,,St.,,,,Stroub
+15792,1305,1890,Trows,335,Restaurants,Stroub John L.,2369  3 Ave.,Manhattan,New York,New York,2369,3,,,,Ave.,,,,Stroub
+15793,1306,1890,Trows,335,Restaurants,Stroub John L.,ft. W. 130 St.,Manhattan,New York,New York,ft.,130,,,W.,St.,,,,Stroub
+15794,1307,1890,Trows,335,Restaurants,Strubbe William,27  Frankfort St.,Manhattan,New York,New York,27,Frankfort,,,,St.,,,,Strubbe
+15795,1308,1890,Trows,335,Restaurants,Styers James W.,118 W. 30 St.,Manhattan,New York,New York,118,30,,,W.,St.,,,,Styers
+15796,1309,1890,Trows,335,Restaurants,Suhre John A.,583  1 Ave.,Manhattan,New York,New York,583,1,,,,Ave.,,,,Suhre
+15797,1310,1890,Trows,335,Restaurants,Sullivan J. J.,511  Canal St.,Manhattan,New York,New York,511,Canal,,,,St.,,,,Sullivan
+15798,1311,1890,Trows,335,Restaurants,Sullivan James,47  Park St.,Manhattan,New York,New York,47,Park,,,,St.,,,,Sullivan
+15799,1312,1890,Trows,335,Restaurants,Sullivan James E.,2393  3 Ave.,Manhattan,New York,New York,2393,3,,,,Ave.,,,,Sullivan
+15800,1313,1890,Trows,335,Restaurants,Sullivan Mortimer ,66 S. 5 Ave.,Manhattan,New York,New York,66,5,,,S.,Ave.,,,,Sullivan
+15801,1314,1890,Trows,335,Restaurants,Sullivan M. & Son,19  Mulberry St.,Manhattan,New York,New York,19,Mulberry,,,,St.,,,,Sullivan
+15802,1315,1890,Trows,335,Restaurants,Sulzer Gustav,297  Avenue A. St.,Manhattan,New York,New York,297,Avenue A.,,,,St.,,,,Sulzer
+15803,1316,1890,Trows,335,Restaurants,Summer Isaac,122  Baruch Pl.,Manhattan,New York,New York,122,Baruch,,,,Pl.,,,,Summer
+15804,1317,1890,Trows,336,Restaurants,Surridge John H.,2663  3 Ave.,Manhattan,New York,New York,2663,3,,,,Ave.,,,,Surridge
+15805,1318,1890,Trows,336,Restaurants,Sutherland John,64  Liberty St.,Manhattan,New York,New York,64,Liberty,,,,St.,,,,Sutherland
+15806,1319,1890,Trows,336,Restaurants,Sutton Frank D.,466  3 Ave.,Manhattan,New York,New York,466,3,,,,Ave.,,,,Sutton
+15807,1320,1890,Trows,336,Restaurants,Swan John L.,"287,5  Bowery St.",Manhattan,New York,New York,287.5,Bowery,,,,St.,,,,Swan
+15808,1321,1890,Trows,336,Restaurants,Sweeney J. F. & J. J.,41  Maiden La.,Manhattan,New York,New York,41,Maiden,,,,La.,,,,Sweeney
+15809,1322,1890,Trows,336,Restaurants,Sweet A. M. & Son,4  Fulton St.,Manhattan,New York,New York,4,Fulton,,,,St.,,,,Sweet
+15810,1323,1890,Trows,336,Restaurants,Taylor (refused),189  Park Row,Manhattan,New York,New York,189,Park,,,,Row,,,,Taylor
+15811,1324,1890,Trows,336,Restaurants,Taylor Washington H.,128  Park Row,Manhattan,New York,New York,128,Park,,,,Row,,,,Taylor
+15812,1325,1890,Trows,336,Restaurants,Teleky Louis,188  Stanton St.,Manhattan,New York,New York,188,Stanton,,,,St.,,,,Teleky
+15813,1326,1890,Trows,336,Restaurants,Terpenning & Son,214  Fulton Mkt.,Manhattan,New York,New York,214,Fulton,,,,Mkt.,,,,Terpenning
+15814,1327,1890,Trows,336,Restaurants,Thomas Charles,19  3 St.,Manhattan,New York,New York,19,3,,,,St.,,,,Thomas
+15815,1328,1890,Trows,336,Restaurants,Thomas Diamond,78  Oliver St.,Manhattan,New York,New York,78,Oliver,,,,St.,,,,Thomas
+15816,1329,1890,Trows,336,Restaurants,Thomas John,1085  1 Ave.,Manhattan,New York,New York,1085,1,,,,Ave.,,,,Thomas
+15817,1330,1890,Trows,336,Restaurants,Thompson Austin D.,292  Broadway ,Manhattan,New York,New York,292,Broadway,,,,,,,,Thompson
+15818,1331,1890,Trows,336,Restaurants,Thompson Herbert H.,2431  1 Ave.,Manhattan,New York,New York,2431,1,,,,Ave.,,,,Thompson
+15819,1332,1890,Trows,336,Restaurants,Thompson William,130  1 Ave.,Manhattan,New York,New York,130,1,,,,Ave.,,,,Thompson
+15820,1333,1890,Trows,336,Restaurants,Thornton Frank J.,2310  3 Ave.,Manhattan,New York,New York,2310,3,,,,Ave.,,,,Thornton
+15821,1334,1890,Trows,336,Restaurants,Thorpe John B.,1281  Broadway ,Manhattan,New York,New York,1281,Broadway,,,,,,,,Thorpe
